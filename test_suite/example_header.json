@@ -1,0 +1,31 @@
+{
+    "VALUE": "HEAD",
+    "SUBM": "@SUBM1@",
+    "SOUR": "Ancestry.com Family Trees",
+    "NAME": {
+        "VALUE": "Ancestry.com Family Trees",
+        "VERS": "2023.12",
+        "_TREE": {
+            "VALUE": "Natasha Taylor Family Tree",
+            "RIN": "194193306",
+            "_ENV": "prd"
+        },
+        "CORP": {
+            "VALUE": "Ancestry.com",
+            "PHON": "801-705-7000",
+            "WWW": "www.ancestry.com",
+            "ADDR": {
+                "VALUE": "1300 West Traverse Parkway Lehi UT 84043 USA"
+            }
+        }
+    },
+    "DATE":  {
+        "VALUE": "14 Dec 2023", 
+        "TIME": "07:28:27"
+    },
+    "GEDC": {
+        "VERS": "5.5.1",
+        "FORM": "LINEAGE-LINKED"
+    },
+    "CHAR": "UTF-8"
+}

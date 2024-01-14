@@ -6,3 +6,5 @@ from GEDPy import GEDPy
 
 ged: GEDPy = GEDPy()
 ged.load(r'C:\Users\adamc\Documents\GitHub\GEDPy\test_suite\test.ged')
+tree = ged.trees['test']
+print(tree.header)
