@@ -1,0 +1,4279 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2022.08
+2 _TREE Bloom Family Tree
+3 RIN 193721561
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 18 Oct 2023
+2 TIME 01:41:37
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I432533731471@ INDI
+1 NAME Thomas /Bloom/
+2 GIVN Thomas
+2 SURN Bloom
+1 SEX M
+1 FAMC @F53@
+0 @I432533731472@ INDI
+1 NAME Robert Charles /Bloom/
+2 GIVN Robert Charles
+2 SURN Bloom
+1 SEX M
+1 FAMC @F33@
+1 FAMS @F53@
+1 BIRT
+2 DATE 12 Nov 1922
+2 PLAC Detroit, Wayne, Michigan, USA
+1 DEAT
+2 DATE 23 Aug 2008
+2 PLAC Livonia, Wayne, Michigan, USA
+0 @I432533731543@ INDI
+1 NAME Elizabeth Gertrude "Betty" /Fowlow/
+2 GIVN Elizabeth Gertrude "Betty"
+2 SURN Fowlow
+1 SEX F
+1 FAMC @F18@
+1 FAMS @F53@
+1 BIRT
+2 DATE 3 Aug 1925
+2 PLAC Mt. Clemens, Michigan, USA
+1 DEAT
+2 DATE 24 Jul 1999
+2 PLAC Livonia, Wayne, Michigan, USA
+1 SOUR @S1754422662@
+2 PAGE Ancestry Family Tree
+2 _APID 412470998019:1030:119883249
+2 _APID 202305107314:1030:150670092
+0 @I432533731639@ INDI
+1 NAME Pearce /Fowlow/
+2 GIVN Pearce
+2 SURN Fowlow
+1 SEX M
+1 FAMC @F22@
+1 FAMS @F18@
+1 BIRT
+2 DATE 14 Dec 1899
+2 PLAC trinity east, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 18 Oct 1974
+2 PLAC Detroit, Wayne, Michigan, USA
+1 SOUR @S1754422662@
+2 PAGE Ancestry Family Tree
+2 _APID 412470999386:1030:119883249
+2 _APID 202305108383:1030:150670092
+2 _APID 322334690619:1030:175735074
+0 @I432533731720@ INDI
+1 NAME Howard /Bloom/
+2 GIVN Howard
+2 SURN Bloom
+1 SEX M
+1 FAMC @F24@
+1 FAMS @F33@
+1 BIRT
+2 DATE 29 Apr 1899
+2 PLAC Detroit, Wayne, Michigan, USA
+1 DEAT
+2 DATE 26 Mar 1975
+2 PLAC Tawas City, Iosco, Michigan, USA
+0 @I432533731841@ INDI
+1 NAME Josephine /Hutchins/
+2 GIVN Josephine
+2 SURN Hutchins
+1 SEX F
+1 FAMC @F3@
+1 FAMS @F33@
+1 BIRT
+2 DATE 5 Sep 1902
+2 PLAC caldwell, Noble County, Ohio, USA
+1 DEAT
+2 DATE 27 Nov 1993
+2 PLAC Tawas City, Iosco, Michigan, USA
+0 @I432533731905@ INDI
+1 NAME Elizabeth Sarah /Casement/
+2 GIVN Elizabeth Sarah
+2 SURN Casement
+1 SEX F
+1 FAMC @F68@
+1 FAMS @F18@
+1 BIRT
+2 DATE 2 Aug 1889
+2 PLAC Bay Barracks, Lancashire, England
+1 DEAT
+2 DATE 4 Feb 1930
+2 PLAC Detroit, Wayne, Michigan, USA
+1 SOUR @S1754422662@
+2 PAGE Ancestry Family Tree
+2 _APID 412470999405:1030:119883249
+2 _APID 202305107674:1030:150670092
+2 _APID 322334755109:1030:175735074
+0 @I432533731909@ INDI
+1 NAME Thomas Jenkins /Fowlow/
+2 GIVN Thomas Jenkins
+2 SURN Fowlow
+1 SEX M
+1 FAMC @F46@
+1 FAMS @F22@
+1 BIRT
+2 DATE FEBRUARY 23, 1863
+2 PLAC Pease Cove, Trinity Bay, Newfoundland
+1 DEAT
+2 DATE AUGUST 6, 1929
+2 PLAC Trinity East, Trinity Bay, Newfoundland
+1 OBJE @O19@
+2 _PRIM Y
+0 @I432533731913@ INDI
+1 NAME Elizabeth /Fowlow/
+2 GIVN Elizabeth
+2 SURN Fowlow
+1 SEX F
+1 FAMC @F47@
+1 FAMS @F22@
+1 BIRT
+2 DATE 08 Sep 1868
+2 PLAC Trinity East, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 12 Nov 1955
+2 PLAC Newfoundland and Labrador, Canada
+1 OBJE @O2@
+2 _PRIM Y
+0 @I432533731932@ INDI
+1 NAME George M /Bloom/
+2 GIVN George M
+2 SURN Bloom
+1 SEX M
+1 FAMC @F12@
+1 FAMS @F24@
+1 BIRT
+2 DATE 14 Apr 1869
+2 PLAC Windsor, Essex, Ontario, Canada
+1 DEAT
+2 DATE 12 Feb 1958
+1 OBJE @O11@
+2 _PRIM Y
+0 @I432533731934@ INDI
+1 NAME Philomene /Lalonde/
+2 GIVN Philomene
+2 SURN Lalonde
+1 SEX F
+1 FAMC @F76@
+1 FAMS @F24@
+1 BIRT
+2 DATE 11 Jul 1870
+2 PLAC Alpena, Michigan, USA
+1 DEAT
+2 DATE 1964
+2 PLAC Detroit, MI
+0 @I432533731942@ INDI
+1 NAME Orville Eugene /Hutchins/
+2 GIVN Orville Eugene
+2 SURN Hutchins
+1 SEX M
+1 FAMC @F59@
+1 FAMS @F3@
+1 BIRT
+2 DATE 17 Sep 1876
+2 PLAC Olive, Noble, Ohio
+1 DEAT
+2 DATE before 1930
+2 PLAC Michigan
+0 @I432533731945@ INDI
+1 NAME Lydia L /Bond/
+2 GIVN Lydia L
+2 SURN Bond
+1 SEX F
+1 FAMC @F64@
+1 FAMS @F3@
+1 BIRT
+2 DATE 4 Mar 1880
+2 PLAC Ohio, USA 
+1 DEAT
+2 DATE 2 Jun 1951
+2 PLAC Detroit, Wayne, Michigan, USA
+0 @I432533731962@ INDI
+1 NAME George /Bloom/
+2 GIVN George
+2 SURN Bloom
+1 SEX M
+1 FAMC @F21@
+1 FAMS @F12@
+1 BIRT
+2 DATE Sep 27 1831
+2 PLAC Mayen-Koblenz, Rhineland-Palatinate, Germany
+1 DEAT
+2 DATE 24 AUG 1890
+2 PLAC Windsor, Essex, Ontario
+0 @I432533731979@ INDI
+1 NAME Marie Philomina /LANGLOIS/
+2 GIVN Marie Philomina
+2 SURN LANGLOIS
+1 SEX F
+1 FAMC @F57@
+1 FAMS @F12@
+1 BIRT
+2 DATE 04 Feb 1849
+2 PLAC Sandwich, Essex County, Ontario, Canada
+1 DEAT
+2 DATE 10 Jan 1892
+2 PLAC Essex County, Ontario, Canada
+1 OBJE @O41@
+2 _PRIM Y
+0 @I432533731989@ INDI
+1 NAME EPHRAIM J. /La Londe/
+2 GIVN EPHRAIM J.
+2 SURN La Londe
+1 SEX M
+1 FAMC @F1@
+1 FAMS @F76@
+1 BIRT
+2 DATE 20 Jan 1840
+2 PLAC Saint-Polycarpe, Soulanges, Québec, Canada
+1 DEAT
+2 DATE 15 Dec 1923
+2 PLAC San Antonio, Los Angeles, California, USA
+0 @I432533731995@ INDI
+1 NAME Julienne /Mainville/
+2 GIVN Julienne
+2 SURN Mainville
+1 SEX F
+1 FAMC @F4@
+1 FAMS @F76@
+1 BIRT
+2 DATE May 1838
+2 PLAC Canada France
+1 DEAT
+2 DATE 24 Sep 1907
+2 PLAC Detroit, Wayne, Michigan, USA
+1 OBJE @O27@
+2 _PRIM Y
+0 @I432533732008@ INDI
+1 NAME William  "Aries" /Hutchins/
+2 GIVN William  "Aries"
+2 SURN Hutchins
+1 SEX M
+1 FAMC @F8@
+1 FAMS @F59@
+1 BIRT
+2 DATE 5 April 1836
+2 PLAC Olive, Noble County, Ohio, USA
+1 DEAT
+2 DATE 26 March 1910
+2 PLAC S. Olive Cem., Noble Co., Oh.
+0 @I432533732012@ INDI
+1 NAME Lydia (Lyda) Lusina /Hussy/
+2 GIVN Lydia (Lyda) Lusina
+2 SURN Hussy
+1 SEX F
+1 FAMC @F10@
+1 FAMS @F59@
+1 BIRT
+2 DATE 2 July 1837
+2 PLAC Noble Co Ohio
+1 DEAT
+2 DATE 13 April 1897
+2 PLAC S. Olive cem., Noble Co., Oh.
+0 @I432533732016@ INDI
+1 NAME Richard /Bond/
+2 GIVN Richard
+2 SURN Bond
+1 SEX M
+1 FAMC @F16@
+1 FAMS @F64@
+1 BIRT
+2 DATE February 7, 1840
+2 PLAC Caldwell, Noble County, Ohio
+1 DEAT
+2 DATE September 9, 1915
+2 PLAC Caldwell, Noble, Ohio
+0 @I432533732027@ INDI
+1 NAME Elizabeth /Wheeler/
+2 GIVN Elizabeth
+2 SURN Wheeler
+1 SEX F
+1 FAMC @F69@
+1 FAMS @F64@
+1 BIRT
+2 DATE 12 Aug 1851
+2 PLAC Caldwell, Noble, Ohio
+1 DEAT
+2 DATE 28 Feb 1926
+2 PLAC Noble County, Ohio
+1 OBJE @O60@
+2 _PRIM Y
+0 @I432533732030@ INDI
+1 NAME Richard /Fowlow/ 🧬
+2 GIVN Richard
+2 SURN Fowlow
+2 NSFX 🧬
+1 SEX M
+1 FAMC @F6@
+1 FAMS @F46@
+1 BIRT
+2 DATE 7 Jun 1836
+2 PLAC Pease Cove , Trinity Bay, Newfoundland
+1 DEAT
+2 DATE 12 Nov 1907
+2 PLAC Trinity East, Newfoundland, Canada
+1 OBJE @O28@
+2 _PRIM Y
+0 @I432533732035@ INDI
+1 NAME Mary Ann /Jenkins/ 🧬
+2 GIVN Mary Ann
+2 SURN Jenkins
+2 NSFX 🧬
+1 SEX F
+1 FAMC @F9@
+1 FAMS @F46@
+1 BIRT
+2 DATE 5 Jul 1840
+2 PLAC Trinity West, Trinity Bay, Newfoundland
+1 DEAT
+2 DATE 15 Jan 1922
+2 PLAC Trinity E, Newfoundland
+1 OBJE @O47@
+2 _PRIM Y
+0 @I432533732036@ INDI
+1 NAME Underwater John /Fowlow/
+2 GIVN Underwater John
+2 SURN Fowlow
+1 SEX M
+1 FAMC @F13@
+1 FAMC @F14@
+1 FAMS @F47@
+1 BIRT
+2 DATE 12 Oct 1839
+2 PLAC Trinity, Bonavista-Trinity Census Division, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 3 Mar 1917
+2 PLAC Port Rexton, Newfoundland and Labrador, Canada
+0 @I432533732041@ INDI
+1 NAME Margaret /Crocker/
+2 GIVN Margaret
+2 SURN Crocker
+1 SEX F
+1 FAMC @F73@
+1 FAMS @F47@
+1 BIRT
+2 DATE 20 Oct 1846
+2 PLAC Trinity, Trinity Bay, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 20 Apr 1874
+2 PLAC Trinity, Trinity North, Newfoundland, Canada
+1 OBJE @O13@
+2 _PRIM Y
+0 @I432533732283@ INDI
+1 NAME John /Casement/
+2 GIVN John
+2 SURN Casement
+1 SEX M
+1 FAMS @F68@
+1 BIRT
+2 DATE abt 1856
+2 PLAC Belfast, Antrim, Ireland
+1 SOUR @S1754422662@
+2 PAGE Ancestry Family Tree
+2 _APID 202305119971:1030:150670092
+2 _APID 322334757015:1030:175735074
+0 @I432533732285@ INDI
+1 NAME Matilda  /Katt Ross/
+2 GIVN Matilda 
+2 SURN Katt Ross
+1 SEX F
+1 FAMS @F68@
+1 BIRT
+2 DATE abt 1863
+2 PLAC Edminston, Wiltshire, England
+1 SOUR @S1754422662@
+2 PAGE Ancestry Family Tree
+2 _APID 202305119973:1030:150670092
+2 _APID 322334757017:1030:175735074
+0 @I432533732676@ INDI
+1 NAME Henricus /Ginstenblum/
+2 GIVN Henricus
+2 SURN Ginstenblum
+1 SEX M
+1 FAMS @F21@
+1 BIRT
+2 DATE Abt. 1800
+2 PLAC Germany
+0 @I432533732751@ INDI
+1 NAME Catharina /Dietz/
+2 GIVN Catharina
+2 SURN Dietz
+1 SEX F
+1 FAMS @F21@
+1 BIRT
+2 DATE Abt. 1808
+1 DEAT
+2 DATE 30 May 1882
+2 PLAC Mayen-Koblenz, Rhineland-Palatinate, Germany
+0 @I432533732771@ INDI
+1 NAME Moise Alexander /Langlois/
+2 GIVN Moise Alexander
+2 SURN Langlois
+1 SEX M
+1 FAMC @F45@
+1 FAMS @F57@
+1 BIRT
+2 DATE 17 Oct 1815
+2 PLAC Assumption, Sandwich, Essex, Ontario
+1 DEAT
+2 DATE 1871
+2 PLAC Essex, 1654297, Ontario, Canada
+0 @I432533732775@ INDI
+1 NAME Archange /Bincette dit Jolibois/
+2 GIVN Archange
+2 SURN Bincette dit Jolibois
+1 SEX F
+1 FAMC @F54@
+1 FAMS @F57@
+1 BIRT
+2 DATE 28 Oct 1818
+2 PLAC Assumption Sandwich Essex Ont. Canada
+1 DEAT
+2 DATE 17 Apr 1895
+2 PLAC Windsor, Essex, Ontario
+0 @I432533732954@ INDI
+1 NAME Hyacinthe /La Londe/
+2 GIVN Hyacinthe
+2 SURN La Londe
+1 SEX M
+1 FAMS @F1@
+1 BIRT
+2 DATE 14 Dec 1804
+2 PLAC les cedres, Soulanges, Vaudreuil-Soulanges, Quebec, Canada
+0 @I432533732961@ INDI
+1 NAME Adelaide /Sauve/
+2 GIVN Adelaide
+2 SURN Sauve
+1 SEX F
+1 FAMC @F77@
+1 FAMS @F1@
+1 BIRT
+2 DATE Jan 1812
+2 PLAC Les Cedres, Soulanges, Quebec, Canada
+1 DEAT
+2 DATE Aft. 1861
+0 @I432533732966@ INDI
+1 NAME Jean-Baptiste /Miville Minville Mainville/
+2 GIVN Jean-Baptiste
+2 SURN Miville Minville Mainville
+1 SEX M
+1 FAMC @F32@
+1 FAMS @F4@
+1 BIRT
+2 DATE 20 August 1782
+2 PLAC Soulanges, Les, Quebec, Canada
+1 DEAT
+2 DATE 7 Oct 1861
+2 PLAC St-Zotique, Soulanges, Quebec, Canada
+1 OBJE @O14@
+2 _PRIM Y
+0 @I432533732976@ INDI
+1 NAME Catherine /Avon Blondin/
+2 GIVN Catherine
+2 SURN Avon Blondin
+1 SEX F
+1 FAMC @F36@
+1 FAMS @F4@
+1 BIRT
+2 DATE 18 Août 1794
+2 PLAC Vaudreuil, Québec Canada
+1 DEAT
+2 DATE 27 Mai 1873
+2 PLAC Alpena, Alpena, Michigan, États-Unis
+1 OBJE @O25@
+2 _PRIM Y
+0 @I432533732979@ INDI
+1 NAME Daniel /Hutchins/
+2 GIVN Daniel
+2 SURN Hutchins
+1 SEX M
+1 FAMC @F38@
+1 FAMS @F8@
+1 BIRT
+2 DATE 28 Nov 1811
+2 PLAC Aurelius, Washington, Ohio/Maine, United States
+1 DEAT
+2 DATE 03 Jan 1890
+2 PLAC Fife Lake, Grand Traverse, Michigan, United States
+1 OBJE @O49@
+2 _PRIM Y
+0 @I432533732980@ INDI
+1 NAME Emmeline J "Emily" /Clark/
+2 GIVN Emmeline J "Emily"
+2 SURN Clark
+1 SEX F
+1 FAMC @F40@
+1 FAMS @F8@
+1 BIRT
+2 DATE abt 1816
+2 PLAC Pennsylvania/Maine, United States
+1 DEAT
+2 DATE DECEASED
+2 PLAC Orange Twp., Kalkaska Co., Mi
+0 @I432533732984@ INDI
+1 NAME William /Hussey/
+2 GIVN William
+2 SURN Hussey
+1 SEX M
+1 FAMC @F79@
+1 FAMS @F10@
+1 BIRT
+2 DATE 1806
+1 DEAT
+2 DATE 12 Jun 1838
+2 PLAC Ohio, USA
+0 @I432533732986@ INDI
+1 NAME Lucinda /Doan/
+2 GIVN Lucinda
+2 SURN Doan
+1 SEX F
+1 FAMC @F26@
+1 FAMS @F10@
+1 BIRT
+2 DATE 14 Sep 1814
+2 PLAC Salem Township, Washington County, Ohio, USA
+1 DEAT
+2 DATE 23 Jan 1892
+2 PLAC Noble County, Ohio
+0 @I432533732988@ INDI
+1 NAME Thomas H /Bond/
+2 GIVN Thomas H
+2 SURN Bond
+1 SEX M
+1 FAMC @F28@
+1 FAMS @F16@
+1 BIRT
+2 DATE Apr 1819
+2 PLAC Jefferson, Ohio, USA 
+1 DEAT
+2 DATE 1910
+2 PLAC Ohio, USA
+0 @I432533732992@ INDI
+1 NAME Eliphalet /Wheeler/
+2 GIVN Eliphalet
+2 SURN Wheeler
+1 SEX M
+1 FAMC @F31@
+1 FAMS @F69@
+1 BIRT
+2 DATE 1808
+2 PLAC Canaan, Somerset County, Maine, USA
+1 DEAT
+2 DATE 21 May 1865
+2 PLAC Noble County, Ohio, USA
+1 OBJE @O39@
+2 _PRIM Y
+0 @I432533732999@ INDI
+1 NAME Lydia /Gilkerson/
+2 GIVN Lydia
+2 SURN Gilkerson
+1 SEX F
+1 FAMC @F17@
+1 FAMS @F69@
+1 BIRT
+2 DATE 10 Dec 1813
+2 PLAC Olive, Meigs, Ohio
+1 DEAT
+2 DATE 25 Sept 1890
+2 PLAC Caldwell, Noble, Ohio
+0 @I432533733031@ INDI
+1 NAME Margaret /Williams/
+2 GIVN Margaret
+2 SURN Williams
+1 SEX F
+1 FAMS @F16@
+1 BIRT
+2 DATE 1818
+2 PLAC Ohio
+0 @I432533733058@ INDI
+1 NAME Alexis /Langlois/
+2 GIVN Alexis
+2 SURN Langlois
+1 SEX M
+1 FAMC @F50@
+1 FAMS @F45@
+1 BIRT
+2 DATE 13 Nov 1783
+2 PLAC Assumption, Sandwich, Essex, Ontario, 
+1 DEAT
+2 DATE 28 MAY 1853
+2 PLAC Windsor; Windsor (L`Assomption de Sandwich), Ontario, 
+0 @I432533733063@ INDI
+1 NAME Susanne /Parent/
+2 GIVN Susanne
+2 SURN Parent
+1 SEX F
+1 FAMC @F48@
+1 FAMS @F45@
+1 BIRT
+2 DATE 29 June 1787
+2 PLAC Sandwich, Essex County, Ontario, Canada
+1 DEAT
+2 DATE 23 March 1843
+2 PLAC Sandwich, Essex County, Ontario, Canada
+0 @I432533733079@ INDI
+1 NAME Louis  /Bincette dit Jobibois/
+2 GIVN Louis 
+2 SURN Bincette dit Jobibois
+1 SEX M
+1 FAMC @F61@
+1 FAMS @F54@
+1 BIRT
+2 DATE 23 JUL 1784
+2 PLAC La Prairie, Québec
+1 DEAT
+2 DATE 19 Sep 1837
+2 PLAC Sandwich, 1654297, Ontario, Canada
+0 @I432533733081@ INDI
+1 NAME Angelique  /Poisson Dit Lassaline/
+2 GIVN Angelique 
+2 SURN Poisson Dit Lassaline
+1 SEX F
+1 FAMC @F60@
+1 FAMS @F54@
+1 BIRT
+2 DATE 15 Oct 1790
+2 PLAC Assumption Parish, Sandwich, Essex, Ontario, Canada
+1 DEAT
+2 DATE 20 Apr 1848
+2 PLAC Assumption Parish, Sandwich, Essex, Ontario, Canada
+0 @I432533733107@ INDI
+1 NAME Louis Amable /Sauve/
+2 GIVN Louis Amable
+2 SURN Sauve
+1 SEX M
+1 FAMC @F78@
+1 FAMS @F77@
+1 BIRT
+2 DATE 8 Feb 1772
+2 PLAC Pointe-Claire, Île De Montréal, Quebec, Canada
+1 DEAT
+2 DATE 20 Dec 1821
+2 PLAC St-Polycarpe, Quebec, Canada
+0 @I432533733119@ INDI
+1 NAME Jean Gabriel Francois /Minville/
+2 GIVN Jean Gabriel Francois
+2 SURN Minville
+1 SEX M
+1 FAMS @F32@
+1 BIRT
+2 DATE 19 Jul 1753
+2 PLAC Les Cedres, Soulanges, Quebec
+1 DEAT
+2 PLAC Quebec, Canada
+1 OBJE @O20@
+2 _PRIM Y
+0 @I432533733120@ INDI
+1 NAME Marie Anne Amable /Rodrigue/
+2 GIVN Marie Anne Amable
+2 SURN Rodrigue
+1 SEX F
+1 FAMC @F84@
+1 FAMS @F32@
+1 BIRT
+2 DATE 1 September 1759
+2 PLAC Les Cedres, Soulanges, Quebec, Canada
+1 DEAT
+2 DATE 3 August 1842
+2 PLAC Beauharnois, Quebec, Canada
+1 OBJE @O46@
+2 _PRIM Y
+0 @I432533733124@ INDI
+1 NAME JOSEPH AMABLE /Avon Blondin/ **
+2 GIVN JOSEPH AMABLE
+2 SURN Avon Blondin
+2 NSFX **
+1 SEX M
+1 FAMC @F72@
+1 FAMS @F36@
+1 BIRT
+2 DATE  30 Sept 1767 
+2 PLAC Les Cèdres, Québec Canada
+1 DEAT
+2 DATE 19 Août 1848
+2 PLAC St Timothée, Beauharnois, Québec, Canada
+1 OBJE @O7@
+2 _PRIM Y
+0 @I432533733126@ INDI
+1 NAME Catherine /Desrochers dit Frappe/
+2 GIVN Catherine
+2 SURN Desrochers dit Frappe
+1 SEX F
+1 FAMC @F70@
+1 FAMS @F36@
+1 BIRT
+2 DATE 6 Mars 1774
+2 PLAC Les Cèdres, Vaudreuil-Soulanges, Québec, Canada
+1 DEAT
+2 DATE 19 Avril 1855
+2 PLAC St Timothée, Beauharnois County, Canada East (Quebec), Canada
+1 OBJE @O4@
+2 _PRIM Y
+0 @I432533733129@ INDI
+1 NAME Daniel /Hutchins/
+2 GIVN Daniel
+2 SURN Hutchins
+1 SEX M
+1 FAMC @F11@
+1 FAMS @F38@
+1 BIRT
+2 DATE 11 JAN 1776
+2 PLAC Pownalboro, Lincoln, Maine
+1 DEAT
+2 DATE 17 Oct 1850
+2 PLAC South Olive, Morgan,  Ohio
+1 OBJE @O35@
+2 _PRIM Y
+0 @I432533733132@ INDI
+1 NAME Patience /TIBBETTS/
+2 GIVN Patience
+2 SURN TIBBETTS
+1 SEX F
+1 FAMC @F7@
+1 FAMS @F38@
+1 BIRT
+2 DATE 13 Apr 1775
+2 PLAC Saco, York, Maine, USA
+1 DEAT
+2 DATE 26 Dec 1847
+2 PLAC South Olive, Ohio
+0 @I432533733135@ INDI
+1 NAME Joseph Lumbart /Clark/
+2 GIVN Joseph Lumbart
+2 SURN Clark
+1 SEX M
+1 FAMC @F5@
+1 FAMS @F40@
+1 BIRT
+2 DATE 18 May 1792
+2 PLAC Belgrade, Kennebec, Maine, USA
+1 DEAT
+2 DATE After 1860
+0 @I432533733139@ INDI
+1 NAME Sally /Sawtelle/
+2 GIVN Sally
+2 SURN Sawtelle
+1 SEX F
+1 FAMS @F40@
+1 BIRT
+2 DATE 1793
+2 PLAC Maine
+0 @I432533733144@ INDI
+1 NAME Mercy /Segle/
+2 GIVN Mercy
+2 SURN Segle
+1 SEX F
+1 FAMC @F2@
+1 FAMS @F79@
+1 BIRT
+2 DATE 1783
+2 PLAC Lebanon or Manchester, NH
+1 DEAT
+2 DATE 29 JUL 1844
+2 PLAC Morgan CO., Ohio
+0 @I432533733147@ INDI
+1 NAME Richard /Doan/
+2 GIVN Richard
+2 SURN Doan
+1 SEX M
+1 FAMC @F25@
+1 FAMS @F26@
+1 BIRT
+2 DATE 14 Jul 1765
+2 PLAC Saybrook, Middlesex County, Connecticut
+1 DEAT
+2 DATE 27 Aug 1823
+2 PLAC Salem Township, Washington County, Ohio, USA
+1 OBJE @O51@
+2 _PRIM Y
+0 @I432533733153@ INDI
+1 NAME Anna /Post/
+2 GIVN Anna
+2 SURN Post
+1 SEX F
+1 FAMC @F29@
+1 FAMS @F26@
+1 BIRT
+2 DATE 12 Sep 1776
+2 PLAC Westbrook, Middlesex County, Connecticut, USA
+1 DEAT
+2 DATE 15 Mar 1846
+2 PLAC Salem Township, Washington County, Ohio, USA
+1 OBJE @O48@
+2 _PRIM Y
+0 @I432533733157@ INDI
+1 NAME Benjamin /Bond/
+2 GIVN Benjamin
+2 SURN Bond
+1 SEX M
+1 FAMS @F28@
+1 BIRT
+2 DATE 15 May 1783
+2 PLAC Baltimore, Maryland, USA 
+1 DEAT
+2 DATE 27 Nov 1845
+2 PLAC Noble, Morgan County, Ohio, USA
+0 @I432533733161@ INDI
+1 NAME Phebe /Cole/
+2 GIVN Phebe
+2 SURN Cole
+1 SEX F
+1 FAMC @F20@
+1 FAMS @F28@
+1 BIRT
+2 DATE 12 Sep 1782
+2 PLAC Baltimore, Baltimore, Maryland, United States
+1 DEAT
+2 DATE 14 Sep 1853
+2 PLAC Noble, Ohio, USA
+0 @I432533733172@ INDI
+1 NAME Edward- Wigglesworth /Wheeler/
+2 GIVN Edward- Wigglesworth
+2 SURN Wheeler
+1 SEX M
+1 FAMC @F19@
+1 FAMS @F31@
+1 BIRT
+2 DATE 19 Jul 1779
+2 PLAC Lincoln, Middlesex, Massachusetts, USA
+1 DEAT
+2 DATE 30 Apr 1848
+2 PLAC Olive, Morgan, Ohio, USA
+1 OBJE @O24@
+2 _PRIM Y
+0 @I432533733176@ INDI
+1 NAME Julia- Augusta or Ann /Turner/
+2 GIVN Julia- Augusta or Ann
+2 SURN Turner
+1 SEX F
+1 FAMS @F31@
+1 BIRT
+2 DATE 22 Mar 1779
+2 PLAC Medfield, Norfolk, Massachusetts, USA
+1 DEAT
+2 DATE 13 Jan 1859
+2 PLAC South Olive, Morgan County, Ohio, USA
+1 OBJE @O12@
+2 _PRIM Y
+0 @I432533733181@ INDI
+1 NAME Thomas C. /Gilkerson/
+2 GIVN Thomas C.
+2 SURN Gilkerson
+1 SEX M
+1 FAMS @F17@
+1 BIRT
+2 DATE 15 Jan 1787
+2 PLAC Ireland
+1 DEAT
+2 DATE 15 June 1871
+2 PLAC Sarahsville, Noble, Ohio
+1 OBJE @O58@
+2 _PRIM Y
+0 @I432533733184@ INDI
+1 NAME Sarah Sally /DeLong/
+2 GIVN Sarah Sally
+2 SURN DeLong
+1 SEX F
+1 FAMC @F23@
+1 FAMS @F17@
+1 BIRT
+2 DATE 1795
+2 PLAC Somerset, Pennsylvania, United States
+1 DEAT
+2 DATE 21 May 1880
+2 PLAC Sarahsville, Noble Co., Ohio
+0 @I432533733418@ INDI
+1 NAME Deborah /Pratt/
+2 GIVN Deborah
+2 SURN Pratt
+1 SEX F
+1 FAMC @F35@
+1 FAMS @F25@
+1 BIRT
+2 DATE 21 May 1745
+2 PLAC Saybrook, Middlesex, Connecticut, United States
+1 DEAT
+2 DATE 10 Feb 1816
+2 PLAC Eastham, Barnstable, Massachusetts, USA
+1 OBJE @O42@
+2 _PRIM Y
+0 @I432533733423@ INDI
+1 NAME Joshua /Post/
+2 GIVN Joshua
+2 SURN Post
+1 SEX M
+1 FAMS @F29@
+1 BIRT
+2 DATE 14 May 1743
+2 PLAC Westbrook, Middlesex County, Connecticut, United States of America
+1 DEAT
+2 DATE 10 Jun 1825
+2 PLAC Westbrook, Middlesex County, Connecticut, United States of America
+1 OBJE @O64@
+2 _PRIM Y
+0 @I432533733428@ INDI
+1 NAME Anna /Jones/
+2 GIVN Anna
+2 SURN Jones
+1 SEX F
+1 FAMS @F29@
+1 BIRT
+2 DATE 19 August 1742
+2 PLAC Westbrook, Middlesex County, Connecticut, United States of America
+1 DEAT
+2 DATE 19 Apr 1826
+2 PLAC Westbrook, Middlesex County, Connecticut, United States of America
+1 OBJE @O29@
+2 _PRIM Y
+0 @I432533733436@ INDI
+1 NAME Mordecai /Cole/
+2 GIVN Mordecai
+2 SURN Cole
+1 SEX M
+1 FAMS @F20@
+1 BIRT
+2 DATE 1741
+2 PLAC Baltimore, Anne Arundel, Maryland, United States
+1 DEAT
+2 DATE 19 MAR 1796
+2 PLAC Baltimore, Anne Arundel, Maryland, United States
+1 OBJE @O5@
+2 _PRIM Y
+0 @I432533733442@ INDI
+1 NAME Elizabeth Godhard /Bond/
+2 GIVN Elizabeth Godhard
+2 SURN Bond
+1 SEX F
+1 FAMS @F20@
+1 BIRT
+2 DATE 30 Aug 1747
+2 PLAC Garrison Forest, Baltimore, Maryland, United States
+1 DEAT
+2 DATE 6 Feb 1826
+2 PLAC Jefferson, Ohio, United States
+1 OBJE @O37@
+2 _PRIM Y
+0 @I432533733443@ INDI
+1 NAME Mary Mahitabel /Gearfield\Garfield/
+2 GIVN Mary Mahitabel
+2 SURN Gearfield\Garfield
+1 SEX F
+1 FAMS @F19@
+1 BIRT
+2 DATE 24 Jan 1738
+2 PLAC Weston, Middlesex, Massachusetts, USA
+1 DEAT
+2 DATE 1818
+2 PLAC , Washington, Ohio, USA
+1 OBJE @O1@
+2 _PRIM Y
+0 @I432533733447@ INDI
+1 NAME Jonathan Nicholas /Delong*/
+2 GIVN Jonathan Nicholas
+2 SURN Delong*
+1 SEX M
+1 FAMS @F23@
+1 BIRT
+2 DATE May 1754
+2 PLAC Northumberland, Northumberland, Pennsylvania, United States
+1 DEAT
+2 DATE 26 Jun 1814
+2 PLAC Lower Salem, Washington County, Ohio, USA
+1 OBJE @O22@
+2 _PRIM Y
+0 @I432533733454@ INDI
+1 NAME Margaret /Hamilton*/
+2 GIVN Margaret
+2 SURN Hamilton*
+1 SEX F
+1 FAMS @F23@
+1 BIRT
+2 DATE 20 Feb 1762
+2 PLAC Northumberland, Northumberland, Pennsylvania, United States
+1 DEAT
+2 DATE 17 Oct 1835
+2 PLAC Caldwell, Noble, Ohio, United States
+1 OBJE @O17@
+2 _PRIM Y
+0 @I432533733463@ INDI
+1 NAME Enos- H Revolutionary War Lexington April 19, 1775 /Wheeler/
+2 GIVN Enos- H Revolutionary War Lexington April 19, 1775
+2 SURN Wheeler
+1 SEX M
+1 FAMS @F19@
+1 BIRT
+2 DATE 17 Sep 1738
+2 PLAC Acton, Middlesex, Massachusetts, USA
+1 DEAT
+2 DATE 1820
+2 PLAC Washington, Ohio, USA
+1 OBJE @O65@
+2 _PRIM Y
+0 @I432533733468@ INDI
+1 NAME Prince /Doan/
+2 GIVN Prince
+2 SURN Doan
+1 SEX M
+1 FAMS @F25@
+1 BIRT
+2 DATE 12 Nov 1726
+2 PLAC Eastham, Barnstable County, Massachusetts
+1 DEAT
+2 DATE 05 Apr 1816
+2 PLAC Saybrook, Middlesex County, Connecticut, USA
+0 @I432533733475@ INDI
+1 NAME Mercy Mary(m. Hussey) /Evans/
+2 GIVN Mercy Mary(m. Hussey)
+2 SURN Evans
+1 SEX F
+1 FAMS @F2@
+1 BIRT
+2 DATE 1745
+2 PLAC Madbury, Strafford County, New Hampshire, United States of America
+1 DEAT
+2 DATE 11 April 1846
+2 PLAC Somersworth, Strafford County, New Hampshire, United States of America
+0 @I432533733477@ INDI
+1 NAME Samuel /Hussey/
+2 GIVN Samuel
+2 SURN Hussey
+1 SEX M
+1 FAMS @F2@
+1 BIRT
+2 DATE 12 Dec 1742
+2 PLAC Dover, Strafford, New Hampshire, United States
+1 DEAT
+2 DATE 17 Apr 1814
+2 PLAC Dover, Strafford, New Hampshire, United States
+1 OBJE @O6@
+2 _PRIM Y
+0 @I432533733478@ INDI
+1 NAME Asenath /Lumbart/
+2 GIVN Asenath
+2 SURN Lumbart
+1 SEX F
+1 FAMS @F5@
+1 BIRT
+2 DATE 22 Jan 1771
+2 PLAC Vassalboro, Lincoln, Maine, United States
+1 DEAT
+2 DATE Abt. 1853
+2 PLAC Morgan, Morgan, Ohio, United States
+0 @I432533733484@ INDI
+1 NAME Sherebiah /Clark/
+2 GIVN Sherebiah
+2 SURN Clark
+1 SEX M
+1 FAMS @F5@
+1 BIRT
+2 DATE 1771
+2 PLAC Hallowell, Kennebec, Maine, USA
+1 DEAT
+2 DATE 1852
+2 PLAC Olive, Noble, Ohio, USA
+0 @I432533733488@ INDI
+1 NAME Mary 'Molly' /Carle/
+2 GIVN Mary 'Molly'
+2 SURN Carle
+1 SEX F
+1 FAMS @F7@
+1 BIRT
+2 DATE abt 1733
+2 PLAC Scarborough, Cumberland, Maine
+1 DEAT
+2 DATE Nov 1833
+2 PLAC Newfield, York, Maine
+0 @I432533733493@ INDI
+1 NAME Joshua /Tibbetts/
+2 GIVN Joshua
+2 SURN Tibbetts
+1 SEX M
+1 FAMS @F7@
+1 BIRT
+2 DATE 25 Dec 1727
+2 PLAC Scarborough, Maine, USA
+1 DEAT
+2 DATE 24 May 1811
+2 PLAC Scarborough, Cumberland, Maine
+0 @I432533733497@ INDI
+1 NAME Elizabeth Betty /Boynton/
+2 GIVN Elizabeth Betty
+2 SURN Boynton
+1 SEX F
+1 FAMS @F11@
+1 BIRT
+2 DATE 26 January 1745
+2 PLAC Rowley, Essex, Massachusetts, United States
+1 DEAT
+2 DATE 27 October 1837
+2 PLAC South Olive, Noble County, Ohio, United States of America
+1 OBJE @O56@
+2 _PRIM Y
+0 @I432533733500@ INDI
+1 NAME Hollis /Hutchins RWS/
+2 GIVN Hollis
+2 SURN Hutchins RWS
+1 SEX M
+1 FAMS @F11@
+1 BIRT
+2 DATE 3 March 1743
+2 PLAC Harvard, Worcester, Massachusetts, United States
+1 DEAT
+2 DATE 05 AUG 1822
+2 PLAC South Olive, Morgan, Ohio, United States
+1 OBJE @O66@
+2 _PRIM Y
+0 @I432533733507@ INDI
+1 NAME Marie Amable /Maurice dit Lafantaisie/
+2 GIVN Marie Amable
+2 SURN Maurice dit Lafantaisie
+1 SEX F
+1 FAMS @F70@
+1 BIRT
+2 DATE 22 juillet 1744
+2 PLAC Laval, Québec, Canada
+1 DEAT
+2 DATE 20 décembre 1786 or 20 Mai 1818
+2 PLAC St-Vincent-de-Paul, Laval, Québec, Canada or Les Cèdres, Vaudreuil-Soulanges, Quebec, Canad
+0 @I432533733510@ INDI
+1 NAME Pierre-Amable /Derocher Dit Fraper/
+2 GIVN Pierre-Amable
+2 SURN Derocher Dit Fraper
+1 SEX M
+1 FAMS @F70@
+1 BIRT
+2 DATE 27 juillet 1735
+2 PLAC Ste-Anne de Bellevue, Montréal, Communauté-Urbaine-de-Montréal, Québec, Canada
+1 DEAT
+2 DATE 30 juillet 1825
+2 PLAC Beauharnois, , Quebec, Canada
+0 @I432533733513@ INDI
+1 NAME Marie Francoise /Lariviere Riviere/
+2 GIVN Marie Francoise
+2 SURN Lariviere Riviere
+1 SEX F
+1 FAMS @F72@
+1 BIRT
+2 DATE 3 Jun 1740
+2 PLAC Ste Anne De Bellevue, Ile De Montreal, Lachine, Quebec, Canada
+1 DEAT
+2 DATE 23 Nov 1768
+2 PLAC Les Cedres, Soulanges, Quebec, Canada
+1 OBJE @O63@
+2 _PRIM Y
+0 @I432533733515@ INDI
+1 NAME JEAN Baptiste /Blondin Haon HAOND/ FR QC 1749
+2 GIVN JEAN Baptiste
+2 SURN Blondin Haon HAOND
+2 NSFX FR QC 1749
+1 SEX M
+1 FAMS @F72@
+1 BIRT
+2 DATE 20 Mars 1706
+2 PLAC Villeverte, Coucouron, Ardèche, Rhône-Alpes, France
+1 DEAT
+2 DATE 15 Sept 1810
+2 PLAC Les Cèdres, Soulanges, Québec, Canada
+1 OBJE @O15@
+2 _PRIM Y
+0 @I432533733521@ INDI
+1 NAME Marie* Anne Amable /Parent* Parant (Relation?)/ * (twin) W2
+2 GIVN Marie* Anne Amable
+2 SURN Parent* Parant (Relation?)
+2 NSFX * (twin) W2
+1 SEX F
+1 FAMS @F84@
+1 BIRT
+2 DATE 22 Feb 1729
+2 PLAC Jacques-Cartier, Sherbrooke, Nouvelle-France, Québec, Canada
+1 DEAT
+2 DATE 1802-07-11
+2 PLAC Les Cèdres, Soulanges, Montréal, , Québec, Lower Canada
+1 OBJE @O33@
+2 _PRIM Y
+0 @I432533733525@ INDI
+1 NAME Marguerite Amable /Brabant/
+2 GIVN Marguerite Amable
+2 SURN Brabant
+1 SEX F
+1 FAMS @F78@
+1 BIRT
+2 DATE 1753-10-03
+2 PLAC Ste Anne De Bellevue,Ile De Montréal,Quebec,Canada
+1 DEAT
+2 DATE Jan 28 1819
+2 PLAC Les Cedres, Soulanges, Quebec, Canada
+1 OBJE @O55@
+2 _PRIM Y
+0 @I432533733531@ INDI
+1 NAME Hypolyte Paul Poissant dit /Lassaline/
+2 GIVN Hypolyte Paul Poissant dit
+2 SURN Lassaline
+1 SEX M
+1 FAMS @F60@
+1 BIRT
+2 DATE 20 Oct 1756
+2 PLAC La Prairie, Quebec, Canada
+1 DEAT
+2 DATE 21 Apr 1833
+2 PLAC Sandwich Township, Essex, Ontario, Canada
+0 @I432533733545@ INDI
+1 NAME Therese /Leduc/
+2 GIVN Therese
+2 SURN Leduc
+1 SEX F
+1 FAMS @F60@
+1 BIRT
+2 DATE 16 Jul 1769
+2 PLAC Detroit, Wayne, Michigan, USA
+1 DEAT
+2 DATE Apr 9 1802
+2 PLAC Sandwich, Essex, Ontario, Canada
+0 @I432533733547@ INDI
+1 NAME Marie Louise /Bourdeau/
+2 GIVN Marie Louise
+2 SURN Bourdeau
+1 SEX F
+1 FAMS @F61@
+1 BIRT
+2 DATE 10 Sep 1752
+2 PLAC  La Prairie, Quebec, Canada
+1 DEAT
+2 DATE 3 Apr 1799
+2 PLAC  La Prairie, Quebec, Canada
+1 OBJE @O8@
+2 _PRIM Y
+0 @I432533733560@ INDI
+1 NAME Jean Baptiste /Bincet Dit  Jolibois/
+2 GIVN Jean Baptiste
+2 SURN Bincet Dit  Jolibois
+1 SEX M
+1 FAMS @F61@
+1 BIRT
+2 DATE 15 Nov 1745
+2 PLAC LaPrairie, Roussillon Co., Québec, Canada
+1 DEAT
+2 DATE 21 Jun 1811
+2 PLAC Contrecoeur, 1654492, Quebec, Canada
+0 @I432533733565@ INDI
+1 NAME Marie-Catherine / Cuillerier dit Beaubien/ Huron\Wyandot
+2 GIVN Marie-Catherine
+2 SURN  Cuillerier dit Beaubien
+2 NSFX Huron\Wyandot
+1 SEX F
+1 FAMS @F48@
+1 BIRT
+2 DATE 6 Aug 1743
+2 PLAC Detroit, Wayne, Michigan, USA
+1 DEAT
+2 DATE 15 Jan 1821
+2 PLAC Détroit, L`Assomption de Sandwich de Windsor, Michigan
+1 OBJE @O59@
+2 _PRIM Y
+0 @I432533733573@ INDI
+1 NAME Jacques "James" /Parent/
+2 GIVN Jacques "James"
+2 SURN Parent
+1 SEX M
+1 FAMS @F48@
+1 BIRT
+2 DATE 24 October 1742
+2 PLAC Detroit, Wayne, Michigan, USA
+1 DEAT
+2 DATE 23 January 1827
+2 PLAC Sandwich, Essex, Ontario, Canada
+1 OBJE @O50@
+2 _PRIM Y
+0 @I432533733579@ INDI
+1 NAME Marie Desanges  /Rochereau dit Lesperance/
+2 GIVN Marie Desanges 
+2 SURN Rochereau dit Lesperance
+1 SEX F
+1 FAMS @F50@
+1 BIRT
+2 DATE 08 Oct 1755
+2 PLAC Detroit, Wayne, Michigan, United States
+1 DEAT
+2 DATE 23 Aug 1835
+2 PLAC Sandwich, 1654297, Ontario, Canada
+0 @I432533733587@ INDI
+1 NAME Antoine /Langlois/ 1738 2nd cousin 6X
+2 GIVN Antoine
+2 SURN Langlois
+2 NSFX 1738 2nd cousin 6X
+1 SEX M
+1 FAMS @F50@
+1 BIRT
+2 DATE 24 Jan 1738
+2 PLAC Cap Sante, Portneuf, Quebec, Canada
+1 DEAT
+2 DATE 26 Jun 1799
+2 PLAC Sandwich, Windsor, Essex, Ontario, Canada
+0 @I432533733634@ INDI
+1 NAME Nehemiah /Pratt/
+2 GIVN Nehemiah
+2 SURN Pratt
+1 SEX M
+1 FAMS @F35@
+1 BIRT
+2 DATE 26 Jan 1706
+2 PLAC Saybrook,  Middlesex,  Connecticut,  United States
+1 DEAT
+2 DATE 1756
+0 @I432533733636@ INDI
+1 NAME Deborah /Hough/
+2 GIVN Deborah
+2 SURN Hough
+1 SEX F
+1 FAMS @F35@
+1 BIRT
+2 DATE 17 Dec 1716
+2 PLAC Wallingford, New Haven, Connecticut, United States
+1 DEAT
+2 PLAC  Connecticut, USA
+0 @I432533733743@ INDI
+1 NAME Joseph /Fowlow/ 🧬
+2 GIVN Joseph
+2 SURN Fowlow
+2 NSFX 🧬
+1 SEX M
+1 FAMC @F62@
+1 FAMS @F6@
+1 BIRT
+2 DATE 1 Mar 1794
+2 PLAC Trinity North, Newfoundland, Canada
+1 DEAT
+2 DATE 10 Jun 1853
+2 PLAC Pease Cove, Northside, Trinity, Trinity Bay, Newfoundland
+1 OBJE @O40@
+2 _PRIM Y
+0 @I432533733744@ INDI
+1 NAME Mary /Cook/ 🧬
+2 GIVN Mary
+2 SURN Cook
+2 NSFX 🧬
+1 SEX F
+1 FAMC @F65@
+1 FAMS @F6@
+1 BIRT
+2 DATE 4 May 1801
+2 PLAC Bonaventure, Trinity Bay, Newfoundland
+1 DEAT
+2 DATE 23 Jul 1883
+2 PLAC Pease Cove, Northside, Trinity, Trinity Bay, Newfoundland
+1 OBJE @O31@
+2 _PRIM Y
+0 @I432533733749@ INDI
+1 NAME Thomas /Jenkins/
+2 GIVN Thomas
+2 SURN Jenkins
+1 SEX M
+1 FAMS @F9@
+1 BIRT
+2 DATE 1808
+2 PLAC of Sturminster Newton, Dorset, England
+1 DEAT
+2 DATE 19 OCT 1894
+2 PLAC Trinity, Trinity Bay, NF
+1 OBJE @O23@
+2 _PRIM Y
+0 @I432533733752@ INDI
+1 NAME Ann Elizabeth /Dampier/ 🧬
+2 GIVN Ann Elizabeth
+2 SURN Dampier
+2 NSFX 🧬
+1 SEX F
+1 FAMC @F67@
+1 FAMS @F9@
+1 BIRT
+2 DATE 29 Jan 1809
+2 PLAC Trinity North, Newfoundland, Canada
+1 DEAT
+2 DATE 23 Jan 1884
+2 PLAC Trinity, Bonavista-Trinity Census Division, Newfoundland and Labrador, Canada
+1 OBJE @O18@
+2 _PRIM Y
+0 @I432533733755@ INDI
+1 NAME Patrick /Fowlow/
+2 GIVN Patrick
+2 SURN Fowlow
+1 SEX M
+1 FAMC @F43@
+1 FAMS @F13@
+1 FAMS @F14@
+1 BIRT
+2 DATE 19 November 1792
+2 PLAC Trinity, Trinity Bay, Newfoundland
+1 DEAT
+2 DATE 10 June 1853
+2 PLAC Pease Cove, Northside, Trinity, Trinity Bay, Newfoundland, Newfoundland and Labrador, Canada
+1 OBJE @O54@
+2 _PRIM Y
+0 @I432533733761@ INDI
+1 NAME Sarah /Peckham/
+2 GIVN Sarah
+2 SURN Peckham
+1 SEX F
+1 FAMS @F13@
+1 BIRT
+2 DATE 26 November 1805
+2 PLAC Trinity, Bonavista-Trinity Census Division, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 17 December 1886
+2 PLAC Trinity, North Side (Trinity East), TB, Newfoundland, Newfoundland and Labrador, Canada
+0 @I432533733763@ INDI
+1 NAME Sarah /Peckham/
+2 GIVN Sarah
+2 SURN Peckham
+1 SEX F
+1 FAMC @F51@
+1 FAMS @F14@
+1 BIRT
+2 DATE 26 November 1805
+2 PLAC Trinity, Bonavista-Trinity Census Division, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 17 December 1886
+2 PLAC Trinity, North Side (Trinity East), TB, Newfoundland, Newfoundland and Labrador, Canada
+0 @I432533733769@ INDI
+1 NAME Stephen Wiseman /Crocker/
+2 GIVN Stephen Wiseman
+2 SURN Crocker
+1 SEX M
+1 FAMC @F56@
+1 FAMS @F73@
+1 BIRT
+2 DATE 30 Oct 1808
+2 PLAC Trinity, Trinity Bay, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 31 August 1876
+2 PLAC Trinity, Trinity Bay, Newfoundland and Labrador, Canada
+1 OBJE @O16@
+2 _PRIM Y
+0 @I432533733777@ INDI
+1 NAME Catherine /Dougherty/ 🧬
+2 GIVN Catherine
+2 SURN Dougherty
+2 NSFX 🧬
+1 SEX F
+1 FAMS @F73@
+1 BIRT
+2 DATE 1815
+2 PLAC of Trinity, Trinity Bay, Newfoundland
+1 DEAT
+2 DATE 28 Mar 1898
+2 PLAC Trinity, Newfoundland, Canada
+0 @I432533733802@ INDI
+1 NAME Thomas /Fowloe/ Twin
+2 GIVN Thomas
+2 SURN Fowloe
+2 NSFX Twin
+1 SEX M
+1 FAMC @F82@
+1 FAMS @F62@
+1 BIRT
+2 DATE 15 OCT 1764
+2 PLAC Trinity, Trinity Bay, Newfoundland
+1 DEAT
+2 DATE ABT 19 NOV 1834
+2 PLAC Trinity Bay, Newfoundland and Labrador, Canada
+1 OBJE @O3@
+2 _PRIM Y
+0 @I432533733807@ INDI
+1 NAME Elizabeth /Dewey/ 🧬
+2 GIVN Elizabeth
+2 SURN Dewey
+2 NSFX 🧬
+1 SEX F
+1 FAMC @F34@
+1 FAMS @F62@
+1 BIRT
+2 DATE 23 May 1777
+2 PLAC Trinity, Trinity Bay, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 1840
+2 PLAC Trinity North Side ( Trinity East ) Newfoundland
+0 @I432533733814@ INDI
+1 NAME George Henry /Cook/ 🧬
+2 GIVN George Henry
+2 SURN Cook
+2 NSFX 🧬
+1 SEX M
+1 FAMC @F37@
+1 FAMS @F65@
+1 BIRT
+2 DATE 03 Mar 1767
+2 PLAC Trinity, Trinity Bay, Newfoundland
+1 DEAT
+2 DATE 1836
+2 PLAC Trinity
+0 @I432533733818@ INDI
+1 NAME Anne /Virge (Verge)/ *
+2 GIVN Anne
+2 SURN Virge (Verge)
+2 NSFX *
+1 SEX F
+1 FAMC @F39@
+1 FAMS @F65@
+1 BIRT
+2 DATE 7 May 1761
+2 PLAC Bonaventure, Trinity Bay, Newfoundland 
+1 DEAT
+2 DATE 28 Mar 1828
+2 PLAC Trinity, Trinty Bay, Newfoundland 
+1 OBJE @O43@
+2 _PRIM Y
+0 @I432533733819@ INDI
+1 NAME Thomas /Dampier/
+2 GIVN Thomas
+2 SURN Dampier
+1 SEX M
+1 FAMS @F67@
+1 BIRT
+2 DATE 1749
+2 PLAC Sherborne, Dorset, England
+1 DEAT
+2 DATE Oct 20 1831
+2 PLAC Trinity, Trinity Bay, Colony of Newfoundland, British North America
+0 @I432533733822@ INDI
+1 NAME Elizabeth /Pinhorn/ 🧬
+2 GIVN Elizabeth
+2 SURN Pinhorn
+2 NSFX 🧬
+1 SEX F
+1 FAMC @F83@
+1 FAMS @F67@
+1 BIRT
+2 DATE 1780
+2 PLAC Scilly Cove, Trinity North, Newfoundland, Canada
+1 DEAT
+2 DATE 1817
+0 @I432533733825@ INDI
+1 NAME Thomas /Fowloe/ Twin
+2 GIVN Thomas
+2 SURN Fowloe
+2 NSFX Twin
+1 SEX M
+1 FAMC @F80@
+1 FAMS @F43@
+1 BIRT
+2 DATE 15 OCT 1764
+2 PLAC Trinity, Trinity Bay, Newfoundland
+1 DEAT
+2 DATE ABT 19 NOV 1834
+2 PLAC Trinity Bay, Newfoundland and Labrador, Canada
+1 OBJE @O36@
+2 _PRIM Y
+0 @I432533733836@ INDI
+1 NAME Elizabeth /Dewey/ 🧬
+2 GIVN Elizabeth
+2 SURN Dewey
+2 NSFX 🧬
+1 SEX F
+1 FAMC @F41@
+1 FAMS @F43@
+1 BIRT
+2 DATE 23 May 1777
+2 PLAC Trinity, Trinity Bay, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 1840
+2 PLAC Trinity North Side ( Trinity East ) Newfoundland
+0 @I432533733839@ INDI
+1 NAME John /Peckham /
+2 GIVN John
+2 SURN Peckham 
+1 SEX M
+1 FAMS @F51@
+1 BIRT
+2 DATE 2 Oct 1763
+2 PLAC Trinity North, Newfoundland
+1 DEAT
+2 DATE 19 Jun 1850
+2 PLAC Trinity, Newfoundland
+0 @I432533733845@ INDI
+1 NAME Susanna /Cook/
+2 GIVN Susanna
+2 SURN Cook
+1 SEX F
+1 FAMC @F27@
+1 FAMS @F51@
+1 BIRT
+2 DATE 23 Nov 1771
+2 PLAC Ship Cove, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 3 Jan 1816
+2 PLAC Trinity Bay, Newfoundland and Labrador, Canada
+0 @I432533733851@ INDI
+1 NAME John /Crocker/ 🧬
+2 GIVN John
+2 SURN Crocker
+2 NSFX 🧬
+1 SEX M
+1 FAMC @F81@
+1 FAMS @F56@
+1 BIRT
+2 DATE 1775
+2 PLAC Charlton, Wilton, Somerset, England
+1 DEAT
+2 DATE 29 Oct 1859
+2 PLAC Trinity Bay, Newfoundland Labrador, Canada
+0 @I432533733855@ INDI
+1 NAME Mary /Wiseman/ 🧬
+2 GIVN Mary
+2 SURN Wiseman
+2 NSFX 🧬
+1 SEX F
+1 FAMC @F30@
+1 FAMS @F56@
+1 BIRT
+2 DATE 28 Dec 1787
+2 PLAC Trinity Bay, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 26 Oct 1861
+2 PLAC Trinity Bay, Newfoundland and Labrador, Canada
+0 @I432533733880@ INDI
+1 NAME Rachel /Cooke/
+2 GIVN Rachel
+2 SURN Cooke
+1 SEX F
+1 FAMS @F82@
+1 BIRT
+2 DATE About 1725-1730
+1 DEAT
+2 DATE ABT 2 DEC 1769
+2 PLAC Newfoundland and Labrador, Canada
+0 @I432533733884@ INDI
+1 NAME John /Dewey/
+2 GIVN John
+2 SURN Dewey
+1 SEX M
+1 FAMC @F15@
+1 FAMS @F34@
+1 BIRT
+2 DATE 2 Aug 1748
+2 PLAC Tincleton, Dorchester, Dorset, England
+1 DEAT
+2 DATE 9 Jan 1823
+2 PLAC Newfoundland & Labrador Canada
+1 OBJE @O44@
+2 _PRIM Y
+0 @I432533733891@ INDI
+1 NAME Ann /Bowen/
+2 GIVN Ann
+2 SURN Bowen
+1 SEX F
+1 FAMC @F71@
+1 FAMS @F34@
+1 BIRT
+2 DATE 1757
+2 PLAC Bonaventure, Newfoundland and Labrador, Canada
+0 @I432533733897@ INDI
+1 NAME Richard /Cook/ 🧬
+2 GIVN Richard
+2 SURN Cook
+2 NSFX 🧬
+1 SEX M
+1 FAMC @F74@
+1 FAMS @F37@
+1 BIRT
+2 DATE 29 May 1737
+2 PLAC  Redcliffe, St Mary, Bristol, England
+1 DEAT
+2 DATE 21 Dec 1781
+2 PLAC Trinity, Newfoundland, Newfoundland and Labrador, Canada
+0 @I432533733898@ INDI
+1 NAME Mary /TAVERNER/
+2 GIVN Mary
+2 SURN TAVERNER
+1 SEX F
+1 FAMC @F75@
+1 FAMS @F37@
+1 BIRT
+2 DATE Abt 1740
+2 PLAC Trinity, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 18 Dec 1825
+2 PLAC Trinity, Newfoundland and Labrador, Canada
+0 @I432533733900@ INDI
+1 NAME John /Verge/
+2 GIVN John
+2 SURN Verge
+1 SEX M
+1 FAMC @F58@
+1 FAMS @F39@
+1 BIRT
+2 DATE Bef. 6 Aug 1709
+2 PLAC Christchurch, Hampshire, England
+1 DEAT
+2 DATE 17 Nov 1760
+2 PLAC Trinity, Trinity Bay, Newfoundland And Labrador, Canada
+0 @I432533733902@ INDI
+1 NAME Ann /Moores/
+2 GIVN Ann
+2 SURN Moores
+1 SEX F
+1 FAMC @F63@
+1 FAMS @F39@
+1 BIRT
+2 DATE 1755
+2 PLAC Trinity Bay, Newfoundland, Canada
+1 DEAT
+2 DATE Sep 1793
+2 PLAC Trinity, Trinity Bay, Newfoundland
+0 @I432533733905@ INDI
+1 NAME Mary /Taverner\ Cook/
+2 GIVN Mary
+2 SURN Taverner\ Cook
+1 SEX F
+1 FAMC @F66@
+1 FAMS @F83@
+1 BIRT
+2 DATE 1743
+2 PLAC Trinity, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 18 Dec 1825
+2 PLAC Trinity,Trinity Bay, Newfoundland
+0 @I432533733908@ INDI
+1 NAME Rachel /Cooke/
+2 GIVN Rachel
+2 SURN Cooke
+1 SEX F
+1 FAMS @F80@
+1 BIRT
+2 DATE About 1725-1730
+1 DEAT
+2 DATE ABT 2 DEC 1769
+2 PLAC Newfoundland and Labrador, Canada
+0 @I432533733913@ INDI
+1 NAME John /Dewey/
+2 GIVN John
+2 SURN Dewey
+1 SEX M
+1 FAMC @F44@
+1 FAMS @F41@
+1 BIRT
+2 DATE 2 Aug 1748
+2 PLAC Tincleton, Dorchester, Dorset, England
+1 DEAT
+2 DATE 9 Jan 1823
+2 PLAC Newfoundland & Labrador Canada
+1 OBJE @O62@
+2 _PRIM Y
+0 @I432533733915@ INDI
+1 NAME Ann /Bowen/
+2 GIVN Ann
+2 SURN Bowen
+1 SEX F
+1 FAMC @F49@
+1 FAMS @F41@
+1 BIRT
+2 DATE 1757
+2 PLAC Bonaventure, Newfoundland and Labrador, Canada
+0 @I432533733920@ INDI
+1 NAME Richard /Cook/ 🧬
+2 GIVN Richard
+2 SURN Cook
+2 NSFX 🧬
+1 SEX M
+1 FAMC @F52@
+1 FAMS @F27@
+1 BIRT
+2 DATE 1737
+1 DEAT
+2 DATE 21 Dec 1781
+0 @I432533733922@ INDI
+1 NAME Mary /Taverner\ Cook/
+2 GIVN Mary
+2 SURN Taverner\ Cook
+1 SEX F
+1 FAMC @F55@
+1 FAMS @F27@
+1 BIRT
+2 DATE 1743
+2 PLAC Trinity, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 18 Dec 1825
+2 PLAC Trinity,Trinity Bay, Newfoundland
+0 @I432533733930@ INDI
+1 NAME James /Crocker/
+2 GIVN James
+2 SURN Crocker
+1 SEX M
+1 FAMS @F81@
+1 BIRT
+2 DATE Abt 1755
+2 PLAC Somerset, England
+1 DEAT
+2 DATE Abt 1830
+2 PLAC Henstridge, Somerset, England
+0 @I432533733934@ INDI
+1 NAME John /Wiseman/ 🧬
+2 GIVN John
+2 SURN Wiseman
+2 NSFX 🧬
+1 SEX M
+1 FAMS @F30@
+1 BIRT
+2 DATE abt 1759
+1 DEAT
+2 DATE 22 Jan 1808
+2 PLAC Trinity, Newfoundland and Labrador, Canada
+0 @I432533733936@ INDI
+1 NAME Mary /Spurdle/ 🧬
+2 GIVN Mary
+2 SURN Spurdle
+2 NSFX 🧬
+1 SEX F
+1 FAMC @F42@
+1 FAMS @F30@
+1 BIRT
+2 DATE 28 Mar 1758
+2 PLAC Trinity,Trinity Bay,Newfoundland And Labrador,Canada
+1 DEAT
+2 DATE 29 Jul 1830
+2 PLAC Trinity Bay, Newfoundland and Labrador, Canada
+0 @I432533734011@ INDI
+1 NAME John /Dewey/
+2 GIVN John
+2 SURN Dewey
+1 SEX M
+1 FAMS @F15@
+1 BIRT
+2 DATE 1728
+2 PLAC Tincleton, Dorset, England
+1 DEAT
+2 PLAC Newfoundland and Labrador, Canada
+1 OBJE @O61@
+2 _PRIM Y
+0 @I432533734013@ INDI
+1 NAME Mary /Fudge/
+2 GIVN Mary
+2 SURN Fudge
+1 SEX F
+1 FAMS @F15@
+1 BIRT
+2 DATE 1728
+2 PLAC Tincleton, Dorset, England
+0 @I432533734019@ INDI
+1 NAME Thomas /Bowen/
+2 GIVN Thomas
+2 SURN Bowen
+1 SEX M
+1 FAMS @F71@
+1 BIRT
+2 DATE About 1724
+2 PLAC Christchurch, Dorset, England
+1 DEAT
+2 DATE Nov. 16, 1791
+2 PLAC Bonaventure, Newfoundland and Labrador, Canada
+1 OBJE @O30@
+2 _PRIM Y
+0 @I432533734025@ INDI
+1 NAME Elizabeth /Davies/
+2 GIVN Elizabeth
+2 SURN Davies
+1 SEX F
+1 FAMS @F71@
+1 BIRT
+2 DATE 14 Mar 1724
+2 PLAC England
+1 DEAT
+2 PLAC Bonaventure, Newfoundland and Labrador, Canada
+0 @I432533734028@ INDI
+1 NAME William /Cook/
+2 GIVN William
+2 SURN Cook
+1 SEX M
+1 FAMS @F74@
+1 BIRT
+2 DATE 1687
+2 PLAC Bilborough, Nottinghamshire, England, United Kingdom
+1 DEAT
+2 DATE DECEASED
+2 PLAC Devon, England
+0 @I432533734032@ INDI
+1 NAME Mary /Mills/
+2 GIVN Mary
+2 SURN Mills
+1 SEX F
+1 FAMS @F74@
+1 BIRT
+2 DATE 19 Jan 1697 
+2 PLAC  Bath, St Michael, Somerset, England
+1 DEAT
+2 DATE abt 1769
+2 PLAC St Decumans (Watchet), Somerset, England
+0 @I432533734035@ INDI
+1 NAME Benjamin /TAVERNER/
+2 GIVN Benjamin
+2 SURN TAVERNER
+1 SEX M
+1 FAMS @F75@
+1 BIRT
+2 DATE 1713
+2 PLAC Trinity, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 20 Nov 1793
+2 PLAC Trinity, Newfoundland and Labrador, Canada
+1 OBJE @O34@
+2 _PRIM Y
+0 @I432533734041@ INDI
+1 NAME Anne /Moores Taverner/
+2 GIVN Anne
+2 SURN Moores Taverner
+1 SEX F
+1 FAMS @F75@
+1 BIRT
+2 DATE 1720
+2 PLAC Trinity, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 20 Jan 1793
+2 PLAC Trinity, Newfoundland and Labrador, Canada
+1 OBJE @O45@
+2 _PRIM Y
+0 @I432533734052@ INDI
+1 NAME John /Verge/ 7GGF
+2 GIVN John
+2 SURN Verge
+2 NSFX 7GGF
+1 SEX M
+1 FAMS @F58@
+1 BIRT
+2 DATE 1680
+2 PLAC Christchurch, Hampshire, England
+1 DEAT
+2 DATE 17 Aug 1748
+2 PLAC Christchurch, Hampshire, England
+1 OBJE @O52@
+2 _PRIM Y
+0 @I432533734061@ INDI
+1 NAME Susannah (Susan) /Mores / *
+2 GIVN Susannah (Susan)
+2 SURN Mores 
+2 NSFX *
+1 SEX F
+1 FAMS @F58@
+1 BIRT
+2 DATE 1685
+2 PLAC Christchurch, Hampshire, England
+1 DEAT
+2 DATE Aug 1748
+2 PLAC Christchurch, Hampshire (Now Dorset), England
+1 OBJE @O21@
+2 _PRIM Y
+0 @I432533734063@ INDI
+1 NAME John /Moorse/
+2 GIVN John
+2 SURN Moorse
+1 SEX M
+1 FAMS @F63@
+1 BIRT
+2 DATE Abt. 1720
+2 PLAC Carbonear, Conception Bay, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 1833
+0 @I432533734066@ INDI
+1 NAME Catherine /Sooley/ Suley
+2 GIVN Catherine
+2 SURN Sooley
+2 NSFX Suley
+1 SEX F
+1 FAMS @F63@
+1 BIRT
+2 DATE Abt. 1743
+2 PLAC Trinity Bay, Newfoundland
+1 DEAT
+2 DATE Abt. 15 May 1815
+2 PLAC Trinity, Trinity Bay, Newfoundland
+0 @I432533734072@ INDI
+1 NAME Benjamin /TAVERNER/
+2 GIVN Benjamin
+2 SURN TAVERNER
+1 SEX M
+1 FAMS @F66@
+1 BIRT
+2 DATE 1713
+2 PLAC Trinity, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 20 Nov 1793
+2 PLAC Trinity, Newfoundland and Labrador, Canada
+1 OBJE @O9@
+2 _PRIM Y
+0 @I432533734075@ INDI
+1 NAME Anne /Moores Taverner/
+2 GIVN Anne
+2 SURN Moores Taverner
+1 SEX F
+1 FAMS @F66@
+1 BIRT
+2 DATE 1720
+2 PLAC Trinity, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 20 Jan 1793
+2 PLAC Trinity, Newfoundland and Labrador, Canada
+1 OBJE @O57@
+2 _PRIM Y
+0 @I432533734080@ INDI
+1 NAME John /Dewey/
+2 GIVN John
+2 SURN Dewey
+1 SEX M
+1 FAMS @F44@
+1 BIRT
+2 DATE 1728
+2 PLAC Tincleton, Dorset, England
+1 DEAT
+2 PLAC Newfoundland and Labrador, Canada
+1 OBJE @O53@
+2 _PRIM Y
+0 @I432533734081@ INDI
+1 NAME Mary /Fudge/
+2 GIVN Mary
+2 SURN Fudge
+1 SEX F
+1 FAMS @F44@
+1 BIRT
+2 DATE 1728
+2 PLAC Tincleton, Dorset, England
+0 @I432533734086@ INDI
+1 NAME Thomas /Bowen/
+2 GIVN Thomas
+2 SURN Bowen
+1 SEX M
+1 FAMS @F49@
+1 BIRT
+2 DATE About 1724
+2 PLAC Christchurch, Dorset, England
+1 DEAT
+2 DATE Nov. 16, 1791
+2 PLAC Bonaventure, Newfoundland and Labrador, Canada
+1 OBJE @O10@
+2 _PRIM Y
+0 @I432533734092@ INDI
+1 NAME Elizabeth /Davies/
+2 GIVN Elizabeth
+2 SURN Davies
+1 SEX F
+1 FAMS @F49@
+1 BIRT
+2 DATE 14 Mar 1724
+2 PLAC England
+1 DEAT
+2 PLAC Bonaventure, Newfoundland and Labrador, Canada
+0 @I432533734095@ INDI
+1 NAME William /Cook/
+2 GIVN William
+2 SURN Cook
+1 SEX M
+1 FAMS @F52@
+1 BIRT
+2 DATE 1687
+2 PLAC Bilborough, Nottinghamshire, England, United Kingdom
+1 DEAT
+2 DATE DECEASED
+2 PLAC Devon, England
+0 @I432533734103@ INDI
+1 NAME Mary /Mills/
+2 GIVN Mary
+2 SURN Mills
+1 SEX F
+1 FAMS @F52@
+1 BIRT
+2 DATE 19 Jan 1697 
+2 PLAC  Bath, St Michael, Somerset, England
+1 DEAT
+2 DATE abt 1769
+2 PLAC St Decumans (Watchet), Somerset, England
+0 @I432533734104@ INDI
+1 NAME Benjamin /TAVERNER/
+2 GIVN Benjamin
+2 SURN TAVERNER
+1 SEX M
+1 FAMS @F55@
+1 BIRT
+2 DATE 1713
+2 PLAC Trinity, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 20 Nov 1793
+2 PLAC Trinity, Newfoundland and Labrador, Canada
+1 OBJE @O26@
+2 _PRIM Y
+0 @I432533734110@ INDI
+1 NAME Anne /Moores Taverner/
+2 GIVN Anne
+2 SURN Moores Taverner
+1 SEX F
+1 FAMS @F55@
+1 BIRT
+2 DATE 1720
+2 PLAC Trinity, Newfoundland and Labrador, Canada
+1 DEAT
+2 DATE 20 Jan 1793
+2 PLAC Trinity, Newfoundland and Labrador, Canada
+1 OBJE @O38@
+2 _PRIM Y
+0 @I432533734112@ INDI
+1 NAME John /Spurrell/ Spurdel
+2 GIVN John
+2 SURN Spurrell
+2 NSFX Spurdel
+1 SEX M
+1 FAMS @F42@
+1 BIRT
+2 DATE 18 Feb 1722
+2 PLAC North Petherton, Somerset, England
+1 DEAT
+2 DATE 29 Dec 1765
+2 PLAC Trinity, Trinity Bay, Newfoundland and Labrador, Canada
+1 OBJE @O32@
+2 _PRIM Y
+0 @I432533734120@ INDI
+1 NAME Mary /Cuttler/
+2 GIVN Mary
+2 SURN Cuttler
+1 SEX F
+1 FAMS @F42@
+1 BIRT
+2 DATE Oct 1725
+2 PLAC Somerset, , England
+1 DEAT
+2 DATE Dec.17,1768
+2 PLAC Trinity District, Newfoundland
+0 @F1@ FAM
+1 HUSB @I432533732954@
+1 WIFE @I432533732961@
+1 CHIL @I432533731989@
+0 @F2@ FAM
+1 HUSB @I432533733477@
+1 WIFE @I432533733475@
+1 CHIL @I432533733144@
+0 @F3@ FAM
+1 HUSB @I432533731942@
+1 WIFE @I432533731945@
+1 CHIL @I432533731841@
+0 @F4@ FAM
+1 HUSB @I432533732966@
+1 WIFE @I432533732976@
+1 CHIL @I432533731995@
+0 @F5@ FAM
+1 HUSB @I432533733484@
+1 WIFE @I432533733478@
+1 CHIL @I432533733135@
+0 @F6@ FAM
+1 HUSB @I432533733743@
+1 WIFE @I432533733744@
+1 CHIL @I432533732030@
+0 @F7@ FAM
+1 HUSB @I432533733493@
+1 WIFE @I432533733488@
+1 CHIL @I432533733132@
+0 @F8@ FAM
+1 HUSB @I432533732979@
+1 WIFE @I432533732980@
+1 CHIL @I432533732008@
+0 @F9@ FAM
+1 HUSB @I432533733749@
+1 WIFE @I432533733752@
+1 CHIL @I432533732035@
+0 @F10@ FAM
+1 HUSB @I432533732984@
+1 WIFE @I432533732986@
+1 CHIL @I432533732012@
+0 @F11@ FAM
+1 HUSB @I432533733500@
+1 WIFE @I432533733497@
+1 CHIL @I432533733129@
+0 @F12@ FAM
+1 HUSB @I432533731962@
+1 WIFE @I432533731979@
+1 CHIL @I432533731932@
+0 @F13@ FAM
+1 HUSB @I432533733755@
+1 WIFE @I432533733761@
+1 CHIL @I432533732036@
+0 @F14@ FAM
+1 HUSB @I432533733755@
+1 WIFE @I432533733763@
+1 CHIL @I432533732036@
+0 @F15@ FAM
+1 HUSB @I432533734011@
+1 WIFE @I432533734013@
+1 CHIL @I432533733884@
+0 @F16@ FAM
+1 HUSB @I432533732988@
+1 WIFE @I432533733031@
+1 CHIL @I432533732016@
+0 @F17@ FAM
+1 HUSB @I432533733181@
+1 WIFE @I432533733184@
+1 CHIL @I432533732999@
+0 @F18@ FAM
+1 HUSB @I432533731639@
+1 WIFE @I432533731905@
+1 CHIL @I432533731543@
+1 MARR
+2 DATE 15 Jan 1922
+2 PLAC Rose Blanche, Newfoundland, Canada
+0 @F19@ FAM
+1 HUSB @I432533733463@
+1 WIFE @I432533733443@
+1 CHIL @I432533733172@
+0 @F20@ FAM
+1 HUSB @I432533733436@
+1 WIFE @I432533733442@
+1 CHIL @I432533733161@
+0 @F21@ FAM
+1 HUSB @I432533732676@
+1 WIFE @I432533732751@
+1 CHIL @I432533731962@
+0 @F22@ FAM
+1 HUSB @I432533731909@
+1 WIFE @I432533731913@
+1 CHIL @I432533731639@
+0 @F23@ FAM
+1 HUSB @I432533733447@
+1 WIFE @I432533733454@
+1 CHIL @I432533733184@
+0 @F24@ FAM
+1 HUSB @I432533731932@
+1 WIFE @I432533731934@
+1 CHIL @I432533731720@
+0 @F25@ FAM
+1 HUSB @I432533733468@
+1 WIFE @I432533733418@
+1 CHIL @I432533733147@
+0 @F26@ FAM
+1 HUSB @I432533733147@
+1 WIFE @I432533733153@
+1 CHIL @I432533732986@
+0 @F27@ FAM
+1 HUSB @I432533733920@
+1 WIFE @I432533733922@
+1 CHIL @I432533733845@
+0 @F28@ FAM
+1 HUSB @I432533733157@
+1 WIFE @I432533733161@
+1 CHIL @I432533732988@
+0 @F29@ FAM
+1 HUSB @I432533733423@
+1 WIFE @I432533733428@
+1 CHIL @I432533733153@
+0 @F30@ FAM
+1 HUSB @I432533733934@
+1 WIFE @I432533733936@
+1 CHIL @I432533733855@
+0 @F31@ FAM
+1 HUSB @I432533733172@
+1 WIFE @I432533733176@
+1 CHIL @I432533732992@
+0 @F32@ FAM
+1 HUSB @I432533733119@
+1 WIFE @I432533733120@
+1 CHIL @I432533732966@
+0 @F33@ FAM
+1 HUSB @I432533731720@
+1 WIFE @I432533731841@
+1 CHIL @I432533731472@
+0 @F34@ FAM
+1 HUSB @I432533733884@
+1 WIFE @I432533733891@
+1 CHIL @I432533733807@
+0 @F35@ FAM
+1 HUSB @I432533733634@
+1 WIFE @I432533733636@
+1 CHIL @I432533733418@
+0 @F36@ FAM
+1 HUSB @I432533733124@
+1 WIFE @I432533733126@
+1 CHIL @I432533732976@
+0 @F37@ FAM
+1 HUSB @I432533733897@
+1 WIFE @I432533733898@
+1 CHIL @I432533733814@
+0 @F38@ FAM
+1 HUSB @I432533733129@
+1 WIFE @I432533733132@
+1 CHIL @I432533732979@
+0 @F39@ FAM
+1 HUSB @I432533733900@
+1 WIFE @I432533733902@
+1 CHIL @I432533733818@
+0 @F40@ FAM
+1 HUSB @I432533733135@
+1 WIFE @I432533733139@
+1 CHIL @I432533732980@
+0 @F41@ FAM
+1 HUSB @I432533733913@
+1 WIFE @I432533733915@
+1 CHIL @I432533733836@
+0 @F42@ FAM
+1 HUSB @I432533734112@
+1 WIFE @I432533734120@
+1 CHIL @I432533733936@
+0 @F43@ FAM
+1 HUSB @I432533733825@
+1 WIFE @I432533733836@
+1 CHIL @I432533733755@
+0 @F44@ FAM
+1 HUSB @I432533734080@
+1 WIFE @I432533734081@
+1 CHIL @I432533733913@
+0 @F45@ FAM
+1 HUSB @I432533733058@
+1 WIFE @I432533733063@
+1 CHIL @I432533732771@
+0 @F46@ FAM
+1 HUSB @I432533732030@
+1 WIFE @I432533732035@
+1 CHIL @I432533731909@
+0 @F47@ FAM
+1 HUSB @I432533732036@
+1 WIFE @I432533732041@
+1 CHIL @I432533731913@
+0 @F48@ FAM
+1 HUSB @I432533733573@
+1 WIFE @I432533733565@
+1 CHIL @I432533733063@
+0 @F49@ FAM
+1 HUSB @I432533734086@
+1 WIFE @I432533734092@
+1 CHIL @I432533733915@
+0 @F50@ FAM
+1 HUSB @I432533733587@
+1 WIFE @I432533733579@
+1 CHIL @I432533733058@
+0 @F51@ FAM
+1 HUSB @I432533733839@
+1 WIFE @I432533733845@
+1 CHIL @I432533733763@
+0 @F52@ FAM
+1 HUSB @I432533734095@
+1 WIFE @I432533734103@
+1 CHIL @I432533733920@
+0 @F53@ FAM
+1 HUSB @I432533731472@
+1 WIFE @I432533731543@
+1 CHIL @I432533731471@
+0 @F54@ FAM
+1 HUSB @I432533733079@
+1 WIFE @I432533733081@
+1 CHIL @I432533732775@
+0 @F55@ FAM
+1 HUSB @I432533734104@
+1 WIFE @I432533734110@
+1 CHIL @I432533733922@
+0 @F56@ FAM
+1 HUSB @I432533733851@
+1 WIFE @I432533733855@
+1 CHIL @I432533733769@
+0 @F57@ FAM
+1 HUSB @I432533732771@
+1 WIFE @I432533732775@
+1 CHIL @I432533731979@
+0 @F58@ FAM
+1 HUSB @I432533734052@
+1 WIFE @I432533734061@
+1 CHIL @I432533733900@
+0 @F59@ FAM
+1 HUSB @I432533732008@
+1 WIFE @I432533732012@
+1 CHIL @I432533731942@
+0 @F60@ FAM
+1 HUSB @I432533733531@
+1 WIFE @I432533733545@
+1 CHIL @I432533733081@
+0 @F61@ FAM
+1 HUSB @I432533733560@
+1 WIFE @I432533733547@
+1 CHIL @I432533733079@
+0 @F62@ FAM
+1 HUSB @I432533733802@
+1 WIFE @I432533733807@
+1 CHIL @I432533733743@
+0 @F63@ FAM
+1 HUSB @I432533734063@
+1 WIFE @I432533734066@
+1 CHIL @I432533733902@
+0 @F64@ FAM
+1 HUSB @I432533732016@
+1 WIFE @I432533732027@
+1 CHIL @I432533731945@
+0 @F65@ FAM
+1 HUSB @I432533733814@
+1 WIFE @I432533733818@
+1 CHIL @I432533733744@
+0 @F66@ FAM
+1 HUSB @I432533734072@
+1 WIFE @I432533734075@
+1 CHIL @I432533733905@
+0 @F67@ FAM
+1 HUSB @I432533733819@
+1 WIFE @I432533733822@
+1 CHIL @I432533733752@
+0 @F68@ FAM
+1 HUSB @I432533732283@
+1 WIFE @I432533732285@
+1 CHIL @I432533731905@
+0 @F69@ FAM
+1 HUSB @I432533732992@
+1 WIFE @I432533732999@
+1 CHIL @I432533732027@
+0 @F70@ FAM
+1 HUSB @I432533733510@
+1 WIFE @I432533733507@
+1 CHIL @I432533733126@
+0 @F71@ FAM
+1 HUSB @I432533734019@
+1 WIFE @I432533734025@
+1 CHIL @I432533733891@
+0 @F72@ FAM
+1 HUSB @I432533733515@
+1 WIFE @I432533733513@
+1 CHIL @I432533733124@
+0 @F73@ FAM
+1 HUSB @I432533733769@
+1 WIFE @I432533733777@
+1 CHIL @I432533732041@
+0 @F74@ FAM
+1 HUSB @I432533734028@
+1 WIFE @I432533734032@
+1 CHIL @I432533733897@
+0 @F75@ FAM
+1 HUSB @I432533734035@
+1 WIFE @I432533734041@
+1 CHIL @I432533733898@
+0 @F76@ FAM
+1 HUSB @I432533731989@
+1 WIFE @I432533731995@
+1 CHIL @I432533731934@
+0 @F77@ FAM
+1 HUSB @I432533733107@
+1 CHIL @I432533732961@
+0 @F78@ FAM
+1 WIFE @I432533733525@
+1 CHIL @I432533733107@
+0 @F79@ FAM
+1 WIFE @I432533733144@
+1 CHIL @I432533732984@
+0 @F80@ FAM
+1 WIFE @I432533733908@
+1 CHIL @I432533733825@
+0 @F81@ FAM
+1 HUSB @I432533733930@
+1 CHIL @I432533733851@
+0 @F82@ FAM
+1 WIFE @I432533733880@
+1 CHIL @I432533733802@
+0 @F83@ FAM
+1 WIFE @I432533733905@
+1 CHIL @I432533733822@
+0 @F84@ FAM
+1 WIFE @I432533733521@
+1 CHIL @I432533733120@
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 31565
+3 _WDTH 1006
+3 _HGHT 127
+2 TITL Birth Mary Gerfield, 1737
+1 RIN 02833ab4-b646-4b4a-890d-2be83a3f2b7f
+1 _DSCR "Mary Gerfield the Daughter of Edward Gerfiedl & of Sarah his wife was born in Weston the 24th of January 1737/38.  1737"  This birth entry is located on Family History Library microfilm 892,239 page 56 and at FamilySearch.org historical browse col
+2 CONC lection Massachusetts, Town Clerk, Vital and Towns Records, 1579-2001. A birth entry is also founce on FHL microflm 892,241 page 52 where the surname appears more like Garfield. 
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:34:27.277
+1 _USER hh54/brFthc14K2R7fYYY9kqJlrLyh8yu7J0151Vcb2Qc1xTkbAIU2hBWl/Ryog1xtr3Sh8N5n7SdLBYxP0+zw==
+2 _ENCR 1
+1 _CLON
+2 _TID 8682598
+2 _PID -911096669
+2 _OID 101701f2-a2e8-4f66-8431-02a44923394f
+2 _USER EjjqalvDFMNa7miSZCjIq/MFtWo4hHeGPmvTRMfwO0WnY6clafPm0pLOE2tDFjiUBjqIaTxAR662r7/Y7gA0nQ==
+3 _ENCR 1
+2 _DATE 2013-01-29 03:59:11.000
+1 _ORIG u
+1 _MSER
+2 _LKID 101701f2-a2e8-4f66-8431-02a44923394f
+1 _ATL N
+0 @O2@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE headstone
+3 _STYPE jpeg
+3 _SIZE 116806
+3 _WDTH 500
+3 _HGHT 375
+2 TITL Headstone - Elizabeth and Lewis Fowlow
+1 RIN 02f437ff-b6aa-4a08-be1f-99e72fd16801
+1 PLAC Port Rexton, Newfoundland and Labrador, Newfoundland
+1 _META <metadataxml><cemetery>Anglican Cemetery</cemetery><personas><persona><pname /><bdate /><bplace /><ddate /><dplace /></persona></personas></metadataxml>
+1 _CREA 2023-10-18 01:21:31.366
+1 _USER czKQblZkuS/Cn/IsGTdTI4zBNB4iuN6vQVUsiMjNQjAt2k6YmMQNv7ay/xyjlgxYejcyPony/+meo7SbGdRJOg==
+2 _ENCR 1
+1 _CLON
+2 _TID 45487204
+2 _PID 6370609200
+2 _OID 3c36c2ba-641e-476e-b9fe-4fb8f6f33448
+2 _USER KbAE3oGnOFSsfLRl2vQoulXIchGDjssWTd07Hviab15wIVqv4kScWuR7EV9xywMvjxJqEue3Nom09mRqjTmYsA==
+3 _ENCR 1
+2 _DATE 2021-08-01 23:16:44.000
+1 _ORIG u
+1 _MSER
+2 _LKID 3c36c2ba-641e-476e-b9fe-4fb8f6f33448
+1 _ATL N
+0 @O3@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 617269
+3 _WDTH 4694
+3 _HGHT 2055
+2 TITL Fowlow Thomas Elizabeth Dewey Mar 1791
+1 RIN 09329d83-a1f1-4706-bd0d-bb4988aceb41
+1 DATE 1791
+1 PLAC Trinity 
+1 _DSCR Marriage
+1 _META <metadataxml><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:38:04.489
+1 _USER hsLC5SLrcQ8H+n1HputSZ2e4p/P9V9r41LjaCKFdk9X4N1V0EuR26FAqCx53pLla6WhhQPsAr+jJ+Bz85AdJEg==
+2 _ENCR 1
+1 _CLON
+2 _TID 52086088
+2 _PID 13324380310
+2 _OID 91947dc9-5acc-41fd-a34c-3e89bca5324c
+2 _USER x4rA9I8x7i8e4LWe570zgf4TNJaixchQwfFf9jMv1yaPbjvt12o7CCGqE6tbVjAHKmfWIla8fRzpTkB6C1aMDg==
+3 _ENCR 1
+2 _DATE 2017-12-04 13:59:31.000
+1 _ORIG u
+1 _MSER
+2 _LKID 91947dc9-5acc-41fd-a34c-3e89bca5324c
+1 _ATL N
+0 @O4@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 69420
+3 _WDTH 528
+3 _HGHT 448
+2 TITL Durocher, Catherine Derocher or - Bapt 1774
+1 RIN 09d43f5c-1dab-4ade-8ec7-309daea1fb57
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:31:16.516
+1 _USER k+F10aB+rpNPgM+chvfoq2oqlfOLPPBZVZvSboCxWcGLIIvlRwvfem6eKsc2rAnjNfoFyMfOstkvm9zS3A4e+A==
+2 _ENCR 1
+1 _CLON
+2 _TID 5855390
+2 _PID -1384289799
+2 _OID 94b8a513-c0ba-41b6-8495-495ebf5b22b3
+2 _USER cmfjzg1wfNTLI3Y4bdTnFaFka3fiGRSZTmt7gkoDRoSZwbqndl1oWtMmd4rN/SxDZmW1ye1+PpDuD0Y/Q8mDcg==
+3 _ENCR 1
+2 _DATE 2010-08-23 20:58:31.000
+1 _ORIG u
+1 _MSER
+2 _LKID 94b8a513-c0ba-41b6-8495-495ebf5b22b3
+1 _ATL N
+0 @O5@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 882201
+3 _WDTH 3488
+3 _HGHT 2768
+2 TITL 1790UnitedStatesFederalCensus Mordecai Cole
+1 RIN 0ed23812-dfbc-42cd-a9a8-43e2e91815ad
+1 DATE 1790
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:34:19.767
+1 _USER z5yzPTFTrBles/VVC1qeQfLLlm/PoavalyNvYp+NEbZdN2janmdOCIWY/pfNV4zeQgisRXJhPtMeVtakHwzJ4A==
+2 _ENCR 1
+1 _CLON
+2 _TID 6071592
+2 _PID -1327978723
+2 _OID 37e39673-af99-44b8-9d0c-7c211b8fd80b
+2 _USER wiMPOjTb0iz/lgr+SIwtJ424juV/ubVDz3wzSaaXf4iopE2iuLf43JjNAXpioaYYV9AuZCWb6trvvrabE4tAEA==
+3 _ENCR 1
+2 _DATE 2012-08-15 00:37:32.000
+1 _ORIG u
+1 _MSER
+2 _LKID 37e39673-af99-44b8-9d0c-7c211b8fd80b
+1 _ATL N
+0 @O6@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 194108
+3 _WDTH 1275
+3 _HGHT 1650
+2 TITL Marker John Greenleaf Whittier
+1 RIN 14141c20-88e3-4d4a-9765-ebfc8f3fb854
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:34:46.829
+1 _USER LaEoTnh15IO9c06HTT+VaaAhybcluB+RUC3KQzspHhmap8DxA6UhaZeTfNlyWVrzwsJMTC5IPsnaIyz6Yjc8OA==
+2 _ENCR 1
+1 _CLON
+2 _TID 13189189
+2 _PID 1137508055
+2 _OID 74dda202-21b4-4adf-be3c-005e4f1fce9b
+2 _USER Q+vfIlYPemSpwyTGh8pvwNiRnWiE6vivuCtX3GFGhIG+5oWCDXP9v1K2F6k6UC6hczosJhZZdUYfTDfMUqspMw==
+3 _ENCR 1
+2 _DATE 2010-10-19 04:50:46.000
+1 _ORIG u
+1 _MSER
+2 _LKID 74dda202-21b4-4adf-be3c-005e4f1fce9b
+1 _ATL N
+0 @O7@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE png
+3 _SIZE 17792
+3 _WDTH 195
+3 _HGHT 203
+2 TITL arbres ancestres
+1 RIN 18b3c294-12bb-4b80-a224-204db25eabc5
+1 _CREA 2023-10-18 01:31:13.610
+1 _USER CHnBbAx0PZNYwUa7ipk+eOUwmHRKUnzhNyrV3FAQnGEyhZXPh46RaD3nwGUAfmdKuncS4ePxjkCiiZThN8Lwxw==
+2 _ENCR 1
+1 _CLON
+2 _TID 180043928
+2 _PID 322343939412
+2 _OID 9aa6683b-3d36-4746-8137-9e6be4de8066
+2 _USER 2BCpyK6ggxXLHKfvB9CxNgTYgL09roOuJJHl23twMqIGdbAkCy3SzALmEJpiSRwt+q5SdrQ49si5el6szgVr9A==
+3 _ENCR 1
+2 _DATE 2022-04-17 19:00:52.137
+1 _ORIG u
+1 _MSER
+2 _LKID 9aa6683b-3d36-4746-8137-9e6be4de8066
+1 _ATL N
+0 @O8@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 68582
+3 _WDTH 472
+3 _HGHT 358
+2 TITL Marie Louise Boudreau
+1 RIN 1b7aca6f-d64e-4dd8-ad89-40431948a6d4
+1 _CREA 2023-10-18 01:35:26.854
+1 _USER ogNnT5YfB9u5qUdhTr6xTK+tzSCN7slo93EGQdAYkHktpKGSIuXz+KyCHV8kaNieYCJVN1OPBvqS4tNN0JSSNA==
+2 _ENCR 1
+1 _CLON
+2 _TID 74267370
+2 _PID 242318797463
+2 _OID d6d807ac-8a16-4c7f-b0f9-c05dfea95c23
+2 _USER DreubmvUHiYg5abzdddaNRQN5QLI40Rpt3XrYcK5yZRHInmkq1h77zpiqHUI2rCR6ZWPpDf7EzJSeXoW2/aC0w==
+3 _ENCR 1
+2 _DATE 2021-10-19 14:07:12.000
+1 _ORIG u
+1 _MSER
+2 _LKID d6d807ac-8a16-4c7f-b0f9-c05dfea95c23
+1 _ATL N
+0 @O9@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE png
+3 _SIZE 266402
+3 _WDTH 602
+3 _HGHT 928
+2 TITL 1753 Trinity Census
+1 RIN 1c71e6e5-1771-4f4d-b99e-5c7ceda0aadd
+1 DATE 1753
+1 PLAC Trinity, Newfoundland and Labrador, Canada
+1 _DSCR From http://ngb.chebucto.org
+1 _CREA 2023-10-18 01:40:44.942
+1 _USER SYKa0HA9LiQANWdqLSJIMMsfFt3aVE5BIE853RsCmh+mvTJxB3LZquzYKhGVblI23meCqsMpAzodKmuHBArhhA==
+2 _ENCR 1
+1 _CLON
+2 _TID 55519091
+2 _PID 250045098556
+2 _OID dbab8678-b47e-49ff-8f83-2c609cc36179
+2 _USER V1tNHr2xWTX6zKOVnUXS+ZmPaA39kQvxO86MzYbl2M2e58Hj7X76r5itSevR87Ir9X2g0Iy9xHN09lHO7lBKvQ==
+3 _ENCR 1
+2 _DATE 2019-02-05 21:42:48.000
+1 _ORIG u
+1 _MSER
+2 _LKID dbab8678-b47e-49ff-8f83-2c609cc36179
+1 _ATL N
+0 @O10@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE png
+3 _SIZE 7247
+3 _WDTH 1366
+3 _HGHT 648
+2 TITL Bowen Widower Elizabeth Davies Marriage England
+1 RIN 1cd5ddb0-dfdf-4a85-9464-224e2c7110c3
+1 _CREA 2023-10-18 01:40:53.744
+1 _USER ZdzsNFgI/jKNNWTW8mr6QFgjdYL47r+u+LMigxdzjEttgENywomSYAYuIgJgAt+K3S+WcW4liHDG2r6DK5OYjA==
+2 _ENCR 1
+1 _CLON
+2 _TID 52086088
+2 _PID 360130792779
+2 _OID 5f5e6020-4d47-4c8b-818f-1b0f75e19923
+2 _USER RK+J1FQ/9zM7s/VkNJ8/m8SKBHMKK22IApoOsRfiPZ4rujrgCdnP5hAgJE0KaCBMRjZzXVOdTLOXyUWywjfc7A==
+3 _ENCR 1
+2 _DATE 2017-08-11 14:40:15.000
+1 _ORIG u
+1 _MSER
+2 _LKID 5f5e6020-4d47-4c8b-818f-1b0f75e19923
+1 _ATL N
+0 @O11@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 39218
+3 _WDTH 400
+3 _HGHT 400
+2 TITL Death
+1 RIN 1d208b06-9346-444a-a827-319ded637221
+1 DATE 14 Feb 1958
+1 PLAC Detroit, Michigan
+1 _CREA 2023-10-18 01:21:39.874
+1 _USER FNMg0sZJ/DAlhinBp2nvgmYZvL/CFntPl/u656+g3mXNbwYHm/yhedxXqGEuXoBHhxH1Qr76l4Fr0O06h/u+gA==
+2 _ENCR 1
+1 _CLON
+2 _TID 17647512
+2 _PID 262184638727
+2 _OID 17857cff-49ac-4fd4-84b7-9bc744893129
+2 _USER dFzo6Hmo9/kYw+nV9eXdLAzmG+EdsSnf/LXrZXds641a1pZvmIYy33X9wKjhHT+ykY9CKtuagUEPQMo7D5R3lw==
+3 _ENCR 1
+2 _DATE 2020-03-29 01:43:37.000
+1 _ORIG newspapers
+2 _URL https://www.newspapers.com/clip/47564853/detroit-free-press/?xid=865
+1 _MSER
+2 _LKID 17857cff-49ac-4fd4-84b7-9bc744893129
+1 _ATL N
+0 @O12@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 122173
+3 _WDTH 472
+3 _HGHT 632
+2 TITL Julia Turner headstone
+1 RIN 208ab2fd-9a6e-498b-99ab-0402b65519c7
+1 _DSCR Birth: 	1779
+2 CONT Death: 	Jan. 13, 1859
+2 CONT 
+2 CONT Wife of John H. Wheeler 
+2 CONT  
+2 CONT Burial:
+2 CONT Halleys Ridge Cemetery 
+2 CONT Ava
+2 CONT Noble County
+2 CONT Ohio, USA
+2 CONT  
+2 CONT Edit Virtual Cemetery info [?]
+2 CONT  
+2 CONT Created by: Pamela Myers-Grewell
+2 CONT Record added: Jan 07, 2007 
+2 CONT Find A Grave Memorial# 17341935
+2 CONT 
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:31:53.459
+1 _USER nYgjLu0Xw+eHW+aa6ZqJOYdU58KFfojc2vBBATkcr3/ylcSnds4ei4mLON08Kh049YwcW44b6ARNgsdIkZ8vyA==
+2 _ENCR 1
+1 _CLON
+2 _TID 2960166
+2 _PID -1795970334
+2 _OID 26e04330-a43d-4a1f-81cc-df48d0aab188
+2 _USER 1gWaoHYxgtKrXU3/ytp8jcItE1NyCOQgua3qYw1klR8KEJOUQqtIAHpNlzLcNNPDmdFWghQDhzW+gs/tP4HnDA==
+3 _ENCR 1
+2 _DATE 2015-01-25 01:43:00.987
+1 _ORIG u
+1 _MSER
+2 _LKID 26e04330-a43d-4a1f-81cc-df48d0aab188
+1 _ATL N
+0 @O13@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 40171
+3 _WDTH 250
+3 _HGHT 295
+2 TITL  Margaret Crocker Fowlow
+1 RIN 23f29de6-e93a-4624-9d5f-1278e0a8002f
+1 DATE 20 Apr 1874
+1 PLAC Port Rexton, Bonavista-Trinity Census Division, Newfoundland and Labrador, Canada
+1 _CREA 2023-10-18 01:22:27.341
+1 _USER /8E+gQLx4Y7pBTULgP69BKzQnsMkmR/AldLVQhazLrSXZOzfNk2xk8RH1yUeRcjRW70HLUWemp7jc2d3Ah6yrg==
+2 _ENCR 1
+1 _CLON
+2 _TID 156541118
+2 _PID 282200502331
+2 _OID 8c5d1caa-ff5d-40fc-866b-8b8c13b264f8
+2 _USER 1hBlztXD2T+mNYW/wiYpKlYtHu5VIuNeDX+oeNDTxPALOT1gLy3OWhvvpf4lbx2vszX36bpXSJqiK+seS1agow==
+3 _ENCR 1
+2 _DATE 2022-09-29 01:29:26.408
+1 _ORIG u
+2 _URL https://www.findagrave.com/memorial/142871239/margaret-fowlow
+1 _MSER
+2 _LKID 8c5d1caa-ff5d-40fc-866b-8b8c13b264f8
+1 _ATL N
+0 @O14@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 290571
+3 _WDTH 2149
+3 _HGHT 1295
+2 TITL D1861-Jean-Baptiste M
+1 RIN 28a25b0b-16f5-4b39-989f-8d269aa45db0
+1 _CREA 2023-10-18 01:29:41.704
+1 _USER nS13/Yei60gV7qqMOB3n0gVqhaZQQWxvYWhWG4QsAsY72U2QY6aCOtV8eEIhqf7xvS63Yx+2sv4wdTi1gEhAnw==
+2 _ENCR 1
+1 _CLON
+2 _TID 45494795
+2 _PID 24895770019
+2 _OID 10961a75-a96a-4815-97a1-ecf613b5c7b8
+2 _USER aNo3k/5mX3g73whTPsDl24iHT1GxA9z+0tnwVTN2ZYSVS/OMF0h8b1lssk6p0KunyrYfeE/zh3iS/Vx/BSJOuQ==
+3 _ENCR 1
+2 _DATE 2017-01-30 22:52:21.000
+1 _ORIG u
+1 _MSER
+2 _LKID 10961a75-a96a-4815-97a1-ecf613b5c7b8
+1 _ATL N
+0 @O15@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 8899
+3 _WDTH 259
+3 _HGHT 194
+2 TITL Bateau FR
+1 RIN 2b44e1a4-e8f5-4621-b2da-9cf751a7c0c4
+1 _CREA 2023-10-18 01:35:09.918
+1 _USER fHkpAxTe3wsyIHR7nVcvBfp5HXkYSJZW1oTpMEVq1Vc0aDkGBfNkjnNCRR9CDzY5rvb6kGBNw7fiXaul1n4L9A==
+2 _ENCR 1
+1 _CLON
+2 _TID 180043928
+2 _PID 322348275862
+2 _OID da275a02-99a0-4231-aa6b-9df38c81df9a
+2 _USER ixZ4q1+/UieEeKjn+uOuQXlhDVBvSf2hN3vyf+n15VLaD7FlgaUykuA2uJp00p4IDhzdTXHWkPdJ0LsK5VIi0Q==
+3 _ENCR 1
+2 _DATE 2022-04-28 20:05:49.657
+1 _ORIG u
+1 _MSER
+2 _LKID da275a02-99a0-4231-aa6b-9df38c81df9a
+1 _ATL N
+0 @O16@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 39321
+3 _WDTH 250
+3 _HGHT 188
+2 TITL  Stephen Wiseman Crocker
+1 RIN 32246739-9f33-498c-8087-21718ad28cac
+1 DATE 31 Aug 1876
+1 PLAC Trinity, Bonavista-Trinity Census Division, Newfoundland and Labrador, Canada
+1 _CREA 2023-10-18 01:37:50.951
+1 _USER QjRweDXQ5u3QwV26bnBuWe/hGRfbgm5+zSOOquKxXQfV6By/DLFobe2282dTFKszomgrCeJ1NV1Rm7rM0aBk2w==
+2 _ENCR 1
+1 _CLON
+2 _TID 65485169
+2 _PID 230064567450
+2 _OID ab74cd6f-0510-45c5-a548-477ff7523346
+2 _USER 7MZ20zqw7jnxdMdko9Bya3KQuV7Sm4rkDARmLMqndbFfj/ESezGIA12XLzN8MWrWVGgl1Cy0XHvol0lLnYZa/Q==
+3 _ENCR 1
+2 _DATE 2018-06-04 04:32:21.000
+1 _ORIG u
+2 _URL https://www.findagrave.com/memorial/182643693/stephen-wiseman-crocker
+1 _MSER
+2 _LKID ab74cd6f-0510-45c5-a548-477ff7523346
+1 _ATL N
+0 @O17@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 49709
+3 _WDTH 250
+3 _HGHT 334
+2 TITL  Margaret “Mary” Hamilton DeLong
+1 RIN 3aaa7b9c-2b54-43e4-8042-0ff951f931bb
+1 DATE 17 Oct 1835
+1 PLAC Caldwell, Noble County, Ohio, USA
+1 _CREA 2023-10-18 01:34:32.087
+1 _USER 6eei72OKzZukCLIP64p26GccgYfGcqZPUcVGCax5+9LgnVGJD+wbaov+y1msziMEe+OKB/cJkOS3nIz2qeKU3Q==
+2 _ENCR 1
+1 _CLON
+2 _TID 41385589
+2 _PID 170179043379
+2 _OID 63eae54a-b3c7-44dd-85c0-7bebef03803d
+2 _USER oGFhUSMorXfcFvHBi4Ia1/KXJdlwXzCtncYXHgnoQjqk0fX2kZGIkJG/F+rOteChM9I4G/6h764fHfDkoNhhpg==
+3 _ENCR 1
+2 _DATE 2019-01-21 20:51:40.000
+1 _ORIG u
+2 _URL https://www.findagrave.com/memorial/60114108/margaret-delong
+1 _MSER
+2 _LKID 63eae54a-b3c7-44dd-85c0-7bebef03803d
+1 _ATL N
+0 @O18@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE headstone
+3 _STYPE jpeg
+3 _SIZE 3251549
+3 _WDTH 2592
+3 _HGHT 3456
+2 TITL Ann E Dampier Jenkins headstone
+1 RIN 409207f8-6f06-4bc2-98e0-cecb3f560c4c
+1 PLAC Trinity, NL
+1 _META <metadataxml><cemetery>New Anglican Cemetery</cemetery></metadataxml>
+1 _CREA 2023-10-18 01:37:41.103
+1 _USER MUAJRmnSjJQNmq+rhPANv47mqgQ8tX1gc5oC1ZACqjgdafGO4P2G90FELeTMzIZF2oqlT4DTiJbzui+Lik+sHg==
+2 _ENCR 1
+1 _CLON
+2 _TID 74453970
+2 _PID 30295751576
+2 _OID 1aeb21e8-9b15-4377-8963-e3fdcd2a2d92
+2 _USER DMABKueEeZE56yNZXfhRxqoGEiqcHd9IJmFyIYmJjiQsO3MsBsJXeMI/5XCvoVypt5Rn+0kGKUfXJxJSUjtYqg==
+3 _ENCR 1
+2 _DATE 2020-08-09 23:20:00.000
+1 _ORIG u
+1 _MSER
+2 _LKID 1aeb21e8-9b15-4377-8963-e3fdcd2a2d92
+1 _ATL N
+0 @O19@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 2127696
+3 _WDTH 3264
+3 _HGHT 2448
+2 TITL Port Rexton Anglican Cemetery
+1 RIN 4276c40a-00bf-40d8-a3cf-7f53f60da5c5
+1 _DSCR Thomas Jenkins Fowlow
+2 CONT Memorial
+2 CONT Photos
+2 CONT Flowers
+2 CONT Edit
+2 CONT Share
+2 CONT Learn about sponsoring this memorial...
+2 CONT Birth: 	unknown
+2 CONT Death: 	Aug. 6, 1929
+2 CONT 
+2 CONT Age 66 years 6 months. 
+2 CONT  
+2 CONT Family links: 
+2 CONT  Spouse:
+2 CONT   Elizabeth Fowlow (1868 - 1955)*
+2 CONT  
+2 CONT  Children:
+2 CONT   Lewis Fowlow (1901 - 1956)*
+2 CONT  
+2 CONT *Calculated relationship
+2 CONT  
+2 CONT Burial:
+2 CONT Port Rexton Anglican Cemetery 
+2 CONT Trinity Bay North
+2 CONT Bonavista-Trinity Census Division
+2 CONT Newfoundland and Labrador, Canada
+2 CONT  
+2 CONT Created by: R.
+2 CONT Record added: Mar 01, 2015 
+2 CONT Find A Grave Memorial# 143215976
+2 CONT 
+1 _CREA 2023-10-18 01:21:29.613
+1 _USER FR4dQE90RR3iOvje4m4SFLz8qxPcuHVoCS6tKUYzQA5COjaaRuPnB6Rickt4naILKiHWzfxx3GWDXknyNw7n4A==
+2 _ENCR 1
+1 _CLON
+2 _TID 109170322
+2 _PID 380144821262
+2 _OID 560babe5-5912-42cf-92cb-6b4e0a677294
+2 _USER X5e7P30+d6+H5MEh3cNMj0aS+Uuhgu2hTD8bkRnpwPIFiFJKi46ISr6SE82x4E+xnM4yGyN/uvS1IT/oiyzryw==
+3 _ENCR 1
+2 _DATE 2017-10-24 03:09:46.000
+1 _ORIG u
+1 _MSER
+2 _LKID 560babe5-5912-42cf-92cb-6b4e0a677294
+1 _ATL N
+0 @O20@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE other
+3 _STYPE jpeg
+3 _SIZE 130301
+3 _WDTH 503
+3 _HGHT 664
+2 TITL Les Cedres St-Joseph-de-Soulanges
+1 RIN 43c02de2-2d31-43ba-b73a-3f31db99a14e
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:31:08.778
+1 _USER eYF+FGVdJPEBWvu9iy3FQIVneLPBnry7EujfHLADS082sNU7RV7ItqTvZ99Z/kTnUmUm2RxHi6xSJ3vKlNjn4Q==
+2 _ENCR 1
+1 _CLON
+2 _TID 13662262
+2 _PID 12486235372
+2 _OID dc941e1e-fb7d-4595-b05b-d6d5f849f3ee
+2 _USER FCTjkgPuBj5u/yLvNy+Rzzi06aI/PNjjH4oO3dmkR8KLlYN3bnn+FZBJnIwWqI6s35Mv1TkNzOCBykBA93aAow==
+3 _ENCR 1
+2 _DATE 2013-06-13 00:20:53.000
+1 _ORIG u
+1 _MSER
+2 _LKID dc941e1e-fb7d-4595-b05b-d6d5f849f3ee
+1 _ATL N
+0 @O21@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 8190
+3 _WDTH 234
+3 _HGHT 400
+2 TITL dna string common ancester
+1 RIN 477cf501-d54c-4e50-adf1-dd5200c80669
+1 _CREA 2023-10-18 01:40:38.059
+1 _USER 2x/vlLAVC9Ob0ET2bsvROLWbVirlc3NEinYajtTTDItHoxxjPASeRIlsRQbVhkiLVi/jhVNjxvlwn4lCKAU9iw==
+2 _ENCR 1
+1 _CLON
+2 _TID 109170322
+2 _PID 380117889244
+2 _OID 5a47b2a7-7475-42e5-a8c3-ff2ae46c6c88
+2 _USER tFKKuP8mzo/RKXhk3MDFmCUHIv9LYNAejSf2uyeIm+HOiOvYq0Msuu8o1F8XkABdRGqoWZdbYTUPnCoI8ASryQ==
+3 _ENCR 1
+2 _DATE 2019-09-08 20:12:15.000
+1 _ORIG u
+1 _MSER
+2 _LKID 5a47b2a7-7475-42e5-a8c3-ff2ae46c6c88
+1 _ATL N
+0 @O22@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE other
+3 _STYPE jpeg
+3 _SIZE 28994
+3 _WDTH 295
+3 _HGHT 300
+2 TITL Revolutionary War soldier
+1 RIN 4ab5d86a-4981-4d92-bfed-ec63709e5e65
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:34:29.256
+1 _USER esyQQcvSJbdEgiA5SGoeJLXdTVHYU/Kv7Nos/kQn8UYLj3EbEB12e71dxV4NlrZS9DmBm/HwjO9oYlzc4pGCbw==
+2 _ENCR 1
+1 _CLON
+2 _TID 28064247
+2 _PID 26035182382
+2 _OID b3fd4715-252f-4455-8860-47f52d2e29c2
+2 _USER UBTYVIxuwglbyrwG9TDIFXCOL8Qf7AgQZT9Ja/nnDiqAuiJM6ZsFEjwMrTVmn8YYhazlkuMbo3t0Bk11sVhuXQ==
+3 _ENCR 1
+2 _DATE 2013-10-19 02:25:55.000
+1 _ORIG u
+1 _MSER
+2 _LKID b3fd4715-252f-4455-8860-47f52d2e29c2
+1 _ATL N
+0 @O23@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE other
+3 _STYPE jpeg
+3 _SIZE 8524739
+3 _WDTH 7509
+3 _HGHT 9049
+2 TITL Jenkins of Trinity article
+1 RIN 4b557876-9f5d-419e-b01c-18df8f52ca88
+1 _DSCR Evening Telegram (St. John's, N.L.), 19 Feb 1924, page 8
+1 _CREA 2023-10-18 01:37:38.427
+1 _USER dZRlTStCnMDS7wFMtYg2+KjzKQdPHcN5E040zW4j3wPBlkiKstvAg/pPdpKnq8baPXIJamMOeaA0mX0kkCiR9g==
+2 _ENCR 1
+1 _CLON
+2 _TID 74453970
+2 _PID 30295751575
+2 _OID 2897afca-cb17-4d16-90ab-6d6ad3d80e28
+2 _USER 21f5K8cT2XTxftz8sPkWfIpgU5BXMTrJrnDjmyIuXgS6qMQ9FVfO0/JlhKrlAwPW+8Jdb1qb0Edx8g0bbgI4HA==
+3 _ENCR 1
+2 _DATE 2020-08-10 00:06:07.000
+1 _ORIG u
+1 _MSER
+2 _LKID 2897afca-cb17-4d16-90ab-6d6ad3d80e28
+1 _ATL N
+0 @O24@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 6204
+3 _WDTH 160
+3 _HGHT 120
+2 TITL Edward Wheeler cemetery (Dudley Cemetery)
+1 RIN 4bf37b5e-a222-43ca-be51-b77e1eecb764
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:31:50.781
+1 _USER nAt1X2hNBsg38hhR8gKnfti91FaS9IKH7UWXQL39hFkwy289PgR+oEhhgTd7BykFWkyko3pATVfSmQBgUHkaNg==
+2 _ENCR 1
+1 _CLON
+2 _TID 2960166
+2 _PID -1795970333
+2 _OID 1b0c5e87-a81a-4012-b498-e848debad429
+2 _USER /orgrn9bhAo5AmAKic1fH/uyYcVTBjJ8aC7UA901HL+a9sIhqdpQmNaqpZN1F0kn0aCucebHJ6T5+KTpqtLilw==
+3 _ENCR 1
+2 _DATE 2015-01-25 02:05:06.870
+1 _ORIG u
+1 _MSER
+2 _LKID 1b0c5e87-a81a-4012-b498-e848debad429
+1 _ATL N
+0 @O25@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 856578
+3 _WDTH 2464
+3 _HGHT 1676
+2 TITL MIVILLE JEAN BAPTISTE - CATHERINE AVON MARRIAGE 10 JUN 1811
+1 RIN 555c81c7-e8df-4564-8898-eacadbef6ff6
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:29:43.985
+1 _USER sLV3dODmbR90iB+yIMCa2rh3TM1D/NT8yZl6h2xt/xreRP6yX+0n18w3ygASj6495gkIj2JxYH0FjgWjiiVRmg==
+2 _ENCR 1
+1 _CLON
+2 _TID 1020310
+2 _PID -1880959032
+2 _OID fb94d4f4-eb02-40eb-b241-aa42d4ab87d6
+2 _USER bRXkL4auNID8qr8GKQojcr495D+X5+gxr5A0lT3ONaqzMmDi/oSiysgPOqhsXt3rSUJdmZRy+aVVVmiha02Puw==
+3 _ENCR 1
+2 _DATE 2015-09-28 02:58:37.000
+1 _ORIG u
+1 _MSER
+2 _LKID fb94d4f4-eb02-40eb-b241-aa42d4ab87d6
+1 _ATL N
+0 @O26@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE png
+3 _SIZE 266402
+3 _WDTH 602
+3 _HGHT 928
+2 TITL 1753 Trinity Census
+1 RIN 57b38c3e-3c30-4520-9216-330c05c879d0
+1 DATE 1753
+1 PLAC Trinity, Newfoundland and Labrador, Canada
+1 _DSCR From http://ngb.chebucto.org
+1 _CREA 2023-10-18 01:41:04.824
+1 _USER CJ/Hny/aNnb4/WSr/eEfU53jzbhp+DvJYzEM1nJqHZ0zVFFjK6lvXYKaOccfmW+nCqxM90u61lsIsqK172YzcQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 55519091
+2 _PID 250045098556
+2 _OID dbab8678-b47e-49ff-8f83-2c609cc36179
+2 _USER C/OnT343IlFrDQc+5QNKESl/NQVJKQBot3/7H0IlGn02hpqGyDS2F4BkQH/G1XfpVkxuqLeXhXzuLMUwoflilA==
+3 _ENCR 1
+2 _DATE 2019-02-05 21:42:48.000
+1 _ORIG u
+1 _MSER
+2 _LKID dbab8678-b47e-49ff-8f83-2c609cc36179
+1 _ATL N
+0 @O27@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 59322
+3 _WDTH 400
+3 _HGHT 400
+2 TITL Obituary
+1 RIN 598ca000-a2a5-485a-9872-e27d9e88b039
+1 DATE 25 Sep 1907
+1 PLAC Detroit, Michigan
+1 _CREA 2023-10-18 01:22:08.272
+1 _USER +bzkvyOo9E8jR7my7nQil2NioynEMGxSAoDXPvT6CcFKXiQlsbz/kpEpZw8oi0uLfwknEfNi8GtUvm2I4S/0RQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 7228477
+2 _PID 2054271702
+2 _OID 46140be7-e539-40e8-99e9-f0643f481910
+2 _USER mwi7psS4cnbpdcvtPSOLMxywoTAlUSlQI4rKLgNZem8oFUTYyy+2Ad+eCXIz15v7H7QrKuHpMjleIFbkk3rrnQ==
+3 _ENCR 1
+2 _DATE 2019-12-23 17:55:28.000
+1 _ORIG newspapers
+2 _URL https://www.newspapers.com/clip/40980879/detroit_free_press/?xid=865
+1 _MSER
+2 _LKID 46140be7-e539-40e8-99e9-f0643f481910
+1 _ATL N
+0 @O28@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 43634
+3 _WDTH 250
+3 _HGHT 352
+2 TITL Findagrave  Richard Fowlow
+1 RIN 5bd5558e-bc35-4527-859f-f7f1db8afa73
+1 DATE 12 Nov 1907
+1 PLAC Port Rexton, Bonavista-Trinity Census Division, Newfoundland and Labrador, Canada
+1 _CREA 2023-10-18 01:22:21.001
+1 _USER 6u64H2AISiK6e0IHPgkyOw4DTQ1f86a5yPkCSkBzKfvMOf1m5wXXLAnoO0Ndfk4Uo7189cgekVQfnrMjqVMIfg==
+2 _ENCR 1
+1 _CLON
+2 _TID 156541118
+2 _PID 282214014727
+2 _OID 168d8070-9084-43a8-9568-7538b55373fa
+2 _USER mSa1KTm3wfUmK0bV1m//Zp6qhOiABSkahEfFh2fCSjWmmdT3pSTC+0JGVZQtI5mpUGth60YTtDS2pPqEqu1aFw==
+3 _ENCR 1
+2 _DATE 2021-09-29 00:07:02.000
+1 _ORIG u
+2 _URL https://www.findagrave.com/memorial/143145242/richard-fowlow
+1 _MSER
+2 _LKID 168d8070-9084-43a8-9568-7538b55373fa
+1 _ATL N
+0 @O29@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 112547
+3 _WDTH 600
+3 _HGHT 394
+2 TITL Connecticut1895
+1 RIN 5c875f08-9335-43a9-a71c-d784a289bbc5
+1 _CREA 2023-10-18 01:34:14.053
+1 _USER Bfk6QqltfsHqmkdn3tWLOKFy5o9omhdsCJZC6ucpIXfXPvJxKIWQUmA9/3kHRD8DkuDKj2JmtLRcRLvJIgDAKQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 151668545
+2 _PID 292017805246
+2 _OID 3940b493-fce0-4cd5-8537-41f32e1e26f3
+2 _USER G2ERUGJBuRYQaPDlwLwRuYefwilzG977NyNrZTFDbFC9g3hrY8Gsi//T63T+m3rQug77cRhVs5E5pji5BU3JIg==
+3 _ENCR 1
+2 _DATE 2018-10-08 11:28:49.000
+1 _ORIG u
+1 _MSER
+2 _LKID 3940b493-fce0-4cd5-8537-41f32e1e26f3
+1 _ATL N
+0 @O30@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE png
+3 _SIZE 7247
+3 _WDTH 1366
+3 _HGHT 648
+2 TITL Bowen Widower Elizabeth Davies Marriage England
+1 RIN 5ce7686e-494d-4e12-b7f8-1742eaae8ccc
+1 _CREA 2023-10-18 01:40:20.187
+1 _USER WeULnxYoAiDi8BqW5VhxnMkzlQJofGbxk2T+9T4Ue5n7y+COLsdJp7hhUfNNYrVUF/9Pjimd84W7zQAlfcBjRQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 52086088
+2 _PID 360130792779
+2 _OID 5f5e6020-4d47-4c8b-818f-1b0f75e19923
+2 _USER VFXSNknrd6cGnmItpO4ximQc87074lxAs14/YQuSGB72/UU5bBDeHc8FOkISrustGg9C3NQxoRXzIUKMhWt5+A==
+3 _ENCR 1
+2 _DATE 2017-08-11 14:40:15.000
+1 _ORIG u
+1 _MSER
+2 _LKID 5f5e6020-4d47-4c8b-818f-1b0f75e19923
+1 _ATL N
+0 @O31@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 198142
+3 _WDTH 1465
+3 _HGHT 661
+2 TITL 1817, Nov.11, Marriage of Joseph Fowlow & Mary Cook
+1 RIN 68140f8c-c3f3-4787-ac42-e24cb7d8695b
+1 PLAC St. Paul's Anglican church transcription : ngb.chebucto.org  Parish records, Trinity Bay
+1 _META <metadataxml><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:37:36.087
+1 _USER Ni+a03jfXJbOHmrpp2aVa70hr9HW+CNPfrao5lP7ugcrXe7QwWS2Pdmz+IwAAFREsytIobSXh2C0f0wQtheSxQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 7884604
+2 _PID 140038224512
+2 _OID e11bc12e-7503-43d7-851f-cb808c66c863
+2 _USER ZYswvK2awh/HEltKL08J63j1EnqYhjtvC5ARs5YNF+DXCw9LmeQZ598GOQ4mq0RB6hIEJvGgE2wk1Tmqx04JgA==
+3 _ENCR 1
+2 _DATE 2016-09-19 00:59:16.000
+1 _ORIG u
+1 _MSER
+2 _LKID e11bc12e-7503-43d7-851f-cb808c66c863
+1 _ATL N
+0 @O32@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE png
+3 _SIZE 26660
+3 _WDTH 533
+3 _HGHT 269
+2 TITL ENG flag
+1 RIN 6881fc51-0139-4074-a482-29b1736b8f7b
+1 _CREA 2023-10-18 01:41:10.901
+1 _USER jD/rVDXKipH+XItlrWopuPZGxYoR+4nB6f+74c42BWA7oCiYmWk5NFHX3YaxAoo2kuHEfcWV7/XJ1+iXe8UhPA==
+2 _ENCR 1
+1 _CLON
+2 _TID 152159845
+2 _PID 292032403910
+2 _OID 5a8066c7-2885-4eea-a1a2-816860fa1cb5
+2 _USER XhQxkf4/Jk0Uhs/wlc3/yNOOliurSfiRUFm5HDIzH0PoaN98vQc3xf9r+GH32Odw7Du/wxqKZQ1FJZweSFianw==
+3 _ENCR 1
+2 _DATE 2018-08-13 00:35:24.000
+1 _ORIG u
+1 _MSER
+2 _LKID 5a8066c7-2885-4eea-a1a2-816860fa1cb5
+1 _ATL N
+0 @O33@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 87061
+3 _WDTH 499
+3 _HGHT 462
+2 TITL 1729-02-22, Marie Anne Parent, d 1802-07-13, pere Joseph, mere Marguerite Vinet LaRente INDIVIDUAL
+1 RIN 6cc1395a-1b76-43ae-b030-e75de6adeada
+1 _DSCR 1729-02-22, Marie Anne Parent, d 1802-07-13, pere Joseph, mere Marguerite Vinet LaRente INDIVIDUAL
+1 _META <metadataxml><transcription>1729-02-22, Marie Anne Parent, d 1802-07-13, pere Joseph, mere Marguerite Vinet LaRente INDIVIDUAL</transcription></metadataxml>
+1 _CREA 2023-10-18 01:35:14.867
+1 _USER SI660PZlOhjLM94BbCuGdRFgthfBaPa0cyRQrEZYQ+mtGSivSyy5kzatcbyQonZqOlYl9e2FMQoEE2OIlzzzJQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 111451934
+2 _PID 122069014759
+2 _OID 2b4a2fb9-9044-44e0-8e43-8ef90044d61b
+2 _USER 8sKWK/vC8vrQOa4n0aZMK/DoAGTqrjSf5fOGjEqMvGaL0A28y/9ga2DPsDUTCxLvb7z+MG4JTtwxCGhE4r+R2g==
+3 _ENCR 1
+2 _DATE 2019-02-20 20:50:22.493
+1 _ORIG u
+1 _MSER
+2 _LKID 2b4a2fb9-9044-44e0-8e43-8ef90044d61b
+1 _ATL N
+0 @O34@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE png
+3 _SIZE 266402
+3 _WDTH 602
+3 _HGHT 928
+2 TITL 1753 Trinity Census
+1 RIN 6d69d3fa-6da1-420a-932d-f10775cb5a7a
+1 DATE 1753
+1 PLAC Trinity, Newfoundland and Labrador, Canada
+1 _DSCR From http://ngb.chebucto.org
+1 _CREA 2023-10-18 01:40:29.738
+1 _USER PrTavSJtPwcVqnmRFZcDjDyUN3g0BSesMQGCmkpmS8OWmqe097b8bK+wC4GdA3jLdyXWp9OVK/laflRmk0qyBg==
+2 _ENCR 1
+1 _CLON
+2 _TID 55519091
+2 _PID 250045098556
+2 _OID dbab8678-b47e-49ff-8f83-2c609cc36179
+2 _USER 8HcG2t87U85ff0VH+Ke8bvjdIaLLCSM85OGXWGEshn3jg9qZRpscaYny+NSwdud4EG//bABWB8Qk/QooiU7t/w==
+3 _ENCR 1
+2 _DATE 2019-02-05 21:42:48.000
+1 _ORIG u
+1 _MSER
+2 _LKID dbab8678-b47e-49ff-8f83-2c609cc36179
+1 _ATL N
+0 @O35@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpg
+3 _SIZE 220704
+3 _WDTH 483
+3 _HGHT 760
+2 TITL Photo
+1 RIN 759e2945-f43e-4900-9b24-2cc2e9814e68
+1 _CREA 2023-10-18 01:31:21.011
+1 _USER SFapmZz06wghQ1FUetvuVVgYep7C2oSoE4ezdDZLEvb9cqaceqFXME8WxM1an07WmAdRQpSkOq7TfPuGcYRlWg==
+2 _ENCR 1
+1 _CLON
+2 _TID 114926946
+2 _PID 200131529581
+2 _OID a9f0ab04-916f-4cbd-9564-c0bb7af40b33
+2 _USER /uC0q2iZkCMtn/tv7HdXnfeKeWQm4oVRdEVgU1dGCpPhpk1CKq3uhMwl2TH78hO6pYWS8iobZg3pB7eLSDCqBg==
+3 _ENCR 1
+2 _DATE 2018-11-12 04:46:50.000
+1 _ORIG u
+1 _MSER
+2 _LKID a9f0ab04-916f-4cbd-9564-c0bb7af40b33
+1 _ATL N
+0 @O36@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 617269
+3 _WDTH 4694
+3 _HGHT 2055
+2 TITL Fowlow Thomas Elizabeth Dewey Mar 1791
+1 RIN 7af4f3fb-7c67-4566-81fb-cea5588b1c6a
+1 DATE 1791
+1 PLAC Trinity 
+1 _DSCR Marriage
+1 _META <metadataxml><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:38:18.855
+1 _USER OgaosWZUImxkipchyeinGEF2PUOzkKFnhTePtagjo5u/p9kirk+3+umXJcHi6ejirB4ptBRH577zhWkr5iA4+Q==
+2 _ENCR 1
+1 _CLON
+2 _TID 52086088
+2 _PID 13324380310
+2 _OID 91947dc9-5acc-41fd-a34c-3e89bca5324c
+2 _USER Ncfw9DBdfJizY4jTS1NJSpl2HTo0Ohpn9tSreFOzhUtK9B0n+IfWWn/HaMjI3XmVzoeIx1oD73R8m1enVMGrmg==
+3 _ENCR 1
+2 _DATE 2017-12-04 13:59:31.000
+1 _ORIG u
+1 _MSER
+2 _LKID 91947dc9-5acc-41fd-a34c-3e89bca5324c
+1 _ATL N
+0 @O37@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE png
+3 _SIZE 194582
+3 _WDTH 532
+3 _HGHT 736
+2 TITL Mordecai Cole p54 in Some Descendants of John Cole
+1 RIN 82840adc-4620-4da7-ab0c-cc430651465f
+1 _CREA 2023-10-18 01:34:22.001
+1 _USER SYqOG1X6eVN9lup/GqvnpTTE9bqi3BbY6zkkLNH1Q2NqdZzXjpbcrtGfq2dJA+UmHivmfhX+xPv/vLT/3/IdEw==
+2 _ENCR 1
+1 _CLON
+2 _TID 13693691
+2 _PID 312219815924
+2 _OID bcd9d75a-3f88-4f64-b128-fbf44c3c180d
+2 _USER VfuA2V1QgkNNCcGw2daW/No3QMENYCQw956HKT4Gdtf2KkcnVuBOTgiScgxXVJQSTR3xXxcd/kQSir+odzBjuQ==
+3 _ENCR 1
+2 _DATE 2020-09-06 00:17:14.000
+1 _ORIG u
+1 _MSER
+2 _LKID bcd9d75a-3f88-4f64-b128-fbf44c3c180d
+1 _ATL N
+0 @O38@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 29430
+3 _WDTH 250
+3 _HGHT 188
+2 TITL  Ann Taverner
+1 RIN 8a6582b9-1659-406e-a838-c23060c31eb8
+1 DATE 20 Jan 1793
+1 PLAC Trinity, Bonavista-Trinity Census Division, Newfoundland and Labrador, Canada
+1 _CREA 2023-10-18 01:41:09.189
+1 _USER x0m0PkfRKSZQ+ks42Gk64ca4oof4zTWxwMYtZ+XvpydgrED+20zU9O5OC6iMp50PTIMZbyEoWvGx4qAAj7+51A==
+2 _ENCR 1
+1 _CLON
+2 _TID 163567502
+2 _PID 402129566594
+2 _OID da0a1b88-f10f-4c0f-a15d-cb8ee2a0a56c
+2 _USER kB6kYG55UIFtfM8O+iXR5FBfVRjve2jghU3uTEx391tPTcKvvASRW1VcDPELkA1qMNXBnwBu8jcb/lVQ68Nb1w==
+3 _ENCR 1
+2 _DATE 2019-09-08 16:16:17.000
+1 _ORIG u
+2 _URL https://www.findagrave.com/memorial/178644927/ann-taverner
+1 _MSER
+2 _LKID da0a1b88-f10f-4c0f-a15d-cb8ee2a0a56c
+1 _ATL N
+0 @O39@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 3283894
+3 _WDTH 4980
+3 _HGHT 3168
+2 TITL US General Land Office Record for Eliphalet Wheeler 1827
+1 RIN 9017cf42-652b-402f-9076-8f97e5cfdfde
+1 _CREA 2023-10-18 01:29:58.231
+1 _USER xIhf9mI3DYAG5Kx/0e4DTsaUn3o3TUzKUPgQY407E+ghlGB1SJFQtZjCgFDHDd9UR0rq3gyaFaLAOiIbDFE+Pg==
+2 _ENCR 1
+1 _CLON
+2 _OID e16e34b7-911c-46f6-be36-8bf2977ed46b
+2 _USER HDBpM0iRj0VWzGnhTWFRtDKgyLwaZ0OSU0rs8epouTW+KamcEseqX6EUblfCw7hSjM2JiSpfhuQ9bCF6VaBTGA==
+3 _ENCR 1
+2 _DATE 2014-07-17 13:59:47.000
+1 _ORIG u
+1 _MSER
+2 _LKID e16e34b7-911c-46f6-be36-8bf2977ed46b
+1 _ATL N
+0 @O40@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 2465385
+3 _WDTH 2631
+3 _HGHT 3777
+2 TITL St. Paul's Anglican Churchyard Cemetery, Trinity, Newfoundland
+1 RIN 90c0a1c3-2ed6-42ce-998f-4f3df26aea45
+1 _CREA 2023-10-18 01:37:34.109
+1 _USER BTJenyyR6C203CT7+t8Tmk5+/bHAAoSWhwg7+KiWvJ/4MiezdY2aJzW9rs2e2QFc2LyRt3pj/PNyKtQYkwo4ig==
+2 _ENCR 1
+1 _CLON
+2 _TID 165276130
+2 _PID 322150697806
+2 _OID 5961fe38-6ae7-4705-8e81-bf1154a9c24a
+2 _USER oEI4NcPsiASGnmEs2Sw2lD6r4pQg6qEAf0LtmVXOKw1ejzZ6YT7nbwWi9iHP303iekNutT3I2oP9+vejyzbsSQ==
+3 _ENCR 1
+2 _DATE 2023-07-09 12:45:50.000
+1 _ORIG u
+1 _MSER
+2 _LKID 5961fe38-6ae7-4705-8e81-bf1154a9c24a
+1 _ATL N
+0 @O41@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 1550553
+3 _WDTH 3439
+3 _HGHT 3918
+2 TITL 1891 Census of Canada Johanna Bloom
+1 RIN 9c7f7473-7e3f-4ea3-be9a-b55d08adc1c5
+1 DATE 11/29/2014 3:44:34 PM
+1 _CREA 2023-10-18 01:22:02.790
+1 _USER bMXR4nX0Cb6yOMLN2iI2kUGS1/zTd7Mm2TEdjEQSiPQbEAEsF3qFW80KNdQ/wY9Jb6ZCNbZrVLf9SejwR9Xxfw==
+2 _ENCR 1
+1 _CLON
+2 _TID 109931714
+2 _PID 340077786424
+2 _OID 4d78fa08-d9af-4031-9f08-85dd214376f6
+2 _USER o/5FlkEJCqdN8JflaINBoxTPG8qnsufD0bOwnK8v7wN37CIaHMUwy0J076YcCZx44FJZDIrK82DwZfi3n9V5bw==
+3 _ENCR 1
+2 _DATE 2017-03-22 01:09:19.846
+1 _ORIG u
+1 _MSER
+2 _LKID 4d78fa08-d9af-4031-9f08-85dd214376f6
+1 _ATL N
+0 @O42@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 114623
+3 _WDTH 645
+3 _HGHT 1024
+2 TITL Connecticut Town Birth Records, pre-1870 (Barbour Collection)
+1 RIN 9ccfa83c-bd6d-4ceb-ae85-161d0d6f5f9d
+1 _CREA 2023-10-18 01:34:06.191
+1 _USER PoGe1ZoxJNgo7q6LpHG2tnVkuSTcT3Ko/d0Es6v+qqCIhOD7hFUrgsE+EdA3DmVK57NvKWlA0NSvZ20ld2S6iQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 55498885
+2 _PID 13828250528
+2 _OID e0ac653b-34b3-4a61-a515-55a38f711ad4
+2 _USER SU6SqBoBUbOwyVcBLfyXA0ctYnRABYlEYWQjem2xMBiLwIeFPOl7jf4tkh3idK4ZWIPhd2VIuusq3iwH8FcvKg==
+3 _ENCR 1
+2 _DATE 2013-04-27 04:36:12.000
+1 _ORIG u
+1 _MSER
+2 _LKID e0ac653b-34b3-4a61-a515-55a38f711ad4
+1 _ATL N
+0 @O43@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 34173
+3 _WDTH 226
+3 _HGHT 230
+2 TITL dna string common ancester
+1 RIN a00fed78-4ef9-46b2-942c-6ce5674a98c3
+1 _CREA 2023-10-18 01:38:11.516
+1 _USER nPTau/Nk1Wqs5E0RMgOmpmJPJ2lvSpV7xb9lZQ2+Ib7BEVNg+teAbJPgecsz+1ne+/KfC+Sqoa/eAJjvvtGhCw==
+2 _ENCR 1
+1 _CLON
+2 _TID 109170322
+2 _PID 380117889259
+2 _OID 42425937-0f7f-4979-81c0-ecada4ec9864
+2 _USER mbvQfaDOMz6TyDH691uOtjVrRqzO8lQCuvZDuOiFqdrWKd0+fZRr4EBAAOO0foYeTRFoyCvv3USJdwN+E+qlfg==
+3 _ENCR 1
+2 _DATE 2020-09-20 17:11:36.000
+1 _ORIG u
+1 _MSER
+2 _LKID 42425937-0f7f-4979-81c0-ecada4ec9864
+1 _ATL N
+0 @O44@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE place
+3 _STYPE jpeg
+3 _SIZE 12229
+3 _WDTH 259
+3 _HGHT 195
+2 TITL Dorchester - High Street West
+1 RIN aa070c21-e27f-460b-8b64-0cb8868854f3
+1 _DSCR From website old-picture.com
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:38:51.924
+1 _USER T/U63PxSXqvO1eet21LqTSVrAdkAxIlBCK0SWVpINAmLfro7IDqv8LxYaFdUAP8rYTsmOjj/07HjugpoeMxyBw==
+2 _ENCR 1
+1 _CLON
+2 _TID 20893350
+2 _PID 19860435316
+2 _OID dea1a5af-925c-4d06-af16-1036d2507e91
+2 _USER cjOyJBMr/8hCKo6FmvLCU7qenMXZiBC5nf6pPl0F1mnGq0Io6ddjKM/Na9kCC1J+u1LdT8IGhH5XzaNmklUroA==
+3 _ENCR 1
+2 _DATE 2012-06-14 19:15:29.000
+1 _ORIG u
+1 _MSER
+2 _LKID dea1a5af-925c-4d06-af16-1036d2507e91
+1 _ATL N
+0 @O45@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 29430
+3 _WDTH 250
+3 _HGHT 188
+2 TITL  Ann Taverner
+1 RIN aec205de-2e34-4dd0-b1b8-c0d3727fc8a7
+1 DATE 20 Jan 1793
+1 PLAC Trinity, Bonavista-Trinity Census Division, Newfoundland and Labrador, Canada
+1 _CREA 2023-10-18 01:40:31.344
+1 _USER 0jjcdAuuYj9VsR6DMJCb5N6BzS7qrX/YT9ab6NlN2u9f0pKJLJtV7R2pupR1reD4BHKFQ8oA/mQzWaY4ygJB/g==
+2 _ENCR 1
+1 _CLON
+2 _TID 163567502
+2 _PID 402129566594
+2 _OID da0a1b88-f10f-4c0f-a15d-cb8ee2a0a56c
+2 _USER jnJYZiyRef20tUKk9ESXiy/7IqhFRBgxPs/fzH59jYXxrGQ2KCs4OR4LTmShCRkm9YSs5SKHeRuB04oSG7zCCA==
+3 _ENCR 1
+2 _DATE 2019-09-08 16:16:17.000
+1 _ORIG u
+2 _URL https://www.findagrave.com/memorial/178644927/ann-taverner
+1 _MSER
+2 _LKID da0a1b88-f10f-4c0f-a15d-cb8ee2a0a56c
+1 _ATL N
+0 @O46@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE png
+3 _SIZE 110258
+3 _WDTH 882
+3 _HGHT 551
+2 TITL Jean Gabriel Miville and Marie Anne Rodrigues Marriage 1777 St-Joseph-de-Soulanges
+1 RIN afeba3de-46e3-4fdd-a06f-1742d28d4b5a
+1 DATE 27 Jan 1777
+1 PLAC St-Joseph-de-Soulanges, Les-Cedres, Quebec, Canada
+1 _DSCR Marriage
+1 _CREA 2023-10-18 01:31:10.918
+1 _USER yG2di9L5760/aHYO7VDNNPcD19yPU5Z92x4cl2CB9OwMEobt7yrTf9V+fsTosIMPFI4O+9xkdDNpytOintVPpg==
+2 _ENCR 1
+1 _CLON
+2 _TID 90206425
+2 _PID 150002911281
+2 _OID 0c7212ca-29bb-422d-bf01-fd2339a7da07
+2 _USER 3l3bohpndePwqsLLvZn7uMkU0st/w2Sq+eVR0nQnfHY1trbKJ3HyISMaabeizf2etPcHHkyFoVWjXdUDU0wDdQ==
+3 _ENCR 1
+2 _DATE 2016-05-17 20:05:37.000
+1 _ORIG u
+1 _MSER
+2 _LKID 0c7212ca-29bb-422d-bf01-fd2339a7da07
+1 _ATL N
+0 @O47@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 2282599
+3 _WDTH 2448
+3 _HGHT 3264
+2 TITL Mary Ann Jenkins
+1 RIN b1cf5a4c-f99f-410d-abf6-cf6ae60fb3b1
+1 _CREA 2023-10-18 01:22:24.406
+1 _USER QTqFEuKjMeaYxiOX3QC59DsLUDO9Xdz/S9SEPEU2o/QFFhlSBLzhW0MrLzU+nC+uHmTFpyLFrCUM5Xp2KK2Gkg==
+2 _ENCR 1
+1 _CLON
+2 _TID 156541118
+2 _PID 282210377277
+2 _OID 46862eb4-e380-4db5-a0b7-568cd2733db9
+2 _USER BWVaMUgllt2Ca6wS7QYQwdx7bikOHZvW4FpZAbp2s+8+NjtfIcc45b5a20cdS54ex4sLsjQzJyAGA5EN+uiFrA==
+3 _ENCR 1
+2 _DATE 2022-08-09 22:18:52.040
+1 _ORIG u
+1 _MSER
+2 _LKID 46862eb4-e380-4db5-a0b7-568cd2733db9
+1 _ATL N
+0 @O48@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 229172
+3 _WDTH 800
+3 _HGHT 1067
+2 TITL Anna Post Doan
+1 RIN b235d875-d5d6-4e04-a701-48cfe8ff1fe6
+1 _CREA 2023-10-18 01:31:37.486
+1 _USER 7MHAFm6hcYyT8OgPvV4k1hMTqQfr9WoltgNOacZSEBaMaddEqeMRjGA7Q6176ZyRRn+hr6k+9kbBtT8LGMhM6g==
+2 _ENCR 1
+1 _CLON
+2 _TID 167384531
+2 _PID 252175184565
+2 _OID adbc38d3-e984-4da7-a3f1-1eebb6d4c9e8
+2 _USER p7lkM6qnXJBzLxj8KgMWZegWSk8+SLNp8LL/rJH6uZi37OeVvu+PbfjjagArrIpO0armzpQZT5EE59Y8qNwGEg==
+3 _ENCR 1
+2 _DATE 2020-03-02 14:12:41.000
+1 _ORIG u
+1 _MSER
+2 _LKID adbc38d3-e984-4da7-a3f1-1eebb6d4c9e8
+1 _ATL N
+0 @O49@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 41338
+3 _WDTH 250
+3 _HGHT 246
+2 TITL  Daniel Hutchins
+1 RIN b4b2b4dd-f761-43f0-a7d6-a98eb047a78a
+1 DATE 3 Jan 1890
+1 PLAC Fife Lake, Grand Traverse County, Michigan, USA
+1 _CREA 2023-10-18 01:29:45.499
+1 _USER 4W4p1k0gdn8T+9m6Rher6YZbm1hTFm26ZqkzmHzhPYpUQZ2yl2PKaXuSJFanKeRbxknhr53ZjZwNC1wzicO40g==
+2 _ENCR 1
+1 _CLON
+2 _TID 155309875
+2 _PID 272145749108
+2 _OID ed55e10c-f217-4994-8a19-5cfe665bf00b
+2 _USER LqdwnCGSIoYqE+dPJup41w5rHREVoFZLa8YFqAhU7M2UOrU//rKL7IAcZhVDJNAiHAX9PP/Vml9o9Ko4JGGrBg==
+3 _ENCR 1
+2 _DATE 2020-12-07 17:30:43.000
+1 _ORIG u
+2 _URL https://www.findagrave.com/memorial/82372273/daniel-hutchins
+1 _MSER
+2 _LKID ed55e10c-f217-4994-8a19-5cfe665bf00b
+1 _ATL N
+0 @O50@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 826123
+3 _WDTH 2952
+3 _HGHT 2032
+2 TITL marriage
+1 RIN b78c28cd-d19e-4b92-a21f-7b37d08dfcba
+1 _CREA 2023-10-18 01:35:36.185
+1 _USER F9UGZqGlDk+9e1yvMYhiIpNs+EG9TXoVIPxGYJZAK35ps3uGzcREcAp1C6KRa3wst5L6YoLQyuPZMgScGfCOxg==
+2 _ENCR 1
+1 _CLON
+2 _TID 16216953
+2 _PID 170151878620
+2 _OID a4e5b1df-e89e-4a9c-829d-30d81f1af2c4
+2 _USER aUCuux/5flbJ+wNe9ljI2w00/jBZ2/wySH96T1AAqQhMy/jTKqjjupizEJh5fHlN/qs8wrVUtYJPhD+OhI1ERg==
+3 _ENCR 1
+2 _DATE 2017-10-22 14:31:37.000
+1 _ORIG u
+1 _MSER
+2 _LKID a4e5b1df-e89e-4a9c-829d-30d81f1af2c4
+1 _ATL N
+0 @O51@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 470789
+3 _WDTH 923
+3 _HGHT 1224
+2 TITL Richard Doan memorial marker
+1 RIN b884a957-2533-49b3-adda-63b9a0f3d460
+1 DATE 12/29/12 3:23:28 PM
+1 _CREA 2023-10-18 01:31:35.108
+1 _USER LEQPoJgFv3KRhMBNwrxgAVWi6rTqMdqNjZGCZZfD5hdRLW2WPFnPPelUSYpbtasoaRqnPN50hjwO0kxa3y76vQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 167384531
+2 _PID 252175184283
+2 _OID 4af07698-476a-47d0-9abe-2d584bc3e6a0
+2 _USER qlxqSwIaecptQoUALTWr9CQL6G1uNOHPGDtKaMcmEcQH3jVSc7R3NSu2ODNPtXNxTAtRat7RjqjMbD8YClCbKA==
+3 _ENCR 1
+2 _DATE 2020-03-02 14:12:41.000
+1 _ORIG u
+1 _MSER
+2 _LKID 4af07698-476a-47d0-9abe-2d584bc3e6a0
+1 _ATL N
+0 @O52@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 2944825
+3 _WDTH 3928
+3 _HGHT 5335
+2 TITL John Verge - Aug 1720 - Christchurch Mason - taking on apprentice
+1 RIN bade7f1e-0c83-47cb-a845-8454519376eb
+1 _CREA 2023-10-18 01:40:34.613
+1 _USER UwSkTnmSOw2nGDGq3AgVRnJs3oho06f9AFYV1+8+QMMXesxK9i3FVnWRPyu9eIUTzcohJs7M9UjyuFvlg84SfQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 81563753
+2 _PID 36487486199
+2 _OID cd127340-c716-47d4-a662-8ef6ca5dce7c
+2 _USER A9lhpA5gtade3TSZfxZhSkKrbnJjVceNpfThk6M80t7M+cCEQPc2JbInNKEBEbLE0yMMe19g9xQXQROJc10o6Q==
+3 _ENCR 1
+2 _DATE 2016-05-02 18:13:40.000
+1 _ORIG u
+1 _MSER
+2 _LKID cd127340-c716-47d4-a662-8ef6ca5dce7c
+1 _ATL N
+0 @O53@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE pjpeg
+3 _SIZE 22088
+3 _WDTH 100
+3 _HGHT 159
+2 TITL Dewey Coat of Arms
+1 RIN bb5a2ea2-e0d7-4213-8ea1-3cd9ad22f437
+1 _DSCR Brief Family History:  First found in Devonshire where they were seated from very early times and were granted lands by Duke William of Normandy, their liege Lord, for their distinguished assistance at the Battle of Hastings in 1066 A.D.
+2 CONT 
+2 CONT Some of the first settlers of this family name or some of its variants were: George Dewey who settled in Bristol Rhode Island in 1820; John Dewey settled in Philadelphia Pa. in 1860; S.L. B.B. and A.T. Dewey and his wife, all arrived in San Francis
+2 CONC co Cal.
+2 CONT 
+2 CONT Coat of Arms: A black shield with three black cinquefoils on on a silver fess, between three gold dragons heads.
+2 CONT 
+2 CONT Spelling variations of this family name include: Dewey, Dewy, Dewye and others.
+2 CONT 
+2 CONT 
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:40:49.498
+1 _USER mc9lI3OEuslCeZ8XrOtTrpQFyy84dl4qJ5AA13UScr1GFj4VSBhhD5sjHCGxzdImDuEPzzpQgPDvlKBbZsqqqw==
+2 _ENCR 1
+1 _CLON
+2 _TID 1133950
+2 _PID -1990294519
+2 _OID 591cd777-d03c-4cbe-aa36-a8b8d481a0aa
+2 _USER yXLBxA3nE0nwRNT46oUL1bwukf/VG5484HC6lUJKY/Gz1WY3Hxs5T+l+tPLy8c9TEOpe+vrbuj8yheYONzXEyA==
+3 _ENCR 1
+2 _DATE 2007-07-20 17:23:04.000
+1 _ORIG u
+1 _MSER
+2 _LKID 591cd777-d03c-4cbe-aa36-a8b8d481a0aa
+1 _ATL N
+0 @O54@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE headstone
+3 _STYPE jpeg
+3 _SIZE 3498281
+3 _WDTH 2592
+3 _HGHT 3456
+2 TITL Patrick Fowlow headstone
+1 RIN bc06c16a-e7f9-482c-bc1e-0ab502632a55
+1 DATE Sep 2017
+1 PLAC Trinity, Trinity Bay, NL
+1 _DSCR Sacred to the Memory of PATRICK FOWLOW OF THE NORTH SIDE OF TRINITY who died on the 13th of June 1856 Aged 58 years.
+1 _META <metadataxml><personas><persona><pname /><bdate /><bplace /><ddate /><dplace /></persona></personas></metadataxml>
+1 _CREA 2023-10-18 01:37:42.343
+1 _USER Ypyt5eQz6Jl0xSRCpfivWkTMtt71pNGvuvUV8FhZLJGzw01fsXy51r4ThLhYmmcJAaZfQXld0VRViXmr7N8f/w==
+2 _ENCR 1
+1 _CLON
+2 _TID 74453970
+2 _PID 30295751608
+2 _OID 5b69efdd-6113-4e6b-988e-79c0cd79c36b
+2 _USER qaKGUwtf1Le6HvKg6B+oJDkpO2G8vktSDbzoA2KKWQAdX/Ya+J252PdQJFI1LhR/+MNyc0Zm8tgeb9wPcJ9XJQ==
+3 _ENCR 1
+2 _DATE 2018-03-28 12:39:58.000
+1 _ORIG u
+1 _MSER
+2 _LKID 5b69efdd-6113-4e6b-988e-79c0cd79c36b
+1 _ATL N
+0 @O55@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 413213
+3 _WDTH 2464
+3 _HGHT 1146
+2 TITL Birth = Marguerite Amable Brabant 17530310
+1 RIN bf82b266-fd76-4a60-87c5-6847b05ab3f8
+1 _CREA 2023-10-18 01:35:17.847
+1 _USER 8LvkQYyWK3qSs5OUOO4FYZ3VrTgfFVsqZokPozm3aPGvUVNDw3gPLTKtmiq1VE9OCjWO5Y59tMIleMkAjNLMbg==
+2 _ENCR 1
+1 _CLON
+2 _TID 35022739
+2 _PID 18736112505
+2 _OID af24b9f0-60f6-472b-9e07-97578f16fe7c
+2 _USER 8xEef23SOLxSFRcPKFqM9w0KTvlQw6Pys8FWbNYwGR6s7r2Lx3WzYBMgPx6SBBeptsVFxklfiLJXndPM4QUKPA==
+3 _ENCR 1
+2 _DATE 2012-01-22 16:14:03.000
+1 _ORIG u
+1 _MSER
+2 _LKID af24b9f0-60f6-472b-9e07-97578f16fe7c
+1 _ATL N
+0 @O56@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 50936
+3 _WDTH 960
+3 _HGHT 720
+2 TITL Elizabeth Boynton Ancestry
+1 RIN d30b192f-49a7-498d-b9aa-6554665d172f
+1 _CREA 2023-10-18 01:34:58.306
+1 _USER 47P14Urpkh2MU42EQFlkZlMFw/BUBgjn9YpiBzGnqYn3EGJhoLYcBb/eW74CzTusT50IDQ6VtX8TOnpAVHgltg==
+2 _ENCR 1
+1 _CLON
+2 _TID 62901624
+2 _PID 38559712605
+2 _OID ade0da53-36d3-417b-b9ce-bd3841f107cb
+2 _USER 302/a27WS9lnnF0U7wfAjcVLzMPsmEwWdMuUd7YWhtC12gNBWBF7fyw5Hw3gS+3cJn57wYv6wOo1dqHJKsqjdQ==
+3 _ENCR 1
+2 _DATE 2016-06-26 22:42:38.000
+1 _ORIG u
+1 _MSER
+2 _LKID ade0da53-36d3-417b-b9ce-bd3841f107cb
+1 _ATL N
+0 @O57@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 29430
+3 _WDTH 250
+3 _HGHT 188
+2 TITL  Ann Taverner
+1 RIN d98ae1b9-4cae-4b72-b089-4bd028f4a30a
+1 DATE 20 Jan 1793
+1 PLAC Trinity, Bonavista-Trinity Census Division, Newfoundland and Labrador, Canada
+1 _CREA 2023-10-18 01:40:47.622
+1 _USER p7p6hHDrRHxF8R1bHERDLny6gLXDnEorKj6gbLXVXaTLkt2LVN3IuhewNi69UxIeVD+qd7gPTEgwS2stH4iPVg==
+2 _ENCR 1
+1 _CLON
+2 _TID 163567502
+2 _PID 402129566594
+2 _OID da0a1b88-f10f-4c0f-a15d-cb8ee2a0a56c
+2 _USER Ecp69oHTFCHv8CSYPn8bnhzsxKnhmK/JytJiPZqU2UOi5eaZJyjuv7CNvjMEzLAmOiDkbFTgAQDSaQZTzqV8qQ==
+3 _ENCR 1
+2 _DATE 2019-09-08 16:16:17.000
+1 _ORIG u
+2 _URL https://www.findagrave.com/memorial/178644927/ann-taverner
+1 _MSER
+2 _LKID da0a1b88-f10f-4c0f-a15d-cb8ee2a0a56c
+1 _ATL N
+0 @O58@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 43736
+3 _WDTH 250
+3 _HGHT 333
+2 TITL Findagrave  Thomas E. Gilkerson
+1 RIN dc454325-1cf1-4d22-8357-ef5bc5ffab84
+1 DATE 15 Jun 1871
+1 PLAC Sarahsville, Noble County, Ohio, USA
+1 _CREA 2023-10-18 01:31:59.259
+1 _USER hk2IbgGsoLHgUZ/KngaRE53uBzmfaEB5Db93fjYQbDFtO2EuRmaWCV4duXI604v1sB3CY+t4gW3+QfrlI6PoaA==
+2 _ENCR 1
+1 _CLON
+2 _TID 5579137
+2 _PID 24451182431
+2 _OID 6a5c0c80-8fbd-438a-85f9-845e1b39ee61
+2 _USER HDb2KlBqyXaskmEMYhV/TcK0I2O1DloKFSidNiXuJtvYx/KslfUPNeZ2tWCF04MxwMtmlugJBmvz/RmUJ9svAA==
+3 _ENCR 1
+2 _DATE 2019-01-24 05:44:37.000
+1 _ORIG u
+2 _URL https://www.findagrave.com/memorial/34850333/thomas-e_-gilkerson
+1 _MSER
+2 _LKID 6a5c0c80-8fbd-438a-85f9-845e1b39ee61
+1 _ATL N
+0 @O59@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 223040
+3 _WDTH 1037
+3 _HGHT 736
+2 TITL Our Direct Decendant
+1 RIN de7cc776-cd61-4071-89e6-2ea17c206429
+1 PLAC Mr. Pleaant Cemetery, Putney, VT
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:35:33.843
+1 _USER YeTnDfFT488ZaVAE5b9SeYei2zkc6sl1cO6GMq9upKoidc4b8jzyRbvoK7wHXLn1/QmjUKAmxOlylri4InBUrA==
+2 _ENCR 1
+1 _CLON
+2 _TID 13236083
+2 _PID 12062448565
+2 _OID 409c412f-8f7e-451c-afa7-135681120621
+2 _USER 5eWJanEwqwCZ8i1p3Us+u5yssEb6VCv0ppSbetieoeEyjqnJztrIjVh2bevjXxWsI3Waf39n6kaG0qpW53837Q==
+3 _ENCR 1
+2 _DATE 2016-04-10 16:44:47.000
+1 _ORIG u
+1 _MSER
+2 _LKID 409c412f-8f7e-451c-afa7-135681120621
+1 _ATL N
+0 @O60@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE other
+3 _STYPE jpeg
+3 _SIZE 70892
+3 _WDTH 422
+3 _HGHT 438
+2 TITL Elizabeth Wheeler Bond obituary 1 Mar 1926
+1 RIN dede0d20-0785-43ab-8cc0-bba417103f4c
+1 DATE 1 Mar 1926
+1 PLAC Caldwell, Noble, Ohio
+1 _DSCR From the Zanesville Times-Recorder, Monday, 1 Mar 1926 p. 8 col. 7 (newspaperarchive.com).
+1 _CREA 2023-10-18 01:22:18.333
+1 _USER oUgbHr+KMRDEg/SihoKpXwUqUWkT+hr6mlx4/oekiOCx7l7EsSade/UQ26pQDtRHLWzFrdkqLM/KoL+H0ZsBZQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 25513274
+2 _PID 12767263122
+2 _OID 7a07aa9e-add1-45df-a7b6-7946c3baa250
+2 _USER 1rkTkOUOPKnReMnnAsx25AO/RsDqkKexsicSJSAWIyHENb6rk0U92nlQONkuyXlAvVx8hsK9RlbaIF5YkQlOdg==
+3 _ENCR 1
+2 _DATE 2017-07-12 13:57:16.000
+1 _ORIG u
+1 _MSER
+2 _LKID 7a07aa9e-add1-45df-a7b6-7946c3baa250
+1 _ATL N
+0 @O61@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE pjpeg
+3 _SIZE 22088
+3 _WDTH 100
+3 _HGHT 159
+2 TITL Dewey Coat of Arms
+1 RIN df14af0a-1df4-4648-91d8-d8abefd6ac94
+1 _DSCR Brief Family History:  First found in Devonshire where they were seated from very early times and were granted lands by Duke William of Normandy, their liege Lord, for their distinguished assistance at the Battle of Hastings in 1066 A.D.
+2 CONT 
+2 CONT Some of the first settlers of this family name or some of its variants were: George Dewey who settled in Bristol Rhode Island in 1820; John Dewey settled in Philadelphia Pa. in 1860; S.L. B.B. and A.T. Dewey and his wife, all arrived in San Francis
+2 CONC co Cal.
+2 CONT 
+2 CONT Coat of Arms: A black shield with three black cinquefoils on on a silver fess, between three gold dragons heads.
+2 CONT 
+2 CONT Spelling variations of this family name include: Dewey, Dewy, Dewye and others.
+2 CONT 
+2 CONT 
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:40:16.394
+1 _USER zslIuX5NcV2Yg175S/0RIMF+o49958Id2Yo/pl4o7PA42nOJNZsOJnUSRAE/Lw9+lL41Msf2Jr1m7ngSC0yopg==
+2 _ENCR 1
+1 _CLON
+2 _TID 1133950
+2 _PID -1990294519
+2 _OID 591cd777-d03c-4cbe-aa36-a8b8d481a0aa
+2 _USER VXugYtAdV/BD+utnPd3upCNt1cJHiNyL6sZMbOSAb+g9NAksEeYiJ6dm9SSbbJ3ovvpz/KbYm5zikh9POMnvyA==
+3 _ENCR 1
+2 _DATE 2007-07-20 17:23:04.000
+1 _ORIG u
+1 _MSER
+2 _LKID 591cd777-d03c-4cbe-aa36-a8b8d481a0aa
+1 _ATL N
+0 @O62@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE place
+3 _STYPE jpeg
+3 _SIZE 12229
+3 _WDTH 259
+3 _HGHT 195
+2 TITL Dorchester - High Street West
+1 RIN e2d6f01f-ce14-47ad-8cf2-0c5bdba6a143
+1 _DSCR From website old-picture.com
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:39:11.227
+1 _USER v9VYrHbBIxTAkJ3R7+ebi5bX1kdFO3VPIFoFipAizlq5l0IN6oxsHeaUTd1MZZIGrnpbQmPv4NARJZtuZtxcTg==
+2 _ENCR 1
+1 _CLON
+2 _TID 20893350
+2 _PID 19860435316
+2 _OID dea1a5af-925c-4d06-af16-1036d2507e91
+2 _USER 8acF4TfMM6h10iSY6GuGxTyMBqHXN/2UuIqNsTIi7rzIfyGJI20TP31fmr9a5MJodBgi9fP/O2IstL3Oc8t/IA==
+3 _ENCR 1
+2 _DATE 2012-06-14 19:15:29.000
+1 _ORIG u
+1 _MSER
+2 _LKID dea1a5af-925c-4d06-af16-1036d2507e91
+1 _ATL N
+0 @O63@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 414805
+3 _WDTH 2464
+3 _HGHT 1561
+2 TITL Birth Record: Marie Francoise Riviere
+1 RIN e6f71581-f64b-4bb3-a4ab-e5a96a059393
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:35:07.659
+1 _USER Ny31Pyi193wZN+mufKnkViQbz7tCyt/iWo3FRm56PqfZdMCTXemTRCD/LLb/Dg07mc18EzJcMFTP63FCD+kw1g==
+2 _ENCR 1
+1 _CLON
+2 _OID 33c9dd27-986a-4e40-a72d-1a764592d27c
+2 _USER xYpptm0DbH9iNbS+SCGdzkx8G5H1jWGKLF25w+A9jS4b47UykXylh+mTKa0Kw6prbKvbHMo6qkJix6uRsCgwgA==
+3 _ENCR 1
+2 _DATE 2013-11-25 23:06:32.000
+1 _ORIG u
+1 _MSER
+2 _LKID 33c9dd27-986a-4e40-a72d-1a764592d27c
+1 _ATL N
+0 @O64@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 46818
+3 _WDTH 250
+3 _HGHT 399
+2 TITL  Joshua Post
+1 RIN fce26653-e0fc-4aeb-9535-5e5309d49b1d
+1 DATE 10 Jun 1825
+1 PLAC Westbrook, Middlesex County, Connecticut, USA
+1 _CREA 2023-10-18 01:34:11.057
+1 _USER sxb+WG6z5QR7lbMIAqH477iAcQ6RauVhuoBjTnBGbKN0T53SV9pQXXNA6JMBrq/2fNnOsIsMFZWo1dW62pATKA==
+2 _ENCR 1
+1 _CLON
+2 _TID 47040915
+2 _PID 212234228920
+2 _OID 9e294198-4df1-4f80-bd4b-a6b5d480bfa2
+2 _USER oPCgTCRLelBCAecKgE07Lx+Gk4KOMG9Kr0Bt2bZQau1KWwHzoWhdapPCWZlBcEjLqjDQvNjaXdJosZvlRRAWNw==
+3 _ENCR 1
+2 _DATE 2020-10-29 18:48:32.000
+1 _ORIG u
+2 _URL https://www.findagrave.com/memorial/87424293/joshua-post
+1 _MSER
+2 _LKID 9e294198-4df1-4f80-bd4b-a6b5d480bfa2
+1 _ATL N
+0 @O65@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 26999
+3 _WDTH 919
+3 _HGHT 183
+2 TITL Wheeler-Gearfield marriage 1765
+1 RIN fda1b408-3912-4cf4-8a6f-9cc22c9aec33
+1 _DSCR Marriage intention for Enos Wheeler to Mary Gearfield both of Lincoln, Middlesex County,  dated 22 October 1765; located on Ancesty's historical collection, Massachusetts Town and Vital Records.
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:34:36.754
+1 _USER Lb+CmIQwAAXZ5bq21PzkMtTz6jcWohga7EshRgYDJepmI4O4GBiaPpzyil64qiRYr2S/2HgLfv4UdCtNstyGFQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 8682598
+2 _PID -911096695
+2 _OID 238f5b94-fe12-4ac4-9531-4757b566d163
+2 _USER qskc7nqvoDMBy+QcI0GuHTLXhum83L/phZ+Ogv+RaE6Xjj8yEo/+qVRYHoiwW83mWT3NoGrnNtz5f+0Gvlz3jg==
+3 _ENCR 1
+2 _DATE 2013-01-06 05:54:53.000
+1 _ORIG u
+1 _MSER
+2 _LKID 238f5b94-fe12-4ac4-9531-4757b566d163
+1 _ATL N
+0 @O66@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 14506
+3 _WDTH 273
+3 _HGHT 184
+2 TITL AR
+1 RIN ff1a3a2b-286e-4621-8ad0-84b2d6aa04d0
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 01:35:00.143
+1 _USER kCkudHzEGlQB4kngk4mdJWTfzyNPfGWLlOWI8Y7dM67QFeY6zGPerR9aSpSUAsMRl8FjS5/Vg+2cP44/YcpWfQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 64928585
+2 _PID 40367958058
+2 _OID 32541761-76f5-4078-9392-3400b4c02b08
+2 _USER EPCb2ALwyyq8M3YCRdO2qBqwAgzqXFFKPWrZQwqKnvjigQmr9HjtLLtul4Um+Tt9Mw2S7J2bTSYGviAXYcGjyw==
+3 _ENCR 1
+2 _DATE 2015-02-26 06:05:58.000
+1 _ORIG u
+1 _MSER
+2 _LKID 32541761-76f5-4078-9392-3400b4c02b08
+1 _ATL N
+0 @S1754422662@ SOUR
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+1 _APID 1,1030::0
+1 REPO @R1655613508@
+0 @R1655613508@ REPO
+1 NAME Ancestry.com
+0 TRLR

@@ -1,0 +1,1692 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2022.08
+2 _TREE Hargett Family Tree
+3 RIN 193719768
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 17 Oct 2023
+2 TIME 23:55:20
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I182521853481@ INDI
+1 NAME Steven /Hargett/
+2 GIVN Steven
+2 SURN Hargett
+1 SEX M
+1 FAMC @F20@
+0 @I182521853482@ INDI
+1 NAME Neil David /Hargett/
+2 GIVN Neil David
+2 SURN Hargett
+2 SOUR @S503639111@
+3 PAGE General Register Office; United Kingdom; Volume: 22; Page: 0103
+3 _APID 1,8753::63319664
+2 SOUR @S503639187@
+3 PAGE GreyPower Deceased Data; compiled by Wilmington Millennium; West Yorkshire, England; England and Wales Death Indexes
+3 _APID 1,60630::9098556
+1 SEX M
+1 FAMC @F38@
+1 FAMS @F20@
+1 BIRT
+2 DATE 23 Sep 1946
+2 PLAC Keynsham, Somerset, England
+2 SOUR @S503639187@
+3 PAGE GreyPower Deceased Data; compiled by Wilmington Millennium; West Yorkshire, England; England and Wales Death Indexes
+3 _APID 1,60630::9098556
+1 RESI
+2 PLAC London, London, England
+2 SOUR @S503639187@
+3 PAGE GreyPower Deceased Data; compiled by Wilmington Millennium; West Yorkshire, England; England and Wales Death Indexes
+3 _APID 1,60630::9098556
+1 _WLNK
+2 TITL Company Link
+2 NOTE https://find-and-update.company-information.service.gov.uk/officers/nXInrCjqqjt2q434nOU0rxTd_mw/appointments
+1 DEAT
+2 DATE 17 Oct 2016
+2 PLAC Bath, Somerset, England
+2 SOUR @S503639187@
+3 PAGE GreyPower Deceased Data; compiled by Wilmington Millennium; West Yorkshire, England; England and Wales Death Indexes
+3 _APID 1,60630::9098556
+1 SOUR @S503639413@
+2 PAGE Ancestry Family Tree
+2 _APID 190014800992:1030:102159401
+0 @I182521854540@ INDI
+1 NAME Angela M T /Coleman/
+2 GIVN Angela M T
+2 SURN Coleman
+2 SOUR @S503639111@
+3 PAGE General Register Office; United Kingdom; Volume: 22; Page: 0103
+3 _APID 1,8753::63288974
+0 @I182521855205@ INDI
+1 NAME Harold Ralph /Hargett/
+2 GIVN Harold Ralph
+2 SURN Hargett
+1 SEX M
+1 FAMC @F22@
+1 FAMS @F38@
+1 BIRT
+2 DATE 09 Oct 1921
+2 PLAC Bristol, Somerset, England
+1 DEAT
+2 DATE 04 aug 1977
+2 PLAC Weymouth, Dorset, England
+1 SOUR @S503639413@
+2 PAGE Ancestry Family Tree
+2 _APID 190014800993:1030:102159401
+0 @I182521855207@ INDI
+1 NAME Jacqueline Margaret Doreen /Neal/
+2 GIVN Jacqueline Margaret Doreen
+2 SURN Neal
+1 SEX F
+1 FAMC @F16@
+1 FAMS @F38@
+1 BIRT
+2 DATE 30 Jun 1927
+2 PLAC Keynsham
+1 DEAT
+2 DATE 27 Feb 1995
+2 PLAC Keynsham Bristol
+1 SOUR @S503639413@
+2 PAGE Ancestry Family Tree
+2 _APID 190014800994:1030:102159401
+0 @I182521855208@ INDI
+1 NAME Andrew John /Hargett/
+2 GIVN Andrew John
+2 SURN Hargett
+1 SEX M
+1 FAMC @F38@
+1 BIRT
+2 DATE March 1950
+2 PLAC Bathavon, Somerset
+1 DEAT
+2 DATE 2012
+2 PLAC Paphos, Cyprus
+1 SOUR @S503639413@
+2 PAGE Ancestry Family Tree
+2 _APID 192082914019:1030:102159401
+0 @I182521855209@ INDI
+1 NAME Diane /Hargett/
+2 GIVN Diane
+2 SURN Hargett
+1 SEX F
+1 FAMC @F38@
+1 BIRT
+2 DATE 1956
+2 PLAC Bristol, Avon
+1 SOUR @S503639413@
+2 PAGE Ancestry Family Tree
+2 _APID 192082924113:1030:102159401
+0 @I182521855210@ INDI
+1 NAME Veronica May /Collett/
+2 GIVN Veronica May
+2 SURN Collett
+1 SEX F
+1 FAMC @F23@
+1 FAMS @F20@
+1 BIRT
+2 DATE 30 Oct 1945
+2 PLAC Devizes, Wiltshire, England
+1 DEAT
+2 DATE 07 Feb 1980
+2 PLAC Bath, Avon, England
+1 SOUR @S503639413@
+2 PAGE Ancestry Family Tree
+2 _APID 192082854718:1030:102159401
+0 @I182521855265@ INDI
+1 NAME Joseph /Harget/
+2 GIVN Joseph
+2 SURN Harget
+1 SEX M
+1 FAMC @F17@
+1 FAMS @F22@
+1 BIRT
+2 DATE 21 Feb 1885
+2 PLAC Wolverhampton, England, United Kingdom
+1 DEAT
+2 DATE Sep 1971
+2 PLAC Bristol, Gloucestershire, England
+0 @I182521855266@ INDI
+1 NAME Hilda May /Hunt/
+2 GIVN Hilda May
+2 SURN Hunt
+1 SEX F
+1 FAMC @F25@
+1 FAMS @F22@
+1 BIRT
+2 DATE Sep 1890
+2 PLAC Brislington, Somerset
+1 DEAT
+2 DATE Sep 1965
+2 PLAC Weston-super-Mare, Somerset, England
+0 @I182521855277@ INDI
+1 NAME Frank /Neal/
+2 GIVN Frank
+2 SURN Neal
+1 SEX M
+1 FAMC @F32@
+1 FAMC @F48@
+1 FAMS @F16@
+1 BIRT
+2 DATE 10 Oct 1896
+2 PLAC Keynsham, Somerset
+1 DEAT
+2 DATE 16 Dec 1955
+2 PLAC Bristol Royal Infirmary
+0 @I182521855288@ INDI
+1 NAME Florence /Gibbs/
+2 GIVN Florence
+2 SURN Gibbs
+1 SEX F
+1 FAMC @F30@
+1 FAMS @F16@
+1 BIRT
+2 DATE 01 jul 1896
+2 PLAC Oldland Common
+1 DEAT
+2 DATE 25 Sep 1984
+2 PLAC Hawthorns House Nursing Home, Keynsham
+0 @I182521855534@ INDI
+1 NAME George /Harget/
+2 GIVN George
+2 SURN Harget
+1 SEX M
+1 FAMC @F41@
+1 FAMS @F17@
+1 BIRT
+2 DATE 2 Feb 1846
+2 PLAC Wolverhampton, Staffordshire, England
+1 DEAT
+2 DATE Sep 1921
+2 PLAC Bristol, Gloucestershire, England
+0 @I182521855545@ INDI
+1 NAME Mary Ann /Baugh/
+2 GIVN Mary Ann
+2 SURN Baugh
+1 SEX F
+1 FAMC @F6@
+1 FAMS @F17@
+1 BIRT
+2 DATE 6 Jan 1855
+2 PLAC Ettingshall, Sedgley, Staffordshire, England
+1 DEAT
+2 DATE 1907
+2 PLAC Bristol, Gloucestershire, England
+0 @I182521855551@ INDI
+1 NAME John /Hunt/
+2 GIVN John
+2 SURN Hunt
+1 SEX M
+1 FAMC @F3@
+1 FAMS @F25@
+1 BIRT
+2 DATE abt 1849
+2 PLAC Peopleton, Worcestershire, England
+0 @I182521855561@ INDI
+1 NAME Mary Elizabeth /Hooper/
+2 GIVN Mary Elizabeth
+2 SURN Hooper
+1 SEX F
+1 FAMC @F15@
+1 FAMS @F25@
+1 BIRT
+2 DATE Bef. 30 Jan 1857
+2 PLAC St Marychurch, Devon, England
+1 DEAT
+2 DATE Bef. 21 Mar 1929
+2 PLAC Brislington, Somerset, England
+1 OBJE @O5@
+2 _PRIM Y
+0 @I182521855567@ INDI
+1 NAME William /Neal/
+2 GIVN William
+2 SURN Neal
+1 SEX M
+1 FAMS @F48@
+1 BIRT
+2 DATE 1864
+2 PLAC Keynsham, Somerset, England
+0 @I182521855570@ INDI
+1 NAME William /Neal/
+2 GIVN William
+2 SURN Neal
+1 SEX M
+1 FAMC @F11@
+1 FAMS @F32@
+1 BIRT
+2 DATE 1864
+2 PLAC Keynsham, Somerset, England
+0 @I182521855571@ INDI
+1 NAME Amelia aka Minnie /Payne/
+2 GIVN Amelia aka Minnie
+2 SURN Payne
+1 SEX F
+1 FAMC @F21@
+1 FAMS @F32@
+1 BIRT
+2 DATE abt 1868
+2 PLAC Keynsham, Somerset, England
+1 DEAT
+2 DATE Dec 1936
+2 PLAC Bathavon, Somerset, England
+0 @I182521855573@ INDI
+1 NAME George /Gibbs/
+2 GIVN George
+2 SURN Gibbs
+1 SEX M
+1 FAMC @F19@
+1 FAMS @F30@
+1 BIRT
+2 DATE abt 1869
+2 PLAC Oldland Common
+0 @I182521855576@ INDI
+1 NAME Esther /Gibbs/
+2 GIVN Esther
+2 SURN Gibbs
+1 SEX F
+1 FAMC @F18@
+1 FAMS @F30@
+1 BIRT
+2 DATE abt 1875
+2 PLAC Warmley
+0 @I182521855611@ INDI
+1 NAME Joseph /Hargett/
+2 GIVN Joseph
+2 SURN Hargett
+1 SEX M
+1 FAMC @F13@
+1 FAMS @F41@
+1 BIRT
+2 DATE 19 NOV 1812
+2 PLAC MASBRO ROTHERHAM
+1 DEAT
+2 DATE 16 MAY 1883
+2 PLAC ST JOHN STREET BILSTON
+0 @I182521855612@ INDI
+1 NAME MARTHA /Jarvis/
+2 GIVN MARTHA
+2 SURN Jarvis
+1 SEX F
+1 FAMS @F41@
+1 BIRT
+2 DATE abt 1822
+2 PLAC Weston, Yorkshire, England
+1 DEAT
+2 DATE Dec 1891
+2 PLAC Wolverhampton, England, United Kingdom
+0 @I182521855622@ INDI
+1 NAME Thomas /Baugh/
+2 GIVN Thomas
+2 SURN Baugh
+1 SEX M
+1 FAMC @F24@
+1 FAMS @F6@
+1 BIRT
+2 DATE 1832
+2 PLAC Sedgeley Staffordshire
+1 DEAT
+2 DATE Oct 1901
+2 PLAC Staffordshire, United Kingdom
+1 OBJE @O2@
+2 _PRIM Y
+0 @I182521855626@ INDI
+1 NAME Mary Ann /Kite/
+2 GIVN Mary Ann
+2 SURN Kite
+1 SEX F
+1 FAMS @F6@
+1 BIRT
+2 DATE 1819
+2 PLAC Rowly, Staffordshire, England
+0 @I182521855630@ INDI
+1 NAME Daniel /Hunt/
+2 GIVN Daniel
+2 SURN Hunt
+1 SEX M
+1 FAMS @F3@
+1 BIRT
+2 DATE abt 1806
+2 PLAC Peopleton, Worcestershire, England
+1 DEAT
+2 DATE 17 September 1865
+0 @I182521855631@ INDI
+1 NAME Mary /Futrill/
+2 GIVN Mary
+2 SURN Futrill
+1 SEX F
+1 FAMC @F45@
+1 FAMS @F3@
+1 BIRT
+2 DATE 1811
+2 PLAC Comberton, Worcestershire, England
+0 @I182521855637@ INDI
+1 NAME George /Hooper/
+2 GIVN George
+2 SURN Hooper
+1 SEX M
+1 FAMC @F26@
+1 FAMS @F15@
+1 BIRT
+2 DATE ABT 1829
+2 PLAC South Tawnton, Devon
+1 DEAT
+2 DATE ABT Jun 1896
+2 PLAC Newton Abbot
+1 OBJE @O4@
+2 _PRIM Y
+0 @I182521855639@ INDI
+1 NAME Cecilia Elizabeth Sylvia /Campion/
+2 GIVN Cecilia Elizabeth Sylvia
+2 SURN Campion
+1 SEX F
+1 FAMC @F31@
+1 FAMS @F15@
+1 BIRT
+2 DATE ABT Mar 1831
+2 PLAC Ilsington, Devon, England
+1 DEAT
+2 DATE ABT Sep 1901
+2 PLAC Newton Abbot Devon
+1 OBJE @O4@
+2 _PRIM Y
+0 @I182521855645@ INDI
+1 NAME William /Neale/
+2 GIVN William
+2 SURN Neale
+1 SEX M
+1 FAMC @F40@
+1 FAMS @F11@
+1 BIRT
+2 DATE abt 1827
+2 PLAC Keynsham, Somerset, England
+1 DEAT
+2 DATE 23 June 1911
+2 PLAC Workhouse, Keynsham, Somerset, England
+0 @I182521855647@ INDI
+1 NAME Mary /Carpenter/
+2 GIVN Mary
+2 SURN Carpenter
+1 SEX F
+1 FAMC @F39@
+1 FAMS @F11@
+1 BIRT
+2 DATE 1826
+2 PLAC Somerset, England
+1 DEAT
+2 DATE April 1904
+2 PLAC Keynsham, Somerset, United Kingdom
+1 OBJE @O8@
+2 _PRIM Y
+0 @I182521855652@ INDI
+1 NAME Joseph /Payne/
+2 GIVN Joseph
+2 SURN Payne
+1 SEX M
+1 FAMC @F34@
+1 FAMS @F21@
+1 BIRT
+2 DATE 1832
+2 PLAC Marksbury, Somerset, England
+1 DEAT
+2 DATE July 1905
+2 PLAC Keynsham, Somerset
+0 @I182521855653@ INDI
+1 NAME Sarah /May/
+2 GIVN Sarah
+2 SURN May
+1 SEX F
+1 FAMC @F50@
+1 FAMS @F21@
+1 BIRT
+2 DATE Abt. 1832
+2 PLAC Keynsham, Somerset, England
+1 DEAT
+2 DATE Jul 1893
+2 PLAC Keynsham, Somerset, England
+0 @I182521855655@ INDI
+1 NAME John (Henry) /Gibbs/
+2 GIVN John (Henry)
+2 SURN Gibbs
+1 SEX M
+1 FAMC @F9@
+1 FAMS @F19@
+1 BIRT
+2 DATE abt 1827
+2 PLAC Bitton, Gloucestershire, England
+0 @I182521855656@ INDI
+1 NAME Mercy /Short/
+2 GIVN Mercy
+2 SURN Short
+1 SEX F
+1 FAMC @F49@
+1 FAMS @F19@
+1 BIRT
+2 DATE abt 1826
+2 PLAC Bitton, Gloucestershire, England
+1 DEAT
+2 DATE Abt. 17 Aug 1886
+0 @I182521855663@ INDI
+1 NAME Joseph /Bryant/
+2 GIVN Joseph
+2 SURN Bryant
+1 SEX M
+1 FAMC @F14@
+1 FAMS @F18@
+1 BIRT
+2 DATE abt 1833
+2 PLAC Wick, Gloucestershire, England
+1 DEAT
+2 DATE 11 Jan 1905
+2 PLAC Gloucestershire, England
+0 @I182521855665@ INDI
+1 NAME Hannah /Amos/
+2 GIVN Hannah
+2 SURN Amos
+1 SEX F
+1 FAMC @F12@
+1 FAMS @F18@
+1 BIRT
+2 DATE abt 1845
+2 PLAC Doynton, Gloucestershire, England
+1 DEAT
+2 DATE July 1910
+2 PLAC Keynsham, Somerset
+0 @I182521855760@ INDI
+1 NAME John /Harget/
+2 GIVN John
+2 SURN Harget
+1 SEX M
+1 FAMS @F13@
+1 BIRT
+2 DATE 24 May 1792
+2 PLAC Masborough, Rotherham, Yorkshire, England
+1 DEAT
+2 DATE October 1851
+2 PLAC Sheffield, Yorkshire West Riding
+0 @I182521855770@ INDI
+1 NAME Elizabeth /bagnell/
+2 GIVN Elizabeth
+2 SURN bagnell
+1 SEX F
+1 FAMS @F13@
+1 BIRT
+2 DATE 27 Jul 1793
+2 PLAC Rotherham Yorkshire
+1 DEAT
+2 DATE July 1851
+2 PLAC Rotherham, Yorkshire West Riding
+0 @I182521855802@ INDI
+1 NAME Thomas /Baugh/
+2 GIVN Thomas
+2 SURN Baugh
+1 SEX M
+1 FAMS @F24@
+1 BIRT
+2 DATE 1803
+2 PLAC Bilston, Staffordshire, England
+1 DEAT
+2 DATE 29 Jun 1856
+2 PLAC Sedgley, Stafford, England
+0 @I182521855806@ INDI
+1 NAME Ann /Hickmans/
+2 GIVN Ann
+2 SURN Hickmans
+1 SEX F
+1 FAMS @F24@
+1 BIRT
+2 DATE 1805
+2 PLAC Sedgley, Staffordshire, England
+1 DEAT
+2 DATE January 1875
+2 PLAC Dudley, Staffordshire
+0 @I182521855817@ INDI
+1 NAME John /Futerill/
+2 GIVN John
+2 SURN Futerill
+1 SEX M
+1 FAMS @F45@
+1 BIRT
+2 DATE 5 May 1793
+2 PLAC Great Comberton, Worcestershire, England
+1 DEAT
+2 DATE Aug 1818
+2 PLAC Great Comberton, Worcestershire, England
+0 @I182521855820@ INDI
+1 NAME George /Hooper/
+2 GIVN George
+2 SURN Hooper
+1 SEX M
+1 FAMS @F26@
+1 BIRT
+2 DATE Bef. 13 Jan 1799
+2 PLAC South Tawton, Devon, England
+1 DEAT
+2 DATE Bef. 30 Sep 1851
+2 PLAC South Tawton, Devon, England
+0 @I182521855823@ INDI
+1 NAME Ann /Knapman/
+2 GIVN Ann
+2 SURN Knapman
+1 SEX F
+1 FAMS @F26@
+1 BIRT
+2 DATE Bef. 16 Mar 1800
+2 PLAC South Tawton, Devon, England
+1 DEAT
+2 DATE Bef. 31 Jul 1873
+2 PLAC South Tawton, Devon, England
+0 @I182521855826@ INDI
+1 NAME George /Campion/
+2 GIVN George
+2 SURN Campion
+1 SEX M
+1 FAMS @F31@
+1 BIRT
+2 DATE abt 1800
+2 PLAC Ilsington, Devon, England
+1 DEAT
+2 DATE 27 Oct 1881
+2 PLAC St Marychurch, Devon, England
+0 @I182521855828@ INDI
+1 NAME Sarah (Sally) /Laskey/
+2 GIVN Sarah (Sally)
+2 SURN Laskey
+1 SEX F
+1 FAMS @F31@
+1 BIRT
+2 DATE Abt. 1803
+2 PLAC Ashburton
+1 DEAT
+2 DATE 8 Jan 1886
+2 PLAC St Marychurch, Devon, England
+0 @I182521855840@ INDI
+1 NAME William /NEAL/
+2 GIVN William
+2 SURN NEAL
+1 SEX M
+1 FAMS @F40@
+1 BIRT
+2 DATE 27 Aug 1797
+2 PLAC Walcott, Somerset
+1 DEAT
+2 DATE Jan 1864
+2 PLAC BETWEEN 1839 AND 1841
+0 @I182521855843@ INDI
+1 NAME Ann /Godfrey/
+2 GIVN Ann
+2 SURN Godfrey
+1 SEX F
+1 FAMS @F40@
+1 BIRT
+2 DATE Abt 1792
+2 PLAC Keynsham, Somerset, England
+1 DEAT
+2 DATE 9 Jun 1875
+2 PLAC Keynsham, Somerset, England
+1 OBJE @O1@
+2 _PRIM Y
+0 @I182521855846@ INDI
+1 NAME James Weller /Carpenter/
+2 GIVN James Weller
+2 SURN Carpenter
+1 SEX M
+1 FAMS @F39@
+1 BIRT
+2 DATE 25 Jul 1784
+2 PLAC Keynsham, Somerset, England
+1 DEAT
+2 DATE Apr 1862
+2 PLAC Keynsham, Somerset, England
+1 OBJE @O6@
+2 _PRIM Y
+0 @I182521855847@ INDI
+1 NAME Mary /Turner/
+2 GIVN Mary
+2 SURN Turner
+1 SEX F
+1 FAMS @F39@
+1 BIRT
+2 DATE  10 May 1789
+2 PLAC Keynsham, Somerset, England
+1 DEAT
+2 DATE Apr 1862
+2 PLAC Keynsham, Somerset, England
+0 @I182521855849@ INDI
+1 NAME George /PAYNE/
+2 GIVN George
+2 SURN PAYNE
+1 SEX M
+1 FAMS @F34@
+1 BIRT
+2 DATE 1800
+2 PLAC Marksbury, Somerset, England
+1 DEAT
+2 DATE Oct 1872
+2 PLAC Wells, Somerset, United Kingdom
+0 @I182521855853@ INDI
+1 NAME Mary Ann /Carter/
+2 GIVN Mary Ann
+2 SURN Carter
+1 SEX F
+1 FAMS @F34@
+1 BIRT
+2 DATE 1802
+2 PLAC Camerton, Somerset, England
+1 DEAT
+2 DATE 1866
+2 PLAC Marksbury, Somerset
+0 @I182521855855@ INDI
+1 NAME Thomas /May/
+2 GIVN Thomas
+2 SURN May
+1 SEX M
+1 FAMS @F50@
+1 BIRT
+2 DATE 1811
+2 PLAC Keynsham, Somerset, England
+1 DEAT
+2 DATE Mar 1882
+2 PLAC Chippenham, Wiltshire, England
+0 @I182521855868@ INDI
+1 NAME Thomas /Gibbs/
+2 GIVN Thomas
+2 SURN Gibbs
+1 SEX M
+1 FAMS @F9@
+1 BIRT
+2 DATE abt 1793
+2 PLAC Gloucestershire, England
+1 DEAT
+2 DATE June 1873
+2 PLAC Gloucestershire, United Kingdom
+0 @I182521855873@ INDI
+1 NAME Mary /Gibbs/
+2 GIVN Mary
+2 SURN Gibbs
+1 SEX F
+1 FAMS @F9@
+1 BIRT
+2 DATE 1776
+2 PLAC Gloucestershire, England
+1 DEAT
+2 DATE abt 1855
+2 PLAC Highwood, Wiltshire, United Kingdom
+1 OBJE @O7@
+2 _PRIM Y
+0 @I182521855879@ INDI
+1 NAME Hannah /Rogers/
+2 GIVN Hannah
+2 SURN Rogers
+1 SEX F
+1 FAMS @F49@
+1 BIRT
+2 DATE abt 1781
+2 PLAC Hanham, Gloucestershire, England
+0 @I182521855892@ INDI
+1 NAME James /Bryant/
+2 GIVN James
+2 SURN Bryant
+1 SEX M
+1 FAMS @F14@
+1 BIRT
+2 DATE 1807
+2 PLAC Abson and Wick, Gloucestershire, England
+1 DEAT
+2 DATE 10 Jul 1883
+2 PLAC Chipping Sudbury, Gloucestershire, United Kingdom
+0 @I182521855893@ INDI
+1 NAME Mary /Hathway/
+2 GIVN Mary
+2 SURN Hathway
+1 SEX F
+1 FAMS @F14@
+1 BIRT
+2 DATE 1809
+2 PLAC Pucklechurch, Gloucestershire, England
+1 DEAT
+2 DATE Oct 1884
+2 PLAC Pucklechurch, Gloucestershire, England
+0 @I182521855895@ INDI
+1 NAME George /Amos/
+2 GIVN George
+2 SURN Amos
+1 SEX M
+1 FAMS @F12@
+1 BIRT
+2 DATE abt 1805
+2 PLAC Doynton, Gloucestershire, England
+0 @I182521855897@ INDI
+1 NAME Fanny /Miliner/
+2 GIVN Fanny
+2 SURN Miliner
+1 SEX F
+1 FAMS @F12@
+1 BIRT
+2 DATE abt 1809
+2 PLAC Old Sodbury, Gloucestershire, England
+1 DEAT
+2 DATE Apr 1884
+2 PLAC Abson, Gloucestershire, England
+0 @I182521856033@ INDI
+1 NAME Walter Herbert /Collett/
+2 GIVN Walter Herbert
+2 SURN Collett
+1 SEX M
+1 FAMC @F28@
+1 FAMS @F23@
+1 BIRT
+2 DATE 31 December 1903
+2 PLAC Poulshot, Wiltshire, England
+1 DEAT
+2 DATE 15 December 1992
+2 PLAC Poulshot, Wiltshire, England
+0 @I182521856053@ INDI
+1 NAME Kathleen Florence Louisa /Tudgay/
+2 GIVN Kathleen Florence Louisa
+2 SURN Tudgay
+1 SEX F
+1 FAMC @F35@
+1 FAMS @F23@
+1 BIRT
+2 DATE 19 Feb 1909
+2 PLAC Melksham, Wiltshire, England
+1 DEAT
+2 DATE Jan 1995
+2 PLAC Devizes, Wiltshire, England
+0 @I182521856092@ INDI
+1 NAME Henry John /Collett/
+2 GIVN Henry John
+2 SURN Collett
+1 SEX M
+1 FAMC @F10@
+1 FAMS @F28@
+1 BIRT
+2 DATE Apr-May-Jun 1879
+2 PLAC Steeple Ashton, Wiltshire, England
+1 DEAT
+2 DATE 07 September 1910
+2 PLAC Bristol, Gloucestershire, England
+0 @I182521856099@ INDI
+1 NAME Minnie Louisa /Long/
+2 GIVN Minnie Louisa
+2 SURN Long
+1 SEX F
+1 FAMC @F7@
+1 FAMS @F28@
+1 BIRT
+2 DATE 4 October 1871
+2 PLAC Poulshot, Wiltshire, England
+1 DEAT
+2 DATE June 1959
+2 PLAC Chippenham, Wiltshire, England
+0 @I182521856103@ INDI
+1 NAME Charles Edwin /Tudgay/
+2 GIVN Charles Edwin
+2 SURN Tudgay
+1 SEX M
+1 FAMC @F4@
+1 FAMS @F35@
+1 BIRT
+2 DATE 4 Jun 1879
+2 PLAC Upper Pertwood, Wiltshire, England
+1 DEAT
+2 DATE abt 1966
+2 PLAC Devizes, Wiltshire, England
+0 @I182521856104@ INDI
+1 NAME Elisabith Louisa /Burford/
+2 GIVN Elisabith Louisa
+2 SURN Burford
+1 SEX F
+1 FAMC @F2@
+1 FAMS @F35@
+1 BIRT
+2 DATE 5 Oct 1879
+1 DEAT
+2 DATE Apr 1962
+2 PLAC Devizes, Wiltshire, England
+0 @I182521856126@ INDI
+1 NAME Henry John /Collett/
+2 GIVN Henry John
+2 SURN Collett
+1 SEX M
+1 FAMC @F27@
+1 FAMS @F10@
+1 BIRT
+2 DATE 1855
+2 PLAC Melksham, Wiltshire, England
+0 @I182521856129@ INDI
+1 NAME Martha Feltham /Grant/
+2 GIVN Martha Feltham
+2 SURN Grant
+1 SEX F
+1 FAMC @F29@
+1 FAMS @F10@
+1 BIRT
+2 DATE January 1853
+2 PLAC Keevil, Wiltshire, England
+1 DEAT
+2 DATE Dec 1925
+2 PLAC Westbury, Wiltshire, England
+0 @I182521856131@ INDI
+1 NAME William Walter /Long/
+2 GIVN William Walter
+2 SURN Long
+1 SEX M
+1 FAMS @F7@
+1 BIRT
+2 DATE 1845
+2 PLAC Poulshot, Wiltshire, England
+1 DEAT
+2 DATE 4 February 1899
+2 PLAC Devizes, Wiltshire, England
+0 @I182521856132@ INDI
+1 NAME Harriet Perrin /Biggs aka Bond/
+2 GIVN Harriet Perrin
+2 SURN Biggs aka Bond
+1 SEX F
+1 FAMC @F37@
+1 FAMS @F7@
+1 BIRT
+2 DATE 23 Sep 1838
+2 PLAC Potterne, Wiltshire, England
+1 DEAT
+2 DATE September 1917
+2 PLAC Devizes, Wiltshire, England
+0 @I182521856137@ INDI
+1 NAME John William /Tudgay/
+2 GIVN John William
+2 SURN Tudgay
+1 SEX M
+1 FAMC @F42@
+1 FAMS @F4@
+1 BIRT
+2 DATE 1845
+2 PLAC Kingston Deverill, Wiltshire, England
+1 DEAT
+2 DATE 1911
+0 @I182521856139@ INDI
+1 NAME Caroline /Gray/
+2 GIVN Caroline
+2 SURN Gray
+1 SEX F
+1 FAMC @F46@
+1 FAMS @F4@
+1 BIRT
+2 DATE 1839
+2 PLAC West Knoyle, Wiltshire, England
+0 @I182521856141@ INDI
+1 NAME William Alfred /Burford/
+2 GIVN William Alfred
+2 SURN Burford
+1 SEX M
+1 FAMS @F2@
+1 BIRT
+2 DATE 1853
+2 PLAC Bailbrook, Somerset
+1 DEAT
+2 DATE 1921
+2 PLAC Bristol, Gloucestershire
+0 @I182521856142@ INDI
+1 NAME Louisa /Evans/
+2 GIVN Louisa
+2 SURN Evans
+1 SEX F
+1 FAMC @F5@
+1 FAMS @F2@
+1 BIRT
+2 DATE 1846
+2 PLAC High Littleton, Somerset
+1 DEAT
+2 DATE 1903
+2 PLAC Batheaston, Somerset
+0 @I182521856205@ INDI
+1 NAME Henry /Collett/
+2 GIVN Henry
+2 SURN Collett
+1 SEX M
+1 FAMC @F36@
+1 FAMS @F27@
+1 BIRT
+2 DATE abt 1827
+2 PLAC Melksham, Wiltshire, England
+1 DEAT
+2 DATE January 1861
+2 PLAC Melksham, Wiltshire
+0 @I182521856217@ INDI
+1 NAME Ann /Pepler/
+2 GIVN Ann
+2 SURN Pepler
+1 SEX F
+1 FAMC @F33@
+1 FAMS @F27@
+1 BIRT
+2 DATE 1828
+2 PLAC Melksham, Wiltshire, England
+1 DEAT
+2 DATE 20 Mar 1905
+2 PLAC Melksham, Wiltshire
+0 @I182521856223@ INDI
+1 NAME John /Grant/
+2 GIVN John
+2 SURN Grant
+1 SEX M
+1 FAMS @F29@
+1 BIRT
+2 DATE 1812
+2 PLAC Steeple Ashton, Wiltshire, England
+1 DEAT
+2 DATE 19 Jul 1873
+2 PLAC Westbury, Wiltshire
+0 @I182521856227@ INDI
+1 NAME Martha /Feltham/
+2 GIVN Martha
+2 SURN Feltham
+1 SEX F
+1 FAMC @F44@
+1 FAMS @F29@
+1 BIRT
+2 DATE 1815
+2 PLAC Chitterne, Wiltshire, England
+1 DEAT
+2 DATE 14 Nov 1881
+2 PLAC Wiltshire, England
+0 @I182521856233@ INDI
+1 NAME William /Biggs/
+2 GIVN William
+2 SURN Biggs
+1 SEX M
+1 FAMC @F43@
+1 FAMS @F37@
+1 BIRT
+2 DATE abt 1815
+2 PLAC Potterne, Wiltshire, England
+1 DEAT
+2 DATE October 1895
+2 PLAC Potterne, Wiltshire, England
+0 @I182521856240@ INDI
+1 NAME Harriet /Perrin/
+2 GIVN Harriet
+2 SURN Perrin
+1 SEX F
+1 FAMC @F8@
+1 FAMS @F37@
+1 BIRT
+2 DATE 3 Nov 1808
+2 PLAC Englishcombe, Somerset, England
+1 DEAT
+2 DATE September 1886
+2 PLAC Potterne, Wiltshire, England
+0 @I182521856246@ INDI
+1 NAME Charles /Tudgay/
+2 GIVN Charles
+2 SURN Tudgay
+1 SEX M
+1 FAMC @F51@
+1 FAMS @F42@
+1 BIRT
+2 DATE abt 1813
+2 PLAC Kingston Deverill, Wiltshire, England
+1 DEAT
+2 DATE 1864
+0 @I182521856252@ INDI
+1 NAME Elizabeth /Snelgrove/
+2 GIVN Elizabeth
+2 SURN Snelgrove
+1 SEX F
+1 FAMS @F42@
+1 BIRT
+2 DATE 1812
+2 PLAC Kingston Deverill, Wiltshire, England
+0 @I182521856253@ INDI
+1 NAME Thomas /Gray/
+2 GIVN Thomas
+2 SURN Gray
+1 SEX M
+1 FAMC @F1@
+1 FAMS @F46@
+1 BIRT
+2 DATE 9 Sep 1813
+2 PLAC West Knoyle, Wiltshire, England
+1 DEAT
+2 DATE 19 NOV 1881
+2 PLAC West Knoyle, Wiltshire
+0 @I182521856256@ INDI
+1 NAME Joseph /Evans/
+2 GIVN Joseph
+2 SURN Evans
+1 SEX M
+1 FAMC @F47@
+1 FAMS @F5@
+1 BIRT
+2 DATE 18/1/1818
+2 PLAC High Littleton, , Somerset, England
+1 DEAT
+2 DATE 1 Sep 1874
+2 PLAC High Littleton, , Somerset, England
+0 @I182521856265@ INDI
+1 NAME Elizabeth Eliza /Chivers/
+2 GIVN Elizabeth Eliza
+2 SURN Chivers
+1 SEX F
+1 FAMS @F5@
+1 BIRT
+2 DATE 1817
+2 PLAC High Littleton, Somerset
+1 DEAT
+2 DATE 1893
+2 PLAC Clutton, Somerset, , England
+0 @I182521856360@ INDI
+1 NAME Henry /Collett/
+2 GIVN Henry
+2 SURN Collett
+1 SEX M
+1 FAMS @F36@
+1 BIRT
+2 DATE 1798
+2 PLAC Broughton Gifford, Wiltshire County, England
+1 DEAT
+2 DATE 15 AUG 1858
+2 PLAC Melksham,Wiltshire, England, United Kingdom
+0 @I182521856363@ INDI
+1 NAME Mary /Morris (Collett)/
+2 GIVN Mary
+2 SURN Morris (Collett)
+1 SEX F
+1 FAMS @F36@
+1 BIRT
+2 DATE 1799
+2 PLAC Melksham, Wiltshire, England
+1 DEAT
+2 DATE July 1842
+2 PLAC Melksham, Wiltshire
+0 @I182521856364@ INDI
+1 NAME William /PEPLER/
+2 GIVN William
+2 SURN PEPLER
+1 SEX M
+1 FAMS @F33@
+1 BIRT
+2 DATE 1804
+2 PLAC Melksham, Wiltshire, England
+1 DEAT
+2 DATE Jul 1876
+2 PLAC Bradford on Avon, Wiltshire, England
+0 @I182521856367@ INDI
+1 NAME Jane /ANGEL/
+2 GIVN Jane
+2 SURN ANGEL
+1 SEX F
+1 FAMS @F33@
+1 BIRT
+2 DATE 1803
+2 PLAC Melksham, Wiltshire, England
+0 @I182521856373@ INDI
+1 NAME James /Feltham/
+2 GIVN James
+2 SURN Feltham
+1 SEX M
+1 FAMS @F44@
+1 BIRT
+2 DATE Mar 1765
+2 PLAC Stourton, Wilts
+1 DEAT
+2 DATE 6 Feb 1839
+2 PLAC Chitterne, Wiltshire, England
+0 @I182521856375@ INDI
+1 NAME Elizabeth /MOODY/
+2 GIVN Elizabeth
+2 SURN MOODY
+1 SEX F
+1 FAMS @F44@
+1 BIRT
+2 DATE 1769
+2 PLAC Chittern, Wiltshire, England
+1 DEAT
+2 DATE July 1846
+2 PLAC Chittern, Wiltshire, England
+0 @I182521856377@ INDI
+1 NAME Richard /Bond/
+2 GIVN Richard
+2 SURN Bond
+1 SEX M
+1 FAMS @F43@
+1 BIRT
+2 DATE 1788
+2 PLAC Potterne, Wiltshire, England
+1 DEAT
+2 DATE May 1853
+2 PLAC Potterne, Wiltshire, England
+0 @I182521856378@ INDI
+1 NAME Elizabeth /Biggs/
+2 GIVN Elizabeth
+2 SURN Biggs
+1 SEX F
+1 FAMS @F43@
+1 BIRT
+2 DATE 1797
+2 PLAC Mells, Somerset
+1 DEAT
+2 DATE July 1849
+2 PLAC Devizes, Wiltshire
+0 @I182521856384@ INDI
+1 NAME Joseph /Perrin/
+2 GIVN Joseph
+2 SURN Perrin
+1 SEX M
+1 FAMS @F8@
+1 BIRT
+2 DATE 1779
+2 PLAC Kingscote, Gloucestershire, England
+1 DEAT
+2 DATE Mar 1866
+2 PLAC Englishcombe, Somerset, England
+0 @I182521856385@ INDI
+1 NAME Ruth /Maggs/
+2 GIVN Ruth
+2 SURN Maggs
+1 SEX F
+1 FAMS @F8@
+1 BIRT
+2 DATE 17 Oct 1779
+2 PLAC Priston, Somerset, England
+1 DEAT
+2 DATE 28 November 1843
+2 PLAC Englishcombe, Somerset, England
+0 @I182521856391@ INDI
+1 NAME John /Tudgay/
+2 GIVN John
+2 SURN Tudgay
+1 SEX M
+1 FAMS @F51@
+1 BIRT
+2 DATE abt 1792
+2 PLAC Kingston Deverill, Wiltshire, England
+0 @I182521856396@ INDI
+1 NAME Thomas /Gray/
+2 GIVN Thomas
+2 SURN Gray
+1 SEX M
+1 FAMS @F1@
+1 BIRT
+2 DATE 7 Sep 1770
+2 PLAC West Knoyle, Wiltshire, England
+1 DEAT
+2 DATE 1820
+2 PLAC West Knoyle, Wiltshire, , England
+0 @I182521856402@ INDI
+1 NAME Paishence /Hains/
+2 GIVN Paishence
+2 SURN Hains
+1 SEX F
+1 FAMS @F1@
+1 BIRT
+2 DATE 12 Jan 1777
+2 PLAC West Knoyle, Wiltshire, England
+1 DEAT
+2 DATE 13/09/1853
+2 PLAC West Knoyle
+1 OBJE @O3@
+2 _PRIM Y
+0 @I182521856410@ INDI
+1 NAME William /Evans/
+2 GIVN William
+2 SURN Evans
+1 SEX M
+1 FAMS @F47@
+1 BIRT
+2 DATE 28 Nov 1784
+2 PLAC High Littleton Somerset
+1 DEAT
+2 DATE 19 Feb 1857
+2 PLAC High Littleton, , Somerset, England
+0 @F1@ FAM
+1 HUSB @I182521856396@
+1 WIFE @I182521856402@
+1 CHIL @I182521856253@
+0 @F2@ FAM
+1 HUSB @I182521856141@
+1 WIFE @I182521856142@
+1 CHIL @I182521856104@
+0 @F3@ FAM
+1 HUSB @I182521855630@
+1 WIFE @I182521855631@
+1 CHIL @I182521855551@
+0 @F4@ FAM
+1 HUSB @I182521856137@
+1 WIFE @I182521856139@
+1 CHIL @I182521856103@
+0 @F5@ FAM
+1 HUSB @I182521856256@
+1 WIFE @I182521856265@
+1 CHIL @I182521856142@
+0 @F6@ FAM
+1 HUSB @I182521855622@
+1 WIFE @I182521855626@
+1 CHIL @I182521855545@
+0 @F7@ FAM
+1 HUSB @I182521856131@
+1 WIFE @I182521856132@
+1 CHIL @I182521856099@
+0 @F8@ FAM
+1 HUSB @I182521856384@
+1 WIFE @I182521856385@
+1 CHIL @I182521856240@
+0 @F9@ FAM
+1 HUSB @I182521855868@
+1 WIFE @I182521855873@
+1 CHIL @I182521855655@
+0 @F10@ FAM
+1 HUSB @I182521856126@
+1 WIFE @I182521856129@
+1 CHIL @I182521856092@
+0 @F11@ FAM
+1 HUSB @I182521855645@
+1 WIFE @I182521855647@
+1 CHIL @I182521855570@
+0 @F12@ FAM
+1 HUSB @I182521855895@
+1 WIFE @I182521855897@
+1 CHIL @I182521855665@
+0 @F13@ FAM
+1 HUSB @I182521855760@
+1 WIFE @I182521855770@
+1 CHIL @I182521855611@
+0 @F14@ FAM
+1 HUSB @I182521855892@
+1 WIFE @I182521855893@
+1 CHIL @I182521855663@
+0 @F15@ FAM
+1 HUSB @I182521855637@
+1 WIFE @I182521855639@
+1 CHIL @I182521855561@
+0 @F16@ FAM
+1 HUSB @I182521855277@
+1 WIFE @I182521855288@
+1 CHIL @I182521855207@
+0 @F17@ FAM
+1 HUSB @I182521855534@
+1 WIFE @I182521855545@
+1 CHIL @I182521855265@
+0 @F18@ FAM
+1 HUSB @I182521855663@
+1 WIFE @I182521855665@
+1 CHIL @I182521855576@
+0 @F19@ FAM
+1 HUSB @I182521855655@
+1 WIFE @I182521855656@
+1 CHIL @I182521855573@
+0 @F20@ FAM
+1 HUSB @I182521853482@
+1 WIFE @I182521855210@
+1 CHIL @I182521853481@
+1 MARR
+2 DATE 1968
+2 PLAC Devizes, Wiltshire, United Kingdom
+0 @F21@ FAM
+1 HUSB @I182521855652@
+1 WIFE @I182521855653@
+1 CHIL @I182521855571@
+0 @F22@ FAM
+1 HUSB @I182521855265@
+1 WIFE @I182521855266@
+1 CHIL @I182521855205@
+0 @F23@ FAM
+1 HUSB @I182521856033@
+1 WIFE @I182521856053@
+1 CHIL @I182521855210@
+0 @F24@ FAM
+1 HUSB @I182521855802@
+1 WIFE @I182521855806@
+1 CHIL @I182521855622@
+0 @F25@ FAM
+1 HUSB @I182521855551@
+1 WIFE @I182521855561@
+1 CHIL @I182521855266@
+0 @F26@ FAM
+1 HUSB @I182521855820@
+1 WIFE @I182521855823@
+1 CHIL @I182521855637@
+0 @F27@ FAM
+1 HUSB @I182521856205@
+1 WIFE @I182521856217@
+1 CHIL @I182521856126@
+0 @F28@ FAM
+1 HUSB @I182521856092@
+1 WIFE @I182521856099@
+1 CHIL @I182521856033@
+0 @F29@ FAM
+1 HUSB @I182521856223@
+1 WIFE @I182521856227@
+1 CHIL @I182521856129@
+0 @F30@ FAM
+1 HUSB @I182521855573@
+1 WIFE @I182521855576@
+1 CHIL @I182521855288@
+0 @F31@ FAM
+1 HUSB @I182521855826@
+1 WIFE @I182521855828@
+1 CHIL @I182521855639@
+0 @F32@ FAM
+1 HUSB @I182521855570@
+1 WIFE @I182521855571@
+1 CHIL @I182521855277@
+0 @F33@ FAM
+1 HUSB @I182521856364@
+1 WIFE @I182521856367@
+1 CHIL @I182521856217@
+0 @F34@ FAM
+1 HUSB @I182521855849@
+1 WIFE @I182521855853@
+1 CHIL @I182521855652@
+0 @F35@ FAM
+1 HUSB @I182521856103@
+1 WIFE @I182521856104@
+1 CHIL @I182521856053@
+0 @F36@ FAM
+1 HUSB @I182521856360@
+1 WIFE @I182521856363@
+1 CHIL @I182521856205@
+0 @F37@ FAM
+1 HUSB @I182521856233@
+1 WIFE @I182521856240@
+1 CHIL @I182521856132@
+0 @F38@ FAM
+1 HUSB @I182521855205@
+1 WIFE @I182521855207@
+1 CHIL @I182521853482@
+1 CHIL @I182521855208@
+1 CHIL @I182521855209@
+1 MARR
+2 DATE 1945
+2 PLAC Bathavon, Somerset, United Kingdom
+0 @F39@ FAM
+1 HUSB @I182521855846@
+1 WIFE @I182521855847@
+1 CHIL @I182521855647@
+0 @F40@ FAM
+1 HUSB @I182521855840@
+1 WIFE @I182521855843@
+1 CHIL @I182521855645@
+0 @F41@ FAM
+1 HUSB @I182521855611@
+1 WIFE @I182521855612@
+1 CHIL @I182521855534@
+0 @F42@ FAM
+1 HUSB @I182521856246@
+1 WIFE @I182521856252@
+1 CHIL @I182521856137@
+0 @F43@ FAM
+1 HUSB @I182521856377@
+1 WIFE @I182521856378@
+1 CHIL @I182521856233@
+0 @F44@ FAM
+1 HUSB @I182521856373@
+1 WIFE @I182521856375@
+1 CHIL @I182521856227@
+0 @F45@ FAM
+1 HUSB @I182521855817@
+1 CHIL @I182521855631@
+0 @F46@ FAM
+1 HUSB @I182521856253@
+1 CHIL @I182521856139@
+0 @F47@ FAM
+1 HUSB @I182521856410@
+1 CHIL @I182521856256@
+0 @F48@ FAM
+1 HUSB @I182521855567@
+1 CHIL @I182521855277@
+0 @F49@ FAM
+1 WIFE @I182521855879@
+1 CHIL @I182521855656@
+0 @F50@ FAM
+1 HUSB @I182521855855@
+1 CHIL @I182521855653@
+0 @F51@ FAM
+1 HUSB @I182521856391@
+1 CHIL @I182521856246@
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE gif
+3 _SIZE 80239
+3 _WDTH 517
+3 _HGHT 369
+2 TITL St James Bristol
+1 RIN 065d5c7d-edc9-4488-afcd-bcb062c10d76
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-17 23:46:27.391
+1 _USER wN3ULz/qjV2nzbizMB9WT0slrok8ZPObR4xHI4ptGpFeK2F0l1l9whMVrXzNEF2wx4N0C66okxmnKKQHUJ8m0Q==
+2 _ENCR 1
+1 _CLON
+2 _TID 3740032
+2 _PID -818845997
+2 _OID 8f7e9c45-6f3a-49bd-a645-bd5a17b7eb79
+2 _USER m3WV8PtbKBZ/cfEFsKWkrzjKRq2hjK8usZfKoABZJ5UhQ74sLUo+VLa/ntvUKjhhSdS6wZJbkkHAO0lEpscYOQ==
+3 _ENCR 1
+2 _DATE 2014-06-12 19:33:03.000
+1 _ORIG u
+1 _MSER
+2 _LKID 8f7e9c45-6f3a-49bd-a645-bd5a17b7eb79
+1 _ATL N
+0 @O2@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE pjpeg
+3 _SIZE 992763
+3 _WDTH 2338
+3 _HGHT 1700
+2 TITL Thomas Baugh and Eliza Salt
+1 RIN 0a360ae0-9fcf-4b18-8bae-ca74247361b0
+1 DATE 3/10/1853
+1 PLAC Park Lane Tipton
+1 _DSCR Certificate
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-17 23:44:10.342
+1 _USER clRGnYKYEftR1XGYZTuauysHu40VJm2eQqZMTcVqX9Tt/LPT2T6i2spEdePrh4SL3eLhAFAY0QC+BhJPr0mLIw==
+2 _ENCR 1
+1 _CLON
+2 _TID 1170778
+2 _PID -1899100699
+2 _OID bba195cb-8805-4c61-b8bc-da0ebba15128
+2 _USER AAdPehqxo4d2uBk61xn8qStlls4LqMdZCv2WTE2lsbZpmFLHph5qwPPnMtgvWnjqgisl8s//u0AQ+jNH87rJLw==
+3 _ENCR 1
+2 _DATE 2007-10-20 13:43:59.380
+1 _ORIG u
+1 _MSER
+2 _LKID bba195cb-8805-4c61-b8bc-da0ebba15128
+1 _ATL N
+0 @O3@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE png
+3 _SIZE 65222
+3 _WDTH 1414
+3 _HGHT 251
+2 TITL Haynes Patience Burial 1853
+1 RIN 33749664-f257-42f7-85e6-60036f8404e3
+1 DATE 2017-10-16 2:32:09 PM
+1 _CREA 2023-10-17 23:52:33.444
+1 _USER do/GZiVE7lShU+7jDtyukPlGyE3cqyWwri6ug8FUAxxJ1s0b/9IbtmijSuSXK7g6FIaQEucmC1q/el3v9T04IQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 114841068
+2 _PID 260139508615
+2 _OID 4c9a6e7e-8626-4e10-9513-1e74a1dfe4bf
+2 _USER 7JicG6pf97cA7HNNlHlOSYHISPg15xTYf+2+ftIvwrE5wjU0FMWHevIx3RQvsfpyCvs5oX9nQrs4LojrUdr1YA==
+3 _ENCR 1
+2 _DATE 2017-10-16 19:49:29.000
+1 _ORIG u
+1 _MSER
+2 _LKID 4c9a6e7e-8626-4e10-9513-1e74a1dfe4bf
+1 _ATL N
+0 @O4@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 7239215
+3 _WDTH 7015
+3 _HGHT 5168
+2 TITL George Hooper Celia Campion Marriage 1854
+1 RIN 3fd81d9c-4273-4bef-8377-c53ad57c230f
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-17 23:44:19.409
+1 _USER mQJBJyV+1raZHU4BVNBZCPINACPW4oXDvR+DWVRiWbvL0SkascGQn1Gy4ApGYpV79sQZqEFILF5sWqlMa+otmw==
+2 _ENCR 1
+1 _CLON
+2 _TID 44072916
+2 _PID 12741559643
+2 _OID 02eb4b90-c44e-4cbb-b013-31a18ed14398
+2 _USER G4Q1DCEUvYz3DNw4rodhuUYgtFCfDw0AKyQLuBWBHbM2w1wdmbMh0SwvEbR9MHNDSWBqxlhkaKKL+T6Or9St7A==
+3 _ENCR 1
+2 _DATE 2013-10-14 16:57:08.000
+1 _ORIG u
+1 _MSER
+2 _LKID 02eb4b90-c44e-4cbb-b013-31a18ed14398
+1 _ATL N
+0 @O5@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 1038735
+3 _WDTH 2173
+3 _HGHT 3016
+2 TITL Mary Elizabeth Hooper
+1 RIN 511f3c87-a35f-4731-af39-96fac616068b
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-17 23:43:30.392
+1 _USER R23oxkcB3DAv2uulmSJE7UCihu+NG+oeyNtXipMD9GTr2epC12UtT14NLkmrYygo4jQRI3ffYu9leqsk1SUuNA==
+2 _ENCR 1
+1 _CLON
+2 _TID 44072916
+2 _PID 12741571498
+2 _OID 94c27b5a-6cf3-43e2-ad99-22bdc92f9700
+2 _USER fFGUsbIEHgZz3xaNVbdsAlaj6nfF14u4HJOZ7N2ALo7uLuI3Uc18V6bREhlD2Wi11dcvUFnrN4ELPov40Hn6DQ==
+3 _ENCR 1
+2 _DATE 2016-04-03 15:23:25.097
+1 _ORIG u
+1 _MSER
+2 _LKID 94c27b5a-6cf3-43e2-ad99-22bdc92f9700
+1 _ATL N
+0 @O6@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE png
+3 _SIZE 188338
+3 _WDTH 1396
+3 _HGHT 530
+2 TITL James Carpenter n Mary Turner
+1 RIN 6663fe87-e39d-4c77-83ce-14d3fae56082
+1 DATE 17 Feb 1812 
+1 PLAC Keynsham 
+1 _DSCR Wedding Day.
+1 _CREA 2023-10-17 23:46:29.968
+1 _USER 2WdjCl6A16HhT5R5jcKtJ0x+8alcCIum+26fo5rhsJZQ2rEPGlidNAI2afT93K6mb1/VSEahqRbIUQqsyz9vrQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 49749203
+2 _PID 392077410166
+2 _OID cd43ef73-6d31-4e36-9468-8b407757ec91
+2 _USER ktcW01D2knIihFhkwxsdhZbEE416t6Fn2V4fdXF7CGgmrvoaz9d89ec9v4XzqBch/pzNMd1XYAgPJ16yZ57WiQ==
+3 _ENCR 1
+2 _DATE 2019-02-07 17:01:33.000
+1 _ORIG u
+1 _MSER
+2 _LKID cd43ef73-6d31-4e36-9468-8b407757ec91
+1 _ATL N
+0 @O7@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 75406
+3 _WDTH 828
+3 _HGHT 961
+2 TITL 07994451-C678-4558-8633-34F0526E53B7
+1 RIN dda412d8-4d98-45e4-bf42-b7a253aea138
+1 _CREA 2023-10-17 23:46:49.484
+1 _USER 7WzNckdnekgCREsIwE/5NyNmyeNljnJISSbBbqcq6zYpjpsNfrElBtJMLRMhjMcD8fCCue1nyvhRoBvvrPlWxw==
+2 _ENCR 1
+1 _CLON
+2 _TID 175938440
+2 _PID 102281942690
+2 _OID 30a27419-5aea-4cea-a10f-80128416d182
+2 _USER Iw3AvAzJgwi1craBPDKOJP74WTOrMe61ilOCtuNLfUjS1PFErYLJtnp0NzC77qEU4lcM4hEVzjEPZPY9LU1ucg==
+3 _ENCR 1
+2 _DATE 2021-07-20 16:05:38.000
+1 _ORIG u
+1 _MSER
+2 _LKID 30a27419-5aea-4cea-a10f-80128416d182
+1 _ATL N
+0 @O8@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 57523
+3 _WDTH 902
+3 _HGHT 600
+2 TITL A view of Edwardian Keynsham High Street 1910
+1 RIN f649ff2e-8e7a-4bac-9fe4-37852fe2d2c2
+1 DATE 1910
+1 PLAC Keynsham
+1 _DSCR Here is where John was born.
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-17 23:44:27.794
+1 _USER 7Nicj67peV4BC4el9UMUfG6JynflXUDEbIu5l1kkAtnfXmaztpkV2Nzdi0Txacs9CpAMmFYqbPqJqRXIw5AEng==
+2 _ENCR 1
+1 _CLON
+2 _TID 3740032
+2 _PID -1033827798
+2 _OID 444b0edc-a3eb-47e8-b0ce-063b58affafd
+2 _USER CtRc8Ai0EBaunzj30uPdeOnQ/PXvPVspJCoiN5jP+mDFuyPRMPy8/CR8+czNIiQPiczC0GAOj3c2xCDeAbv+HA==
+3 _ENCR 1
+2 _DATE 2009-01-18 03:55:54.000
+1 _ORIG u
+1 _MSER
+2 _LKID 444b0edc-a3eb-47e8-b0ce-063b58affafd
+1 _ATL N
+0 @S503639111@ SOUR
+1 TITL England & Wales, Civil Registration Marriage Index, 1916-2005
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,8753::0
+1 REPO @R405685295@
+0 @S503639187@ SOUR
+1 TITL England and Wales, Death Index, 1989-2022
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2014
+2 PLAC Lehi, UT, USA
+1 _APID 1,60630::0
+1 REPO @R405685295@
+0 @S503639413@ SOUR
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+1 _APID 1,1030::0
+1 REPO @R405685295@
+0 @R405685295@ REPO
+1 NAME Ancestry.com
+0 TRLR

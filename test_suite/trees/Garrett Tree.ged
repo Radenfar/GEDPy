@@ -1,0 +1,4762 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2022.08
+2 _TREE Garrett Tree
+3 RIN 189271537
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 18 Oct 2023
+2 TIME 00:15:57
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I412458423341@ INDI
+1 NAME Mandy /Garrett/
+2 GIVN Mandy
+2 SURN Garrett
+1 SEX F
+1 FAMC @F16@
+0 @I412458423342@ INDI
+1 NAME David /Spinks/
+2 GIVN David
+2 SURN Spinks
+1 SEX M
+1 FAMC @F8@
+1 FAMS @F16@
+1 FAMS @F6@
+1 BIRT
+2 DATE 30 Nov 1940
+2 PLAC Exeter, Devon, England
+1 MARR
+2 DATE Oct 1960
+2 PLAC Exeter, Devon, England
+1 DEAT
+2 DATE DEC 1990
+2 PLAC Exeter, Devon, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 272358219711:1030:51720035
+0 @I412458423343@ INDI
+1 NAME Carol A /Breslin/
+2 GIVN Carol A
+2 SURN Breslin
+1 NAME Spinks //
+2 GIVN Spinks
+1 SEX F
+1 FAMC @F7@
+1 FAMS @F16@
+1 BIRT
+2 DATE Oct 1943
+2 PLAC Exeter, Devon, England
+0 @I412458423344@ INDI
+1 NAME Shirley J P /Rowsell/
+2 GIVN Shirley J P
+2 SURN Rowsell
+1 SEX F
+1 FAMS @F6@
+0 @I412458423345@ INDI
+1 NAME Thomas Mel /Breslin/
+2 GIVN Thomas Mel
+2 SURN Breslin
+1 SEX M
+1 FAMC @F48@
+1 FAMS @F7@
+1 BIRT
+2 DATE 3 MAY 1915
+2 PLAC Longford, Ireland
+1 DEAT
+2 DATE 15 OCT 2004
+2 PLAC Devon, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 30496316065:1030:84143630
+1 SOUR @S1641363871@
+2 _APID 1,8753::57069397
+1 OBJE @O2@
+2 _PRIM Y
+0 @I412458423346@ INDI
+1 NAME Kathleen May /Russell/
+2 GIVN Kathleen May
+2 SURN Russell
+1 NAME Breslin //
+2 GIVN Breslin
+1 SEX F
+1 FAMC @F49@
+1 FAMS @F7@
+1 BIRT
+2 DATE 1915
+2 PLAC Exeter, Devon, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 152216534364:1030:170866257
+1 SOUR @S1641363871@
+2 PAGE General Register Office; United Kingdom; Volume: 7b; Page: 361
+2 _APID 1,8753::57212976
+0 @I412458423347@ INDI
+1 NAME Benjamin James /Spinks/
+2 GIVN Benjamin James
+2 SURN Spinks
+1 SEX M
+1 FAMC @F2@
+1 FAMS @F8@
+1 BIRT
+2 DATE 27 AUG 1909
+2 PLAC Wandsworth, Surrey, England
+1 DEAT
+2 DATE AUG 2001
+2 PLAC Exeter, Devon, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 322224259879:1030:84143630
+2 _APID 282315055178:1030:167415780
+2 _APID 422200897352:1030:169827142
+0 @I412458423348@ INDI
+1 NAME Emily Ada /Eveleigh/
+2 GIVN Emily Ada
+2 SURN Eveleigh
+1 NAME Spinks //
+2 GIVN Spinks
+1 SEX F
+1 FAMC @F9@
+1 FAMS @F8@
+1 BIRT
+2 DATE 3 AUG 1916
+2 PLAC St Thomas, Devon, England
+1 DEAT
+2 DATE 23 FEB 2001
+2 PLAC Exeter, Devon, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 322224260057:1030:84143630
+2 _APID 422200897319:1030:169827142
+0 @I412458423349@ INDI
+1 NAME James William /Eveleigh/
+2 GIVN James William
+2 SURN Eveleigh
+1 SEX M
+1 FAMC @F26@
+1 FAMS @F9@
+1 BIRT
+2 DATE 18 SEP 1894
+2 PLAC Ottery St MA, Devonshire, England
+1 DEAT
+2 DATE DEC 1925
+2 PLAC St Thomas, Devon, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 322228174740:1030:84143630
+2 _APID 422200895994:1030:169827142
+0 @I412458423350@ INDI
+1 NAME Ethel Annie /Smerdon/
+2 GIVN Ethel Annie
+2 SURN Smerdon
+1 NAME Eveleigh //
+2 GIVN Eveleigh
+1 SEX F
+1 FAMC @F3@
+1 FAMS @F9@
+1 BIRT
+2 DATE 4 DEC 1895
+2 PLAC Torbryan, Devon, England
+1 DEAT
+2 DATE SEP 1976
+2 PLAC Exeter, Devon, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 12270928408:1030:29560123
+2 _APID 322228174741:1030:84143630
+2 _APID 372007234932:1030:88126225
+2 _APID 422200897323:1030:169827142
+0 @I412458423351@ INDI
+1 NAME Violet Ellen /Eveleigh/
+2 GIVN Violet Ellen
+2 SURN Eveleigh
+1 NAME Pleace //
+2 GIVN Pleace
+1 SEX F
+1 FAMC @F9@
+1 FAMS @F10@
+1 BIRT
+2 DATE 16 OCT 1918
+2 PLAC St Thomas, Devon, England
+1 DEAT
+2 DATE MAY 2004
+2 PLAC Teignbridge, Devon, England
+0 @I412458423352@ INDI
+1 NAME Percival Ernest /Pleace/
+2 GIVN Percival Ernest
+2 SURN Pleace
+1 SEX M
+1 FAMS @F10@
+1 BIRT
+2 DATE 17 JUN 1913
+2 PLAC Moreton Hampstead, Devon, England
+1 DEAT
+2 DATE APR 1983
+2 PLAC Newton Abbot, Devon, England
+0 @I412458423353@ INDI
+1 NAME Terence E J /Pleace/
+2 GIVN Terence E J
+2 SURN Pleace
+1 SEX M
+1 FAMC @F10@
+1 BIRT
+2 DATE APR 1945
+2 PLAC Newton Abbot, Devon, England
+1 DEAT
+2 DATE MAR 1948
+2 PLAC Newton Abbot, Devon, England
+0 @I412458423354@ INDI
+1 NAME Dorothy Mary /Eveleigh/
+2 GIVN Dorothy Mary
+2 SURN Eveleigh
+1 NAME Pidgeon //
+2 GIVN Pidgeon
+1 SEX F
+1 FAMC @F9@
+1 FAMS @F11@
+1 BIRT
+2 DATE 15 SEP 1920
+2 PLAC Ebford, Devon, England
+1 DEAT
+2 DATE 20 JUN 2010
+2 PLAC Exmouth, Devon, England
+0 @I412458423355@ INDI
+1 NAME Frederick Albert Jellicoe /Pidgeon/
+2 GIVN Frederick Albert Jellicoe
+2 SURN Pidgeon
+1 SEX M
+1 FAMS @F11@
+1 BIRT
+2 DATE 6 JUN 1916
+2 PLAC Exmouth, Devon, England
+1 DEAT
+2 DATE 12 AUG 1987
+2 PLAC Exmouth, Devon, England
+0 @I412458423356@ INDI
+1 NAME Hazel J /Pidgeon/
+2 GIVN Hazel J
+2 SURN Pidgeon
+1 NAME McGorrigan //
+2 GIVN McGorrigan
+1 SEX F
+1 FAMC @F11@
+1 FAMS @F12@
+1 BIRT
+2 DATE JUN 1938
+2 PLAC Ebford, Devon, England
+1 DEAT
+2 DATE 31 OCT 1996
+2 PLAC Exmouth, Devon, England
+0 @I412458423357@ INDI
+1 NAME James Peter /McGorrigan/
+2 GIVN James Peter
+2 SURN McGorrigan
+1 SEX M
+1 FAMS @F12@
+1 BIRT
+2 DATE JUL 1936
+2 PLAC Uxbridge, Middlesex, England
+1 DEAT
+2 DATE 12 AUG 2009
+0 @I412458423358@ INDI
+1 NAME Frances Margaret /Eveleigh/
+2 GIVN Frances Margaret
+2 SURN Eveleigh
+1 NAME Finch //
+2 GIVN Finch
+1 SEX F
+1 FAMC @F9@
+1 FAMS @F13@
+1 BIRT
+2 DATE 15 DEC 1925
+2 PLAC St Thomas, Devon, England
+1 DEAT
+2 DATE 24 OCT 2000
+2 PLAC Exmouth, Devon, England
+0 @I412458423359@ INDI
+1 NAME William Albert /Finch/
+2 GIVN William Albert
+2 SURN Finch
+1 SEX M
+1 FAMS @F13@
+1 BIRT
+2 DATE 10 APR 1922
+2 PLAC St Thomas, Devon, England
+1 DEAT
+2 DATE JAN 2005
+2 PLAC East Devon, Devon, England
+0 @I412458423360@ INDI
+1 NAME Frederick Elias James /Eveleigh/
+2 GIVN Frederick Elias James
+2 SURN Eveleigh
+1 SEX M
+1 FAMC @F9@
+0 @I412458423361@ INDI
+1 NAME Frederick Hugh /Eveleigh/
+2 GIVN Frederick Hugh
+2 SURN Eveleigh
+1 SEX M
+1 FAMS @F26@
+1 BIRT
+2 DATE 11 JUL 1863
+2 PLAC Ottery St Mary, Devon, England
+1 DEAT
+2 DATE 14 JAN 1944
+2 PLAC Devon Central, Devon, England
+1 OBJE @O23@
+2 _PRIM Y
+0 @I412458423362@ INDI
+1 NAME Emma /Pratt/
+2 GIVN Emma
+2 SURN Pratt
+1 NAME Eveleigh //
+2 GIVN Eveleigh
+1 SEX F
+1 FAMS @F27@
+1 FAMS @F26@
+1 BIRT
+2 DATE 1857
+2 PLAC Ottery St Mary, Devon, England
+1 DEAT
+2 DATE 24 NOV 1932
+2 PLAC St Thomas, Devon, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 422200895492:1030:169827142
+2 _APID 192409382907:1030:180742173
+0 @I412458423363@ INDI
+1 NAME Bessie Ellen /Eveleigh/
+2 GIVN Bessie Ellen
+2 SURN Eveleigh
+1 NAME Litton //
+2 GIVN Litton
+1 SEX F
+1 FAMC @F26@
+1 FAMS @F29@
+1 BIRT
+2 DATE 12 AUG 1891
+2 PLAC Ottery St Mary, Devon, England
+1 DEAT
+2 DATE APR 1960
+2 PLAC Exeter, Devon, England
+0 @I412458423364@ INDI
+1 NAME John /Cox/
+2 GIVN John
+2 SURN Cox
+1 SEX M
+1 FAMS @F27@
+1 BIRT
+2 DATE 1836
+2 PLAC Ottery St Mary, Devon, England
+1 DEAT
+2 DATE ABT 1888
+2 PLAC Honiton, Devon, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 422200895996:1030:169827142
+2 _APID 192414645559:1030:180742173
+0 @I412458423365@ INDI
+1 NAME George /Cox/
+2 GIVN George
+2 SURN Cox
+1 SEX M
+1 FAMC @F27@
+1 BIRT
+2 DATE 1875
+2 PLAC Ottery St Mary, Devon, England
+1 OBJE @O13@
+2 _PRIM Y
+0 @I412458423366@ INDI
+1 NAME Jane Harriet /Cox/
+2 GIVN Jane Harriet
+2 SURN Cox
+2 SOUR @S1641615060@
+3 PAGE Class: RG13; Piece: 4982; Folio: 28; Page: 48
+3 _APID 1,7815::31845567
+1 NAME Walter //
+2 GIVN Walter
+1 SEX F
+1 FAMC @F27@
+1 FAMS @F31@
+1 BIRT
+2 DATE JAN 1877
+2 PLAC Ottery S Mary, Devon, England
+2 SOUR @S1641615060@
+3 PAGE Class: RG13; Piece: 4982; Folio: 28; Page: 48
+3 _APID 1,7815::31845567
+1 RESI
+2 DATE 1901
+2 PLAC St Mary, Glamorgan, Wales
+2 SOUR @S1641615060@
+3 PAGE Class: RG13; Piece: 4982; Folio: 28; Page: 48
+3 _APID 1,7815::31845567
+2 NOTE Relationship: Wife
+0 @I412458423367@ INDI
+1 NAME Roselina /Cox/
+2 GIVN Roselina
+2 SURN Cox
+1 SEX F
+1 FAMC @F27@
+1 BIRT
+2 DATE 1881
+2 PLAC Ottery S Mary, Devon, England
+0 @I412458423368@ INDI
+1 NAME Charlotte /Cox/
+2 GIVN Charlotte
+2 SURN Cox
+1 NAME Smith //
+2 GIVN Smith
+1 SEX F
+1 FAMC @F27@
+1 FAMS @F32@
+1 BIRT
+2 DATE 25 MAR 1882
+2 PLAC West Hill, Ottery S Mary, Devon, England
+1 DEAT
+2 DATE ABT DEC 1935
+2 PLAC St Thomas, Devon, England
+0 @I412458423369@ INDI
+1 NAME Frederick William /Smith/
+2 GIVN Frederick William
+2 SURN Smith
+1 SEX M
+1 FAMS @F32@
+1 BIRT
+2 DATE 9 NOV 1878
+2 PLAC Exmouth, Devon, England
+1 DEAT
+2 DATE 18 MAR 1952
+2 PLAC Devon Central, Devon, England
+1 NOTE Bio notes: https://www.ancestry.com.au/family-tree/person/tree/83448838/person/46487938445/facts
+0 @I412458423370@ INDI
+1 NAME Henley /Smith/
+2 GIVN Henley
+2 SURN Smith
+1 SEX M
+1 FAMC @F32@
+1 BIRT
+2 DATE 8 JUL 1900
+2 PLAC Devon, England
+1 DEAT
+2 DATE 3 SEP 1900
+2 PLAC Devon, England
+0 @I412458423371@ INDI
+1 NAME Bessie /Smith/
+2 GIVN Bessie
+2 SURN Smith
+1 NAME Chorley //
+2 GIVN Chorley
+1 SEX F
+1 FAMC @F32@
+1 FAMS @F33@
+1 BIRT
+2 DATE 8 JUL 1900
+2 PLAC St Thomas, Devon, England
+1 DEAT
+2 DATE 19 JUL 1977
+2 PLAC Exeter, Devon, England
+0 @I412458423372@ INDI
+1 NAME William Joseph /Chorley/
+2 GIVN William Joseph
+2 SURN Chorley
+1 SEX M
+1 FAMS @F33@
+1 BIRT
+2 DATE ABT 1890
+2 PLAC Exeter, Devon, England
+1 DEAT
+2 DATE 26 DEC 1958
+2 PLAC Exeter, Devon, England
+0 @I412458423373@ INDI
+1 NAME Joyce Winifred /Smith/
+2 GIVN Joyce Winifred
+2 SURN Smith
+1 SEX F
+1 FAMC @F33@
+1 BIRT
+2 DATE 10 NOV 1923
+2 PLAC Exeter, Devon, England
+1 DEAT
+2 DATE 17 SEP 2013
+2 PLAC Devon, England
+0 @I412458423374@ INDI
+1 NAME Amy Winifred /Smith/
+2 GIVN Amy Winifred
+2 SURN Smith
+1 SEX F
+1 FAMC @F32@
+1 BIRT
+2 DATE 20 MAR 1902
+2 PLAC Exmouth, Devon, England
+1 DEAT
+2 DATE 21 JAN 1918
+2 PLAC Devon, England
+0 @I412458423375@ INDI
+1 NAME Charles Henry /Smith/
+2 GIVN Charles Henry
+2 SURN Smith
+1 SEX M
+1 FAMC @F32@
+1 FAMS @F17@
+1 BIRT
+2 DATE 10 APR 1904
+2 PLAC St Thomas, Devon, England
+1 DEAT
+2 DATE 6 MAR 1972
+2 PLAC Honiton, Devon, England
+0 @I412458423376@ INDI
+1 NAME Hetty Rose /Bicknell/
+2 GIVN Hetty Rose
+2 SURN Bicknell
+1 NAME Smith //
+2 GIVN Smith
+1 SEX F
+1 FAMS @F17@
+1 BIRT
+2 DATE ABT 1900
+2 PLAC Devon, England
+1 DEAT
+2 DATE MAR 1958
+2 PLAC Honiton, Devon, England
+0 @I412458423377@ INDI
+1 NAME John Thomas /Smith/
+2 GIVN John Thomas
+2 SURN Smith
+1 SEX M
+1 FAMC @F32@
+1 FAMS @F18@
+1 BIRT
+2 DATE 22 MAR 1905
+2 PLAC Exmouth, Devon, England
+1 DEAT
+2 DATE 18 JAN 1992
+2 PLAC Exeter, Devon, England
+0 @I412458423378@ INDI
+1 NAME Florence Louisa /Bond/
+2 GIVN Florence Louisa
+2 SURN Bond
+1 NAME Smith //
+2 GIVN Smith
+1 SEX F
+1 FAMC @F4@
+1 FAMS @F18@
+1 BIRT
+2 DATE 25 NOV 1901
+2 PLAC Devon, England
+1 DEAT
+2 DATE 24 SEP 1980
+2 PLAC Devon, England
+0 @I412458423379@ INDI
+1 NAME James Frederick /Smith/
+2 GIVN James Frederick
+2 SURN Smith
+1 SEX M
+1 FAMC @F18@
+1 BIRT
+2 DATE 18 JUN 1930
+2 PLAC St Thomas, Devon, England
+1 DEAT
+2 DATE 9 JUN 1980
+2 PLAC Devon, England
+0 @I412458423380@ INDI
+1 NAME Sheila Florence /Smith/
+2 GIVN Sheila Florence
+2 SURN Smith
+1 NAME Gill //
+2 GIVN Gill
+1 SEX F
+1 FAMC @F18@
+1 FAMS @F19@
+1 BIRT
+2 DATE ABT 1932
+2 PLAC Devon, England
+1 DEAT
+2 DATE 21 JUN 2017
+2 PLAC Exeter, Devon, England
+0 @I412458423381@ INDI
+1 NAME Bernard Alfred James /Gill/
+2 GIVN Bernard Alfred James
+2 SURN Gill
+1 SEX M
+1 FAMS @F19@
+1 BIRT
+2 DATE 18 FEB 1925
+2 PLAC Tiverton, Devon, England
+1 DEAT
+2 DATE 20 JUL 2012
+2 PLAC Exeter, Devon, England
+0 @I412458423382@ INDI
+1 NAME John Thomas /Smith/
+2 GIVN John Thomas
+2 SURN Smith
+1 SEX M
+1 FAMC @F18@
+1 BIRT
+2 DATE 9 JAN 1934
+2 PLAC Devon, England
+1 DEAT
+2 DATE 6 OCT 1957
+2 PLAC Devon, England
+0 @I412458423383@ INDI
+1 NAME George Frederick /Smith/
+2 GIVN George Frederick
+2 SURN Smith
+1 SEX M
+1 FAMC @F32@
+1 BIRT
+2 DATE 23 MAR 1905
+2 PLAC Exmouth, Devon, England
+1 DEAT
+2 DATE 19 JAN 1974
+2 PLAC England
+0 @I412458423384@ INDI
+1 NAME Edith Emily /Smith/
+2 GIVN Edith Emily
+2 SURN Smith
+1 NAME Colborne //
+2 GIVN Colborne
+1 SEX F
+1 FAMC @F32@
+1 FAMS @F21@
+1 BIRT
+2 DATE 20 SEP 1906
+2 PLAC St Thomas, Devon, England
+1 DEAT
+2 DATE 12 APR 1977
+2 PLAC Devon, England
+0 @I412458423385@ INDI
+1 NAME Lloyd /Colborne/
+2 GIVN Lloyd
+2 SURN Colborne
+1 SEX M
+1 FAMS @F21@
+1 BIRT
+2 DATE 16 JUL 1910
+2 PLAC Sidmouth, Devon, England
+1 DEAT
+2 DATE FEB 1986
+2 PLAC Honiton, Devon, England
+0 @I412458423386@ INDI
+1 NAME Pauline Deidre Charlotte /Colborne/
+2 GIVN Pauline Deidre Charlotte
+2 SURN Colborne
+1 NAME Lightfoot //
+2 GIVN Lightfoot
+1 SEX F
+1 FAMC @F21@
+1 FAMS @F22@
+1 BIRT
+2 DATE 26 APR 1939
+2 PLAC Honiton, Devon, England
+1 DEAT
+2 DATE 27 NOV 2014
+2 PLAC Devon, England
+0 @I412458423387@ INDI
+1 NAME Sidney E /Lightfoot/
+2 GIVN Sidney E
+2 SURN Lightfoot
+1 SEX M
+1 FAMS @F22@
+1 BIRT
+2 DATE 1939
+2 PLAC Devon, England
+0 @I412458423388@ INDI
+1 NAME Private /Lightfoot/
+2 GIVN Private
+2 SURN Lightfoot
+1 SEX M
+1 FAMC @F22@
+0 @I412458423389@ INDI
+1 NAME Private /Lightfoot/
+2 GIVN Private
+2 SURN Lightfoot
+1 SEX M
+1 FAMC @F22@
+1 FAMS @F23@
+0 @I412458423390@ INDI
+1 NAME Private /Private/
+2 GIVN Private
+2 SURN Private
+1 NAME Lightfoot //
+2 GIVN Lightfoot
+1 SEX F
+1 FAMS @F23@
+0 @I412458423391@ INDI
+1 NAME Louisa May /Smith/
+2 GIVN Louisa May
+2 SURN Smith
+1 NAME Abbott //
+2 GIVN Abbott
+1 SEX F
+1 FAMC @F32@
+1 FAMS @F24@
+1 BIRT
+2 DATE 9 APR 1908
+2 PLAC St Thomas, Devon, England
+1 DEAT
+2 DATE 8 APR 1983
+2 PLAC Sidmouth, Devon, England
+0 @I412458423392@ INDI
+1 NAME Clifford Thephilus /Abbott/
+2 GIVN Clifford Thephilus
+2 SURN Abbott
+1 SEX M
+1 FAMS @F24@
+1 BIRT
+2 DATE 9 FEB 1909
+2 PLAC Tredegar, Monmouthshire
+1 DEAT
+2 DATE NOV 1998
+2 PLAC East Devon, Devon, England
+0 @I412458423393@ INDI
+1 NAME Christine June /Abbott/
+2 GIVN Christine June
+2 SURN Abbott
+1 NAME Private //
+2 GIVN Private
+1 SEX F
+1 FAMC @F24@
+1 FAMS @F40@
+1 BIRT
+2 DATE 18 AUG 1940
+2 PLAC Devon, England
+1 DEAT
+2 DATE 26 JUN 2007
+0 @I412458423394@ INDI
+1 NAME Private /Private/
+2 GIVN Private
+2 SURN Private
+1 SEX M
+1 FAMS @F40@
+0 @I412458423395@ INDI
+1 NAME Private /Private/
+2 GIVN Private
+2 SURN Private
+1 SEX F
+1 FAMC @F40@
+0 @I412458423396@ INDI
+1 NAME Kathleen Edith /Abbott/
+2 GIVN Kathleen Edith
+2 SURN Abbott
+1 NAME Private //
+2 GIVN Private
+1 SEX F
+1 FAMC @F24@
+1 FAMS @F43@
+1 BIRT
+2 DATE 24 MAY 1948
+2 PLAC Devon, England
+1 DEAT
+2 DATE 3 OCT 1969
+0 @I412458423397@ INDI
+1 NAME Private /Private/
+2 GIVN Private
+2 SURN Private
+1 SEX M
+1 FAMS @F43@
+0 @I412458423398@ INDI
+1 NAME Harry /Smith/
+2 GIVN Harry
+2 SURN Smith
+1 SEX M
+1 FAMC @F32@
+1 FAMS @F44@
+1 BIRT
+2 DATE 2 APR 1909
+2 PLAC Exmouth, Devon, England
+1 DEAT
+2 DATE 2 OCT 1994
+2 PLAC Exeter, Devon, England
+0 @I412458423399@ INDI
+1 NAME Ethel May Gwendoline /Dustan/
+2 GIVN Ethel May Gwendoline
+2 SURN Dustan
+1 NAME Smith //
+2 GIVN Smith
+1 SEX F
+1 FAMS @F44@
+1 BIRT
+2 DATE 28 AUG 1906
+2 PLAC Dulverton, Somerset, England
+1 DEAT
+2 DATE 9 SEP 1987
+2 PLAC Exmouth, Devon, England
+0 @I412458423400@ INDI
+1 NAME Private /Smith/
+2 GIVN Private
+2 SURN Smith
+1 SEX M
+1 FAMC @F44@
+0 @I412458423401@ INDI
+1 NAME Emily /Smith/
+2 GIVN Emily
+2 SURN Smith
+1 NAME Stevens //
+2 GIVN Stevens
+1 SEX F
+1 FAMC @F32@
+1 FAMS @F45@
+1 BIRT
+2 DATE 8 MAR 1911
+2 PLAC Exmouth, Devon, England
+1 DEAT
+2 DATE 14 JAN 1998
+2 PLAC Brighton, Sussex, England
+0 @I412458423402@ INDI
+1 NAME Charles Victor /Stevens/
+2 GIVN Charles Victor
+2 SURN Stevens
+1 SEX M
+1 FAMS @F45@
+1 BIRT
+2 DATE 14 FEB 1909
+2 PLAC Portslade-By-Sea, Sussex, England
+1 DEAT
+2 DATE 3 JUN 2001
+2 PLAC Worthing, Sussex, England
+0 @I412458423403@ INDI
+1 NAME Leonard Victor /Stevens/
+2 GIVN Leonard Victor
+2 SURN Stevens
+1 SEX M
+1 FAMC @F45@
+1 FAMS @F46@
+1 BIRT
+2 DATE 11 JUN 1937
+1 DEAT
+2 DATE 17 MAY 2010
+0 @I412458423404@ INDI
+1 NAME Audrey Elizabeth /Sharrard/
+2 GIVN Audrey Elizabeth
+2 SURN Sharrard
+1 NAME Stevens //
+2 GIVN Stevens
+1 SEX F
+1 FAMS @F46@
+1 BIRT
+2 DATE 29 JAN 1941
+2 PLAC Brighton, Sussex, England
+1 DEAT
+2 DATE 1 DEC 2011
+0 @I412458423405@ INDI
+1 NAME Private /Stevens/
+2 GIVN Private
+2 SURN Stevens
+1 SEX M
+1 FAMC @F46@
+0 @I412458423406@ INDI
+1 NAME Private /Stevens/
+2 GIVN Private
+2 SURN Stevens
+1 SEX F
+1 FAMC @F46@
+0 @I412458423407@ INDI
+1 NAME Private /Stevens/
+2 GIVN Private
+2 SURN Stevens
+1 NAME Coward //
+2 GIVN Coward
+1 SEX F
+1 FAMC @F45@
+1 FAMS @F34@
+0 @I412458423408@ INDI
+1 NAME Leslie Robert /Coward/
+2 GIVN Leslie Robert
+2 SURN Coward
+1 SEX M
+1 FAMS @F34@
+1 BIRT
+2 DATE 4 FEB 1929
+1 DEAT
+2 DATE 9 JAN 2008
+0 @I412458423409@ INDI
+1 NAME Private /Coward/
+2 GIVN Private
+2 SURN Coward
+1 SEX M
+1 FAMC @F34@
+0 @I412458423410@ INDI
+1 NAME Private /Coward/
+2 GIVN Private
+2 SURN Coward
+1 SEX F
+1 FAMC @F34@
+0 @I412458423411@ INDI
+1 NAME Freda /Smith/
+2 GIVN Freda
+2 SURN Smith
+1 NAME Wright //
+2 GIVN Wright
+1 SEX F
+1 FAMC @F32@
+1 FAMS @F35@
+1 BIRT
+2 DATE 24 APR 1913
+2 PLAC St Thomas, Devon, England
+1 DEAT
+2 DATE 2 NOV 1987
+2 PLAC Weston-Super-Mare, Somerset, England
+0 @I412458423412@ INDI
+1 NAME Arthur William /Wright/
+2 GIVN Arthur William
+2 SURN Wright
+1 SEX M
+1 FAMS @F35@
+1 BIRT
+2 DATE 29 SEP 1913
+2 PLAC St Thomas, Devon, England
+1 DEAT
+2 DATE FEB 1988
+2 PLAC Weston-Super-Mare, Somerset, England
+0 @I412458423413@ INDI
+1 NAME John William /Wright/
+2 GIVN John William
+2 SURN Wright
+1 SEX M
+1 FAMC @F35@
+1 BIRT
+2 DATE 17 FEB 1937
+2 PLAC Weston, Somerset, England
+1 DEAT
+2 DATE 9 JUL 2002
+2 PLAC Bristol, Gloucestershire, England
+0 @I412458423414@ INDI
+1 NAME Private /Wright/
+2 GIVN Private
+2 SURN Wright
+1 NAME Townsend //
+2 GIVN Townsend
+1 SEX F
+1 FAMC @F35@
+1 FAMS @F36@
+0 @I412458423415@ INDI
+1 NAME David /Townsend/
+2 GIVN David
+2 SURN Townsend
+1 SEX M
+1 FAMS @F36@
+1 BIRT
+2 DATE ABT 1942
+0 @I412458423416@ INDI
+1 NAME Private /Townsend/
+2 GIVN Private
+2 SURN Townsend
+1 SEX F
+1 FAMC @F36@
+0 @I412458423417@ INDI
+1 NAME Private /Townsend/
+2 GIVN Private
+2 SURN Townsend
+1 SEX M
+1 FAMC @F36@
+0 @I412458423418@ INDI
+1 NAME Violet Madge /Smith/
+2 GIVN Violet Madge
+2 SURN Smith
+1 NAME Martin //
+2 GIVN Martin
+1 SEX F
+1 FAMC @F32@
+1 FAMS @F38@
+1 BIRT
+2 DATE 12 MAR 1915
+2 PLAC Exmouth, Devon, England
+1 DEAT
+2 DATE 5 JAN 2008
+2 PLAC Northampton, Northamptonshire, England
+0 @I412458423419@ INDI
+1 NAME Leslie Albert /Martin/
+2 GIVN Leslie Albert
+2 SURN Martin
+1 SEX M
+1 FAMS @F38@
+1 BIRT
+2 DATE 30 MAY 1915
+2 PLAC Kennington, London, England
+1 DEAT
+2 DATE 12 APR 2014
+2 PLAC Kettering, Northamptonshire, England
+0 @I412458423420@ INDI
+1 NAME Tony /Martin/
+2 GIVN Tony
+2 SURN Martin
+1 SEX M
+1 FAMC @F38@
+0 @I412458423421@ INDI
+1 NAME Private /Martin/
+2 GIVN Private
+2 SURN Martin
+1 SEX F
+1 FAMC @F38@
+0 @I412458423422@ INDI
+1 NAME Private /Martin/
+2 GIVN Private
+2 SURN Martin
+1 SEX M
+1 FAMC @F38@
+0 @I412458423423@ INDI
+1 NAME Sidney /Smith/
+2 GIVN Sidney
+2 SURN Smith
+1 SEX M
+1 FAMC @F32@
+1 BIRT
+2 DATE 30 MAY 1922
+2 PLAC St Thomas, Devon, England
+1 DEAT
+2 DATE 14 APR 1943
+2 PLAC POW under Japan, likely South East Asia
+0 @I412458423424@ INDI
+1 NAME Victor /Smith/
+2 GIVN Victor
+2 SURN Smith
+1 SEX M
+1 FAMC @F32@
+1 BIRT
+2 DATE 9 JUN 1924
+2 PLAC St Thomas, Devon, England
+1 DEAT
+2 DATE 15 OCT 1983
+2 PLAC Exeter, Devon, England
+0 @I412458423425@ INDI
+1 NAME John Thomas /Cox/
+2 GIVN John Thomas
+2 SURN Cox
+1 SEX M
+1 FAMC @F27@
+1 BIRT
+2 DATE October 1885
+2 PLAC Honiton, Devon, England
+2 SOUR @S1641614705@
+3 _APID 1,8912::39936965
+1 RESI
+2 DATE 1891
+2 PLAC Village, Oterry St Mary, Ottery St Mary, Devon, England
+2 SOUR @S1641614443@
+3 PAGE The National Archives of the UK (TNA); Kew, Surrey, England; Census Returns of England and Wales, 1891; Class: RG12; Piece: 1672; Folio: 5; Page: 3; GSU roll: 6096782
+3 _APID 1,6598::2582395
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 422200895988:1030:169827142
+2 _APID 192419020251:1030:180742173
+1 OBJE @O22@
+2 _PRIM Y
+0 @I412458423426@ INDI
+1 NAME Frank J /Cox/
+2 GIVN Frank J
+2 SURN Cox
+1 SEX M
+1 FAMC @F27@
+1 BIRT
+2 DATE OCT 1888
+2 PLAC Ottery St Mary, Devon, England
+1 RESI
+2 DATE 1891
+2 PLAC Village, Oterry St Mary, Ottery St Mary, Devon, England
+2 SOUR @S1641614443@
+3 PAGE The National Archives of the UK (TNA); Kew, Surrey, England; Census Returns of England and Wales, 1891; Class: RG12; Piece: 1672; Folio: 5; Page: 3; GSU roll: 6096782
+3 _APID 1,6598::2582396
+1 SOUR @S1641614705@
+2 _APID 1,8912::39912383
+1 OBJE @O22@
+2 _PRIM Y
+0 @I412458423427@ INDI
+1 NAME William /Walter/
+2 GIVN William
+2 SURN Walter
+2 SOUR @S1641615060@
+3 PAGE Class: RG13; Piece: 4982; Folio: 28; Page: 48
+3 _APID 1,7815::31845566
+1 SEX M
+1 FAMS @F31@
+1 BIRT
+2 DATE 1872
+2 PLAC Cardiff, Glamorganshire, Wales
+2 SOUR @S1641615060@
+3 PAGE Class: RG13; Piece: 4982; Folio: 28; Page: 48
+3 _APID 1,7815::31845566
+1 MARR
+2 DATE July 1894
+2 PLAC Cardiff, Glamorgan, United Kingdom
+2 SOUR @S1641615121@
+3 _APID 1,8913::30074788
+1 RESI
+2 DATE 1901
+2 PLAC St Mary, Glamorgan, Wales
+2 SOUR @S1641615060@
+3 PAGE Class: RG13; Piece: 4982; Folio: 28; Page: 48
+3 _APID 1,7815::31845566
+2 NOTE Relationship: Head
+1 SOUR @S1641615081@
+2 PAGE Archives Wales; Wales; Glamorgan Baptisms, Marriages and Burials
+2 _APID 1,62105::150945450
+0 @I412458423428@ INDI
+1 NAME Frederick /Walter/
+2 GIVN Frederick
+2 SURN Walter
+1 SEX M
+1 FAMC @F31@
+1 BIRT
+2 DATE 1897
+2 PLAC Cardiff, Wales
+0 @I412458423429@ INDI
+1 NAME William /Walter/
+2 GIVN William
+2 SURN Walter
+2 SOUR @S1641615060@
+3 PAGE Class: RG13; Piece: 4982; Folio: 28; Page: 48
+3 _APID 1,7815::31845568
+1 SEX M
+1 FAMC @F31@
+1 BIRT
+2 DATE 1897
+2 PLAC Cardiff, Wales
+2 SOUR @S1641615060@
+3 PAGE Class: RG13; Piece: 4982; Folio: 28; Page: 48
+3 _APID 1,7815::31845568
+1 RESI
+2 DATE 1901
+2 PLAC St Mary, Glamorgan, Wales
+2 SOUR @S1641615060@
+3 PAGE Class: RG13; Piece: 4982; Folio: 28; Page: 48
+3 _APID 1,7815::31845568
+2 NOTE Relationship: Son
+0 @I412458423430@ INDI
+1 NAME Gladys May /Walter/
+2 GIVN Gladys May
+2 SURN Walter
+2 SOUR @S1641615060@
+3 PAGE Class: RG13; Piece: 4982; Folio: 28; Page: 48
+3 _APID 1,7815::31845569
+1 SEX F
+1 FAMC @F31@
+1 BIRT
+2 DATE 1899
+2 PLAC Cardiff, Wales
+2 SOUR @S1641615060@
+3 PAGE Class: RG13; Piece: 4982; Folio: 28; Page: 48
+3 _APID 1,7815::31845569
+1 RESI
+2 DATE 1901
+2 PLAC St Mary, Glamorgan, Wales
+2 SOUR @S1641615060@
+3 PAGE Class: RG13; Piece: 4982; Folio: 28; Page: 48
+3 _APID 1,7815::31845569
+2 NOTE Relationship: Daughter
+0 @I412458423431@ INDI
+1 NAME John /Walter/
+2 GIVN John
+2 SURN Walter
+1 SEX M
+1 FAMC @F31@
+1 FAMS @F52@
+1 BIRT
+2 DATE 1903
+2 PLAC Cardiff, Wales
+1 DEAT
+2 DATE APR 1982
+2 PLAC Ogwr, Mid Glamorgan, Wales
+0 @I412458423432@ INDI
+1 NAME Ivy C /Western/
+2 GIVN Ivy C
+2 SURN Western
+1 NAME Walter //
+2 GIVN Walter
+1 SEX F
+1 FAMS @F52@
+1 BIRT
+2 DATE 8 JUL 1903
+1 DEAT
+2 DATE APR 1972
+2 PLAC Mid Glamorgan, Wales
+0 @I412458423433@ INDI
+1 NAME Frank /Walter/
+2 GIVN Frank
+2 SURN Walter
+1 SEX M
+1 FAMC @F52@
+1 BIRT
+2 DATE 23 JAN 1930
+1 DEAT
+2 DATE MAY 2006
+2 PLAC Bridgend, Glamorgan, Wales
+0 @I412458423434@ INDI
+1 NAME Arnold T /Walter/
+2 GIVN Arnold T
+2 SURN Walter
+1 SEX M
+1 FAMC @F52@
+1 BIRT
+2 DATE 6 JAN 1932
+1 DEAT
+2 DATE APR 1950
+2 PLAC Bridgend, Glamorgan, Wales
+0 @I412458423435@ INDI
+1 NAME Frank /Walter/
+2 GIVN Frank
+2 SURN Walter
+1 SEX M
+1 FAMC @F31@
+1 BIRT
+2 DATE 1908
+2 PLAC Cardiff, Wales
+0 @I412458423436@ INDI
+1 NAME Catherine Emma /Walter/
+2 GIVN Catherine Emma
+2 SURN Walter
+1 SEX F
+1 FAMC @F31@
+1 BIRT
+2 DATE 1910
+2 PLAC Cardiff, Wales
+0 @I412458423437@ INDI
+1 NAME Thomas /Litton/
+2 GIVN Thomas
+2 SURN Litton
+1 SEX M
+1 FAMS @F29@
+1 BIRT
+2 DATE 13 FEB 1891
+0 @I412458423438@ INDI
+1 NAME Gladys Emma /Litton/
+2 GIVN Gladys Emma
+2 SURN Litton
+1 SEX F
+1 FAMC @F29@
+1 BIRT
+2 DATE 28 MAR 1920
+2 PLAC St Thomas, Devon, England
+1 DEAT
+2 DATE SEP 1997
+2 PLAC Exeter, Devon, England
+0 @I412458423439@ INDI
+1 NAME Leslie George /Litton/
+2 GIVN Leslie George
+2 SURN Litton
+1 SEX M
+1 FAMC @F29@
+1 BIRT
+2 DATE 13 FEB 1925
+2 PLAC St Thomas, Devon, England
+1 DEAT
+2 DATE JAN 1970
+2 PLAC Exeter, Devon, England
+0 @I412458423440@ INDI
+1 NAME Pamela Doris Maureen /Litton/
+2 GIVN Pamela Doris Maureen
+2 SURN Litton
+1 SEX F
+1 FAMC @F29@
+1 BIRT
+2 DATE 15 JUL 1930
+2 PLAC St Thomas, Devon, England
+1 DEAT
+2 DATE 28 MAR 2014
+0 @I412458423441@ INDI
+1 NAME William James /Eveleigh/
+2 GIVN William James
+2 SURN Eveleigh
+1 SEX M
+1 FAMC @F26@
+1 BIRT
+2 DATE 18 SEP 1896
+2 PLAC Woodbury, Devon, England
+1 DEAT
+2 DATE 11 APR 1912
+2 PLAC St Thomas, Devon, England
+0 @I412458423442@ INDI
+1 NAME Sidney Walter /Eveleigh/
+2 GIVN Sidney Walter
+2 SURN Eveleigh
+1 SEX M
+1 FAMC @F26@
+1 FAMS @F47@
+1 BIRT
+2 DATE 16 SEP 1898
+2 PLAC Woodbury, Devon, England
+1 DEAT
+2 DATE JUL 1955
+2 PLAC Devon Central, Devon, England
+0 @I412458423443@ INDI
+1 NAME Dorothy /Unknown/
+2 GIVN Dorothy
+2 SURN Unknown
+1 NAME Eveleigh //
+2 GIVN Eveleigh
+1 SEX F
+1 FAMS @F47@
+1 BIRT
+2 DATE 25 MAY 1902
+2 PLAC Membury, Devon, England
+0 @I412458423444@ INDI
+1 NAME Private /Eveleigh/
+2 GIVN Private
+2 SURN Eveleigh
+1 SEX F
+1 FAMC @F47@
+0 @I412458423445@ INDI
+1 NAME Wendy Ann /Woolcombe/
+2 GIVN Wendy Ann
+2 SURN Woolcombe
+1 SEX F
+1 FAMC @F6@
+1 BIRT
+2 DATE 7 AUG 1966
+1 DEAT
+2 DATE 15 SEP 2019
+0 @I412458423446@ INDI
+1 NAME Charles /Bresland\ Breslin/
+2 GIVN Charles
+2 SURN Bresland\ Breslin
+1 SEX M
+1 FAMC @F15@
+1 FAMS @F48@
+1 BIRT
+2 DATE 29 Nov 1886
+2 PLAC Bailie, Fifes, close, 107, high, street, Edinburgh, Scotland
+1 DEAT
+2 DATE Sep 1957
+2 PLAC LONGFORD, Ireland
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 162334785110:1030:51476142
+2 _APID 322224290881:1030:84143630
+2 _APID 372425641027:1030:173047957
+1 OBJE @O12@
+2 _PRIM Y
+0 @I412458423447@ INDI
+1 NAME Mary Rose /Kerrigan/
+2 GIVN Mary Rose
+2 SURN Kerrigan
+1 NAME Breslin //
+2 GIVN Breslin
+1 SEX F
+1 FAMC @F41@
+1 FAMS @F48@
+1 BIRT
+2 DATE 11 Jan 1890
+2 PLAC County Longford, Ireland
+1 RESI
+2 DATE 31 Mar 1901
+2 PLAC Chapel Lane, Longford No. 1 Urban, Longford, Ireland
+2 SOUR @S1641357929@
+3 PAGE Class: RG14
+3 DATA
+4 WWW http://www.census.nationalarchives.ie/pages/1901/Longford/Longford_No__1_Urban/Chapel_Lane/1555627/
+3 _APID 1,70667::11923614
+1 DEAT
+2 DATE 1975
+2 PLAC Longford Ireland
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 302182604910:1030:6955672
+2 _APID 322228344775:1030:84143630
+1 OBJE @O27@
+2 _PRIM Y
+1 OBJE @O11@
+1 OBJE @O20@
+1 OBJE @O18@
+1 OBJE @O3@
+0 @I412458423450@ INDI
+1 NAME Frederick /Russell/
+2 GIVN Frederick
+2 SURN Russell
+2 SOUR @S1641364202@
+3 DATA
+4 WWW https://familysearch.org/pal:/MM9.1.1/NX6H-337
+3 _APID 1,9852::21328318
+2 SOUR @S1641614443@
+3 PAGE The National Archives of the UK (TNA); Kew, Surrey, England; Census Returns of England and Wales, 1891; Class: RG12; Piece: 893; Folio: 78; Page: 26; GSU roll: 6096003
+3 _APID 1,6598::24924499
+2 SOUR @S1641614705@
+3 _APID 1,8912::48082468
+2 SOUR @S1651803610@
+3 PAGE General Register Office; United Kingdom; Volume: 6b; Page: 791
+3 _APID 1,7579::43033732
+2 SOUR @S1651804134@
+3 PAGE Class: RG11; Piece: 1182; Folio: 62; Page: 18; GSU roll: 1341289
+3 _APID 1,7572::6747746
+2 SOUR @S1651804146@
+3 PAGE Class: RG13; Piece: 1021; Folio: 80; Page: 26
+3 _APID 1,7814::880693
+2 SOUR @S1651804276@
+3 _APID 1,62476::4760460510
+2 SOUR @S1651804282@
+3 _APID 1,1351::154319564
+2 SOUR @S1654518069@
+3 _APID 1,61596::4489651
+1 SEX M
+1 FAMC @F37@
+1 FAMS @F49@
+1 BIRT
+2 DATE 23 Oct 1873
+2 PLAC Newchurch, Isle of Wight, Hampshire, England
+2 SOUR @S1641364202@
+3 DATA
+4 WWW https://familysearch.org/pal:/MM9.1.1/NX6H-337
+3 _APID 1,9852::21328318
+2 SOUR @S1641614443@
+3 PAGE The National Archives of the UK (TNA); Kew, Surrey, England; Census Returns of England and Wales, 1891; Class: RG12; Piece: 893; Folio: 78; Page: 26; GSU roll: 6096003
+3 _APID 1,6598::24924499
+2 SOUR @S1641614705@
+3 _APID 1,8912::48082468
+2 SOUR @S1651803610@
+3 PAGE General Register Office; United Kingdom; Volume: 6b; Page: 791
+3 _APID 1,7579::43033732
+2 SOUR @S1651804134@
+3 PAGE Class: RG11; Piece: 1182; Folio: 62; Page: 18; GSU roll: 1341289
+3 _APID 1,7572::6747746
+2 SOUR @S1651804146@
+3 PAGE Class: RG13; Piece: 1021; Folio: 80; Page: 26
+3 _APID 1,7814::880693
+2 SOUR @S1651804276@
+3 _APID 1,62476::4760460510
+2 SOUR @S1654518069@
+3 _APID 1,61596::4489651
+1 RESI
+2 DATE 1881
+2 PLAC Brading, Hampshire, England
+2 SOUR @S1651804134@
+3 PAGE Class: RG11; Piece: 1182; Folio: 62; Page: 18; GSU roll: 1341289
+3 _APID 1,7572::6747746
+1 RESI
+2 DATE 1891
+2 PLAC Shanklin, Gattern St Paul, Brading, Hampshire, England
+2 SOUR @S1641614443@
+3 PAGE The National Archives of the UK (TNA); Kew, Surrey, England; Census Returns of England and Wales, 1891; Class: RG12; Piece: 893; Folio: 78; Page: 26; GSU roll: 6096003
+3 _APID 1,6598::24924499
+1 RESI
+2 DATE 1901
+2 PLAC Newport, Newport, Hampshire, England
+2 SOUR @S1651804146@
+3 PAGE Class: RG13; Piece: 1021; Folio: 80; Page: 26
+3 _APID 1,7814::880693
+1 RESI
+2 DATE 1911
+2 PLAC Godshill, Hampshire, England
+2 SOUR @S1641363498@
+3 PAGE The National Archives of the UK (TNA); Kew, Surrey, England; Census Returns of England and Wales, 1911
+3 _APID 1,2352::42661016
+1 RESI
+2 DATE 1939
+2 PLAC Isle of Wight, England
+2 SOUR @S1654518069@
+3 _APID 1,61596::4489651
+1 RESI
+2 PLAC St Helens, Hampshire, England
+2 SOUR @S1641364202@
+3 DATA
+4 WWW https://familysearch.org/pal:/MM9.1.1/NX6H-337
+3 _APID 1,9852::21328318
+1 DEAT
+2 DATE 11 Apr 1961
+2 PLAC Newport, Isle of Wight, England
+2 SOUR @S1651803610@
+3 PAGE General Register Office; United Kingdom; Volume: 6b; Page: 791
+3 _APID 1,7579::43033732
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 190188185683:1030:35349945
+2 _APID 112170248361:1030:164059589
+1 SOUR @S1641362578@
+2 PAGE Place: St Helens, Hampshire, England; Collection: St John; -; Date Range: 1847 - 1900; Film Number: 1470889
+2 _APID 1,1352::1198284
+1 SOUR @S1641363591@
+2 DATA
+3 WWW http://familysearch.org/pal:/MM9.1.1/NBTJ-FM2
+2 _APID 1,9841::74342619
+0 @I412458423451@ INDI
+1 NAME Laura Elizabeth /Faulkner/
+2 GIVN Laura Elizabeth
+2 SURN Faulkner
+2 SOUR @S1651804146@
+3 _APID 1,7814::880694
+2 SOUR @S1651804282@
+3 _APID 1,1351::304319564
+2 SOUR @S1654518069@
+3 PAGE The National Archives; Kew, London, England; 1939 Register; Reference: Rg 101/2655j
+3 _APID 1,61596::4489652
+1 NAME Russell //
+2 GIVN Russell
+1 SEX F
+1 FAMC @F50@
+1 FAMS @F49@
+1 BIRT
+2 DATE 13 Oct 1875
+2 PLAC Ryde, Isle of Wight, England
+2 SOUR @S1641363591@
+3 DATA
+4 WWW http://familysearch.org/pal:/MM9.1.1/J7XZ-JHC
+3 _APID 1,9841::17240602
+2 SOUR @S1651804146@
+3 _APID 1,7814::880694
+2 SOUR @S1654518069@
+3 PAGE The National Archives; Kew, London, England; 1939 Register; Reference: Rg 101/2655j
+3 _APID 1,61596::4489652
+1 BAPM
+2 DATE 5 Dec 1875
+2 PLAC Holy Trinity, Ryde, Hampshire, England
+2 SOUR @S1641363591@
+3 DATA
+4 WWW http://familysearch.org/pal:/MM9.1.1/J7XZ-JHC
+3 _APID 1,9841::17240602
+1 RESI
+2 DATE 1901
+2 PLAC Newport, Newport, Hampshire, England
+2 SOUR @S1651804146@
+3 _APID 1,7814::880694
+1 RESI
+2 DATE 1939
+2 PLAC Isle of Wight, England
+2 SOUR @S1654518069@
+3 PAGE The National Archives; Kew, London, England; 1939 Register; Reference: Rg 101/2655j
+3 _APID 1,61596::4489652
+1 RESI
+2 PLAC St Helens, Hampshire, England
+2 SOUR @S1641364202@
+3 DATA
+4 WWW https://familysearch.org/pal:/MM9.1.1/NX6H-333
+3 _APID 1,9852::21328320
+1 DEAT
+2 DATE Jun 1959
+2 PLAC Isle of Wight, Isle of Wight, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 190188185685:1030:35349945
+2 _APID 370024855268:1030:54372011
+2 _APID 362281528957:1030:119136060
+2 _APID 112170333833:1030:164059589
+1 SOUR @S1641362578@
+2 _APID 1,1352::2523186
+0 @I412458423452@ INDI
+1 NAME William Edmund /Faulkner/
+2 GIVN William Edmund
+2 SURN Faulkner
+1 SEX M
+1 FAMS @F50@
+1 BIRT
+2 DATE 1847
+2 PLAC Newport, Isle of Wight, Hampshire
+1 DEAT
+2 DATE 1900
+2 PLAC Ryde, Newchurch, Isle of Wight
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 362281528952:1030:119136060
+1 SOUR @S1641363591@
+2 _APID 1,9841::17240600
+0 @I412458423453@ INDI
+1 NAME Elizabeth Ann /Snelling/
+2 GIVN Elizabeth Ann
+2 SURN Snelling
+1 NAME Faulkner //
+2 GIVN Faulkner
+1 SEX F
+1 FAMS @F50@
+1 BIRT
+2 DATE 1844
+2 PLAC Newport, Isle of Wight, Hampshire
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 362281528953:1030:119136060
+1 SOUR @S1641363591@
+2 _APID 1,9841::17240601
+0 @I412458424920@ INDI
+1 NAME Annie Teresa /Breslin/
+2 GIVN Annie Teresa
+2 SURN Breslin
+1 SEX F
+1 FAMC @F48@
+1 BIRT
+2 DATE abt 1909
+2 PLAC Co Longford
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 322228345565:1030:84143630
+0 @I412458424922@ INDI
+1 NAME James Patrick /Breslin/
+2 GIVN James Patrick
+2 SURN Breslin
+1 SEX M
+1 FAMC @F48@
+1 BIRT
+2 DATE May 1911
+2 PLAC Longford, Ireland
+1 DEAT
+2 DATE 1990
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 322228345596:1030:84143630
+0 @I412458424927@ INDI
+1 NAME Michael Edward /Breslin/
+2 GIVN Michael Edward
+2 SURN Breslin
+1 SEX M
+1 FAMC @F48@
+1 BIRT
+2 DATE 15 Jul 1924
+2 PLAC Longford, Ireland
+1 DEAT
+2 DATE 29 Jun 2003
+2 PLAC Swansea, Glamorgan, Wales
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 322383077531:1030:84143630
+0 @I412458424930@ INDI
+1 NAME Paddy ( Patrick Joseph) /Breslin/
+2 GIVN Paddy ( Patrick Joseph)
+2 SURN Breslin
+1 SEX M
+1 FAMC @F48@
+1 BIRT
+2 DATE 7 Oct 1913
+2 PLAC Longford, Ireland
+1 DEAT
+2 DATE 11 Apr 1998
+2 PLAC Ebbw, vale, Blaenau Gwent, Wales
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 322383077532:1030:84143630
+0 @I412458424932@ INDI
+1 NAME Bob ( Robert William) /Breslin/
+2 GIVN Bob ( Robert William)
+2 SURN Breslin
+1 SEX M
+1 FAMC @F48@
+1 BIRT
+2 DATE 7 Jul 1922
+2 PLAC Longford, Ireland
+1 DEAT
+2 DATE 30 May 1988
+2 PLAC Brighton, Sussex, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 322383077534:1030:84143630
+0 @I412458424936@ INDI
+1 NAME Christina Mary Rose /Breslin/
+2 GIVN Christina Mary Rose
+2 SURN Breslin
+1 SEX F
+1 FAMC @F48@
+1 BIRT
+2 DATE 13 May 1918
+2 PLAC Longford, Ireland
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+0 @I412458424938@ INDI
+1 NAME Margaret Kathleen ( Peggy) /Bresland/
+2 GIVN Margaret Kathleen ( Peggy)
+2 SURN Bresland
+1 SEX F
+1 FAMC @F48@
+1 BIRT
+2 DATE Mar 1920
+2 PLAC Longford, Ireland
+1 DEAT
+2 DATE Unknown 
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+0 @I412458424942@ INDI
+1 NAME Edward /Breslin/
+2 GIVN Edward
+2 SURN Breslin
+1 SEX M
+1 FAMC @F48@
+1 BIRT
+2 DATE 4 Apr 1921
+2 PLAC Chapel Lane, Longford, Longford, Ireland
+1 DEAT
+2 DATE 2 Sep 1921
+2 PLAC Chapel Street, Longford, Ireland
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+0 @I412458425362@ INDI
+1 NAME Hannah Rosina /Nevell/
+2 GIVN Hannah Rosina
+2 SURN Nevell
+1 SEX F
+1 FAMC @F20@
+1 FAMS @F2@
+1 BIRT
+2 DATE 22 Jan 1871
+2 PLAC St Saviour Southwark, London
+1 DEAT
+2 DATE 7 December 1918
+2 PLAC Camberwell, London, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 282315055168:1030:167415780
+0 @I412458425432@ INDI
+1 NAME Thomas Henry /Spinks/
+2 GIVN Thomas Henry
+2 SURN Spinks
+1 SEX M
+1 FAMC @F51@
+1 FAMS @F2@
+1 BIRT
+2 DATE 1870
+2 PLAC Peckham, Camberwell.
+1 MARR
+2 DATE April 1893
+2 PLAC St Saviour Southwark, London, United Kingdom
+1 DEAT
+2 DATE October 1909
+2 PLAC Wandsworth, London, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 282210537250:1030:167415780
+0 @I412458425830@ INDI
+1 NAME Hannah Rosina /Spinks/
+2 GIVN Hannah Rosina
+2 SURN Spinks
+1 SEX F
+1 FAMC @F2@
+1 BIRT
+2 DATE 6 Sep 1893
+2 PLAC St Saviour, Southwark, England
+1 DEAT
+2 DATE Oct 1942
+2 PLAC Tonbridge, Kent, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 282315055169:1030:167415780
+0 @I412458425834@ INDI
+1 NAME Henry William /Spinks/
+2 GIVN Henry William
+2 SURN Spinks
+1 SEX M
+1 FAMC @F2@
+1 BIRT
+2 DATE 29 Nov 1895
+2 PLAC Southwark, Surrey, England
+1 DEAT
+2 DATE 1896
+2 PLAC Southwark, London, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 282315055171:1030:167415780
+0 @I412458425838@ INDI
+1 NAME Annie Susan /Spinks/
+2 GIVN Annie Susan
+2 SURN Spinks
+1 SEX F
+1 FAMC @F2@
+1 BIRT
+2 DATE 27 Apr 1901
+2 PLAC Southwark, Surrey, England
+1 DEAT
+2 DATE Nov 1988
+2 PLAC Lambeth, Greater London, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 282315055172:1030:167415780
+0 @I412458425839@ INDI
+1 NAME Esther /Spinks/
+2 GIVN Esther
+2 SURN Spinks
+1 SEX F
+1 FAMC @F2@
+1 BIRT
+2 DATE 15 Apr 1897
+2 PLAC Southwark, Surrey, England
+1 DEAT
+2 DATE Oct 1968
+2 PLAC Ashford, Kent, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 282315055173:1030:167415780
+0 @I412458425840@ INDI
+1 NAME Harry /Spinks/
+2 GIVN Harry
+2 SURN Spinks
+1 SEX M
+1 FAMC @F2@
+1 BIRT
+2 DATE 27 Nov 1903
+2 PLAC Southwark, Surrey, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 282315055175:1030:167415780
+0 @I412458425841@ INDI
+1 NAME Mary Louisa /Spinks/
+2 GIVN Mary Louisa
+2 SURN Spinks
+1 SEX F
+1 FAMC @F2@
+1 BIRT
+2 DATE 14 Feb 1907
+2 PLAC Camberwell, Surrey, England
+1 DEAT
+2 DATE Jan 1993
+2 PLAC Hatfield, Hertfordshire, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 282315055176:1030:167415780
+0 @I412458425842@ INDI
+1 NAME Mary Annie /Spinks/
+2 GIVN Mary Annie
+2 SURN Spinks
+1 SEX F
+1 FAMC @F2@
+1 BIRT
+2 DATE 4 Oct 1899
+2 PLAC Southwark, London, England
+1 DEAT
+2 DATE 1903
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 282315055181:1030:167415780
+0 @I412458425984@ INDI
+1 NAME Thomas Henry /Spinks/
+2 GIVN Thomas Henry
+2 SURN Spinks
+1 SEX M
+1 FAMS @F51@
+1 BIRT
+2 DATE 11 July 1846
+2 PLAC 3 Ann Street, Coburg Road, Camberwell, Surrey, England
+1 DEAT
+2 DATE 4 July 1902
+2 PLAC Southwark Infirmary Camberwell
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 290017206415:1030:102314655
+2 _APID 282210530456:1030:167415780
+0 @I412458425991@ INDI
+1 NAME Esther Louise /Gibson/
+2 GIVN Esther Louise
+2 SURN Gibson
+1 SEX F
+1 FAMS @F51@
+1 BIRT
+2 DATE 3 march1847
+2 PLAC Adam Eve Court, Peckham, Camberwell, Surrey, England
+1 DEAT
+2 DATE Dec 1934
+2 PLAC Battersea, London, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 290015426867:1030:102314655
+2 _APID 282210525881:1030:167415780
+1 OBJE @O15@
+2 _PRIM Y
+0 @I412458426445@ INDI
+1 NAME Stephen /Gibson\Spinks/
+2 GIVN Stephen
+2 SURN Gibson\Spinks
+1 SEX M
+1 FAMC @F51@
+1 BIRT
+2 DATE 28 December 1865
+2 PLAC Havil Street Workhouse Infirmary, Camberwell, Surrey, England
+1 DEAT
+2 DATE 2 November 1938
+2 PLAC Orpinington Institution Orpington , Kent, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 282195582436:1030:167415780
+0 @I412458426448@ INDI
+1 NAME Samuel /Spinks/
+2 GIVN Samuel
+2 SURN Spinks
+1 SEX M
+1 FAMC @F51@
+1 BIRT
+2 DATE July 1872
+2 PLAC Camberwell, London
+1 DEAT
+2 DATE 12 September 1882
+2 PLAC Camberwell, London, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 290017206943:1030:102314655
+2 _APID 282210537408:1030:167415780
+0 @I412458426449@ INDI
+1 NAME Esther Eliza /Spinks/
+2 GIVN Esther Eliza
+2 SURN Spinks
+1 SEX F
+1 FAMC @F51@
+1 BIRT
+2 DATE 29 September 1877
+2 PLAC 8 Angler's Terrace, Canal Bank, Peckham, Surrey, England
+1 DEAT
+2 DATE 14 February 1906
+2 PLAC Camberwell, London
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 290017206992:1030:102314655
+2 _APID 282314605060:1030:167415780
+0 @I412458426451@ INDI
+1 NAME Benjamin James /Spinks/
+2 GIVN Benjamin James
+2 SURN Spinks
+1 SEX M
+1 FAMC @F51@
+1 BIRT
+2 DATE 16 Jun 1880
+2 PLAC Camberwell, London
+1 DEAT
+2 DATE 5 May 1961
+2 PLAC 48 Ravensbury Grove, Mitcham, Surrey, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 290017207235:1030:102314655
+2 _APID 282210537771:1030:167415780
+0 @I412458426455@ INDI
+1 NAME Phoebe Annie /Spinks/
+2 GIVN Phoebe Annie
+2 SURN Spinks
+1 SEX F
+1 FAMC @F51@
+1 BIRT
+2 DATE 23 march 1885
+2 PLAC 8 Angler's Terrace, Canal Bank, Peckham, Surrey, England
+1 DEAT
+2 DATE Sep 1976
+2 PLAC Wandsworth, Greater London, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 290017207316:1030:102314655
+2 _APID 282210985757:1030:167415780
+0 @I412458426459@ INDI
+1 NAME Henry /Spinks/
+2 GIVN Henry
+2 SURN Spinks
+1 SEX M
+1 FAMC @F51@
+1 BIRT
+2 DATE January 1875
+2 PLAC Camberwell, London, United Kingdom
+1 DEAT
+2 DATE 1927
+2 PLAC Southwark, London, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 290022893989:1030:102314655
+2 _APID 282210537479:1030:167415780
+0 @I412458426711@ INDI
+1 NAME Harry /Nevell/
+2 GIVN Harry
+2 SURN Nevell
+1 SEX M
+1 FAMS @F20@
+1 BIRT
+2 DATE abt 1845
+2 PLAC Lambeth, Surrey, England
+1 RESI
+2 DATE 1861
+2 PLAC St Peter, Southwark St Saviour, Surrey, England
+2 SOUR @S1641356906@
+3 PAGE Class: Rg 9; Piece: 315; Folio: 52; Page: 51; GSU roll: 542613
+3 _APID 1,8767::6039703
+1 DEAT
+2 DATE 20 Apr 1902
+2 PLAC Southwark, Surrey, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 322415788153:1030:184233850
+0 @I412458427336@ INDI
+1 NAME Mary Ann /Philpot/
+2 GIVN Mary Ann
+2 SURN Philpot
+1 SEX F
+1 FAMS @F20@
+1 BIRT
+2 DATE abt 1845
+2 PLAC Southwark, Surrey, England
+1 DEAT
+2 DATE 1937
+2 PLAC Camberwell, Surrey, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 322415788167:1030:184233850
+0 @I412458427341@ INDI
+1 NAME Elizabeth Edith /Nevell/
+2 GIVN Elizabeth Edith
+2 SURN Nevell
+1 SEX F
+1 FAMC @F20@
+1 BIRT
+2 DATE 1875
+2 PLAC Southwark, Surrey, England
+1 DEAT
+2 DATE 1933
+2 PLAC Lambeth, Surrey, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 322411667147:1030:184233850
+0 @I412458427342@ INDI
+1 NAME Henry Charles /Nevell/
+2 GIVN Henry Charles
+2 SURN Nevell
+1 SEX M
+1 FAMC @F20@
+1 BIRT
+2 DATE 8 Mar 1867
+2 PLAC Southwark, Surrey, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 322415788511:1030:184233850
+0 @I412458427343@ INDI
+1 NAME William /Nevell/
+2 GIVN William
+2 SURN Nevell
+1 SEX M
+1 FAMC @F20@
+1 BIRT
+2 DATE abt 1869
+2 PLAC Southwark, Surrey, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 322415788636:1030:184233850
+0 @I412458427345@ INDI
+1 NAME George Edward /Nevell/
+2 GIVN George Edward
+2 SURN Nevell
+1 SEX M
+1 FAMC @F20@
+1 BIRT
+2 DATE 1873
+2 PLAC Southwark, Surrey, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 322415788768:1030:184233850
+0 @I412458427346@ INDI
+1 NAME Mary Ann /Nevell/
+2 GIVN Mary Ann
+2 SURN Nevell
+1 SEX F
+1 FAMC @F20@
+1 BIRT
+2 DATE 18 Oct 1877
+2 PLAC Southwark, Surrey, England
+1 DEAT
+2 DATE 1960
+2 PLAC Camberwell, Surrey, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 322415788812:1030:184233850
+0 @I412458427348@ INDI
+1 NAME Thomas /Nevell/
+2 GIVN Thomas
+2 SURN Nevell
+1 SEX M
+1 FAMC @F20@
+1 BIRT
+2 DATE abt 1892
+2 PLAC Southwark, Surrey, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 322415788835:1030:184233850
+0 @I412458428157@ INDI
+1 NAME Elias /Smerdon/
+2 GIVN Elias
+2 SURN Smerdon
+1 SEX M
+1 FAMS @F3@
+1 BIRT
+2 DATE 9 Sep 1872
+2 PLAC Woodland, Devon, England
+1 DEAT
+2 DATE Dec 1952
+2 PLAC Newton Abbot, Devon, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 12270837269:1030:29560123
+2 _APID 370138801930:1030:88126225
+1 OBJE @O10@
+2 _PRIM Y
+0 @I412458428181@ INDI
+1 NAME Harriet Hannah /Ford/
+2 GIVN Harriet Hannah
+2 SURN Ford
+1 SEX F
+1 FAMS @F3@
+1 BIRT
+2 DATE 1872
+2 PLAC Broadhempston, Devon, England
+1 DEAT
+2 DATE Mar 1951
+2 PLAC Newton Abbot, Devon, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 12270928405:1030:29560123
+2 _APID 372007234778:1030:88126225
+0 @I412458428395@ INDI
+1 NAME Mabel Ada /Smerdon/
+2 GIVN Mabel Ada
+2 SURN Smerdon
+1 SEX F
+1 FAMC @F3@
+1 BIRT
+2 DATE 4 Dec 1895
+2 PLAC Torbryan, Devon, England
+1 DEAT
+2 DATE Sep 1974
+2 PLAC Torbay, Devon, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 12270928409:1030:29560123
+2 _APID 372007234931:1030:88126225
+0 @I412458428397@ INDI
+1 NAME Francis James /Smerdon/
+2 GIVN Francis James
+2 SURN Smerdon
+1 SEX M
+1 FAMC @F3@
+1 BIRT
+2 DATE 1 Feb 1898
+2 PLAC Torbryan, Devon, England
+1 DEAT
+2 DATE Mar 1971
+2 PLAC Devon Central, Devon, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 12270928416:1030:29560123
+2 _APID 372007234933:1030:88126225
+0 @I412458428400@ INDI
+1 NAME Emily Harriet /Smerdon/
+2 GIVN Emily Harriet
+2 SURN Smerdon
+1 SEX F
+1 FAMC @F3@
+1 BIRT
+2 DATE 11 Dec 1899
+2 PLAC Torbryan, Devon, England
+1 DEAT
+2 DATE 27 Mar 1975
+2 PLAC Ashwood, Victoria, Australia
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 12538110291:1030:29560123
+2 _APID 372007234934:1030:88126225
+0 @I412458428403@ INDI
+1 NAME Mary Jane /Smerdon/
+2 GIVN Mary Jane
+2 SURN Smerdon
+1 SEX F
+1 FAMC @F3@
+1 BIRT
+2 DATE 31 Dec 1901
+2 PLAC Denbury, Devon, England
+1 DEAT
+2 DATE Aug 1995
+2 PLAC Exeter, Devon, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 12538110414:1030:29560123
+2 _APID 372007235052:1030:88126225
+0 @I412458428407@ INDI
+1 NAME Margaret Elizabeth /Smerdon/
+2 GIVN Margaret Elizabeth
+2 SURN Smerdon
+1 SEX F
+1 FAMC @F3@
+1 BIRT
+2 DATE 16 Aug 1903
+2 PLAC Denbury, Devon, England
+1 DEAT
+2 DATE 26 Aug 1979
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 12538110543:1030:29560123
+2 _APID 372007235054:1030:88126225
+0 @I412458430044@ INDI
+1 NAME James /Kerrigan/
+2 GIVN James
+2 SURN Kerrigan
+2 SOUR @S1641357929@
+3 _APID 1,70667::10934668
+1 SEX M
+1 FAMC @F41@
+1 BIRT
+2 DATE abt 1888
+2 PLAC Longford
+2 SOUR @S1641357929@
+3 _APID 1,70667::10934668
+1 RESI
+2 DATE 31 Mar 1901
+2 PLAC Chapel Lane, Longford No. 1 Urban, Longford, Ireland
+2 SOUR @S1641357929@
+3 _APID 1,70667::10934668
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 302182604909:1030:6955672
+0 @I412458430045@ INDI
+1 NAME Theresa Sheila /Kerrigan/
+2 GIVN Theresa Sheila
+2 SURN Kerrigan
+2 SOUR @S1641357929@
+3 _APID 1,70667::12153380
+1 SEX F
+1 FAMC @F41@
+1 BIRT
+2 DATE 02 May 1892
+2 PLAC Longford
+2 SOUR @S1641357929@
+3 _APID 1,70667::12153380
+1 BIRT
+2 DATE 05 Feb 1892
+2 PLAC Longford
+1 RESI
+2 DATE 31 Mar 1901
+2 PLAC Chapel Lane, Longford No. 1 Urban, Longford, Ireland
+2 SOUR @S1641357929@
+3 _APID 1,70667::12153380
+1 DEAT
+2 DATE 02 Oct 1989
+2 PLAC Baltimore, Maryland, USA
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID -1194727535:1030:6955672
+2 _APID 412366737156:1030:182013931
+0 @I412458430046@ INDI
+1 NAME Kathleen /Kerrigan/
+2 GIVN Kathleen
+2 SURN Kerrigan
+2 SOUR @S1641357929@
+3 _APID 1,70667::12726639
+1 SEX F
+1 FAMC @F41@
+1 BIRT
+2 DATE abt 1894
+2 PLAC Longford
+2 SOUR @S1641357929@
+3 _APID 1,70667::12726639
+1 RESI
+2 DATE 31 Mar 1901
+2 PLAC Chapel Lane, Longford No. 1 Urban, Longford, Ireland
+2 SOUR @S1641357929@
+3 _APID 1,70667::12726639
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 302182604913:1030:6955672
+0 @I412458430047@ INDI
+1 NAME Lullie /Kerrigan/
+2 GIVN Lullie
+2 SURN Kerrigan
+2 SOUR @S1641357929@
+3 _APID 1,70667::12851382
+1 SEX F
+1 FAMC @F41@
+1 BIRT
+2 DATE abt 1896
+2 PLAC Longford
+2 SOUR @S1641357929@
+3 _APID 1,70667::12851382
+1 RESI
+2 DATE 31 Mar 1901
+2 PLAC Chapel Lane, Longford No. 1 Urban, Longford, Ireland
+2 SOUR @S1641357929@
+3 _APID 1,70667::12851382
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 302182604915:1030:6955672
+0 @I412458430048@ INDI
+1 NAME Patrick /Kerrigan/
+2 GIVN Patrick
+2 SURN Kerrigan
+2 SOUR @S1641357929@
+3 _APID 1,70667::13119938
+1 SEX M
+1 FAMC @F41@
+1 BIRT
+2 DATE abt 1898
+2 PLAC Longford
+2 SOUR @S1641357929@
+3 _APID 1,70667::13119938
+1 RESI
+2 DATE 31 Mar 1901
+2 PLAC Chapel Lane, Longford No. 1 Urban, Longford, Ireland
+2 SOUR @S1641357929@
+3 _APID 1,70667::13119938
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 302182604917:1030:6955672
+0 @I412458430049@ INDI
+1 NAME Margaret /Kerrigan/
+2 GIVN Margaret
+2 SURN Kerrigan
+2 SOUR @S1641357929@
+3 _APID 1,70667::13173840
+1 SEX F
+1 FAMC @F41@
+1 BIRT
+2 DATE abt 1900
+2 PLAC Longford
+2 SOUR @S1641357929@
+3 _APID 1,70667::13173840
+1 RESI
+2 DATE 31 Mar 1901
+2 PLAC Chapel Lane, Longford No. 1 Urban, Longford, Ireland
+2 SOUR @S1641357929@
+3 _APID 1,70667::13173840
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 302182604919:1030:6955672
+0 @I412458430050@ INDI
+1 NAME Patrick /Kerrigan/
+2 GIVN Patrick
+2 SURN Kerrigan
+2 SOUR @S1641357929@
+3 _APID 1,70667::9233431
+1 SEX M
+1 FAMS @F41@
+1 BIRT
+2 DATE abt 1871
+2 PLAC Longford
+2 SOUR @S1641357929@
+3 _APID 1,70667::9233431
+1 RESI
+2 DATE 31 Mar 1901
+2 PLAC Chapel Lane, Longford No. 1 Urban, Longford, Ireland
+2 SOUR @S1641357929@
+3 _APID 1,70667::9233431
+1 DEAT
+2 DATE 1963
+2 PLAC St Paul, Ramsey, Minnesota, United States
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID -1194647262:1030:6955672
+2 _APID 412366737237:1030:182013931
+0 @I412458430051@ INDI
+1 NAME Maria /Campbell/
+2 GIVN Maria
+2 SURN Campbell
+2 SOUR @S1641357929@
+3 _APID 1,70667::10587249
+1 SEX F
+1 FAMS @F41@
+1 BIRT
+2 DATE abt 1871
+2 PLAC Longford
+2 SOUR @S1641357929@
+3 _APID 1,70667::10587249
+1 RESI
+2 DATE 31 Mar 1901
+2 PLAC Chapel Lane, Longford No. 1 Urban, Longford, Ireland
+2 SOUR @S1641357929@
+3 _APID 1,70667::10587249
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 412366737222:1030:182013931
+0 @I412458431013@ INDI
+1 NAME Charles /Miller/
+2 GIVN Charles
+2 SURN Miller
+1 SEX M
+1 FAMS @F15@
+1 BIRT
+2 DATE abt 1860
+2 PLAC Glasgow, Lanarkshire
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 372425641024:1030:173047957
+0 @I412458431040@ INDI
+1 NAME Mary /Bresland/
+2 GIVN Mary
+2 SURN Bresland
+1 SEX F
+1 FAMS @F15@
+1 FAMS @F25@
+1 BIRT
+2 DATE 29 Jan 1860
+2 PLAC 7 newton street Partick, Lanarkshire, Scotland
+1 DEAT
+2 DATE 23 Dec 1903
+2 PLAC Govan, poor, house, Scotland
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 162293725562:1030:51476142
+2 _APID 372364183400:1030:173047957
+1 OBJE @O26@
+2 _PRIM Y
+0 @I412458431279@ INDI
+1 NAME Mary /Miller/
+2 GIVN Mary
+2 SURN Miller
+1 SEX F
+1 FAMC @F15@
+1 BIRT
+2 DATE 11 Dec 1879
+2 PLAC 11 muirhead street Partick, Glasgow, Lanarkshire, Scotland
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 162329559436:1030:51476142
+2 _APID 372425641026:1030:173047957
+1 OBJE @O9@
+2 _PRIM Y
+1 OBJE @O25@
+0 @I412458431464@ INDI
+1 NAME Unknown //
+2 GIVN Unknown
+1 SEX M
+1 FAMS @F25@
+0 @I412458431574@ INDI
+1 NAME Matilda /Bresland/
+2 GIVN Matilda
+2 SURN Bresland
+1 SEX F
+1 FAMC @F25@
+1 BIRT
+2 DATE 17 May 1888
+2 PLAC Logans close, 287 canongate Edinburgh, Scotland
+1 DEAT
+2 DATE 10 Mar 1890
+2 PLAC Muirhead, street, Partick, Glasgow, Lanarkshire, Scotland
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 162306574091:1030:51476142
+2 _APID 372425641028:1030:173047957
+1 OBJE @O21@
+2 _PRIM Y
+0 @I412458431979@ INDI
+1 NAME Margaret /Bresland/
+2 GIVN Margaret
+2 SURN Bresland
+1 SEX F
+1 FAMC @F25@
+1 BIRT
+2 DATE Abt. 1884
+1 DEAT
+2 DATE 8 Aug 1886
+2 PLAC Bailie, Fifes, close, 107, high, street, Edinburgh, Scotland
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 162342972730:1030:51476142
+2 _APID 372425641035:1030:173047957
+1 OBJE @O5@
+2 _PRIM Y
+0 @I412458431981@ INDI
+1 NAME James /Bresland/
+2 GIVN James
+2 SURN Bresland
+1 SEX M
+1 FAMC @F25@
+1 BIRT
+2 DATE 24 Nov 1881
+2 PLAC 1, Ewing, place, Crawford, street, Partick, Lanarkshire, Scotland
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 162369408534:1030:51476142
+2 _APID 372425641036:1030:173047957
+0 @I412458431989@ INDI
+1 NAME Esther /Bresland/
+2 GIVN Esther
+2 SURN Bresland
+1 SEX F
+1 FAMC @F25@
+1 FAMS @F53@
+1 BIRT
+2 DATE 2 Jan 1893
+2 PLAC 11, Blackfriars, lane, Edinburgh, Midlothian, Scotland
+1 DEAT
+2 DATE 14 Jan 1961
+2 PLAC Infirmary Kilmarnock Scotland 
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 162334840706:1030:51476142
+2 _APID 372425641029:1030:173047957
+1 OBJE @O7@
+2 _PRIM Y
+0 @I412458431990@ INDI
+1 NAME Annie Maria /Bresland/
+2 GIVN Annie Maria
+2 SURN Bresland
+1 SEX F
+1 FAMC @F25@
+1 BIRT
+2 DATE 29 Apr 1890
+2 PLAC 5, Walker, street, Partick, Lanarkshire, Scotland
+1 DEAT
+2 DATE 30 Jul 1908
+2 PLAC Royal, Samaritan, hospital, Glasgow, Lanarkshire, Scotland
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 162334841290:1030:51476142
+2 _APID 372425641030:1030:173047957
+1 OBJE @O6@
+2 _PRIM Y
+0 @I412458431992@ INDI
+1 NAME Grace Forsyth /Bresland/
+2 GIVN Grace Forsyth
+2 SURN Bresland
+1 SEX F
+1 FAMC @F25@
+1 BIRT
+2 DATE 1 Aug 1894
+2 PLAC High, street, Edinburgh, Scotland
+1 DEAT
+2 DATE 4 Jan 1897
+2 PLAC Govan, poor, house, Scotland
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 162335140290:1030:51476142
+2 _APID 372425641033:1030:173047957
+1 OBJE @O14@
+2 _PRIM Y
+0 @I412458433238@ INDI
+1 NAME John Crawford /Hughes/
+2 GIVN John Crawford
+2 SURN Hughes
+1 SEX M
+1 FAMS @F53@
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 162334841634:1030:51476142
+0 @I412458433240@ INDI
+1 NAME Sarah Alexandrina Woodside /Hughes/
+2 GIVN Sarah Alexandrina Woodside
+2 SURN Hughes
+1 SEX F
+1 FAMC @F53@
+1 BIRT
+2 DATE Abt. 1926
+2 PLAC Kilbarchan, Renfrewshire, Scotland
+1 DEAT
+2 DATE 2008
+2 PLAC Saltcoats, Ayrshire, Scotland
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 162335147159:1030:51476142
+0 @I412458435704@ INDI
+1 NAME Frank /Russell/
+2 GIVN Frank
+2 SURN Russell
+2 SOUR @S1641614443@
+3 _APID 1,6598::24924012
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747720
+1 SEX M
+1 FAMS @F37@
+1 BIRT
+2 DATE October 1840
+2 PLAC Langbridge, Newchurch, Isle of Wight, England
+2 SOUR @S1641614443@
+3 _APID 1,6598::24924012
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747720
+1 BIRT
+2 DATE October 1840
+2 PLAC Longbridge, Hampshire, England
+1 RESI
+2 DATE 1881
+2 PLAC Brading, Hampshire, England
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747720
+1 RESI
+2 DATE 1891
+2 PLAC Shanklin, Gattern St Paul, Brading, Hampshire, England
+2 SOUR @S1641614443@
+3 _APID 1,6598::24924012
+1 DEAT
+2 DATE 26 AUG 1914
+2 PLAC Shanklin, Isle of Wight, England
+1 DEAT
+2 DATE July 1914
+2 PLAC Hampshire, Isle of Wight, United Kingdom
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 25576291159:1030:7408710
+2 _APID 112136268785:1030:164059589
+1 OBJE @O17@
+2 _PRIM Y
+0 @I412458435718@ INDI
+1 NAME Georgina Ann /Ryall/
+2 GIVN Georgina Ann
+2 SURN Ryall
+2 SOUR @S1641614443@
+3 _APID 1,6598::24923753
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747745
+1 NAME Georgina Ann /Ryall/
+2 GIVN Georgina Ann
+2 SURN Ryall
+1 SEX F
+1 FAMS @F37@
+1 BIRT
+2 DATE 24 Mar 1844
+2 PLAC Chillerton, Isle of Wight, England
+2 SOUR @S1641614443@
+3 _APID 1,6598::24923753
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747745
+1 RESI
+2 DATE 1881
+2 PLAC Brading, Hampshire, England
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747745
+1 RESI
+2 DATE 1891
+2 PLAC Shanklin, Gattern St Paul, Brading, Hampshire, England
+2 SOUR @S1641614443@
+3 _APID 1,6598::24923753
+1 DEAT
+2 DATE JUN 1900
+2 PLAC Brading, Isle of Wight, England
+1 DEAT
+2 DATE April 1900
+2 PLAC Brading, Isle of Wight, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 25576256513:1030:7408710
+2 _APID 190188186173:1030:35349945
+2 _APID 112136268205:1030:164059589
+0 @I412458436842@ INDI
+1 NAME Henry /Russell/
+2 GIVN Henry
+2 SURN Russell
+1 SEX M
+1 FAMC @F37@
+1 FAMS @F39@
+1 BIRT
+2 DATE 12 Nov 1863
+2 PLAC Godshill, Isle of Wight, England
+1 RESI
+2 DATE 1911
+2 PLAC Goring, Berkshire, England
+2 SOUR @S1641363498@
+3 PAGE The National Archives of the UK (TNA); Kew, Surrey, England; Census Returns of England and Wales, 1911
+3 _APID 1,2352::44480145
+1 DEAT
+2 DATE Jun 1937
+2 PLAC Ryde, Isle of Wight, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 25576291251:1030:7408710
+2 _APID 26038891151:1030:54372011
+2 _APID 112170247902:1030:164059589
+0 @I412458436843@ INDI
+1 NAME Ellen /Russell/
+2 GIVN Ellen
+2 SURN Russell
+1 SEX F
+1 FAMC @F37@
+1 BIRT
+2 DATE Apr 1866
+2 PLAC Chillerton, Isle of Wight, England
+1 DEAT
+2 DATE 17 Jul 1938
+2 PLAC San Bernardino, California, USA
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 25576291252:1030:7408710
+2 _APID 112170247989:1030:164059589
+0 @I412458436845@ INDI
+1 NAME William /Russell/
+2 GIVN William
+2 SURN Russell
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747721
+1 SEX M
+1 FAMC @F37@
+1 FAMS @F28@
+1 BIRT
+2 DATE abt 1868
+2 PLAC Carisbrooke, Isle of Wight, Hampshire, England
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747721
+1 RESI
+2 DATE 1881
+2 PLAC Brading, Hampshire, England
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747721
+1 DEAT
+2 DATE 1945
+2 PLAC Queensland, Australia
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 25576291253:1030:7408710
+2 _APID 112170248089:1030:164059589
+0 @I412458436846@ INDI
+1 NAME Kate /Russell/
+2 GIVN Kate
+2 SURN Russell
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747546
+1 SEX F
+1 FAMC @F37@
+1 BIRT
+2 DATE Dec 1869
+2 PLAC Gatcombe, Isle of Wight, England
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747546
+1 RESI
+2 DATE 1881
+2 PLAC Brading, Hampshire, England
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747546
+1 DEAT
+2 DATE Bef. 1969
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 25576291254:1030:7408710
+2 _APID 390109436858:1030:113149785
+2 _APID 112170248176:1030:164059589
+0 @I412458436847@ INDI
+1 NAME Charles /Russell/
+2 GIVN Charles
+2 SURN Russell
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747620
+1 SEX M
+1 FAMC @F37@
+1 BIRT
+2 DATE Dec 1871
+2 PLAC Newchurch, Isle of Wight, Hampshire, England
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747620
+1 RESI
+2 DATE 1881
+2 PLAC Brading, Hampshire, England
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747620
+1 DEAT
+2 DATE September 1915
+2 PLAC  Isle of Wight, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 25576291300:1030:7408710
+2 _APID 112170248262:1030:164059589
+0 @I412458436848@ INDI
+1 NAME Arther J. /Russell/
+2 GIVN Arther J.
+2 SURN Russell
+2 SOUR @S1641614443@
+3 _APID 1,6598::24924660
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747607
+1 SEX M
+1 FAMC @F37@
+1 FAMS @F14@
+1 BIRT
+2 DATE Jan 1877
+2 PLAC Brading, Isle of Wight, Hampshire, England
+2 SOUR @S1641614443@
+3 _APID 1,6598::24924660
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747607
+1 RESI
+2 DATE 1881
+2 PLAC Brading, Hampshire, England
+2 SOUR @S1651804134@
+3 _APID 1,7572::6747607
+1 RESI
+2 DATE 1891
+2 PLAC Shanklin, Gattern St Paul, Brading, Hampshire, England
+2 SOUR @S1641614443@
+3 _APID 1,6598::24924660
+1 DEAT
+2 DATE 3 Jul 1938
+2 PLAC Shanklin, Isle of Wight, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 25576291303:1030:7408710
+2 _APID 139874428:1030:14648073
+2 _APID 112170248495:1030:164059589
+0 @I412458437182@ INDI
+1 NAME Reginald Frederick /Russell/
+2 GIVN Reginald Frederick
+2 SURN Russell
+2 SOUR @S1641363498@
+3 _APID 1,2352::42661018
+2 SOUR @S1651804282@
+3 _APID 1,1351::4319564
+1 SEX M
+1 FAMC @F49@
+1 FAMS @F1@
+1 BIRT
+2 DATE 31 Jul 1901
+2 PLAC Newport, Isle of Wight, Hampshire, England
+2 SOUR @S1641363498@
+3 _APID 1,2352::42661018
+1 BAPM
+2 DATE 13 Oct 1901
+2 PLAC Ryde, Hampshire, England
+2 SOUR @S1651804282@
+3 _APID 1,1351::4319564
+1 RESI
+2 DATE 1911
+2 PLAC Godshill, Hampshire, England
+2 SOUR @S1641363498@
+3 _APID 1,2352::42661018
+1 DEAT
+2 DATE 11 Feb 1980
+2 PLAC Godshill, Isle of Wight, Hampshire, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 122317396621:1030:8127056
+2 _APID 20319227443:1030:35349945
+2 _APID 370024855269:1030:54372011
+1 SOUR @S1641363871@
+2 PAGE General Register Office; United Kingdom; Volume: 2b; Page: 1344
+2 _APID 1,8753::60762436
+0 @I412458437183@ INDI
+1 NAME Dorothy Kate /Russell/
+2 GIVN Dorothy Kate
+2 SURN Russell
+2 SOUR @S1641363498@
+3 _APID 1,2352::42661019
+1 SEX F
+1 FAMC @F49@
+1 BIRT
+2 DATE 09 Dec 1902
+2 PLAC Newport, Isle of Wight, United Kingdom
+2 SOUR @S1641363498@
+3 _APID 1,2352::42661019
+1 RESI
+2 DATE 1911
+2 PLAC Godshill, Hampshire, England
+2 SOUR @S1641363498@
+3 _APID 1,2352::42661019
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 190188185686:1030:35349945
+2 _APID 370024855270:1030:54372011
+2 _APID 322383106203:1030:84143630
+0 @I412484286664@ INDI
+1 NAME Annie Gertrude /Ashby/
+2 GIVN Annie Gertrude
+2 SURN Ashby
+1 SEX F
+1 FAMS @F28@
+1 BIRT
+2 DATE 1864
+2 PLAC Henley On Thames, Oxfordshire, England
+1 DEAT
+2 DATE 19 Nov 1956
+2 PLAC Queensland, Australia
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 112170250768:1030:164059589
+0 @I412484286666@ INDI
+1 NAME Frank William /Russell/
+2 GIVN Frank William
+2 SURN Russell
+1 SEX M
+1 FAMC @F28@
+1 BIRT
+2 DATE January 1890
+2 PLAC Henley On Thames, Oxfordshire, England
+1 DEAT
+2 DATE 12 Jun 1954
+2 PLAC Queensland, Australia
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 112450201943:1030:164059589
+0 @I412484286667@ INDI
+1 NAME Emily Gertrude Ellen /Russell/
+2 GIVN Emily Gertrude Ellen
+2 SURN Russell
+1 SEX F
+1 FAMC @F28@
+1 BIRT
+2 DATE 1891
+2 PLAC Henley On Thames, Oxfordshire, England
+1 DEAT
+2 DATE March 1892
+2 PLAC Hendon, Middlesex, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 112450202006:1030:164059589
+0 @I412484286668@ INDI
+1 NAME Charles Frederick /Russell/
+2 GIVN Charles Frederick
+2 SURN Russell
+1 SEX M
+1 FAMC @F28@
+1 BIRT
+2 DATE 1892
+2 PLAC Remenham, Berkshire, England
+1 DEAT
+2 DATE 1969
+2 PLAC Queensland, Australia
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 112450202085:1030:164059589
+0 @I412484286669@ INDI
+1 NAME Arthur George /Russell/
+2 GIVN Arthur George
+2 SURN Russell
+1 SEX M
+1 FAMC @F28@
+1 BIRT
+2 DATE January 1899
+2 PLAC Shanklin, Isle of Wight, England
+1 DEAT
+2 DATE 1976
+2 PLAC Queensland, Australia
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 112450202163:1030:164059589
+0 @I412484286671@ INDI
+1 NAME Freda Annie /Russell/
+2 GIVN Freda Annie
+2 SURN Russell
+1 SEX F
+1 FAMC @F28@
+1 FAMS @F30@
+1 BIRT
+2 DATE October 1901
+2 PLAC Isle of Wight, England
+1 DEAT
+2 DATE 25 June 1980
+2 PLAC Pechey, Queensland, Australia
+1 BURI
+2 PLAC Bridgeman Downs, Brisbane City, Queensland, Australia
+2 SOUR @S1646689728@
+3 DATA
+4 WWW https://www.findagrave.com/memorial/135102709/freda-annie-kurth
+3 _APID 1,60528::961599
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 112450202212:1030:164059589
+0 @I412484286672@ INDI
+1 NAME Vernon Horace /Russell/
+2 GIVN Vernon Horace
+2 SURN Russell
+1 SEX M
+1 FAMC @F28@
+1 BIRT
+2 DATE 1903
+2 PLAC Shanklin, Isle of Wight, England
+1 DEAT
+2 DATE June 1904
+2 PLAC Shanklin, Isle of Wight, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 112450202266:1030:164059589
+0 @I412484287753@ INDI
+1 NAME Leslie Charles /Kurth/
+2 GIVN Leslie Charles
+2 SURN Kurth
+2 SOUR @S1646689728@
+3 _APID 1,60528::961600
+1 SEX M
+1 FAMS @F30@
+1 BIRT
+2 DATE 19 March 1902
+2 PLAC Queensland, Australia
+2 SOUR @S1646689728@
+3 _APID 1,60528::961600
+1 DEAT
+2 DATE 26 March 2000
+2 PLAC Queensland, Australia
+2 SOUR @S1646689728@
+3 _APID 1,60528::961600
+1 BURI
+2 PLAC Bridgeman Downs, Brisbane City, Queensland, Australia
+2 SOUR @S1646689728@
+3 _APID 1,60528::961600
+0 @I412484288246@ INDI
+1 NAME Ada //
+2 GIVN Ada
+1 SEX F
+1 FAMS @F39@
+1 BIRT
+2 DATE abt 1869
+2 PLAC Linslade, Bedfordshire, England
+1 RESI
+2 DATE 1911
+2 PLAC Goring, Berkshire, England
+2 SOUR @S1641363498@
+3 _APID 1,2352::44480146
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 370025502139:1030:54372011
+0 @I412484288247@ INDI
+1 NAME Dorothy Kate /Russell/
+2 GIVN Dorothy Kate
+2 SURN Russell
+1 SEX F
+1 FAMC @F39@
+1 BIRT
+2 DATE July 1891
+2 PLAC Pancras, London
+1 RESI
+2 DATE 1911
+2 PLAC Goring, Berkshire, England
+2 SOUR @S1641363498@
+3 _APID 1,2352::44480147
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 370025502140:1030:54372011
+0 @I412484288250@ INDI
+1 NAME Archibald Henry Ryall /Russell/
+2 GIVN Archibald Henry Ryall
+2 SURN Russell
+1 SEX M
+1 FAMC @F39@
+1 BIRT
+2 DATE October 1893
+2 PLAC Henley, Oxfordshire
+1 RESI
+2 DATE 1911
+2 PLAC Goring, Berkshire, England
+2 SOUR @S1641363498@
+3 _APID 1,2352::44480148
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 370025502141:1030:54372011
+0 @I412484288251@ INDI
+1 NAME William Horace /Russell/
+2 GIVN William Horace
+2 SURN Russell
+1 SEX M
+1 FAMC @F39@
+1 BIRT
+2 DATE October 1897
+2 PLAC Henley, Oxfordshire
+1 RESI
+2 DATE 1911
+2 PLAC Goring, Berkshire, England
+2 SOUR @S1641363498@
+3 _APID 1,2352::44480149
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 370025502142:1030:54372011
+0 @I412484288253@ INDI
+1 NAME Norman Kenneth /Russell/
+2 GIVN Norman Kenneth
+2 SURN Russell
+1 SEX M
+1 FAMC @F39@
+1 BIRT
+2 DATE July 1903
+2 PLAC Henley, Oxfordshire
+1 RESI
+2 DATE 1911
+2 PLAC Goring, Berkshire, England
+2 SOUR @S1641363498@
+3 _APID 1,2352::44480150
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 370025502143:1030:54372011
+0 @I412484290473@ INDI
+1 NAME Ellen Frances /Price/
+2 GIVN Ellen Frances
+2 SURN Price
+1 SEX F
+1 FAMS @F14@
+1 BIRT
+2 DATE 1874
+2 PLAC Brading, Isle of Wight, United Kingdom
+1 DEAT
+2 DATE 1962
+2 PLAC Sth East Isle of Wight England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 19993704533:1030:14648073
+0 @I412484290474@ INDI
+1 NAME Arthur John /Russell/
+2 GIVN Arthur John
+2 SURN Russell
+1 SEX M
+1 FAMC @F14@
+1 BIRT
+2 DATE abt 1903
+2 PLAC Shanklin, Isle of Wight, United Kingdom
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 19993706583:1030:14648073
+0 @I412484290476@ INDI
+1 NAME Florence Nellie /Russell/
+2 GIVN Florence Nellie
+2 SURN Russell
+1 SEX F
+1 FAMC @F14@
+1 BIRT
+2 DATE 17 Jun 1905
+2 PLAC Shanklin, Isle of Wight, United Kingdom
+1 DEAT
+2 DATE 1980
+2 PLAC Isle of Wight, Hampshire, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 19993706586:1030:14648073
+0 @I412484290478@ INDI
+1 NAME George Henry /Russell/
+2 GIVN George Henry
+2 SURN Russell
+1 SEX M
+1 FAMC @F14@
+1 BIRT
+2 DATE 31 Aug 1907
+2 PLAC Isle of wight Hampshire, England
+1 DEAT
+2 DATE Aug 1991
+2 PLAC Isle of Wight, Hampshire, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 19993706587:1030:14648073
+0 @I412484290481@ INDI
+1 NAME Frederick James /Russell/
+2 GIVN Frederick James
+2 SURN Russell
+1 SEX M
+1 FAMC @F14@
+1 BIRT
+2 DATE 25 Apr 1909
+2 PLAC Isle of wight Hampshire, England
+1 DEAT
+2 DATE Feb 1984
+2 PLAC Isle of wight Hampshire, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 19993706588:1030:14648073
+0 @I412484290483@ INDI
+1 NAME Charles William /Russell/
+2 GIVN Charles William
+2 SURN Russell
+1 SEX M
+1 FAMC @F14@
+1 BIRT
+2 DATE 18 Jun 1917
+2 PLAC Isle of wight, Hampshire, England
+1 DEAT
+2 DATE Jun 1975
+2 PLAC Isle of Wight, Hampshire, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 19993734708:1030:14648073
+0 @I412484291227@ INDI
+1 NAME Millicent A /Hollis/
+2 GIVN Millicent A
+2 SURN Hollis
+2 SOUR @S1641363871@
+3 _APID 1,8753::60708370
+1 SEX F
+1 FAMS @F1@
+1 BIRT
+2 DATE 6 May 1900
+2 PLAC Godshill, Isle of Wight, Hampshire, England
+1 DEAT
+2 DATE 5 May 1978
+2 PLAC Isle of Wight, Hampshire, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 122317396551:1030:8127056
+0 @I412484291374@ INDI
+1 NAME Felicity Mary /Russell/
+2 GIVN Felicity Mary
+2 SURN Russell
+1 SEX F
+1 FAMC @F1@
+1 BIRT
+2 DATE 1927
+2 PLAC Isle of Wight, Hampshire, England
+1 DEAT
+2 DATE 28/07/1958
+2 PLAC Maidstone, Kent, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 122317396815:1030:8127056
+0 @I412484291375@ INDI
+1 NAME John Hollis Reginald /Russell/
+2 GIVN John Hollis Reginald
+2 SURN Russell
+1 SEX M
+1 FAMC @F1@
+1 BIRT
+2 DATE 1931
+2 PLAC Newport, Isle of Wight, Hampshire, England
+1 DEAT
+2 DATE 29/03/1934
+2 PLAC  Isle of Wight, Hampshire, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 122317396832:1030:8127056
+0 @I412484292058@ INDI
+1 NAME Beatrice Mae /Faulkner/
+2 GIVN Beatrice Mae
+2 SURN Faulkner
+1 SEX F
+1 FAMC @F50@
+1 BIRT
+2 DATE 1 MAY 1881
+2 PLAC Ryde, Newchurch, Isle of Wight
+1 DEAT
+2 DATE 10 JUL 1962
+2 PLAC Bembridge, Isle of Wight, Hampshire
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 362281502220:1030:119136060
+0 @I412484292060@ INDI
+1 NAME Lily Florence /Faulkner/
+2 GIVN Lily Florence
+2 SURN Faulkner
+1 SEX F
+1 FAMC @F50@
+1 BIRT
+2 DATE 1873
+2 PLAC Ryde, Newchurch, Isle of Wight
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 362281528954:1030:119136060
+0 @I412484292062@ INDI
+1 NAME Mabel Ellen /Faulkner/
+2 GIVN Mabel Ellen
+2 SURN Faulkner
+1 SEX F
+1 FAMC @F50@
+1 BIRT
+2 DATE 1874
+2 PLAC Ryde, Newchurch, Isle of Wight
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 362281528955:1030:119136060
+0 @I412484292063@ INDI
+1 NAME Gertrude Frances /Faulkner/
+2 GIVN Gertrude Frances
+2 SURN Faulkner
+1 SEX F
+1 FAMC @F50@
+1 BIRT
+2 DATE 1880
+2 PLAC Ryde, Newchurch, Isle of Wight
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 362281528959:1030:119136060
+0 @I412484292064@ INDI
+1 NAME Ethel Maud /Faulkner/
+2 GIVN Ethel Maud
+2 SURN Faulkner
+1 SEX F
+1 FAMC @F50@
+1 BIRT
+2 DATE 1884
+2 PLAC Ryde, Newchurch, Isle of Wight
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 362281528960:1030:119136060
+0 @I412484292067@ INDI
+1 NAME Bertha Kate /Faulkner/
+2 GIVN Bertha Kate
+2 SURN Faulkner
+1 SEX F
+1 FAMC @F50@
+1 BIRT
+2 DATE 1888
+2 PLAC Ryde, Newchurch, Isle of Wight
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 362281528961:1030:119136060
+0 @I412484292070@ INDI
+1 NAME Ada Rose /Faulkner/
+2 GIVN Ada Rose
+2 SURN Faulkner
+1 SEX F
+1 FAMC @F50@
+1 BIRT
+2 DATE 1867
+2 PLAC Ryde, Newchurch, Isle of Wight
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 362281528963:1030:119136060
+0 @I412484292073@ INDI
+1 NAME Frederick John /Faulkner/
+2 GIVN Frederick John
+2 SURN Faulkner
+1 SEX M
+1 FAMC @F50@
+1 FAMS @F42@
+1 BIRT
+2 DATE 4 Feb 1869
+2 PLAC Ryde, Newchurch, Isle of Wight
+1 DEAT
+2 DATE Jan 1913
+2 PLAC Portsmouth, Hampshire, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 570953197:1030:603429
+2 _APID 362281528964:1030:119136060
+0 @I412484292074@ INDI
+1 NAME Alice Jane /Faulkner/
+2 GIVN Alice Jane
+2 SURN Faulkner
+1 SEX F
+1 FAMC @F50@
+1 BIRT
+2 DATE 1871
+2 PLAC Ryde, Newchurch, Isle of Wight
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 362281528966:1030:119136060
+0 @I412484292077@ INDI
+1 NAME Edith Blanch /Faulkner/
+2 GIVN Edith Blanch
+2 SURN Faulkner
+1 SEX F
+1 FAMC @F50@
+1 BIRT
+2 DATE 1877
+2 PLAC Ryde, Newchurch, Isle of Wight
+1 BAPM
+2 DATE 4 Nov 1877
+2 PLAC Holy Trinity, Ryde, Hampshire, England
+2 SOUR @S1641363591@
+3 DATA
+4 WWW http://familysearch.org/pal:/MM9.1.1/NRBJ-8MR
+3 _APID 1,9841::57982785
+1 DEAT
+2 DATE 1878
+2 PLAC Ryde, Newchurch, Isle of Wight
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 362281528967:1030:119136060
+0 @I412484293236@ INDI
+1 NAME Urania /Buckett/
+2 GIVN Urania
+2 SURN Buckett
+1 SEX F
+1 FAMS @F42@
+1 BIRT
+2 DATE 2 Jul 1867
+2 PLAC Shalfleet, Isle of Wight, Hampshire, England
+1 DEAT
+2 DATE Mar 1942
+2 PLAC Gosport, Hampshire, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 608484612:1030:603429
+0 @I412484293237@ INDI
+1 NAME Ivy Irene S /Faulkner/
+2 GIVN Ivy Irene S
+2 SURN Faulkner
+1 SEX F
+1 FAMC @F42@
+1 BIRT
+2 DATE Dec 1905
+2 PLAC Portsmouth, Hampsire, England
+1 SOUR @S1641355786@
+2 PAGE Ancestry Family Tree
+2 _APID 608485369:1030:603429
+0 @I412528203494@ INDI
+1 NAME James Smale /Bond/
+2 GIVN James Smale
+2 SURN Bond
+1 SEX M
+1 FAMC @F5@
+1 FAMS @F4@
+1 BIRT
+2 DATE 20 December 1859
+2 PLAC Week St Mary, Cornwall, England
+1 DEAT
+2 DATE 8 September1927
+2 PLAC North Molton, Devon, England
+1 OBJE @O1@
+2 _PRIM Y
+0 @I412528203500@ INDI
+1 NAME Henrietta Ellen /Bond*/
+2 GIVN Henrietta Ellen
+2 SURN Bond*
+1 SEX F
+1 FAMC @F56@
+1 FAMS @F4@
+1 BIRT
+2 DATE 3 Sep 1859
+2 PLAC Alverdiscott, Devon, England
+1 DEAT
+2 DATE 2 May 1940
+2 PLAC Monkleigh, Bideford, Devon, England
+1 OBJE @O24@
+2 _PRIM Y
+0 @I412528203759@ INDI
+1 NAME James /Bond/
+2 GIVN James
+2 SURN Bond
+1 SEX M
+1 FAMC @F55@
+1 FAMS @F5@
+1 BIRT
+2 DATE Oct 1826
+2 PLAC Bradworthy Dorset England
+1 DEAT
+2 DATE 26 July 1879
+2 PLAC Bideford, Devon, England
+1 OBJE @O19@
+2 _PRIM Y
+0 @I412528203781@ INDI
+1 NAME Ann /Smale (Bond)/
+2 GIVN Ann
+2 SURN Smale (Bond)
+1 SEX F
+1 FAMC @F54@
+1 FAMS @F5@
+1 BIRT
+2 DATE 1829
+2 PLAC Week St Mary, Cornwall, England
+1 DEAT
+2 DATE 1862
+2 PLAC reg Stratton Cornwall
+0 @I412528203798@ INDI
+1 NAME Alexander /Bond*/
+2 GIVN Alexander
+2 SURN Bond*
+1 SEX M
+1 FAMS @F56@
+1 BIRT
+2 DATE 1820
+2 PLAC Hartland, Bideford, Devon, England
+1 DEAT
+2 DATE 22 Jun 1893
+2 PLAC Monkleigh, Bideford, Devon, England
+1 OBJE @O4@
+2 _PRIM Y
+0 @I412528203803@ INDI
+1 NAME Mary Jane /Withecombe/
+2 GIVN Mary Jane
+2 SURN Withecombe
+1 SEX F
+1 FAMS @F56@
+1 BIRT
+2 DATE 1838
+2 PLAC Instow, Barnstaple, Devon, England
+1 DEAT
+2 DATE Oct 1909
+2 PLAC Bideford, Devon, England
+1 OBJE @O16@
+2 _PRIM Y
+0 @I412528203820@ INDI
+1 NAME William /Bond/
+2 GIVN William
+2 SURN Bond
+1 SEX M
+1 FAMS @F55@
+1 BIRT
+2 DATE 1795
+2 PLAC Luxulyan, Cornwall, England
+1 DEAT
+2 DATE April 1867
+2 PLAC Holsworthy, Devonshire, United Kingdom
+1 OBJE @O8@
+2 _PRIM Y
+0 @I412528203823@ INDI
+1 NAME Elizabeth /Gay/
+2 GIVN Elizabeth
+2 SURN Gay
+1 SEX F
+1 FAMS @F55@
+1 BIRT
+2 DATE 1798
+2 PLAC West Putford, Devon, England
+1 DEAT
+2 DATE 1875
+2 PLAC Holsworthy, Devon, England
+0 @I412528203827@ INDI
+1 NAME Thomas /Smale/
+2 GIVN Thomas
+2 SURN Smale
+1 SEX M
+1 FAMS @F54@
+1 BIRT
+2 DATE 1789
+2 PLAC North Tamert, Cornwall, England
+1 DEAT
+2 DATE 7 March 1868
+2 PLAC Stratton, Cornwall, United Kingdom
+0 @I412528203831@ INDI
+1 NAME MARY MARGARET /HANDCOCK/
+2 GIVN MARY MARGARET
+2 SURN HANDCOCK
+1 SEX F
+1 FAMS @F54@
+1 BIRT
+2 DATE 1794
+2 PLAC Cornwall, England
+1 DEAT
+2 DATE Mar 1851
+2 PLAC Cornwall, United Kingdom
+0 @F1@ FAM
+1 HUSB @I412458437182@
+1 WIFE @I412484291227@
+1 CHIL @I412484291374@
+1 CHIL @I412484291375@
+1 MARR
+2 DATE 1923
+2 PLAC Isle of Wight, Hampshire, United Kingdom
+2 SOUR @S1641363871@
+3 _APID 1,8753::60708370
+0 @F2@ FAM
+1 HUSB @I412458425432@
+1 WIFE @I412458425362@
+1 CHIL @I412458425830@
+1 CHIL @I412458425834@
+1 CHIL @I412458425839@
+1 CHIL @I412458425842@
+1 CHIL @I412458425838@
+1 CHIL @I412458425840@
+1 CHIL @I412458425841@
+1 CHIL @I412458423347@
+1 MARR
+2 DATE 26 May 1893
+2 PLAC St Saviour, Southwark, England
+0 @F3@ FAM
+1 HUSB @I412458428157@
+1 WIFE @I412458428181@
+1 CHIL @I412458423350@
+1 CHIL @I412458428395@
+1 CHIL @I412458428397@
+1 CHIL @I412458428400@
+1 CHIL @I412458428403@
+1 CHIL @I412458428407@
+1 MARR
+2 DATE March 1895
+2 PLAC Newton Abbot, Devon, England
+0 @F4@ FAM
+1 HUSB @I412528203494@
+1 WIFE @I412528203500@
+1 CHIL @I412458423378@
+0 @F5@ FAM
+1 HUSB @I412528203759@
+1 WIFE @I412528203781@
+1 CHIL @I412528203494@
+0 @F6@ FAM
+1 HUSB @I412458423342@
+1 WIFE @I412458423344@
+1 CHIL @I412458423445@
+0 @F7@ FAM
+1 HUSB @I412458423345@
+1 WIFE @I412458423346@
+1 CHIL @I412458423343@
+1 MARR
+2 DATE Apr 1941
+2 PLAC Exeter, Devon, United Kingdom
+2 SOUR @S1641363871@
+3 _APID 1,8753::57069397
+0 @F8@ FAM
+1 HUSB @I412458423347@
+1 WIFE @I412458423348@
+1 CHIL @I412458423342@
+1 MARR
+2 DATE 15 Dec 1934
+2 PLAC St. Thomas, Devon, United Kingdom
+0 @F9@ FAM
+1 HUSB @I412458423349@
+1 WIFE @I412458423350@
+1 CHIL @I412458423348@
+1 CHIL @I412458423351@
+1 CHIL @I412458423354@
+1 CHIL @I412458423358@
+1 CHIL @I412458423360@
+1 MARR
+2 DATE Apr 1916
+2 PLAC St. Thomas, Devon, United Kingdom
+1 MARR
+2 DATE Sep 1931
+2 PLAC St Thomas, Devon
+0 @F10@ FAM
+1 HUSB @I412458423352@
+1 WIFE @I412458423351@
+1 CHIL @I412458423353@
+0 @F11@ FAM
+1 HUSB @I412458423355@
+1 WIFE @I412458423354@
+1 CHIL @I412458423356@
+0 @F12@ FAM
+1 HUSB @I412458423357@
+1 WIFE @I412458423356@
+0 @F13@ FAM
+1 HUSB @I412458423359@
+1 WIFE @I412458423358@
+0 @F14@ FAM
+1 HUSB @I412458436848@
+1 WIFE @I412484290473@
+1 CHIL @I412484290474@
+1 CHIL @I412484290476@
+1 CHIL @I412484290478@
+1 CHIL @I412484290481@
+1 CHIL @I412484290483@
+1 MARR
+2 DATE 1902
+0 @F15@ FAM
+1 HUSB @I412458431013@
+1 WIFE @I412458431040@
+1 CHIL @I412458431279@
+1 CHIL @I412458423446@
+0 @F16@ FAM
+1 HUSB @I412458423342@
+1 WIFE @I412458423343@
+1 CHIL @I412458423341@
+0 @F17@ FAM
+1 HUSB @I412458423375@
+1 WIFE @I412458423376@
+0 @F18@ FAM
+1 HUSB @I412458423377@
+1 WIFE @I412458423378@
+1 CHIL @I412458423379@
+1 CHIL @I412458423380@
+1 CHIL @I412458423382@
+0 @F19@ FAM
+1 HUSB @I412458423381@
+1 WIFE @I412458423380@
+0 @F20@ FAM
+1 HUSB @I412458426711@
+1 WIFE @I412458427336@
+1 CHIL @I412458427342@
+1 CHIL @I412458427343@
+1 CHIL @I412458425362@
+1 CHIL @I412458427345@
+1 CHIL @I412458427341@
+1 CHIL @I412458427346@
+1 CHIL @I412458427348@
+1 MARR
+2 DATE 21 May 1866
+2 PLAC Lambeth, Surrey, England
+0 @F21@ FAM
+1 HUSB @I412458423385@
+1 WIFE @I412458423384@
+1 CHIL @I412458423386@
+0 @F22@ FAM
+1 HUSB @I412458423387@
+1 WIFE @I412458423386@
+1 CHIL @I412458423388@
+1 CHIL @I412458423389@
+0 @F23@ FAM
+1 HUSB @I412458423389@
+1 WIFE @I412458423390@
+0 @F24@ FAM
+1 HUSB @I412458423392@
+1 WIFE @I412458423391@
+1 CHIL @I412458423393@
+1 CHIL @I412458423396@
+0 @F25@ FAM
+1 HUSB @I412458431464@
+1 WIFE @I412458431040@
+1 CHIL @I412458431981@
+1 CHIL @I412458431979@
+1 CHIL @I412458431574@
+1 CHIL @I412458431990@
+1 CHIL @I412458431989@
+1 CHIL @I412458431992@
+0 @F26@ FAM
+1 HUSB @I412458423361@
+1 WIFE @I412458423362@
+1 CHIL @I412458423363@
+1 CHIL @I412458423349@
+1 CHIL @I412458423441@
+1 CHIL @I412458423442@
+0 @F27@ FAM
+1 HUSB @I412458423364@
+1 WIFE @I412458423362@
+1 CHIL @I412458423365@
+1 CHIL @I412458423366@
+1 CHIL @I412458423367@
+1 CHIL @I412458423368@
+1 CHIL @I412458423425@
+1 CHIL @I412458423426@
+1 MARR
+2 DATE 14 APR 1876
+2 PLAC The Church of St Michael, West Hill, Ottery S Mary, Devon, England
+0 @F28@ FAM
+1 HUSB @I412458436845@
+1 WIFE @I412484286664@
+1 CHIL @I412484286666@
+1 CHIL @I412484286667@
+1 CHIL @I412484286668@
+1 CHIL @I412484286669@
+1 CHIL @I412484286671@
+1 CHIL @I412484286672@
+1 MARR
+2 DATE 29 Jun 1889
+2 PLAC Rotherfield Grays, Oxfordshire, England
+0 @F29@ FAM
+1 HUSB @I412458423437@
+1 WIFE @I412458423363@
+1 CHIL @I412458423438@
+1 CHIL @I412458423439@
+1 CHIL @I412458423440@
+0 @F30@ FAM
+1 HUSB @I412484287753@
+1 WIFE @I412484286671@
+0 @F31@ FAM
+1 HUSB @I412458423427@
+1 WIFE @I412458423366@
+1 CHIL @I412458423428@
+1 CHIL @I412458423429@
+1 CHIL @I412458423430@
+1 CHIL @I412458423431@
+1 CHIL @I412458423435@
+1 CHIL @I412458423436@
+0 @F32@ FAM
+1 HUSB @I412458423369@
+1 WIFE @I412458423368@
+1 CHIL @I412458423370@
+1 CHIL @I412458423371@
+1 CHIL @I412458423374@
+1 CHIL @I412458423375@
+1 CHIL @I412458423377@
+1 CHIL @I412458423383@
+1 CHIL @I412458423384@
+1 CHIL @I412458423391@
+1 CHIL @I412458423398@
+1 CHIL @I412458423401@
+1 CHIL @I412458423411@
+1 CHIL @I412458423418@
+1 CHIL @I412458423423@
+1 CHIL @I412458423424@
+0 @F33@ FAM
+1 HUSB @I412458423372@
+1 WIFE @I412458423371@
+1 CHIL @I412458423373@
+0 @F34@ FAM
+1 HUSB @I412458423408@
+1 WIFE @I412458423407@
+1 CHIL @I412458423409@
+1 CHIL @I412458423410@
+0 @F35@ FAM
+1 HUSB @I412458423412@
+1 WIFE @I412458423411@
+1 CHIL @I412458423413@
+1 CHIL @I412458423414@
+0 @F36@ FAM
+1 HUSB @I412458423415@
+1 WIFE @I412458423414@
+1 CHIL @I412458423416@
+1 CHIL @I412458423417@
+0 @F37@ FAM
+1 HUSB @I412458435704@
+1 WIFE @I412458435718@
+1 CHIL @I412458436842@
+1 CHIL @I412458436843@
+1 CHIL @I412458436845@
+1 CHIL @I412458436846@
+1 CHIL @I412458436847@
+1 CHIL @I412458423450@
+1 CHIL @I412458436848@
+1 MARR
+2 DATE 08 Nov 1862
+2 PLAC Newchurch, Isle of Wight, England
+0 @F38@ FAM
+1 HUSB @I412458423419@
+1 WIFE @I412458423418@
+1 CHIL @I412458423420@
+1 CHIL @I412458423421@
+1 CHIL @I412458423422@
+0 @F39@ FAM
+1 HUSB @I412458436842@
+1 WIFE @I412484288246@
+1 CHIL @I412484288247@
+1 CHIL @I412484288250@
+1 CHIL @I412484288251@
+1 CHIL @I412484288253@
+1 MARR
+2 DATE 1889
+0 @F40@ FAM
+1 HUSB @I412458423394@
+1 WIFE @I412458423393@
+1 CHIL @I412458423395@
+0 @F41@ FAM
+1 HUSB @I412458430050@
+1 WIFE @I412458430051@
+1 CHIL @I412458430044@
+1 CHIL @I412458423447@
+1 CHIL @I412458430045@
+1 CHIL @I412458430046@
+1 CHIL @I412458430047@
+1 CHIL @I412458430048@
+1 CHIL @I412458430049@
+0 @F42@ FAM
+1 HUSB @I412484292073@
+1 WIFE @I412484293236@
+1 CHIL @I412484293237@
+1 MARR
+2 DATE 1903
+0 @F43@ FAM
+1 HUSB @I412458423397@
+1 WIFE @I412458423396@
+0 @F44@ FAM
+1 HUSB @I412458423398@
+1 WIFE @I412458423399@
+1 CHIL @I412458423400@
+0 @F45@ FAM
+1 HUSB @I412458423402@
+1 WIFE @I412458423401@
+1 CHIL @I412458423403@
+1 CHIL @I412458423407@
+0 @F46@ FAM
+1 HUSB @I412458423403@
+1 WIFE @I412458423404@
+1 CHIL @I412458423405@
+1 CHIL @I412458423406@
+0 @F47@ FAM
+1 HUSB @I412458423442@
+1 WIFE @I412458423443@
+1 CHIL @I412458423444@
+0 @F48@ FAM
+1 HUSB @I412458423446@
+1 WIFE @I412458423447@
+1 CHIL @I412458424920@
+1 CHIL @I412458424922@
+1 CHIL @I412458424930@
+1 CHIL @I412458423345@
+1 CHIL @I412458424936@
+1 CHIL @I412458424938@
+1 CHIL @I412458424942@
+1 CHIL @I412458424932@
+1 CHIL @I412458424927@
+1 MARR
+2 DATE 10 Feb 1908
+2 PLAC Longford Bridge, Limerick, Ireland
+0 @F49@ FAM
+1 HUSB @I412458423450@
+1 WIFE @I412458423451@
+1 CHIL @I412458437182@
+1 CHIL @I412458437183@
+1 CHIL @I412458423346@
+1 MARR
+2 DATE 11 Oct 1900
+2 PLAC St Helens, Hampshire, England
+2 SOUR @S1641362578@
+3 PAGE Place: St Helens, Hampshire, England; Collection: St John; -; Date Range: 1847 - 1900; Film Number: 1470889
+3 _APID 1,1352::1198284
+2 SOUR @S1641364202@
+3 DATA
+4 WWW https://familysearch.org/pal:/MM9.1.1/NX6H-337
+3 _APID 1,9852::21328318
+0 @F50@ FAM
+1 HUSB @I412458423452@
+1 WIFE @I412458423453@
+1 CHIL @I412484292070@
+1 CHIL @I412484292073@
+1 CHIL @I412484292074@
+1 CHIL @I412484292060@
+1 CHIL @I412484292062@
+1 CHIL @I412458423451@
+1 CHIL @I412484292077@
+1 CHIL @I412484292063@
+1 CHIL @I412484292058@
+1 CHIL @I412484292064@
+1 CHIL @I412484292067@
+1 MARR
+2 DATE 1866
+2 PLAC Newchurch, Isle of Wight, Hampshire
+0 @F51@ FAM
+1 HUSB @I412458425984@
+1 WIFE @I412458425991@
+1 CHIL @I412458426445@
+1 CHIL @I412458425432@
+1 CHIL @I412458426448@
+1 CHIL @I412458426459@
+1 CHIL @I412458426449@
+1 CHIL @I412458426451@
+1 CHIL @I412458426455@
+1 MARR
+2 DATE 13 Mar 1876
+2 PLAC St John the Evangelist, East Dulwich, England
+0 @F52@ FAM
+1 HUSB @I412458423431@
+1 WIFE @I412458423432@
+1 CHIL @I412458423433@
+1 CHIL @I412458423434@
+0 @F53@ FAM
+1 HUSB @I412458433238@
+1 WIFE @I412458431989@
+1 CHIL @I412458433240@
+1 MARR
+2 DATE 4 Apr 1924
+2 PLAC West Kilbride, Ayrshire, Scotland
+0 @F54@ FAM
+1 HUSB @I412528203827@
+1 WIFE @I412528203831@
+1 CHIL @I412528203781@
+0 @F55@ FAM
+1 HUSB @I412528203820@
+1 WIFE @I412528203823@
+1 CHIL @I412528203759@
+0 @F56@ FAM
+1 HUSB @I412528203798@
+1 WIFE @I412528203803@
+1 CHIL @I412528203500@
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 53986
+3 _WDTH 358
+3 _HGHT 395
+2 TITL James Smale Bond c1890
+1 RIN 09731aaa-5ddd-45b7-aecf-13a9a608a59c
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 00:10:59.566
+1 _USER hDMTEzBLvo6dmstbuakYu3DhQrnn5U0ctxaLcF0IFmYnjHvxdvsL1S+sxrL1A0hKTJuvGsXjhdqnRo6ZC7xDdw==
+2 _ENCR 1
+1 _CLON
+2 _TID 88392347
+2 _PID 44571130691
+2 _OID d14ada46-17a9-458f-a538-be9dc42c1280
+2 _USER bmKgN67v1bglz0ZZl7a2zuWOLlLtNtAxsBkySv7Munp6nXtdVW/I20dLTAibEVGXNhfw/7bR2EvzMHumNpEDKw==
+3 _ENCR 1
+2 _DATE 2016-04-11 19:50:49.000
+1 _ORIG u
+1 _MSER
+2 _LKID d14ada46-17a9-458f-a538-be9dc42c1280
+1 _ATL N
+0 @O2@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpg
+3 _SIZE 944943
+3 _WDTH 1555
+3 _HGHT 1093
+2 TITL Birth certificate
+1 RIN 19400328-21a9-4ab1-8fe5-db0eeb705a99
+1 DATE 2 Jan 2021
+1 PLAC Longford, Ireland
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-02-19 00:23:25.286
+1 _USER 9Rbk+wfUc6mtd18gYr8kipHtoHI8qXVsl23gl66GNADIZ8pyrfzLt3LdKBlxOdfLKFj9FrW/8Go/gG07fMx/pA==
+2 _ENCR 1
+1 _CLON
+2 _TID 84143630
+2 _PID 30496316065
+2 _OID 1042d293-3770-4941-bd18-2a7db50bdd20
+2 _USER BgjbuNZoRsVVT57gFL1WJF+qJMbTObOwnDeKkHb2DILqpl0GanXbLKxrnAg/7+geVKJwuEUaqFAdgOQSaaoLBw==
+3 _ENCR 1
+2 _DATE 2021-01-02 20:52:20.000
+1 _ORIG u
+1 _MSER
+2 _LKID 1042d293-3770-4941-bd18-2a7db50bdd20
+1 _ATL N
+0 @O3@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 67437
+3 _WDTH 750
+3 _HGHT 806
+2 TITL ireland house
+1 RIN 3095eaf1-4b0a-41f7-b93c-7fd032d1dd89
+1 _DSCR Think 6 O’Connell terrace 
+2 CONT 
+2 CONT Alan, Robert, Tony, Mary, (either Ann /Peggy) Linda, Lillian, Lesley (small child)
+1 _CREA 2023-02-18 23:23:04.989
+1 _USER Muevck7Es/AGfBTL/T2jMvaJjSahqeTmaO++qn2Z0yTG21gi3AYE7EeYc3fNQwKDMC3WrsALb6H56M9n4aIyVw==
+2 _ENCR 1
+1 _CLON
+2 _TID 180989416
+2 _PID 142361493877
+2 _OID c997e135-f609-4451-8ed1-2dae79c7730e
+2 _USER lzHxZUXR075JX+Fdz1xRX3zovoRi0i//73Uqgx0WbEcPzi8icddMmZmjSrWR+bwi4UHChec9IV8SEQxaD2FSig==
+3 _ENCR 1
+2 _DATE 2022-02-17 14:10:41.000
+1 _ORIG u
+1 _MSER
+2 _LKID c997e135-f609-4451-8ed1-2dae79c7730e
+1 _ATL N
+0 @O4@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 529132
+3 _WDTH 2756
+3 _HGHT 1757
+2 TITL Alexander Bond marriage to Mary Jane Withecombe
+1 RIN 31c5d71a-1eef-40e4-9269-6b95d31b8883
+1 DATE 26 Nov 1857
+1 PLAC Instow, Devon
+1 _META <metadataxml><transcription /></metadataxml>
+1 _CREA 2023-10-18 00:14:10.571
+1 _USER hQVQLCsJcX/hCknfK/iHOXqO9yCqaQkBVX3RRxDTB1BigVIECrP8wKXisnMLAsJL81D3hhVNCpuwo1I9cYMf5A==
+2 _ENCR 1
+1 _CLON
+2 _TID 9332199
+2 _PID 250050416228
+2 _OID 1ddd272d-6973-4371-9f5c-0c0224077b48
+2 _USER zToMkXOEoNzmBRNvXHrtY2rDAelPp2Ee4b8firWU3LzJcSPokMrTdZ4cYkMr+pRIKdSDZJG3olmv7CaMC5c6KA==
+3 _ENCR 1
+2 _DATE 2016-12-15 13:44:01.000
+1 _ORIG u
+1 _MSER
+2 _LKID 1ddd272d-6973-4371-9f5c-0c0224077b48
+1 _ATL N
+0 @O5@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 766735
+3 _WDTH 1668
+3 _HGHT 985
+2 TITL 23E73DDA-B11A-490C-B4F5-B053CF0B9C20
+1 RIN 34e3dee7-4765-418a-845a-bddde131c263
+1 _CREA 2023-02-18 23:43:11.844
+1 _USER 2Q1W4N7CU43NEUi+cdxmDWuACMK3wcQCxlM/781G1ZLihlkK8H9r6r0rEJeAZyVqp6ze52w6ergIhgJm/Fr96g==
+2 _ENCR 1
+1 _CLON
+2 _TID 51476142
+2 _PID 162342972730
+2 _OID 86c72f02-7552-4581-93e9-89c8ac59607e
+2 _USER Drpgsjmw567MRIXaGwMM+/OQQokI1CEkI3fw/merT3D0G3S2PoeC60jT0K8BtkLo3iDM2an7XGIwJoK7xWQxDw==
+3 _ENCR 1
+2 _DATE 2022-01-16 15:41:49.000
+1 _ORIG u
+1 _MSER
+2 _LKID 86c72f02-7552-4581-93e9-89c8ac59607e
+1 _ATL N
+0 @O6@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 773957
+3 _WDTH 1668
+3 _HGHT 1049
+2 TITL F3F6BD84-FC56-47D6-BF9B-2B73F18701EA
+1 RIN 3d5c8ca6-0fe6-4fb2-a9ca-f17334b293be
+1 _CREA 2023-02-18 23:45:46.690
+1 _USER DuD5emNAtWhT3cBSRlincRuSyq2TYX327N+0GIi0VuY4GPN6AGMY9CWPdNwuJ3b5vC2c6EKY5T0wjbflhcpx1A==
+2 _ENCR 1
+1 _CLON
+2 _TID 51476142
+2 _PID 162334841290
+2 _OID 8ed75695-a68d-4537-b47c-b24366911b56
+2 _USER F01KAvEKYi+vIf3SY5uJOvLT0wcTt20wQ7EJy6lpBJvxoVDvf8VzTfiaLfohTKz3CwUYVJAGQMbNceKNmxK5gg==
+3 _ENCR 1
+2 _DATE 2021-12-16 23:52:51.000
+1 _ORIG u
+1 _MSER
+2 _LKID 8ed75695-a68d-4537-b47c-b24366911b56
+1 _ATL N
+0 @O7@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 659409
+3 _WDTH 1668
+3 _HGHT 1097
+2 TITL EA568146-F0DF-4D87-B02A-452E356A30D7
+1 RIN 3fe4f808-c3e8-424e-9504-03055b7e20f7
+1 _CREA 2023-02-18 23:48:16.377
+1 _USER dhek813sKOmvdc1ZOargHJ+QBMybaziEj0aGQGXQzUStUNt273cppIamCmxYpHNUp3Z8xRLFiuqgwsdUVxcwjQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 51476142
+2 _PID 162334840706
+2 _OID ad7863d8-9b07-4413-8f88-7e379360133b
+2 _USER XWxKPhPhfGekTxJeI7LEvGSKUZoaRWyrxFThbhIPnNQ4n0/HB3IOg7tI6b2HDLeeA86WjnKiWlEoE9GlmXUu4g==
+3 _ENCR 1
+2 _DATE 2021-12-15 09:31:31.000
+1 _ORIG u
+1 _MSER
+2 _LKID ad7863d8-9b07-4413-8f88-7e379360133b
+1 _ATL N
+0 @O8@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 674056
+3 _WDTH 1968
+3 _HGHT 2857
+2 TITL William Bond marriage to Elizabeth Gay
+1 RIN 41ffc0b3-d4a0-433f-aa55-4fba51e22103
+1 DATE 24 July 1826
+1 PLAC Bradworthy, Devon
+1 _META <metadataxml><transcription /></metadataxml>
+1 _CREA 2023-10-18 00:14:21.897
+1 _USER 3RLtVf3NJV9HWn9N9UQyqN1gN/XoVHJoVmxoPSLTU10HHX2UfsxJ+zmoaWGpRgNDgpTmHFwFS/mzzmB1RsGZeA==
+2 _ENCR 1
+1 _CLON
+2 _TID 9332199
+2 _PID 250050409403
+2 _OID 14e55a75-3c65-4e92-ada8-db628006de15
+2 _USER okaDXxX7CGr8kj7ZX3/Nfj6XgxeHPL4SkAkKKhwNIojMuKHOLtVjxqiMZ60w5KSITSrVRmzP7UxHUTQ856FcFA==
+3 _ENCR 1
+2 _DATE 2016-12-15 12:31:10.000
+1 _ORIG u
+1 _MSER
+2 _LKID 14e55a75-3c65-4e92-ada8-db628006de15
+1 _ATL N
+0 @O9@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 664054
+3 _WDTH 1668
+3 _HGHT 1084
+2 TITL 5E7D2C55-B730-4D91-B382-15FB6FD4FA11
+1 RIN 4b91f82f-dbc8-4330-a006-47f342a59edf
+1 _CREA 2023-02-18 23:54:50.473
+1 _USER 2k1KuY4dQaA3JHskMTv++Rr/eKvfEWBLpseSJuUZOI32EuiVGY9Pi1NXSOwgg3f0YemqWTFk4pUR6fwgjV4YHw==
+2 _ENCR 1
+1 _CLON
+2 _TID 51476142
+2 _PID 162329559436
+2 _OID d8b5a068-496f-4e7f-98f5-cad2a24628da
+2 _USER 8QOkISwgADDQW1XC8pJbkpL/kb0prPQr6nhzVeB6ADFCciahCN5hH8mt9uxMIFxgAw6yVTfEfWOGvSzKA2+6Vw==
+3 _ENCR 1
+2 _DATE 2021-12-10 15:56:10.000
+1 _ORIG u
+1 _MSER
+2 _LKID d8b5a068-496f-4e7f-98f5-cad2a24628da
+1 _ATL N
+0 @O10@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE pjpeg
+3 _SIZE 28774
+3 _WDTH 585
+3 _HGHT 879
+2 TITL elias smerdon may 1926
+1 RIN 52a97d64-18b3-4f72-8fdb-d33c7f05f7c0
+1 PLAC devon
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-02-18 23:10:44.695
+1 _USER XE5qoHU9HiGke6sQxhRnUfB2xQKTBLkBE8iA9sT6Y9+9UEbabq7pSwoWIG3KhdJSzeDXdAnyhM13njQtfwzbhg==
+2 _ENCR 1
+1 _CLON
+2 _TID 29560123
+2 _PID 12270837269
+2 _OID 984c2039-441d-4732-aa59-9e5dd10cc590
+2 _USER PuJ151s0SGxBfPyn8PjlDJDgbSzyyoDCLPbGvrVVlbXoorrmQMFugh/MI/DuoArlDMExtxTweaaFA7+bgJ6tkQ==
+3 _ENCR 1
+2 _DATE 2012-05-31 19:18:02.000
+1 _ORIG u
+1 _MSER
+2 _LKID 984c2039-441d-4732-aa59-9e5dd10cc590
+1 _ATL N
+0 @O11@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 392520
+3 _WDTH 750
+3 _HGHT 647
+2 TITL 464030A7-4170-4F4C-AFD5-AEA275122DD5
+1 RIN 5c6f7aba-6bf1-41c3-b1c8-982f281f4447
+1 _DSCR Broke her hip and ended up in hospital but unfortunately passed away.
+1 _CREA 2023-02-18 23:31:06.190
+1 _USER EUBOUUTmWZTUUmNt3KLpUl9v2bvrmWjecORPSYac+fksOyV17vrNVuuf/VSae4V3AWAHbW++2TCsfUaqQPX+4Q==
+2 _ENCR 1
+1 _CLON
+2 _TID 180989416
+2 _PID 142361493877
+2 _OID 79aaf626-4631-4063-b835-d7cca2ee1d65
+2 _USER KMGVrDx27AImLexq+R1Y0WtXnKS1fgdC4G/BOfZXJsC9ORWRteScsCSvIBk01xrCBT1il7ehGZNBX+n/4eUf6w==
+3 _ENCR 1
+2 _DATE 2022-02-21 13:09:33.000
+1 _ORIG u
+1 _MSER
+2 _LKID 79aaf626-4631-4063-b835-d7cca2ee1d65
+1 _ATL N
+0 @O12@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 287949
+3 _WDTH 1668
+3 _HGHT 1144
+2 TITL CABB4119-D327-494E-9AC1-B02F7FC7A22E
+1 RIN 5eafe0b4-5b45-4b7f-8ae3-0c6f5d94c728
+1 _CREA 2023-02-18 23:28:01.625
+1 _USER ODrnOKmW1YX8XlnGFs2aMWCyUSlyJV8R0l3v7g/wHSfw8xCteyS1ag2vZcxLwKtHEXPuraf+4jYbuhJMrLy2ww==
+2 _ENCR 1
+1 _CLON
+2 _TID 51476142
+2 _PID 162334785110
+2 _OID f35cd471-97ca-4b91-8eb8-8568f44b78e0
+2 _USER CyRAP4K2WrpHfU2xIGWnb5o+8CHFJ4x+1hvip2RtiFqkhty9p9kMh6iR+tA1BqegwtNA87/zWWYN3A9nGEguZA==
+3 _ENCR 1
+2 _DATE 2021-12-16 16:36:58.000
+1 _ORIG u
+1 _MSER
+2 _LKID f35cd471-97ca-4b91-8eb8-8568f44b78e0
+1 _ATL N
+0 @O13@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 582392
+3 _WDTH 2880
+3 _HGHT 2244
+2 TITL Emma Cox (nee Pratt) 1881 England Census
+1 RIN 6f5f1789-f492-490a-bb77-1c9c057f6800
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-02-22 07:41:35.167
+1 _USER Phu1LvQn/o3IsmnOFLxOUE/8n6UTgkhU6K79BgFCEOtk9tOOrRnJZu9RyZVvS10UkEop1vOmoBU6A4fronjEpQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 170848742
+2 _PID 102243651359
+2 _OID f3ef4689-34f5-45e4-b435-a893ce8aa1e4
+2 _USER qtZjv6exKKx0yMn+oOekZwHx3kbHCWL6J9ffQs2dUUchnl7NppTPi3gFElsxUTFva0YDgrltDFNs3N5HHO/QyQ==
+3 _ENCR 1
+2 _DATE 2020-12-15 21:22:42.000
+1 _ORIG u
+1 _MSER
+2 _LKID f3ef4689-34f5-45e4-b435-a893ce8aa1e4
+1 _ATL N
+0 @O14@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 811124
+3 _WDTH 1668
+3 _HGHT 1046
+2 TITL B18FB63E-FE47-4941-942F-A6C93D35B1F4
+1 RIN 8551a90c-a1bd-4f49-9af4-fa2f88aeeb10
+1 _CREA 2023-02-18 23:51:45.437
+1 _USER /U2PL9Eih0iyGjKYDaR03B2lJTXHb9lRtwsy+/mHlQ8BlBMRg4RnZQixtwx8bjBg0tE2RlTUrsWILEkHyCcC3g==
+2 _ENCR 1
+1 _CLON
+2 _TID 51476142
+2 _PID 162335140290
+2 _OID 2ba33f43-22b9-4751-9ef4-93d40a765f99
+2 _USER 8U1t1+KmozlornNzkA3HEtvCly6xoA0RbiTL1cTmOT+fkaWCG352YTdGMIjibwjAxICyFZ2oGL+cvgHRR1n79w==
+3 _ENCR 1
+2 _DATE 2021-12-16 23:47:11.000
+1 _ORIG u
+1 _MSER
+2 _LKID 2ba33f43-22b9-4751-9ef4-93d40a765f99
+1 _ATL N
+0 @O15@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 101757
+3 _WDTH 441
+3 _HGHT 720
+2 TITL IMG_0941
+1 RIN 8b6444fd-b708-482f-9e07-b00dcfc8ec20
+1 _CREA 2023-02-18 22:56:48.698
+1 _USER UcpdPs71gvXrOokvINLtbL/DRBgo7tw9N591reU7UdsriIWGWRopcyGLf4PGppoUWtWDDfYNmPEHQZLCfApxLg==
+2 _ENCR 1
+1 _CLON
+2 _TID 102314655
+2 _PID 290015426867
+2 _OID 7662da73-ea36-40c8-bab2-8a21ed0c5199
+2 _USER lK6B6ZhXEj58BSB7IPruiKltLfQ1C8CX2aZDTF+8hKuIpXPDUbb4OOriVjGFziDkiMSbyOydEewUe5JxMghbpg==
+3 _ENCR 1
+2 _DATE 2017-12-27 13:56:24.000
+1 _ORIG u
+1 _MSER
+2 _LKID 7662da73-ea36-40c8-bab2-8a21ed0c5199
+1 _ATL N
+0 @O16@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 112716
+3 _WDTH 329
+3 _HGHT 375
+2 TITL Mary Jane Withecombe (Bond)
+1 RIN 97bcb457-e96d-436c-8462-756ba59b06c9
+1 _CREA 2023-10-18 00:14:13.484
+1 _USER 5oYMecrEACu/5bnVT6rLrGYkYA57HWEQLBCxiQhu37AseNIr48Oa+yyOFDLaC/9keRdS5nrBJhFLKxV8DpIdjA==
+2 _ENCR 1
+1 _CLON
+2 _TID 49906328
+2 _PID 27783421409
+2 _OID 46987b71-96d7-4c71-bc13-4aef62f62971
+2 _USER eC1Bfh2ktHIwVgc5uvIDNWNIvPB5vhsih7DTNNF7ChNMeZlCD6wcG6PfMGoSakpKi7nXSROkDZuTmbE7XeFB6w==
+3 _ENCR 1
+2 _DATE 2016-10-31 18:07:18.061
+1 _ORIG u
+1 _MSER
+2 _LKID 46987b71-96d7-4c71-bc13-4aef62f62971
+1 _ATL N
+0 @O17@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE pjpeg
+3 _SIZE 603665
+3 _WDTH 2996
+3 _HGHT 2236
+2 TITL Henry Russell - 1841 Census
+1 RIN 985530fe-7c36-40e5-ad36-5fb7889b2235
+1 _DSCR Henry Russell & Mary Newland lived in Newchurch with children: Maria (8), Rhoda (5), Emily (3) and Frank (6mo)
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-02-19 00:10:24.806
+1 _USER Vv3QJISSrkyEw9fzG0CQdpNDHJaVxY/MID4PQkfKvus/Ajds6A076BvvfhXgOy+oy6cMPt1jY3kgztolWZh8ag==
+2 _ENCR 1
+1 _CLON
+2 _TID 4897141
+2 _PID -1041083462
+2 _OID 0892d870-3289-4246-bd43-4efdd8d65d4c
+2 _USER QKg7txroqUsKX6VS3r2kHN7ynNf1blQaIeJoubl4jAZLhO7ljyCt0l6ZPACyXZRbO6v6KEliJatZSeN/XBZscg==
+3 _ENCR 1
+2 _DATE 2008-09-20 11:37:16.000
+1 _ORIG u
+1 _MSER
+2 _LKID 0892d870-3289-4246-bd43-4efdd8d65d4c
+1 _ATL N
+0 @O18@ OBJE
+1 FILE
+2 FORM pdf
+3 TYPE story
+3 _MTYPE story
+3 _STYPE pdf
+3 _SIZE 222300
+3 _WDTH 0
+3 _HGHT 0
+2 TITL Marriage certificate of Charles and Marie
+1 RIN 9b58f84e-45af-41ab-ba97-d18e4488040b
+1 DATE 10 Feb 1908
+1 PLAC Longford
+1 _CREA 2023-02-18 23:23:28.545
+1 _USER P3RrCPbbSBp22IGrPlA5/gcPRslN0D9viHRMjGSdsLCj5WTV1jg6epRVz5qEOuA0AkTSjhw78C30YE5tA4sGYA==
+2 _ENCR 1
+1 _CLON
+2 _TID 84143630
+2 _PID 322228344775
+2 _OID 7091f787-b5f9-43f9-a36f-4fa667f2ec35
+2 _USER VPhsPJWbskDB4ewdQ1tna9g82rruUCPqWBxPkM6J4r95yQVQ6crGc12Gv+KKJ+vg/t2oACHpTLX9fBkJKn0cQA==
+3 _ENCR 1
+2 _DATE 2020-09-10 13:07:10.000
+1 _ORIG u
+1 _MSER
+2 _LKID 7091f787-b5f9-43f9-a36f-4fa667f2ec35
+1 _ATL N
+0 @O19@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 571731
+3 _WDTH 2926
+3 _HGHT 1888
+2 TITL James Bond marriage to Ann Smale
+1 RIN 9eecabd3-de7e-4e35-8546-fb2b22ddcbae
+1 DATE 29 Sept 1850
+1 PLAC Bradworthy, Devon
+1 _META <metadataxml><transcription /></metadataxml>
+1 _CREA 2023-10-18 00:13:52.835
+1 _USER 2bs8stW8tpXESVkOFa15QkMlkxHpHzfK8JwO+ltPqLyPcTUJQTmzI3nxN7TVEQdVY0HsRMnq0rIrjTfg8hyp6A==
+2 _ENCR 1
+1 _CLON
+2 _TID 9332199
+2 _PID 250050409395
+2 _OID bbab04c6-7ca4-41f0-aec7-c6afcfd12970
+2 _USER Eq2lechPWTQVqXAR2AzJaZCjvBponf+jEcZZwNiDkSlzHrFGWg316U20/D1xDDjrK2DxxVKqdaoFyeQXQTqqSg==
+3 _ENCR 1
+2 _DATE 2016-12-15 12:59:46.000
+1 _ORIG u
+1 _MSER
+2 _LKID bbab04c6-7ca4-41f0-aec7-c6afcfd12970
+1 _ATL N
+0 @O20@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 154689
+3 _WDTH 750
+3 _HGHT 789
+2 TITL peggy ann mag mary
+1 RIN 9f0150dc-436e-42a0-9b6c-bca5b7c51aac
+1 _CREA 2023-02-18 23:23:34.235
+1 _USER gio6GdGafLkhPhSkxLcWHgWKF7fIDRqUAv4RaQOcuvc7YG/HSFA2471iVN5fNZWJpo/RVWNzEo6I1oiphc1WGg==
+2 _ENCR 1
+1 _CLON
+2 _TID 180989416
+2 _PID 142361493877
+2 _OID 0fa85a42-d05d-49c5-8de0-6a0ab914b8e7
+2 _USER Jbywl9WAL3KcKQSR79gj/HnImVG9XP3HMEMW/4Qo97ZKeyzRil7hNiaoeFBUPvpwL10K1BZq8SijUcnsZyz6Ew==
+3 _ENCR 1
+2 _DATE 2022-02-17 14:09:56.000
+1 _ORIG u
+1 _MSER
+2 _LKID 0fa85a42-d05d-49c5-8de0-6a0ab914b8e7
+1 _ATL N
+0 @O21@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 530783
+3 _WDTH 1440
+3 _HGHT 900
+2 TITL A52BA795-36BC-4BB8-BA59-060A26C05D2F
+1 RIN a341e953-5e29-4913-9f88-fcef23f36ac2
+1 _CREA 2023-02-18 23:37:33.266
+1 _USER LxMtGIQHPGr6fE0L0hK26kRpKByexc/hUZOSmmHcMxjlBiUXz/IlFwI1BCeqfrhD0DO90q/p7Hfv/eRwQl1h5g==
+2 _ENCR 1
+1 _CLON
+2 _TID 51476142
+2 _PID 162306574091
+2 _OID d2cfea04-7a4e-47ec-8932-a44577f10ee8
+2 _USER ZIXyXb+iqbWcRU3M9PLfZHtjiU1bI1KQO1NgV1aLdPg5Q9H9m+RtzuuT32wdKbTXu/pUDlc9Ql9+I4uaQnnmUA==
+3 _ENCR 1
+2 _DATE 2021-08-03 22:06:15.000
+1 _ORIG u
+1 _MSER
+2 _LKID d2cfea04-7a4e-47ec-8932-a44577f10ee8
+1 _ATL N
+0 @O22@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 716843
+3 _WDTH 2889
+3 _HGHT 2074
+2 TITL Frederick Hugh Eveleigh 1891 England Census
+1 RIN a3d2a7cb-f324-4106-8cd5-f13ad17bc42b
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-02-22 07:51:15.590
+1 _USER y/dKe96d2yjUGcE4HP7airk/FimKvhfWF9Rnu8zjLKZzRKjUxNjDCX3DqPZTX/RZJwaAFl2VBUnoidJpnM0oIA==
+2 _ENCR 1
+1 _CLON
+2 _TID 170848742
+2 _PID 102243486196
+2 _OID 36a0464b-b9c8-45bc-8376-dbaedbc03d2c
+2 _USER mnVvYINMMOosyhnZxpMlD511bov2F/ttbi/0nelsHNB5NPO0j0xwLpGPxGJ2xLP+asVD54Ay36A+nP5ZkN22ww==
+3 _ENCR 1
+2 _DATE 2020-12-14 23:21:31.000
+1 _ORIG u
+1 _MSER
+2 _LKID 36a0464b-b9c8-45bc-8376-dbaedbc03d2c
+1 _ATL N
+0 @O23@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 713707
+3 _WDTH 2133
+3 _HGHT 3382
+2 TITL Emma Eveleigh (nee Cox) Will 1932
+1 RIN a669153f-034d-4389-b9bf-97bb3e12f641
+1 _META <metadataxml><transcription></transcription></metadataxml>
+1 _CREA 2023-02-18 23:09:12.733
+1 _USER Fh7YpzNj4ATYAvchnhN8qApaijdy6co2GR6wTut3+MCd9zUTdJOr33k74k+huOM+jOtVyHS6wOj6FLSKfbXkWw==
+2 _ENCR 1
+1 _CLON
+2 _TID 170848742
+2 _PID 102212880753
+2 _OID ad97a0bc-160f-476b-8f4a-f795e5d9254e
+2 _USER EkWG0+jzB1C5x5icZ6dRJE5+zb2Gj+nwE5kzkU0VGNmkaWjTsWA2H5sSTjGbeMgvyK7YuL8dGTbY95tMxyH0dg==
+3 _ENCR 1
+2 _DATE 2020-12-14 17:56:26.000
+1 _ORIG u
+1 _MSER
+2 _LKID ad97a0bc-160f-476b-8f4a-f795e5d9254e
+1 _ATL N
+0 @O24@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 47496
+3 _WDTH 211
+3 _HGHT 253
+2 TITL Henrietta Ellen Bond c1930
+1 RIN a669cac2-a10b-4de8-ac5d-bdc7a182c084
+1 _CREA 2023-10-18 00:11:02.307
+1 _USER YrMczlestywWsMpc3+VrK/ZXusvxwwXg1dhpjSFv8g9cH7cRq5Dkn+b6eHtR/wKCfB1Op3PUC4l5r6TpsTSOeQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 49906328
+2 _PID 27783421192
+2 _OID 7ab61fc4-a058-442f-8521-87d0fdf05087
+2 _USER pW0I3ajARewjpvSm1rSQK5WW7o0g4JY8n4m8jEcLaxgR3OWOG24N6478/52ifUMWI5OufWgK55qQZZw5/gppEQ==
+3 _ENCR 1
+2 _DATE 2016-10-31 17:15:55.000
+1 _ORIG u
+1 _MSER
+2 _LKID 7ab61fc4-a058-442f-8521-87d0fdf05087
+1 _ATL N
+0 @O25@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 717980
+3 _WDTH 1595
+3 _HGHT 1079
+2 TITL 1891 census
+1 RIN bb5975c3-810c-466e-98b5-f5844e0a34e8
+1 _CREA 2023-02-18 23:55:44.144
+1 _USER RMpOqxDZusdD+Na1cE9uRbeXoJFtkd+9EDCsiR8pc0BqsB8/v4QQi1MBntbQ+r1yGgbt7nrlEivTS+TK5f+PHA==
+2 _ENCR 1
+1 _CLON
+2 _TID 51476142
+2 _PID 162329559436
+2 _OID 556fcd9f-458f-431a-89a9-554b1baa78c3
+2 _USER +3oQQCj4etmLk+m8CuH7avnBiZQNaEX2nbV6NJs/1icczoHuOMiQ5PvKJFIbocrY4WB6NOVSg+ClMCGrLtYq2Q==
+3 _ENCR 1
+2 _DATE 2022-03-14 11:01:14.000
+1 _ORIG u
+1 _MSER
+2 _LKID 556fcd9f-458f-431a-89a9-554b1baa78c3
+1 _ATL N
+0 @O26@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 646077
+3 _WDTH 1668
+3 _HGHT 1069
+2 TITL 8FFC7F12-CA5C-4948-B05A-9A2FB00BF902
+1 RIN ef0e9638-abab-4d14-b028-49b1c6353d92
+1 _CREA 2023-02-18 23:31:37.413
+1 _USER L1oYWUCZky785uhfRJoxNf5r2/8YFXO06qDBu8Uu1Afg+cywVsidy9SESwov58dHsEHMdyCc11ypb1ckosaQfA==
+2 _ENCR 1
+1 _CLON
+2 _TID 51476142
+2 _PID 162293725562
+2 _OID 31daf992-c2bf-4d6a-937c-b70c4dfd69ee
+2 _USER wdFawJ8A6fh1xxn2fkx/KCfnB5N1DrVK7anYalCpQQXLbBanybf1mZo+H8adDF66paKWVE64G1um2Izcl87nsA==
+3 _ENCR 1
+2 _DATE 2021-10-05 14:18:22.000
+1 _ORIG u
+1 _MSER
+2 _LKID 31daf992-c2bf-4d6a-937c-b70c4dfd69ee
+1 _ATL N
+0 @O27@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 594575
+3 _WDTH 750
+3 _HGHT 976
+2 TITL AC21C008-79D2-4A50-923C-58320CA4DD09
+1 RIN efec9bc6-0f4d-4e3e-a107-9b56a635a2d8
+1 _DSCR Think this is similar to house they lived in, area is now being renovated. Some houses have been demolished
+1 _CREA 2023-02-18 23:22:57.067
+1 _USER 8rRTjjAl/e4ESHPiRI+YpRpt8mstozuly8pj+YZrkFMWUV/0PCT+M0rfj7eYg5IztOga+OtELOClOBy4BKV1Bg==
+2 _ENCR 1
+1 _CLON
+2 _TID 180989416
+2 _PID 142361493877
+2 _OID 201c3e4c-dfb0-4764-95d4-b5f9c87314a5
+2 _USER nLEFHBMlUms2JBjhtKHC/Qogy/3+8we/Pk/JIQkVMWStUo7DXIrjfX80PXiUtCAhuGjYl9tS7W5zXf/eFKNaeQ==
+3 _ENCR 1
+2 _DATE 2022-02-21 13:10:14.000
+1 _ORIG u
+1 _MSER
+2 _LKID 201c3e4c-dfb0-4764-95d4-b5f9c87314a5
+1 _ATL N
+0 @S1641355786@ SOUR
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+1 _APID 1,1030::0
+1 REPO @R1555510752@
+0 @S1641356906@ SOUR
+1 TITL 1861 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2005
+2 PLAC Lehi, UT, USA
+1 _APID 1,8767::0
+1 REPO @R1555510752@
+1 NOTE &lt;i&gt;Census Returns of England and Wales, 1861&lt;/i&gt;. Kew, Surrey, England: The National Archives of the UK (TNA): Public Record Office (PRO), 1861. Data imaged from The National Archives, London, England. The National Archives gives no war
+2 CONC ranty as to the accuracy, completeness or fitness for the purpose of the information provided. Images may be used only for purposes of research, private study or education. Applications for any other use should be made to The National Archives, Kew
+2 CONC , Richmond, Surrey TW9 4DU.
+0 @S1641357929@ SOUR
+1 TITL Web: Ireland, Census, 1901
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2013
+2 PLAC Provo, UT, USA
+1 _APID 1,70667::0
+1 REPO @R1555510752@
+1 NOTE &lt;i&gt;Census of Ireland 1901/1911&lt;/i&gt;. The National Archives of Ireland. http://www.census.nationalarchives.ie/search/: accessed 31 May 2013.
+0 @S1641362578@ SOUR
+1 TITL England & Wales Marriages, 1538-1988
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2008
+2 PLAC Provo, UT, USA
+1 _APID 1,1352::0
+1 REPO @R1555510752@
+1 NOTE Genealogical Society of Utah. &lt;i&gt;British Isles Vital Records Index, 2nd Edition&lt;/i&gt;. Salt Lake City, Utah: Intellectual Reserve, copyright 2002. Used by permission.
+0 @S1641363498@ SOUR
+1 TITL 1911 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2011
+2 PLAC Provo, UT, USA
+1 _APID 1,2352::0
+1 REPO @R1555510752@
+1 NOTE &lt;i&gt;Census Returns of England and Wales, 1911&lt;/i&gt;. Kew, Surrey, England: The National Archives of the UK (TNA) Series RG14, 1911. &lt;p&gt;Data imaged from the National Archives, London, England. The National Archives gives no warranty a
+2 CONC s to the accuracy, completeness or fitness for the purpose of the information provided. Images may be used only for purposes of research, private study or education. Applications for any other use should be made to the National Archives, Kew, Richm
+2 CONC ond, Surrey TW9 4DU.&lt;/p&gt;
+0 @S1641363591@ SOUR
+1 TITL England, Select Births and Christenings, 1538-1975
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2014
+2 PLAC Provo, UT, USA
+1 _APID 1,9841::0
+1 REPO @R1555510752@
+1 NOTE &lt;i&gt;England, Births and Christenings, 1538-1975&lt;/i&gt;. Salt Lake City, Utah: FamilySearch, 2013.
+0 @S1641363871@ SOUR
+1 TITL England & Wales, Civil Registration Marriage Index, 1916-2005
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,8753::0
+1 REPO @R1555510752@
+1 NOTE General Register Office. &lt;i&gt;England and Wales Civil Registration Indexes&lt;/i&gt;. London, England: General Register Office. © Crown copyright. Published by permission of the Controller of HMSO and the Office for National Statistics. You mus
+2 CONC t not copy on, transfer or reproduce records without the prior permission of ONS. Indexes created by the General Register Office, in London, England.
+0 @S1641364202@ SOUR
+1 TITL England, Select Marriages, 1538-1973
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2014
+2 PLAC Lehi, UT, USA
+1 _APID 1,9852::0
+1 REPO @R1555510752@
+1 NOTE &lt;i&gt;England, Marriages, 1538–1973&lt;/i&gt;. Salt Lake City, Utah: FamilySearch, 2013.
+0 @S1641614443@ SOUR
+1 TITL 1891 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2005
+2 PLAC Provo, UT, USA
+1 _APID 1,6598::0
+1 REPO @R1555510752@
+1 NOTE &lt;i&gt;Census Returns of England and Wales, 1891&lt;/i&gt;. Kew, Surrey, England: The National Archives of the UK (TNA): Public Record Office (PRO), 1891. &lt;p&gt;Data imaged from The National Archives, London, England.  2,131 rolls. The Nationa
+2 CONC l Archives gives no warranty as to the accuracy, completeness or fitness for the purpose of the information provided.  Images may be used only for purposes of research, private study or education.  Applications for any other use should be made to T
+2 CONC he National Archives, Kew, Richmond, Surrey TW9 4DU.&lt;/p&gt;
+0 @S1641614705@ SOUR
+1 TITL England & Wales, Civil Registration Birth Index, 1837-1915
+1 AUTH FreeBMD
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2006
+2 PLAC Lehi, UT, USA
+1 _APID 1,8912::0
+1 REPO @R1555510752@
+1 NOTE General Register Office. &lt;i&gt;England and Wales Civil Registration Indexes&lt;/i&gt;. London, England: General Register Office. © Crown copyright. Published by permission of the Controller of HMSO and the Office for National Statistics. You mus
+2 CONC t not copy on, transfer or reproduce records without the prior permission of ONS. Database Copyright © 1998-2003 Graham Hart, Ben Laurie, Camilla von Massenbach and David Mayall.
+0 @S1641615060@ SOUR
+1 TITL 1901 Wales Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2005
+2 PLAC Provo, UT, USA
+1 _APID 1,7815::0
+1 REPO @R1555510752@
+0 @S1641615081@ SOUR
+1 TITL Glamorganshire, Wales, Anglican Baptisms, Marriages and Burials, 1570-1994
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2020
+2 PLAC Lehi, UT, USA
+1 _APID 1,62105::0
+1 REPO @R1555510752@
+1 NOTE &lt;i&gt;Glamorgan Baptisms, Marriages and Burials&lt;/i&gt;. Wales: Archives and Records Council Wales.
+0 @S1641615121@ SOUR
+1 TITL England & Wales, Civil Registration Marriage Index, 1837-1915
+1 AUTH FreeBMD
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2006
+2 PLAC Provo, UT, USA
+1 _APID 1,8913::0
+1 REPO @R1555510752@
+1 NOTE General Register Office. &lt;i&gt;England and Wales Civil Registration Indexes&lt;/i&gt;. London, England: General Register Office. © Crown copyright. Published by permission of the Controller of HMSO and the Office for National Statistics. You mus
+2 CONC t not copy on, transfer or reproduce records without the prior permission of ONS. Database Copyright © 1998-2003 Graham Hart, Ben Laurie, Camilla von Massenbach and David Mayall.
+0 @S1646689728@ SOUR
+1 TITL Australia and New Zealand, Find a Grave® Index, 1800s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2012
+2 PLAC Lehi, UT, USA
+1 _APID 1,60528::0
+1 REPO @R1555510752@
+1 NOTE &lt;i&gt;Find a Grave&lt;/i&gt;. Find a Grave®. http://www.findagrave.com/cgi-bin/fg.cgi.
+0 @S1651803610@ SOUR
+1 TITL England & Wales, Civil Registration Death Index, 1916-2007
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc.
+2 DATE 2007
+2 PLAC Provo, UT, USA
+1 _APID 1,7579::0
+1 REPO @R1555510752@
+1 NOTE General Register Office. &lt;i&gt;England and Wales Civil Registration Indexes&lt;/i&gt;. London, England: General Register Office. © Crown copyright. Published by permission of the Controller of HMSO and the Office for National Statistics. You mus
+2 CONC t not copy on, transfer or reproduce records without the prior permission of ONS. Indexes created by the General Register Office, in London, England.
+0 @S1651804134@ SOUR
+1 TITL 1881 England Census
+1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Saints
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2004
+2 PLAC Provo, UT, USA
+1 _APID 1,7572::0
+1 REPO @R1555510752@
+1 NOTE &lt;i&gt;Census Returns of England and Wales, 1881&lt;/i&gt;. Kew, Surrey, England: The National Archives of the UK (TNA): Public Record Office (PRO), 1881. &lt;p&gt;Images © Crown copyright. Images reproduced by courtesy of The National Archives
+2 CONC , London, England.&lt;/p&gt;     &lt;p&gt;The National Archives give no warranty as to the accuracy, completeness or fitness for the purpose of the information provided.&lt;/p&gt;     &lt;p&gt;Images may be used only for purposes of research, priva
+2 CONC te study or education.  Applications for any other use should be made to &lt;a href="http://www.nationalarchives.gov.uk/imagelibrary/" target="_blank"&gt;The National Archives Image Library&lt;/a&gt;, Kew, Richmond, Surrey TW9 4DU, Tel: 020 8392 52
+2 CONC 25   Fax: 020 8392 5266.&lt;/p&gt;
+0 @S1651804146@ SOUR
+1 TITL 1901 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2005
+2 PLAC Provo, UT, USA
+1 _APID 1,7814::0
+1 REPO @R1555510752@
+1 NOTE &lt;i&gt;Census Returns of England and Wales, 1901&lt;/i&gt;. Kew, Surrey, England: The National Archives, 1901. Data imaged from the National Archives, London, England. The National Archives gives no warranty as to the accuracy, completeness or fi
+2 CONC tness for the purpose of the information provided. Images may be used only for purposes of research, private study or education. Applications for any other use should be made to the National Archives, Kew, Richmond, Surrey TW9 4DU.
+0 @S1651804276@ SOUR
+1 TITL Geneanet Community Trees Index
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2022
+2 PLAC Lehi, UT, USA
+1 _APID 1,62476::0
+1 REPO @R1555510752@
+0 @S1651804282@ SOUR
+1 TITL England & Wales, Christening Index, 1530-1980
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2008
+2 PLAC Provo, UT, USA
+1 _APID 1,1351::0
+1 REPO @R1555510752@
+1 NOTE Genealogical Society of Utah. &lt;i&gt;British Isles Vital Records Index, 2nd Edition&lt;/i&gt;. Salt Lake City, Utah: Intellectual Reserve, copyright 2002. Used by permission.
+0 @S1654518069@ SOUR
+1 TITL 1939 England and Wales Register
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2018
+2 PLAC Lehi, UT, USA
+1 _APID 1,61596::0
+1 REPO @R1555510752@
+1 NOTE Crown copyright images reproduced by courtesy of TNA, London England. 1939 Register (Series RG101), The National Archives, Kew, London, England.
+2 CONT 
+2 CONT The National Archives give no warranty as to the accuracy, completeness or fitness for the purpose of the information provided. Images may be used only for purposes of research, private study or education. Applications for any other use should be m
+2 CONC ade to The National Archives Image Library, Kew, Richmond, Surrey TW9 4DU, Tel: 020 8392 5225. Fax: 020 8392 5266.
+0 @R1555510752@ REPO
+1 NAME Ancestry.com
+0 TRLR

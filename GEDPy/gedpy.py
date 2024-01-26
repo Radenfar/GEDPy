@@ -76,6 +76,12 @@ class GEDPy:
                 count += 1
         self.data = self.data[count:] # remove the header from the data
         return header
+    
+    
+    def __process_records(self, tree_name: str) -> None:
+        '''Process the records of the GEDCOM file.'''
+        for line in self.data:
+            ...
 
 
     def load(self, filename: str) -> None:
@@ -94,8 +100,10 @@ class GEDPy:
             print(e)
             raise Exception
         header = self.__process_header()
-        filename = filename.split('\\')[-1].split('/')[-1].split('.')[0]
-        self.trees[filename] = Tree(header)
+        treename = filename.split('\\')[-1].split('/')[-1].split('.')[0]
+        self.trees[treename] = Tree(header)
+        self.__process_records(treename)
+
     
 
     def write(self, tree) -> None:

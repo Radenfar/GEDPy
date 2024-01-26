@@ -1,0 +1,313 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2023.12
+2 _TREE Passaro Family Tree
+3 RIN 194642961
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 14 Dec 2023
+2 TIME 07:28:05
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I432548197971@ INDI
+1 NAME Shannon /Passaro/
+2 GIVN Shannon
+2 SURN Passaro
+1 SEX F
+1 FAMC @F1@
+1 BIRT
+2 DATE 1997
+2 PLAC Cwmbran, Monmouthshire, Wales
+0 @I432548197972@ INDI
+1 NAME Fabio /Passaro/
+2 GIVN Fabio
+2 SURN Passaro
+2 SOUR @S1756855408@
+3 PAGE General Register Office; United Kingdom; Volume: 837; Page: 441
+3 _APID 1,8753::14115059
+2 SOUR @S1756856114@
+3 PAGE General Register Office; United Kingdom; Reference: Volume 8c, Page 1811
+3 _APID 1,8782::47329155
+1 SEX M
+1 FAMS @F1@
+1 BIRT
+2 DATE 27 May 1970
+2 PLAC Pontypool, Gwent
+2 SOUR @S1756856114@
+3 PAGE General Register Office; United Kingdom; Reference: Volume 8c, Page 1811
+3 _APID 1,8782::47329155
+1 DEAT
+2 DATE 10 Oct 2022
+2 PLAC Newport, Monmouthshire, Wales
+0 @I432548198087@ INDI
+1 NAME Carol /Miles/
+2 GIVN Carol
+2 SURN Miles
+2 SOUR @S1756855408@
+3 _APID 1,8753::14071422
+1 SEX F
+1 FAMC @F2@
+1 FAMS @F1@
+1 BIRT
+2 DATE 30 Jul
+0 @I432548198440@ INDI
+1 NAME Kira Louise /Passaro/
+2 GIVN Kira Louise
+2 SURN Passaro
+1 SEX F
+1 FAMC @F1@
+1 FAMS @F5@
+0 @I432548198570@ INDI
+1 NAME Michael /Roosmalen/
+2 GIVN Michael
+2 SURN Roosmalen
+1 SEX M
+1 FAMS @F5@
+0 @I432548198595@ INDI
+1 NAME Zachary /Roosmalen/
+2 GIVN Zachary
+2 SURN Roosmalen
+1 SEX M
+1 FAMC @F5@
+1 BIRT
+2 DATE 23 Oct 2022
+0 @I432548198758@ INDI
+1 NAME Kyle /Passaro/
+2 GIVN Kyle
+2 SURN Passaro
+1 SEX M
+1 FAMC @F1@
+1 BIRT
+2 DATE 2 Jun 2002
+2 PLAC Blaenau Gwent, Wales
+0 @I432548201170@ INDI
+1 NAME Richard Alan /Miles/
+2 GIVN Richard Alan
+2 SURN Miles
+2 SOUR @S1756855408@
+3 PAGE General Register Office; United Kingdom; Volume: 8c; Page: 176
+3 _APID 1,8753::43261502
+2 SOUR @S1756856114@
+3 PAGE General Register Office; United Kingdom; Reference: Volume 11a, Page 141
+3 _APID 1,8782::28181086
+1 SEX M
+1 FAMC @F3@
+1 FAMS @F2@
+1 BIRT
+2 DATE Apr 1945
+2 PLAC Bedwellty, Monmouthshire
+2 SOUR @S1756856114@
+3 PAGE General Register Office; United Kingdom; Reference: Volume 11a, Page 141
+3 _APID 1,8782::28181086
+1 OBJE @O2@
+2 _PRIM Y
+0 @I432548201284@ INDI
+1 NAME Christine /Vincent/
+2 GIVN Christine
+2 SURN Vincent
+2 SOUR @S1756855408@
+3 PAGE General Register Office; United Kingdom; Volume: 8c; Page: 176
+3 _APID 1,8753::43318080
+2 SOUR @S1756856114@
+3 PAGE General Register Office; United Kingdom; Reference: Volume 8b, Page 453
+3 _APID 1,8782::22299812
+1 SEX F
+1 FAMC @F4@
+1 FAMS @F2@
+1 BIRT
+2 DATE 14 May 1949
+2 PLAC Bargoed, Glamorgan, Wales
+2 SOUR @S1756856114@
+3 PAGE General Register Office; United Kingdom; Reference: Volume 8b, Page 453
+3 _APID 1,8782::22299812
+1 DEAT
+2 DATE 26 Jan 2015
+1 OBJE @O1@
+2 _PRIM Y
+0 @I432548208046@ INDI
+1 NAME Ceinwen May /Davey/
+2 GIVN Ceinwen May
+2 SURN Davey
+2 SOUR @S1756855408@
+3 PAGE General Register Office; United Kingdom; Volume: 11a; Page: 2589
+3 _APID 1,8753::56833435
+2 SOUR @S1756859602@
+3 _APID 1,1904::21196739
+1 SEX F
+1 FAMS @F4@
+1 DEAT
+2 DATE 19 Dec 1991
+2 PLAC Deri Mid Glam
+2 SOUR @S1756859602@
+3 _APID 1,1904::21196739
+1 PROB
+2 DATE 29 Jan 1992
+2 PLAC Llandaff
+2 SOUR @S1756859602@
+3 _APID 1,1904::21196739
+0 @I432548208499@ INDI
+1 NAME /Collins/
+2 SURN Collins
+1 SEX F
+1 FAMS @F3@
+0 @I432548208506@ INDI
+1 NAME /Miles/
+2 SURN Miles
+1 SEX M
+1 FAMS @F3@
+0 @I432548211178@ INDI
+1 NAME William John /Vincent/
+2 GIVN William John
+2 SURN Vincent
+2 SOUR @S1756855408@
+3 PAGE General Register Office; United Kingdom; Volume: 11a; Page: 2589
+3 _APID 1,8753::57021828
+2 SOUR @S1756859577@
+3 PAGE General Register Office; United Kingdom
+3 _APID 1,7579::1246528
+2 SOUR @S1756859602@
+3 _APID 1,1904::23040702
+1 SEX M
+1 FAMS @F4@
+1 BIRT
+2 DATE 17 Jan 1914
+2 SOUR @S1756859577@
+3 PAGE General Register Office; United Kingdom
+3 _APID 1,7579::1246528
+1 DEAT
+2 DATE 22 Aug 1994
+2 PLAC Merthyr Tydfil, Mid Glamorgan, Wales
+2 SOUR @S1756859577@
+3 PAGE General Register Office; United Kingdom
+3 _APID 1,7579::1246528
+2 SOUR @S1756859602@
+3 _APID 1,1904::23040702
+1 PROB
+2 DATE 7 Dec 1994
+2 PLAC Llandaff
+2 SOUR @S1756859602@
+3 _APID 1,1904::23040702
+0 @F1@ FAM
+1 HUSB @I432548197972@
+1 WIFE @I432548198087@
+1 CHIL @I432548197971@
+1 CHIL @I432548198758@
+1 CHIL @I432548198440@
+1 MARR
+2 DATE 2001
+2 PLAC Torfaen, Gwent, United Kingdom
+2 SOUR @S1756855408@
+3 PAGE General Register Office; United Kingdom; Volume: 837; Page: 441
+3 _APID 1,8753::14115059
+0 @F2@ FAM
+1 HUSB @I432548201170@
+1 WIFE @I432548201284@
+1 CHIL @I432548198087@
+1 MARR
+2 DATE Oct 1966
+2 PLAC Bedwellty, Monmouthshire, United Kingdom
+2 SOUR @S1756855408@
+3 PAGE General Register Office; United Kingdom; Volume: 8c; Page: 176
+3 _APID 1,8753::43318080
+0 @F3@ FAM
+1 HUSB @I432548208506@
+1 WIFE @I432548208499@
+1 CHIL @I432548201170@
+0 @F4@ FAM
+1 HUSB @I432548211178@
+1 WIFE @I432548208046@
+1 CHIL @I432548201284@
+1 MARR
+2 DATE Jul 1940
+2 PLAC East Glamorgan, Glamorganshire, United Kingdom
+2 SOUR @S1756855408@
+3 PAGE General Register Office; United Kingdom; Volume: 11a; Page: 2589
+3 _APID 1,8753::56833435
+0 @F5@ FAM
+1 HUSB @I432548198570@
+1 WIFE @I432548198440@
+1 CHIL @I432548198595@
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 30295
+3 _WDTH 267
+3 _HGHT 438
+2 TITL passaro miles parents mum
+1 RIN 8b78b8c5-92db-486d-ad77-9858fb1556f4
+1 _CREA 2023-12-09 03:23:30.749
+1 _USER F1PUWDfp+5ZhGYXoooba7zjwH5a9gas4lY6l7ITuTg+O5XozU7qRAJkyp/Hucjsy74n0kHTAkWi39+ednI15kA==
+2 _ENCR 1
+1 _ORIG acom
+1 _MSER
+2 _LKID 8b78b8c5-92db-486d-ad77-9858fb1556f4
+1 _ATL N
+0 @O2@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 37042
+3 _WDTH 318
+3 _HGHT 418
+2 TITL passaro miles dad
+1 RIN f302cba1-67dc-4b42-a7eb-11524a56b049
+1 _CREA 2023-12-09 03:23:12.822
+1 _USER cTR61CpEZTPFHg52wUhaFzlW8906IaO/FwYyGlqpRJD2cfyo28pGo2hGvk5sg+YW0gla2CzZu1e5yXGVKK1sSA==
+2 _ENCR 1
+1 _ORIG acom
+1 _MSER
+2 _LKID f302cba1-67dc-4b42-a7eb-11524a56b049
+1 _ATL N
+0 @S1756855408@ SOUR
+1 TITL England & Wales, Civil Registration Marriage Index, 1916-2005
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,8753::0
+1 REPO @R1655635995@
+1 NOTE General Register Office. &lt;i&gt;England and Wales Civil Registration Indexes&lt;/i&gt;. London, England: General Register Office. © Crown copyright. Published by permission of the Controller of HMSO and the Office for National Statistics. You mus
+2 CONC t not copy on, transfer or reproduce records without the prior permission of ONS. Indexes created by the General Register Office, in London, England.
+0 @S1756856114@ SOUR
+1 TITL England & Wales, Civil Registration Birth Index, 1916-2007
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2008
+2 PLAC Provo, UT, USA
+1 _APID 1,8782::0
+1 REPO @R1655635995@
+0 @S1756859577@ SOUR
+1 TITL England & Wales, Civil Registration Death Index, 1916-2007
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc.
+2 DATE 2007
+2 PLAC Provo, UT, USA
+1 _APID 1,7579::0
+1 REPO @R1655635995@
+0 @S1756859602@ SOUR
+1 TITL England & Wales, National Probate Calendar (Index of Wills and Administrations), 1858-1995
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,1904::0
+1 REPO @R1655635995@
+0 @R1655635995@ REPO
+1 NAME Ancestry.com
+0 TRLR

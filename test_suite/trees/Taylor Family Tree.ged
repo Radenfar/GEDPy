@@ -1,0 +1,1522 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2022.08
+2 _TREE Taylor Family Tree
+3 RIN 193997404
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 4 Nov 2023
+2 TIME 06:22:50
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I102523665354@ INDI
+1 NAME Edward /Taylor/
+2 GIVN Edward
+2 SURN Taylor
+1 SEX M
+1 FAMC @F2@
+1 FAMS @F11@
+1 BIRT
+2 DATE Bef. 1943
+2 PLAC New Zealand
+0 @I102523665355@ INDI
+1 NAME Iris /Kavanagh/
+2 GIVN Iris
+2 SURN Kavanagh
+1 SEX F
+1 FAMS @F11@
+0 @I102523665404@ INDI
+1 NAME Edward Joseph /Taylor/
+2 GIVN Edward Joseph
+2 SURN Taylor
+1 SEX M
+1 FAMC @F16@
+1 FAMS @F2@
+1 BIRT
+2 DATE 25 Nov 1914
+2 PLAC Timaru, Canterbury, New Zealand
+1 DEAT
+2 DATE 26 May 1998
+2 PLAC Hamilton, Waikato, New Zealand
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 112172524604:1030:108326313
+2 _APID 270135363918:1030:114952623
+0 @I102523665433@ INDI
+1 NAME Irene Estelle /Parker/
+2 GIVN Irene Estelle
+2 SURN Parker
+1 SEX F
+1 FAMC @F3@
+1 FAMS @F2@
+1 BIRT
+2 DATE 4 Apr 1917
+2 PLAC Christchurch, Canterbury, New Zealand
+1 DEAT
+2 DATE 18 Aug 1991
+2 PLAC Hamilton, Waikato, New Zealand
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 112172524499:1030:108326313
+2 _APID 270135363919:1030:114952623
+0 @I102523665469@ INDI
+1 NAME Edward Edgar /Taylor/
+2 GIVN Edward Edgar
+2 SURN Taylor
+1 SEX M
+1 FAMC @F22@
+1 FAMS @F16@
+1 BIRT
+2 DATE 24 May 1886
+2 PLAC Christchurch, Canterbury, New Zealand
+1 DEAT
+2 DATE 13 Sep 1961
+2 PLAC Christchurch, Canterbury, New Zealand
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 270135363680:1030:114952623
+0 @I102523665471@ INDI
+1 NAME Emma Margaret /Gobbe/
+2 GIVN Emma Margaret
+2 SURN Gobbe
+1 SEX F
+1 FAMC @F18@
+1 FAMS @F16@
+1 BIRT
+2 DATE 23 May 1890
+2 PLAC Ashburton, South Canterbury, New Zealand
+1 DEAT
+2 DATE 10 Jun 1980
+2 PLAC Christchurch, Canterbury, New Zealand
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 270135363630:1030:114952623
+0 @I102523665472@ INDI
+1 NAME Hazel Emma /Taylor/
+2 GIVN Hazel Emma
+2 SURN Taylor
+1 SEX F
+1 FAMC @F16@
+1 BIRT
+2 DATE 14 Nov 1916
+2 PLAC Timaru, South Canterbury, New Zealand
+1 DEAT
+2 DATE 25 Sep 1989
+2 PLAC Christchurch, Canterbury, New Zealand
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 270135363924:1030:114952623
+0 @I102523665518@ INDI
+1 NAME Alfred Harry /Parker/
+2 GIVN Alfred Harry
+2 SURN Parker
+1 SEX M
+1 FAMC @F14@
+1 FAMS @F3@
+1 BIRT
+2 DATE 22 Sep 1882
+2 PLAC Kaiapoi, Canterbury, New Zealand
+1 DEAT
+2 DATE 11 May 1970
+2 PLAC Whitianga, Auckland, New Zealand
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 112172524293:1030:108326313
+0 @I102523665519@ INDI
+1 NAME Ivy Gertrude /Major/
+2 GIVN Ivy Gertrude
+2 SURN Major
+1 SEX F
+1 FAMC @F12@
+1 FAMS @F3@
+1 BIRT
+2 DATE 4 Jun 1896
+2 PLAC Kaiapoi, Canterbury, New Zealand
+1 DEAT
+2 DATE 23 Feb 1961
+2 PLAC Christchurch, New Zealand
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 112172524332:1030:108326313
+0 @I102523665669@ INDI
+1 NAME Thomas /Taylor/
+2 GIVN Thomas
+2 SURN Taylor
+1 SEX M
+1 FAMC @F6@
+1 FAMS @F22@
+1 BIRT
+2 DATE Apr 1853
+2 PLAC Westbury-on-Severn, Gloucestershire, England
+1 DEAT
+2 DATE 21 Jul 1926
+2 PLAC Christchurch, Canterbury, New Zealand
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 150195460040:1030:27099841
+0 @I102523665684@ INDI
+1 NAME Mary /Gullick/
+2 GIVN Mary
+2 SURN Gullick
+1 SEX F
+1 FAMC @F21@
+1 FAMS @F22@
+1 BIRT
+2 DATE 9 Aug 1856
+2 PLAC Respridge, East Dean, Gloucestershire, England
+1 DEAT
+2 DATE 30 May 1934
+2 PLAC Christchurch, Canterbury, New Zealand
+0 @I102523665706@ INDI
+1 NAME John Doran /Gobbe/
+2 GIVN John Doran
+2 SURN Gobbe
+1 SEX M
+1 FAMC @F17@
+1 FAMS @F18@
+1 BIRT
+2 DATE 19 Apr 1862
+2 PLAC 20 Little Butts St., Bedford 3b 334, England
+1 DEAT
+2 DATE 20 May 1939
+2 PLAC Christchurch, Canterbury, New Zealand
+1 OBJE @O14@
+2 _PRIM Y
+0 @I102523665709@ INDI
+1 NAME Emma Rose /Wisby/
+2 GIVN Emma Rose
+2 SURN Wisby
+1 SEX F
+1 FAMC @F4@
+1 FAMS @F18@
+1 BIRT
+2 DATE 28 Aug 1866
+2 PLAC Kent, England
+1 DEAT
+2 DATE 14 Apr 1941
+2 PLAC Christchurch, Canterbury, New Zealand
+0 @I102523665710@ INDI
+1 NAME Harry Thomas Rudd /Parker/
+2 GIVN Harry Thomas Rudd
+2 SURN Parker
+1 SEX M
+1 FAMC @F20@
+1 FAMS @F14@
+1 BIRT
+2 DATE 24 Apr 1856
+2 PLAC Torquay, Torbay, Devon, England
+1 DEAT
+2 DATE 24 Aug 1942
+2 PLAC Christchurch, Canterbury, New Zealand
+1 OBJE @O9@
+2 _PRIM Y
+0 @I102523665713@ INDI
+1 NAME Lucy Susannah /Harper/
+2 GIVN Lucy Susannah
+2 SURN Harper
+1 SEX F
+1 FAMC @F15@
+1 FAMS @F14@
+1 BIRT
+2 DATE 15 Dec 1859
+2 PLAC Kaiapoi, Canterbury, New Zealand
+1 DEAT
+2 DATE 16 Jun 1933
+2 PLAC Christchurch, Canterbury, New Zealand
+1 OBJE @O9@
+2 _PRIM Y
+0 @I102523665714@ INDI
+1 NAME James /Major/
+2 GIVN James
+2 SURN Major
+1 SEX M
+1 FAMC @F9@
+1 FAMS @F12@
+1 BIRT
+2 DATE 18 Aug 1875
+2 PLAC Kaiapoi, Canterbury, New Zealand
+1 DEAT
+2 DATE 18 May 1946
+2 PLAC Christchurch, Canterbury, New Zealand
+0 @I102523665717@ INDI
+1 NAME Esther /Bennington/
+2 GIVN Esther
+2 SURN Bennington
+1 SEX F
+1 FAMC @F26@
+1 FAMC @F27@
+1 FAMS @F12@
+1 BIRT
+2 DATE 20 Aug 1859
+2 PLAC Lyttelton, New Zealand
+1 DEAT
+2 DATE 18 Feb 1919
+2 PLAC Papanui, Christchurch, Canterbury, New Zealand
+0 @I102523665742@ INDI
+1 NAME William /Taylor/
+2 GIVN William
+2 SURN Taylor
+1 SEX M
+1 FAMS @F6@
+1 BIRT
+2 DATE 1818
+2 PLAC Linton, Herefordshire, England
+1 DEAT
+2 DATE Feb 1855
+2 PLAC Herefordshire, England
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 12580485884:1030:27099841
+0 @I102523665755@ INDI
+1 NAME Sophia /Jones/
+2 GIVN Sophia
+2 SURN Jones
+1 SEX F
+1 FAMC @F1@
+1 FAMS @F6@
+1 BIRT
+2 DATE 5 Nov 1820
+2 PLAC Linton, Herefordshire, England
+1 DEAT
+2 DATE 19 Dec 1898
+2 PLAC Westbury-on-Severn, Gloucestershire, England
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 5011733845:1030:27099841
+0 @I102523665822@ INDI
+1 NAME Robert /Gobbe/
+2 GIVN Robert
+2 SURN Gobbe
+1 SEX M
+1 FAMC @F10@
+1 FAMS @F17@
+1 BIRT
+2 DATE 1820
+2 PLAC Ridgmont, Bedfordshire, England
+1 DEAT
+2 DATE 8 Nov 1893
+2 PLAC Grasmere, Southland, New Zealand
+0 @I102523665825@ INDI
+1 NAME Margaret Judith /Tall/
+2 GIVN Margaret Judith
+2 SURN Tall
+1 SEX F
+1 FAMC @F8@
+1 FAMS @F17@
+1 BIRT
+2 DATE 28 Nov 1819
+2 PLAC Bedford, Bedfordshire, England
+1 DEAT
+2 DATE 8 Sep 1905
+2 PLAC Lady Barkly, Winton, Southland, New Zealand
+0 @I102523665832@ INDI
+1 NAME George /Gullick/
+2 GIVN George
+2 SURN Gullick
+1 SEX M
+1 FAMC @F30@
+1 FAMS @F21@
+1 BIRT
+2 DATE 20 Mar 1814
+2 PLAC Camerton, Somerset
+1 DEAT
+2 DATE 26 Aug 1887
+2 PLAC Newnham, Gloucestershire
+0 @I102523665835@ INDI
+1 NAME Harriett /James/
+2 GIVN Harriett
+2 SURN James
+1 SEX F
+1 FAMC @F7@
+1 FAMS @F21@
+1 BIRT
+2 DATE 7 Aug 1812
+2 PLAC East Dean, Gloucestershire, England
+1 DEAT
+2 DATE April 1875
+2 PLAC Westbury on Severn, Gloucestershire, United Kingdom
+0 @I102523665883@ INDI
+1 NAME Thomas Richard /Wisby/
+2 GIVN Thomas Richard
+2 SURN Wisby
+1 SEX M
+1 FAMS @F4@
+1 BIRT
+2 DATE 1842
+2 PLAC Whitechapel, London
+1 DEAT
+2 DATE 21 Aug 1915
+2 PLAC 20 Ralston St. Sth,Yarra, Victoria, Australia
+1 OBJE @O5@
+2 _PRIM Y
+0 @I102523665896@ INDI
+1 NAME Emma Sarah /Admans/
+2 GIVN Emma Sarah
+2 SURN Admans
+1 SEX F
+1 FAMC @F5@
+1 FAMS @F4@
+1 BIRT
+2 DATE 28 Jan 1847
+2 PLAC Whitechapel, London, United Kingdom
+1 DEAT
+2 DATE 1940
+2 PLAC Campbellfield, Victoria, Australia
+0 @I102523665963@ INDI
+1 NAME George Rudd /Parker/
+2 GIVN George Rudd
+2 SURN Parker
+1 SEX M
+1 FAMS @F20@
+1 BIRT
+2 DATE 1818
+2 PLAC Dawlish, Devon, England
+1 DEAT
+2 DATE 12 Jul 1903
+2 PLAC Christchurch, Canterbury, New Zealand
+0 @I102523665966@ INDI
+1 NAME Carolyn /Bragg/
+2 GIVN Carolyn
+2 SURN Bragg
+1 SEX F
+1 FAMS @F20@
+1 BIRT
+2 DATE Abt. 1819
+2 PLAC Sidmouth, Devon, England
+1 DEAT
+2 DATE 27 JUL 1883
+2 PLAC Newton Abbot, Devon, England, UK
+0 @I102523665968@ INDI
+1 NAME John /Harper/
+2 GIVN John
+2 SURN Harper
+1 SEX M
+1 FAMC @F24@
+1 FAMS @F15@
+1 BIRT
+2 DATE 7 Jun 1829
+2 PLAC West Raynham, Norfolk, England
+1 DEAT
+2 DATE 6 Dec 1900
+2 PLAC Kaiapoi, Canterbury, New Zealand
+0 @I102523665969@ INDI
+1 NAME Maria /Stapleton/
+2 GIVN Maria
+2 SURN Stapleton
+1 SEX F
+1 FAMC @F23@
+1 FAMS @F15@
+1 BIRT
+2 DATE 3 Feb 1828
+2 PLAC South Raynham, Norfolk, England
+1 DEAT
+2 DATE 16th june 1905
+2 PLAC Christchurch, Canterbury, New Zealand
+1 OBJE @O3@
+2 _PRIM Y
+0 @I102523665970@ INDI
+1 NAME William /Major/
+2 GIVN William
+2 SURN Major
+1 SEX M
+1 FAMS @F9@
+1 BIRT
+2 DATE 1843
+2 PLAC Bangor, County Down, Ireland
+1 DEAT
+2 DATE 1899
+2 PLAC Kaiapoi, New Zealand
+0 @I102523665973@ INDI
+1 NAME John /Bennington/
+2 GIVN John
+2 SURN Bennington
+1 SEX M
+1 FAMC @F19@
+1 FAMS @F26@
+1 BIRT
+2 DATE 1 Jan 1812
+2 PLAC Cape Town, Cape Colony, South Africa
+1 DEAT
+2 DATE 13 Apr 1882
+2 PLAC Kaiapoi, Canterbury, New Zealand
+0 @I102523665974@ INDI
+1 NAME Ann /Baldry/
+2 GIVN Ann
+2 SURN Baldry
+1 SEX F
+1 FAMC @F13@
+1 FAMS @F27@
+1 BIRT
+2 DATE 5 Jul 1818
+2 PLAC Bexley, Kent, England
+1 DEAT
+2 DATE 23 Oct 1896
+2 PLAC Kaiapoi, Canterbury, New Zealand
+1 OBJE @O11@
+2 _PRIM Y
+0 @I102523665993@ INDI
+1 NAME Fanny Jane /Simpson/
+2 GIVN Fanny Jane
+2 SURN Simpson
+1 SEX F
+1 FAMS @F9@
+1 BIRT
+2 DATE 1844
+2 PLAC Bangor, County Down, Ireland
+1 DEAT
+2 DATE 9 Apr 1928
+2 PLAC Kaiapoi, New Zealand
+0 @I102523666035@ INDI
+1 NAME Samuel /Jones/
+2 GIVN Samuel
+2 SURN Jones
+1 SEX M
+1 FAMC @F28@
+1 FAMS @F1@
+1 BIRT
+2 DATE 1789
+2 PLAC Bosbury, Herefordshire, England
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 12580474970:1030:27099841
+0 @I102523666044@ INDI
+1 NAME HESTER /SINDERBY/
+2 GIVN HESTER
+2 SURN SINDERBY
+1 SEX F
+1 FAMC @F29@
+1 FAMS @F1@
+1 BIRT
+2 DATE 16 JAN 1791
+2 PLAC HOPE MANSELL  Herefordshire, England
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 12580474971:1030:27099841
+0 @I102523666062@ INDI
+1 NAME Mary /Bussey/
+2 GIVN Mary
+2 SURN Bussey
+1 SEX F
+1 FAMS @F24@
+1 BIRT
+2 DATE 3 Feb 1799
+2 PLAC West Raynham, Norfolk, England
+1 DEAT
+2 DATE 17 Mar 1885
+2 PLAC South Raynham, Norfolk, England
+1 OBJE @O12@
+2 _PRIM Y
+0 @I102523666065@ INDI
+1 NAME John /Harper/
+2 GIVN John
+2 SURN Harper
+1 SEX M
+1 FAMS @F24@
+1 BIRT
+2 DATE 1 Jul 1798
+2 PLAC East Raynham, Norfolk, England
+1 DEAT
+2 DATE 21 Jan 1867
+2 PLAC Norwich, Norfolk, England
+1 OBJE @O2@
+2 _PRIM Y
+0 @I102523666067@ INDI
+1 NAME John /Stapleton/
+2 GIVN John
+2 SURN Stapleton
+1 SEX M
+1 FAMS @F23@
+1 BIRT
+2 DATE 1797
+2 PLAC Wellingham, Norfolk, England
+1 DEAT
+2 DATE Dec 1880
+2 PLAC Norfolk, England
+1 OBJE @O6@
+2 _PRIM Y
+0 @I102523666071@ INDI
+1 NAME Lucy /Batterby/
+2 GIVN Lucy
+2 SURN Batterby
+1 SEX F
+1 FAMS @F23@
+1 BIRT
+2 DATE 1799
+2 PLAC Colkirk, Breckland Borough, Norfolk, England
+1 DEAT
+2 DATE 18 May 1859
+2 PLAC South Raynham, Norfolk
+1 OBJE @O13@
+2 _PRIM Y
+0 @I102523666259@ INDI
+1 NAME Ann /Jones/
+2 GIVN Ann
+2 SURN Jones
+1 SEX F
+1 FAMC @F1@
+1 BIRT
+2 DATE 10 AUG 1828
+2 PLAC HOPE MANSELL HEREFORDSHIRE ENGLAND
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 12927109956:1030:27099841
+0 @I102523666262@ INDI
+1 NAME Samuel /Jones/
+2 GIVN Samuel
+2 SURN Jones
+1 SEX M
+1 FAMC @F1@
+1 BIRT
+2 DATE 10 Oct 1810
+2 PLAC Walford, Herefordshire, England
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 12927231725:1030:27099841
+0 @I102523666263@ INDI
+1 NAME James /JONES/
+2 GIVN James
+2 SURN JONES
+1 SEX M
+1 FAMC @F1@
+1 BIRT
+2 DATE 22 May 1825
+2 PLAC Hope Mansell, Herefordshire, England
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 12927235625:1030:27099841
+0 @I102523666265@ INDI
+1 NAME George /JONES/
+2 GIVN George
+2 SURN JONES
+1 SEX M
+1 FAMC @F1@
+1 BIRT
+2 DATE 18 JAN 1824
+2 PLAC Hope Mansell, Herefordshire, England
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 12927245589:1030:27099841
+0 @I102523666267@ INDI
+1 NAME William /JONES/
+2 GIVN William
+2 SURN JONES
+1 SEX M
+1 FAMC @F1@
+1 BIRT
+2 DATE Sept 1816
+2 PLAC Walford, Herefordshire, England
+1 DEAT
+2 DATE January 1874
+2 PLAC Ledbury, Herefordshire
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 12927248364:1030:27099841
+0 @I102523666269@ INDI
+1 NAME SAMUEL /JONES/
+2 GIVN SAMUEL
+2 SURN JONES
+1 SEX M
+1 FAMC @F1@
+1 BIRT
+2 DATE 29 APR 1818
+2 PLAC WALFORD BY ROSS HEREFORDSHIRE ENGLAND
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 152148650136:1030:27099841
+0 @I102523666270@ INDI
+1 NAME Esther Anne Sophia /Taylor/
+2 GIVN Esther Anne Sophia
+2 SURN Taylor
+1 SEX F
+1 FAMC @F6@
+1 BIRT
+2 DATE 1847
+2 PLAC Cinderford, Glos
+1 DEAT
+2 DATE 2 May 1920
+2 PLAC Monmouthshire, Wales
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 1991242213:1030:27099841
+0 @I102523666272@ INDI
+1 NAME Samuel /Taylor/
+2 GIVN Samuel
+2 SURN Taylor
+1 SEX M
+1 FAMC @F6@
+1 BIRT
+2 DATE abt 1841
+2 PLAC Linton
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 5011873593:1030:27099841
+0 @I102523666275@ INDI
+1 NAME Sarah J /Taylor/
+2 GIVN Sarah J
+2 SURN Taylor
+1 SEX F
+1 FAMC @F6@
+1 BIRT
+2 DATE 25 DEC 1844
+2 PLAC LINTON HEREFORDSHIRE ENGLAND
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 5011873594:1030:27099841
+0 @I102523666277@ INDI
+1 NAME James /Taylor/
+2 GIVN James
+2 SURN Taylor
+1 SEX M
+1 FAMC @F6@
+1 BIRT
+2 DATE abt 1856
+2 PLAC East Dean, Gloucestershire, England
+1 DEAT
+2 DATE 19 January 1892
+2 PLAC Christchurch, Canterbury, New Zealand
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 12580479931:1030:27099841
+0 @I102523666278@ INDI
+1 NAME JULIA HANNAH /TAYLOR/
+2 GIVN JULIA HANNAH
+2 SURN TAYLOR
+1 SEX F
+1 FAMC @F6@
+1 BIRT
+2 DATE 13 APR 1851
+2 PLAC Cinderford, Gloucestershire, England
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 12927154537:1030:27099841
+0 @I102523666279@ INDI
+1 NAME THOMAS /TAYLOR/
+2 GIVN THOMAS
+2 SURN TAYLOR
+1 SEX M
+1 FAMC @F6@
+1 BIRT
+2 DATE 30 SEP 1851
+2 PLAC WESTBURY ON SEVERN GLOUCESTER ENGLAND
+1 DEAT
+2 DATE 24 MAY 1852
+2 PLAC WESTBURY ON SEVERN GLOUCESTER ENGLAND
+1 SOUR @S104764746@
+2 PAGE Ancestry Family Tree
+2 _APID 12927154538:1030:27099841
+0 @I102523666307@ INDI
+1 NAME Ann /Merrick/
+2 GIVN Ann
+2 SURN Merrick
+1 SEX F
+1 FAMS @F28@
+1 BIRT
+2 DATE 1780
+2 PLAC Herefordshire County, England, United Kingdom
+1 DEAT
+2 DATE 18 September 1853
+0 @I102523666318@ INDI
+1 NAME JOHN /SINDERBY/
+2 GIVN JOHN
+2 SURN SINDERBY
+1 SEX M
+1 FAMS @F29@
+1 BIRT
+2 DATE 7 MAR 1742
+2 PLAC FLAXLEY GLOUCESTERSHIRE ENGLAND
+0 @I102523666605@ INDI
+1 NAME John /Bennington/
+2 GIVN John
+2 SURN Bennington
+1 SEX M
+1 FAMS @F19@
+1 BIRT
+2 DATE 1773
+2 PLAC Emneth, Kings Lynn and West Norfolk Borough, Norfolk, England
+1 DEAT
+2 DATE 15 Apr 1854
+2 PLAC Dartford, Kent, United Kingdom
+1 OBJE @O10@
+2 _PRIM Y
+0 @I102523666607@ INDI
+1 NAME Ann /Blackman/
+2 GIVN Ann
+2 SURN Blackman
+1 SEX F
+1 FAMC @F25@
+1 FAMS @F19@
+1 BIRT
+2 DATE 21 Sep 1788
+2 PLAC Barnet, East Wickham, Kent, England
+1 DEAT
+2 DATE Jul 1861
+2 PLAC Bexley, Dartford, Kent, United Kingdom
+1 OBJE @O15@
+2 _PRIM Y
+0 @I102523666608@ INDI
+1 NAME James /Baldry/
+2 GIVN James
+2 SURN Baldry
+1 SEX M
+1 FAMS @F13@
+1 BIRT
+2 DATE 1 Sep 1778
+2 PLAC Thelnetham, Suffolk, , England, 
+1 DEAT
+2 DATE 10 Feb 1833
+2 PLAC Welling, Kent, England
+0 @I102523666615@ INDI
+1 NAME Elizabeth Mary /Hall/
+2 GIVN Elizabeth Mary
+2 SURN Hall
+1 SEX F
+1 FAMS @F13@
+1 BIRT
+2 DATE 23 Dec 1770
+2 PLAC Welling, Kent, England
+1 DEAT
+2 DATE Aug 1832
+2 PLAC Bexley, Kent, England
+0 @I102523666628@ INDI
+1 NAME William /Gullick/
+2 GIVN William
+2 SURN Gullick
+1 SEX M
+1 FAMS @F30@
+1 BIRT
+2 DATE Oct 1784
+2 PLAC Camerton, Somerset, 
+1 DEAT
+2 DATE 17 Dec 1863
+2 PLAC Camerton, Somerset
+0 @I102523666630@ INDI
+1 NAME George /James/
+2 GIVN George
+2 SURN James
+1 SEX M
+1 FAMS @F7@
+1 BIRT
+2 DATE 11 Mar 1791
+2 PLAC Newland, Gloucestershire, England
+1 DEAT
+2 DATE Oct 1880
+2 PLAC East Dean, Gloucestershire, England
+1 OBJE @O8@
+2 _PRIM Y
+0 @I102523666632@ INDI
+1 NAME Jane /Warr/
+2 GIVN Jane
+2 SURN Warr
+1 SEX F
+1 FAMS @F7@
+1 BIRT
+2 DATE 19 Apr 1796
+2 PLAC Blakeney, Gloucestershire, England
+1 DEAT
+2 DATE 1846
+2 PLAC Cinderford, East Dean, Gloucestershire, England
+1 OBJE @O16@
+2 _PRIM Y
+0 @I102523666633@ INDI
+1 NAME Thomas /Gobby/
+2 GIVN Thomas
+2 SURN Gobby
+1 SEX M
+1 FAMS @F10@
+1 BIRT
+2 DATE 1792
+2 PLAC Lidlington, Bedfordshire, , England
+1 DEAT
+2 DATE Dec 1865
+2 PLAC Bedfordshire, United Kingdom
+0 @I102523666634@ INDI
+1 NAME Charlotte /Chapman/
+2 GIVN Charlotte
+2 SURN Chapman
+1 SEX F
+1 FAMS @F10@
+1 BIRT
+2 DATE 15 Aug 1790
+2 PLAC Ridgmont, Bedfordshire, England
+1 DEAT
+2 DATE Jan 1864
+2 PLAC Bedford, Bedfordshire, England
+0 @I102523666637@ INDI
+1 NAME Thomas /Tall/
+2 GIVN Thomas
+2 SURN Tall
+1 SEX M
+1 FAMS @F8@
+1 BIRT
+2 DATE 16 Sep 1792
+2 PLAC Saint John, Bedford
+1 DEAT
+2 DATE 1823
+2 PLAC Bedford, Bedfordshire, England
+0 @I102523666639@ INDI
+1 NAME Ann /Doran/
+2 GIVN Ann
+2 SURN Doran
+1 SEX F
+1 FAMS @F8@
+1 BIRT
+2 DATE 1798
+2 PLAC Bedford, Bedfordshire, England
+0 @I102523666649@ INDI
+1 NAME Thomas John /Admans/ (tailor)
+2 GIVN Thomas John
+2 SURN Admans
+2 NSFX (tailor)
+1 SEX M
+1 FAMS @F5@
+1 BIRT
+2 DATE 21 Jan 1808
+2 PLAC Canterbury, Kent, England
+1 DEAT
+2 DATE July 1871
+2 PLAC St Mary Northgate, Canterbury, Kent, England
+1 OBJE @O4@
+2 _PRIM Y
+0 @I102523666655@ INDI
+1 NAME Emma Elizabeth /Clifford/ (cap maker)
+2 GIVN Emma Elizabeth
+2 SURN Clifford
+2 NSFX (cap maker)
+1 SEX F
+1 FAMS @F5@
+1 BIRT
+2 DATE 8 Mar 1824
+2 PLAC Chatham, Kent, England UK
+1 DEAT
+2 DATE 1865
+2 PLAC St Mary Northgate, Canterbury, Kent, England UK
+1 OBJE @O17@
+2 _PRIM Y
+0 @I102523666693@ INDI
+1 NAME William /Cutts/
+2 GIVN William
+2 SURN Cutts
+1 SEX M
+1 FAMS @F25@
+1 BIRT
+2 DATE 9 May 1756
+2 PLAC Buckland, Hertfordshire, England
+1 DEAT
+2 DATE December 1834
+2 PLAC East Wickham, Kent, England
+1 OBJE @O7@
+2 _PRIM Y
+0 @I102523666694@ INDI
+1 NAME Elizabeth /Barns/
+2 GIVN Elizabeth
+2 SURN Barns
+1 SEX F
+1 FAMS @F25@
+1 BIRT
+2 DATE 21 December 1764
+2 PLAC East Wickham, London Borough of Bexley, Greater London, England
+1 DEAT
+2 DATE 1835
+2 PLAC East Wickham, London Borough of Bexley, Greater London, England
+1 OBJE @O1@
+2 _PRIM Y
+0 @F1@ FAM
+1 HUSB @I102523666035@
+1 WIFE @I102523666044@
+1 CHIL @I102523666262@
+1 CHIL @I102523666267@
+1 CHIL @I102523666269@
+1 CHIL @I102523665755@
+1 CHIL @I102523666265@
+1 CHIL @I102523666263@
+1 CHIL @I102523666259@
+1 MARR
+2 DATE 13 Jan 1810
+2 PLAC Walford, Herefordshire, England
+0 @F2@ FAM
+1 HUSB @I102523665404@
+1 WIFE @I102523665433@
+1 CHIL @I102523665354@
+1 MARR
+2 DATE 19 Mar 1937
+2 PLAC Christchurch, New Zealand
+0 @F3@ FAM
+1 HUSB @I102523665518@
+1 WIFE @I102523665519@
+1 CHIL @I102523665433@
+1 MARR
+2 DATE 15 Mar 1916
+2 PLAC Christchurch, Canterbury, New Zealand
+0 @F4@ FAM
+1 HUSB @I102523665883@
+1 WIFE @I102523665896@
+1 CHIL @I102523665709@
+0 @F5@ FAM
+1 HUSB @I102523666649@
+1 WIFE @I102523666655@
+1 CHIL @I102523665896@
+0 @F6@ FAM
+1 HUSB @I102523665742@
+1 WIFE @I102523665755@
+1 CHIL @I102523666272@
+1 CHIL @I102523666275@
+1 CHIL @I102523666270@
+1 CHIL @I102523666278@
+1 CHIL @I102523666279@
+1 CHIL @I102523665669@
+1 CHIL @I102523666277@
+1 MARR
+2 DATE 09 May 1841
+2 PLAC Walford, Herefordshire, England
+0 @F7@ FAM
+1 HUSB @I102523666630@
+1 WIFE @I102523666632@
+1 CHIL @I102523665835@
+0 @F8@ FAM
+1 HUSB @I102523666637@
+1 WIFE @I102523666639@
+1 CHIL @I102523665825@
+0 @F9@ FAM
+1 HUSB @I102523665970@
+1 WIFE @I102523665993@
+1 CHIL @I102523665714@
+0 @F10@ FAM
+1 HUSB @I102523666633@
+1 WIFE @I102523666634@
+1 CHIL @I102523665822@
+0 @F11@ FAM
+1 HUSB @I102523665354@
+1 WIFE @I102523665355@
+0 @F12@ FAM
+1 HUSB @I102523665714@
+1 WIFE @I102523665717@
+1 CHIL @I102523665519@
+0 @F13@ FAM
+1 HUSB @I102523666608@
+1 WIFE @I102523666615@
+1 CHIL @I102523665974@
+0 @F14@ FAM
+1 HUSB @I102523665710@
+1 WIFE @I102523665713@
+1 CHIL @I102523665518@
+0 @F15@ FAM
+1 HUSB @I102523665968@
+1 WIFE @I102523665969@
+1 CHIL @I102523665713@
+0 @F16@ FAM
+1 HUSB @I102523665469@
+1 WIFE @I102523665471@
+1 CHIL @I102523665404@
+1 CHIL @I102523665472@
+1 MARR
+2 DATE 19 Mar 1912
+2 PLAC Christchurch, Canterbury, New Zealand
+0 @F17@ FAM
+1 HUSB @I102523665822@
+1 WIFE @I102523665825@
+1 CHIL @I102523665706@
+0 @F18@ FAM
+1 HUSB @I102523665706@
+1 WIFE @I102523665709@
+1 CHIL @I102523665471@
+0 @F19@ FAM
+1 HUSB @I102523666605@
+1 WIFE @I102523666607@
+1 CHIL @I102523665973@
+0 @F20@ FAM
+1 HUSB @I102523665963@
+1 WIFE @I102523665966@
+1 CHIL @I102523665710@
+0 @F21@ FAM
+1 HUSB @I102523665832@
+1 WIFE @I102523665835@
+1 CHIL @I102523665684@
+0 @F22@ FAM
+1 HUSB @I102523665669@
+1 WIFE @I102523665684@
+1 CHIL @I102523665469@
+0 @F23@ FAM
+1 HUSB @I102523666067@
+1 WIFE @I102523666071@
+1 CHIL @I102523665969@
+0 @F24@ FAM
+1 HUSB @I102523666065@
+1 WIFE @I102523666062@
+1 CHIL @I102523665968@
+0 @F25@ FAM
+1 HUSB @I102523666693@
+1 WIFE @I102523666694@
+1 CHIL @I102523666607@
+0 @F26@ FAM
+1 HUSB @I102523665973@
+1 CHIL @I102523665717@
+0 @F27@ FAM
+1 WIFE @I102523665974@
+1 CHIL @I102523665717@
+0 @F28@ FAM
+1 WIFE @I102523666307@
+1 CHIL @I102523666035@
+0 @F29@ FAM
+1 HUSB @I102523666318@
+1 CHIL @I102523666044@
+0 @F30@ FAM
+1 HUSB @I102523666628@
+1 CHIL @I102523665832@
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 2323942
+3 _WDTH 3337
+3 _HGHT 4800
+2 TITL Elizabeth Cutts - Bexley C. of E.  Burial
+1 RIN 07ebfc19-be4b-4d00-9396-96e2c36574e4
+1 _META <metadataxml><transcription /></metadataxml>
+1 _CREA 2023-11-04 06:21:27.568
+1 _USER bjvICtd16le+Udkd1JmSnMV+pKyY9WFPu9A9ADN/gqf8W+8XeiVv3Y967kU3mU/IVeFR87e8FonFsy0F8Ah5iw==
+2 _ENCR 1
+1 _CLON
+2 _TID 104027793
+2 _PID 432209377698
+2 _OID 213a14d4-a087-4bc9-907e-44d0c3e51541
+2 _USER Jg94yogyPWmTCZCZ0yj+2nYylm9g1wONVuQi+8oFKCCIg6DtDkU38+uE+Ba/OXO30MEPRNq6MtkrizuYIMCVkA==
+3 _ENCR 1
+2 _DATE 2020-07-27 13:19:37.000
+1 _ORIG u
+1 _MSER
+2 _LKID 213a14d4-a087-4bc9-907e-44d0c3e51541
+1 _ATL N
+0 @O2@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE headstone
+3 _STYPE jpeg
+3 _SIZE 942364
+3 _WDTH 2049
+3 _HGHT 2275
+2 TITL John Harper (1798-1867)
+1 RIN 1a153a4d-ae8c-493c-8f56-a0a603a1307a
+1 _DSCR https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=175887810&ref=acom
+1 _META <metadataxml><cemetery /><transcription /><personas><persona><pname>John Harper (1798-1867)</pname><bdate /><bplace /><ddate /><dplace /></persona></personas></metadataxml>
+1 _CREA 2023-11-04 06:11:12.284
+1 _USER sxuB/stBS8KR8J3uRuBjgbXyyHmauZFt/y1NYuwDzdp1usP4PuUCW/wohu6+jKr/5sOtxZ7FKXM/F6u09NZ55g==
+2 _ENCR 1
+1 _CLON
+2 _TID 27864340
+2 _PID 240103310384
+2 _OID 9ff26cb4-83ae-4296-bdea-dbb3e34f641c
+2 _USER 2G4j+paRixUqU5/6Ag3WHZrLUjfsejyMNw+djkCF3PBIHvq+cLSbJnU3ASFKGLolktxobQk7S1JIbVnm19qzOw==
+3 _ENCR 1
+2 _DATE 2017-06-28 10:10:29.000
+1 _ORIG u
+1 _MSER
+2 _LKID 9ff26cb4-83ae-4296-bdea-dbb3e34f641c
+1 _ATL N
+0 @O3@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE pjpeg
+3 _SIZE 21074
+3 _WDTH 500
+3 _HGHT 827
+2 TITL John & Maria with their daughter Emma Harper
+1 RIN 1bd9e13a-4d75-46a0-83ed-fb9c70eb05fa
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-11-04 06:09:03.658
+1 _USER pjGqzkLdUb1w1CpLnmQEOon4WekUyhz121THOP4vZYNQ76CI5qNWUTI542pnWgRRT6qSMgkNxLDjNXscG313hA==
+2 _ENCR 1
+1 _CLON
+2 _TID 776740
+2 _PID -792964623
+2 _OID 025fb628-108f-46b9-8f0d-30e863441f34
+2 _USER hfBUk688gJ4cg6J0J9bI0e/YMjOBi59PcksusRoPz1ESJyl4Mr1YswXZlziHcL7JezokJUAlVYK9Z/3NAkbDkQ==
+3 _ENCR 1
+2 _DATE 2010-01-05 04:39:14.000
+1 _ORIG u
+1 _MSER
+2 _LKID 025fb628-108f-46b9-8f0d-30e863441f34
+1 _ATL N
+0 @O4@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 905646
+3 _WDTH 2638
+3 _HGHT 1661
+1 RIN 1c9a20a5-2cbb-45f6-8b3a-1f94a30e6057
+1 DATE 24/01/2011 3:03:17 PM
+1 _CREA 2023-11-04 06:20:29.463
+1 _USER Fo4npIt6x5hdITFWO4qVOy5ElKcX3tpcDn3vqojyuc7aODOaIDYV8pnlaDblJG7pKclv0MXlRieDQKql3hcSTg==
+2 _ENCR 1
+1 _CLON
+2 _OID 4ad374a3-79d4-45c9-bb75-b0d2c5ccdbbc
+2 _USER hfh/mkkmFkH6FhPDms6nlCFjV694KdEEvHQODRy1Yr7hI+ZUqLMDTmPhtzAPpinyZ0WHoPJCIxMYjasgnHMDkQ==
+3 _ENCR 1
+2 _DATE 2016-04-30 06:35:37.000
+1 _ORIG u
+1 _MSER
+2 _LKID 4ad374a3-79d4-45c9-bb75-b0d2c5ccdbbc
+1 _ATL N
+0 @O5@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 833851
+3 _WDTH 392
+3 _HGHT 4415
+2 TITL Thomas Wisby Bankruptcy 30 May 1889
+1 RIN 3fbcbe25-9d47-4093-98ac-60bbd6c62a15
+1 DATE 23/07/2015 8:16:12 PM
+1 _CREA 2023-11-04 06:07:35.805
+1 _USER c9k8qRnRv31hMvFPG5a/Dq+qQKKo3RPzHX7ISasXqDMsR4PReNOsMb46AJVmKvF1K7UxSfPedKM/jlBkxHBJMA==
+2 _ENCR 1
+1 _CLON
+2 _OID 535ba0ae-3d38-40d4-b22c-ce90f3447f63
+2 _USER Yd0BWu8vuAzNa2eKnQA1hcqYgWXQMdvWbcaJRA0M0WyzPWwCekbRCiHsDO2Gmb1HIuIi3qNGkDEacCPws3JYuQ==
+3 _ENCR 1
+2 _DATE 2016-04-30 06:22:22.000
+1 _ORIG u
+1 _MSER
+2 _LKID 535ba0ae-3d38-40d4-b22c-ce90f3447f63
+1 _ATL N
+0 @O6@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 62853
+3 _WDTH 1261
+3 _HGHT 172
+2 TITL John and William twins of Thomas and Hannah Stapleton Baptism
+1 RIN 5ff0aaa3-0df4-43a4-8dc6-3268c6c36b69
+1 DATE 13 Aug 1797
+1 PLAC Wellingham, Norfolk, England
+1 _DSCR From the Wellingham Parish Records
+1 _META <metadataxml><cemetery /><transcription>John and William the twin sons of Thomas and Hannah [Stapleton] were baptized Aug 13 1797.</transcription></metadataxml>
+1 _CREA 2023-11-04 06:11:14.127
+1 _USER 6rA03wCfv0ADQ02K9S7JRnF/q9hna8tV6su7ZexIpUvr8PIRFlq8itr+NNtSVQO5Zlw9l41+T1U6yFhRJ6/6ZA==
+2 _ENCR 1
+1 _CLON
+2 _TID 14399377
+2 _PID 522725204
+2 _OID 6d553d4a-e166-42ea-ad97-890e30a3d61f
+2 _USER bmsVGrzyQNG9jMeqMVPKZ+uN51WhsttEgVVMSGtthhpT663cChCzpGDClSpmBxhSsdhYQ/Ufnz8Nue12BIMWzQ==
+3 _ENCR 1
+2 _DATE 2010-04-25 02:21:33.737
+1 _ORIG u
+1 _MSER
+2 _LKID 6d553d4a-e166-42ea-ad97-890e30a3d61f
+1 _ATL N
+0 @O7@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 203858
+3 _WDTH 1426
+3 _HGHT 474
+2 TITL CUTTS_WILLIAM_BAPT_BUCKLAND (1756)
+1 RIN 63967a80-ca34-46f0-8904-296b52bb1406
+1 DATE 9 May 1756
+1 PLAC Buckland, Hertfordshire, England
+1 _DSCR The baptism record for William Cutts.
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-11-04 06:21:23.672
+1 _USER 1C+PgO9cHQpz9S4NNNZG/Cb1BB/8/OjvYBJWTundz4FBUdv1905jUTcKh02c4Sn6tXdvH1HvGd0Qlgh/PO5aCw==
+2 _ENCR 1
+1 _CLON
+2 _TID 72659495
+2 _PID 40281327464
+2 _OID 8deb6a1a-961d-4a12-8922-8f0622dba033
+2 _USER uNHscdRCdF9aaGXNg4XW3XG2aPogsXPUt5y3tBQqnvrYS5hiIBZUT5X/JF2wBZs0ZU1n3zOL/1Q9pj7dwHqEUQ==
+3 _ENCR 1
+2 _DATE 2015-06-15 09:08:37.000
+1 _ORIG u
+1 _MSER
+2 _LKID 8deb6a1a-961d-4a12-8922-8f0622dba033
+1 _ATL N
+0 @O8@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 556011
+3 _WDTH 1632
+3 _HGHT 2317
+2 TITL george james 1791 marriage
+1 RIN 63bda10f-6811-432a-814b-bc3460234965
+1 DATE 30nv1817
+1 _DSCR marriage
+1 _CREA 2023-11-04 06:20:14.376
+1 _USER 5Io+NJdZwjMyBrwfM+jjHiUoaQCxkyOj8SDLivSUosCGdLa2F1G24MKShuYpQ9N2eYe0UeIjPpbp4x5PGEyqxA==
+2 _ENCR 1
+1 _CLON
+2 _TID 67260101
+2 _PID 32164881356
+2 _OID bb922178-2d4c-4bcf-acff-7cf598460b75
+2 _USER HG+1RVuqNiRht3QPDgBzI8JdX4Zew/ktfFXfoHkzS8lYWHJImbGOiMjkzKX2DFH6MF7ygVVv5RLJ8140uWjyvQ==
+3 _ENCR 1
+2 _DATE 2014-02-24 21:13:46.000
+1 _ORIG u
+1 _MSER
+2 _LKID bb922178-2d4c-4bcf-acff-7cf598460b75
+1 _ATL N
+0 @O9@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 109562
+3 _WDTH 981
+3 _HGHT 1632
+2 TITL Lucy Harper & Harry Tom Rudd Parker 1881
+1 RIN 714c7902-6875-4372-a798-1a311155c8b0
+1 _CREA 2023-11-04 06:04:10.713
+1 _USER s6QJjHQCQgXQUDZDH1ligD/sjg9omKqzIqXc8biavwhpIRtxIdp4Bl6lXi6KZjs4geKQKY5288WUYIaK/S8jug==
+2 _ENCR 1
+1 _CLON
+2 _TID 776740
+2 _PID 200083406858
+2 _OID e1e9fa65-8834-499e-8675-f93a81bf68ed
+2 _USER MsXCndk5WSa0tL7lBVs5jFNHmZGjP29RdRY6J8z2ywTxxE9DuO3MW5mAZ5eSwFJbsBVbx4Vr5Gcoe+M/Yfg1zw==
+3 _ENCR 1
+2 _DATE 2017-04-26 08:18:46.000
+1 _ORIG u
+1 _MSER
+2 _LKID e1e9fa65-8834-499e-8675-f93a81bf68ed
+1 _ATL N
+0 @O10@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 31398
+3 _WDTH 240
+3 _HGHT 360
+2 TITL Wisbech St Peter Cambridge
+1 RIN 7535b915-0ce2-4635-9e15-1a84ead9cd8d
+1 _CREA 2023-11-04 06:19:48.950
+1 _USER p0GljnHq2x9eF1NYFyv1m4iqEvnK2UJhvIzZNXgF53Q8Xdcp8mXRNbT1J+yCBC7YS35Gan/fGbvWgM7a/+LC7g==
+2 _ENCR 1
+1 _CLON
+2 _TID 31442466
+2 _PID 18044231737
+2 _OID b9895744-20cc-4795-b8c8-5e3d318557f2
+2 _USER Pv8hMX5lfU65JFsEcuzu/9x2RXtpbH2PbIv8aLwSB1b6giBASBGG95VggCOJGP6vllH+ynAk1seOhUxiEfTg9w==
+3 _ENCR 1
+2 _DATE 2011-10-18 22:52:29.000
+1 _ORIG u
+1 _MSER
+2 _LKID b9895744-20cc-4795-b8c8-5e3d318557f2
+1 _ATL N
+0 @O11@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 21881
+3 _WDTH 192
+3 _HGHT 256
+2 TITL Ann Baldry
+1 RIN 867332f4-df1f-4f81-9737-e09d460819c2
+1 _CREA 2023-11-04 06:09:10.595
+1 _USER nk//CCMs0ZeBnRs93flPY7VYLXrpySkTWdkkOQiMNzuSrz/E+43HxOYG4q9/JTTSre3K5VkwpSEgMG1tMZJ/vg==
+2 _ENCR 1
+1 _CLON
+2 _TID 160689409
+2 _PID 132100984399
+2 _OID 25c4ac02-3592-4901-9664-d47fd0d7de1f
+2 _USER m4RKTNp036TM9zZmfsaMrSzoNOLCMVIAHzjpp+8ATj8bfmBEg1o5PNVuw42X/mR0APRX0D9giqSHWNCg+/tXSA==
+3 _ENCR 1
+2 _DATE 2021-01-11 18:34:36.000
+1 _ORIG u
+1 _MSER
+2 _LKID 25c4ac02-3592-4901-9664-d47fd0d7de1f
+1 _ATL N
+0 @O12@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 118529
+3 _WDTH 1008
+3 _HGHT 1642
+2 TITL Mary Harper nee Bussey 1799-1885
+1 RIN 992014f8-8b2c-4a61-8ebd-41986587f989
+1 _CREA 2023-11-04 06:11:08.617
+1 _USER +GGK3UQpWbkHwXeNruhdQakb3F9j5Lo44vbr8Qlt2PCemCSLjJefjWVIYUNXnoM8P98OBtIwY5qLw+p2uT48QQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 61475207
+2 _PID 44250978883
+2 _OID 65edb91d-b521-4fbc-bad2-75360cc8ce77
+2 _USER gwhSe2Y9Zrn360rsKnPSzbxn7DXBJS/bDefdHKWnqnKegZ/6zrpIM5AVNgafUuIKF/0f8TEnxPSmjWp4lbxwKw==
+3 _ENCR 1
+2 _DATE 2017-05-19 09:26:35.000
+1 _ORIG u
+1 _MSER
+2 _LKID 65edb91d-b521-4fbc-bad2-75360cc8ce77
+1 _ATL N
+0 @O13@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 259643
+3 _WDTH 1600
+3 _HGHT 1120
+2 TITL Lucy Stapleton  Death Certificate
+1 RIN b802a532-ff26-4329-959d-27804ad89973
+1 DATE 18 May 1859
+1 PLAC Walsingham, Norfolk, England
+1 _META <metadataxml><cemetery /><transcription>18 May 1859, Lucy Stapleton, Aged 60 Years, Wife of John Stapleton.</transcription></metadataxml>
+1 _CREA 2023-11-04 06:11:18.212
+1 _USER IEzc9PPMy++g79qOFwZBnwfLVZJugnwG8CCDoeXRXkSHSAruahd2WnFNJTrM4dwzORqINCQ5OBDR8+onpiq3sA==
+2 _ENCR 1
+1 _CLON
+2 _TID 14399377
+2 _PID 523258064
+2 _OID 3f9b04d3-d73a-4e79-a220-e95d44b30dce
+2 _USER quKzqErM6CIkckxYpSvcYhWMpMSyBCk2LOB54VemU2yOdPuWslJJ7lfcmky9eK7R+U4F0RAnlr8+c65faEDv9w==
+3 _ENCR 1
+2 _DATE 2010-04-25 03:06:04.000
+1 _ORIG u
+1 _MSER
+2 _LKID 3f9b04d3-d73a-4e79-a220-e95d44b30dce
+1 _ATL N
+0 @O14@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 21875
+3 _WDTH 204
+3 _HGHT 304
+2 TITL John Doran Gobbe_0281
+1 RIN c1da2da0-6e55-48a9-8651-00866daff44a
+1 _CREA 2023-11-04 06:04:05.223
+1 _USER OR1ClbBzPhDye62ORhuoOtnSIpUhpI2AGi9t3CqHXuAnykYZPLIjmqYwigq8ToM5g0utoEON6pztve0eThUqaw==
+2 _ENCR 1
+1 _CLON
+2 _TID 114952623
+2 _PID 270135363618
+2 _OID e56bfda9-ff0c-493f-b861-e66f79aae9cf
+2 _USER kP4e/BVhnm8P/4FkS3k1gjPN0cMrCeFPicKfgVnDGyNrvgZ5QtxY1I06/FKqDOff5O9a8TmEt/Emr/+6yNtQ8A==
+3 _ENCR 1
+2 _DATE 2017-08-29 09:41:30.000
+1 _ORIG u
+1 _MSER
+2 _LKID e56bfda9-ff0c-493f-b861-e66f79aae9cf
+1 _ATL N
+0 @O15@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 2724021
+3 _WDTH 3402
+3 _HGHT 4783
+2 TITL Ann Bennington - Bexley C. of E.  Burial
+1 RIN ced271cb-e3ae-4787-8084-8a7309e8fa50
+1 _META <metadataxml><transcription /></metadataxml>
+1 _CREA 2023-11-04 06:19:52.747
+1 _USER GoQzrV6jtUtKXfJHUI5dmp+mflLa8FJUb2irT1SA/Fjj+tD9axbAZZf5Jzlvf9NQ2A6HyHCC2aZgsdLQOkZcHw==
+2 _ENCR 1
+1 _CLON
+2 _TID 104027793
+2 _PID 432209377426
+2 _OID 3436f87e-c2fa-44bc-a733-bee40e290246
+2 _USER zgbofBN1tSj7adWX5eXIYmDne8ikztORJxeYO+IWkuHulGfRp8Hu6a7f86SK9f7XjijIGaQQjJYXnKYmG63vzA==
+3 _ENCR 1
+2 _DATE 2020-07-27 13:18:25.000
+1 _ORIG u
+1 _MSER
+2 _LKID 3436f87e-c2fa-44bc-a733-bee40e290246
+1 _ATL N
+0 @O16@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 593370
+3 _WDTH 1609
+3 _HGHT 2317
+2 TITL jane warr bap
+1 RIN cf90906e-badf-4bae-9532-b0d5129b7fd7
+1 DATE 10april1796
+1 PLAC awre
+1 _DSCR bap
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-11-04 06:20:16.934
+1 _USER GG1AToRHZba5T8/jHkOGGROFwA4KIV9EnsTVoZYbFwSZk+vW7WlKN4vzFtS3LF2r62zdH8YF2tpKvFyUZoElow==
+2 _ENCR 1
+1 _CLON
+2 _TID 867186
+2 _PID -1465787767
+2 _OID b6999bf3-cb6b-46e4-ae10-fbd5edadb368
+2 _USER OEkD/9kIp0YkfBRBIXKvQw04aeMLAcpEucn0+yd0a7xw45dTTdFSeNF3rxz9XG8I+npwSw07P6RBh6svv7Of6A==
+3 _ENCR 1
+2 _DATE 2010-12-01 16:01:08.000
+1 _ORIG u
+1 _MSER
+2 _LKID b6999bf3-cb6b-46e4-ae10-fbd5edadb368
+1 _ATL N
+0 @O17@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE pjpeg
+3 _SIZE 50604
+3 _WDTH 300
+3 _HGHT 400
+2 TITL ST Mary The Virgin Church Dock Road Chatham Kent
+1 RIN dd06c17c-4a21-4667-9b0e-9773e16870ec
+1 PLAC Chatham Kent
+1 _DSCR ST Mary The Virgin Church
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-11-04 06:20:31.305
+1 _USER NHkA0coSd2aHqsrJhbCA9YxB4Y8D6HYj3A2plf6anjxGRWQjHBpUTv95g3Fl9uG2th1zGSL/A6jxPfMN5yG0pg==
+2 _ENCR 1
+1 _CLON
+2 _TID 2152005
+2 _PID 524111027
+2 _OID c71a352a-12c1-42e7-bdd2-97a8e6dfcfce
+2 _USER pXBrF/ctt4iC0zwTyV3fkBQm9L8zLNzcUCd9YFp0eoBW7i1irVzu65Cb8SnADunzWXviprH06G5A4egyIyKv+w==
+3 _ENCR 1
+2 _DATE 2013-04-21 07:00:10.000
+1 _ORIG u
+1 _MSER
+2 _LKID c71a352a-12c1-42e7-bdd2-97a8e6dfcfce
+1 _ATL N
+0 @S104764746@ SOUR
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+1 _APID 1,1030::0
+1 REPO @R5721681@
+0 @R5721681@ REPO
+1 NAME Ancestry.com
+0 TRLR

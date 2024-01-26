@@ -1,0 +1,2825 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2022.08
+2 _TREE Lindsay Body Family Tree
+3 RIN 193722233
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 18 Oct 2023
+2 TIME 02:59:15
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I352535062608@ INDI
+1 NAME Lindsay /Body/
+2 GIVN Lindsay
+2 SURN Body
+1 SEX F
+1 FAMC @F17@
+0 @I352535062609@ INDI
+1 NAME Frank /Edwards/
+2 GIVN Frank
+2 SURN Edwards
+2 SOUR @S1353420274@
+3 PAGE General Register Office; United Kingdom; Volume: 7c; Page: 141
+3 _APID 1,8753::34365227
+1 SEX M
+1 FAMS @F17@
+1 BIRT
+2 DATE 8 Nov 1936
+2 PLAC Wolverhampton, Staffordshire, England
+0 @I352535062694@ INDI
+1 NAME Muriel P /Barber/
+2 GIVN Muriel P
+2 SURN Barber
+2 SOUR @S1353420274@
+3 _APID 1,8753::34349643
+2 SOUR @S1353420316@
+3 PAGE General Register Office; United Kingdom; Reference: Volume 5c, Page 318
+3 _APID 1,8782::31944615
+1 SEX F
+1 FAMC @F33@
+1 FAMS @F17@
+1 BIRT
+2 DATE Jul 1937
+2 PLAC Bridgwater, Somerset
+2 SOUR @S1353420316@
+3 PAGE General Register Office; United Kingdom; Reference: Volume 5c, Page 318
+3 _APID 1,8782::31944615
+0 @I352535062795@ INDI
+1 NAME Joel /Barber/
+2 GIVN Joel
+2 SURN Barber
+2 SOUR @S1353420439@
+3 _APID 1,8912::45304258
+1 SEX M
+1 FAMC @F11@
+1 FAMS @F33@
+1 BIRT
+2 DATE July 1912
+2 PLAC Bridgwater, Somerset, England
+2 SOUR @S1353420439@
+3 _APID 1,8912::45304258
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621779:1030:42183764
+0 @I352535062815@ INDI
+1 NAME Barbara Frances G /Hallett/
+2 GIVN Barbara Frances G
+2 SURN Hallett
+2 SOUR @S1353420407@
+3 DATA
+4 WWW https://gw.geneanet.org/wrapalmergmail?n=hallett&oc=&p=barbara+frances+g
+3 _APID 1,62476::4776431929
+1 SEX F
+1 FAMC @F29@
+1 FAMS @F33@
+1 BIRT
+2 DATE 23 September 1915
+2 PLAC BRISTOL Avon, Avon, England, United Kingdom
+2 SOUR @S1353420407@
+3 DATA
+4 WWW https://gw.geneanet.org/wrapalmergmail?n=hallett&oc=&p=barbara+frances+g
+3 _APID 1,62476::4776431929
+1 DEAT
+2 DATE 1981
+2 PLAC TAUNTON Somerset, Somerset, England, United Kingdom
+2 SOUR @S1353420407@
+3 DATA
+4 WWW https://gw.geneanet.org/wrapalmergmail?n=hallett&oc=&p=barbara+frances+g
+3 _APID 1,62476::4776431929
+0 @I352535062925@ INDI
+1 NAME John A /Barber/
+2 GIVN John A
+2 SURN Barber
+1 SEX M
+1 FAMC @F35@
+1 FAMS @F11@
+1 BIRT
+2 DATE 1864
+2 PLAC Bridgwater, Somerset, England
+1 DEAT
+2 DATE 11 Jan 1939
+2 PLAC Bridgwater, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621781:1030:42183764
+1 OBJE @O12@
+2 _PRIM Y
+1 OBJE @O15@
+1 OBJE @O10@
+1 OBJE @O14@
+1 OBJE @O5@
+0 @I352535062977@ INDI
+1 NAME Alice Lucy /Dyer/
+2 GIVN Alice Lucy
+2 SURN Dyer
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520438
+2 SOUR @S1353421004@
+3 _APID 1,7619::14765682
+1 SEX F
+1 FAMC @F12@
+1 FAMS @F11@
+1 BIRT
+2 DATE Oct 1870
+2 PLAC Bridgwater, Somerset, England
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520438
+2 SOUR @S1353421004@
+3 _APID 1,7619::14765682
+1 RESI
+2 DATE 1871
+2 PLAC Bridgewater, St Mary, Somerset, England
+2 SOUR @S1353421004@
+3 _APID 1,7619::14765682
+1 RESI
+2 DATE 1881
+2 PLAC Bridgewater, Somerset, England
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520438
+1 DEAT
+2 DATE Abt. Jul 1952
+2 PLAC Bridgwater, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621782:1030:42183764
+0 @I352535063054@ INDI
+1 NAME Herbert John /Hallett/
+2 GIVN Herbert John
+2 SURN Hallett
+1 SEX M
+1 FAMC @F22@
+1 FAMS @F29@
+1 BIRT
+2 DATE 2 Apr 1880
+2 PLAC Newport, Monmouthshire, Wales
+1 DEAT
+2 DATE Jun 1940
+2 PLAC Taunton, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 382382233656:1030:183006048
+1 OBJE @O8@
+2 _PRIM Y
+0 @I352535063089@ INDI
+1 NAME Alice May /Gilling/
+2 GIVN Alice May
+2 SURN Gilling
+1 SEX F
+1 FAMC @F34@
+1 FAMS @F29@
+1 BIRT
+2 DATE 1882
+2 PLAC Bridgwater, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 382383019746:1030:183006048
+0 @I352535063181@ INDI
+1 NAME Richard /Gilling/
+2 GIVN Richard
+2 SURN Gilling
+1 SEX M
+1 FAMC @F16@
+1 FAMS @F34@
+1 BIRT
+2 DATE abt 1850
+2 PLAC Bridgwater, Somerset, England
+1 DEAT
+2 DATE Dec 1941
+2 PLAC Bridgwater, Somerset, England
+0 @I352535063188@ INDI
+1 NAME Emma /Creedy/
+2 GIVN Emma
+2 SURN Creedy
+1 SEX F
+1 FAMC @F9@
+1 FAMS @F34@
+1 BIRT
+2 DATE abt 1845
+2 PLAC Bridgwater, Somerset, England
+1 DEAT
+2 DATE April 1910
+2 PLAC Bridgwater, Somerset
+0 @I352535063202@ INDI
+1 NAME Mary Jane /Bartram/
+2 GIVN Mary Jane
+2 SURN Bartram
+2 SOUR @S1353420464@
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somerset Parish Records, 1538-1914; Reference Number: D\P\bw.m/2/1/38
+3 _APID 1,60858::900872071
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520415
+2 SOUR @S1353421004@
+3 _APID 1,7619::14765680
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029320
+1 SEX F
+1 FAMC @F14@
+1 FAMS @F12@
+1 BIRT
+2 DATE abt 1845
+2 PLAC B Water, Somerset, England
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520415
+2 SOUR @S1353421004@
+3 _APID 1,7619::14765680
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029320
+1 RESI
+2 DATE 1861
+2 PLAC Bridgwater, St Mary, Bridgwater, Somerset, England
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029320
+1 RESI
+2 DATE 1871
+2 PLAC Bridgewater, St Mary, Somerset, England
+2 SOUR @S1353421004@
+3 _APID 1,7619::14765680
+1 RESI
+2 DATE 1881
+2 PLAC Bridgewater, Somerset, England
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520415
+1 DEAT
+2 DATE abt 1908
+2 PLAC Somerset, United Kingdom
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 5100479898:1030:27926862
+0 @I352535063233@ INDI
+1 NAME John /Dyer/
+2 GIVN John
+2 SURN Dyer
+2 SOUR @S1353420464@
+3 _APID 1,60858::872071
+2 SOUR @S1353420514@
+3 PAGE Class: RG11; Piece: 2374; Folio: 59; Page: 7; GSU roll: 1341571
+3 _APID 1,7572::18520504
+2 SOUR @S1353420976@
+3 _APID 1,60857::429415
+2 SOUR @S1353421004@
+3 PAGE The National Archives; Kew, London, England; 1871 England Census; Class: RG10; Piece: 2386; Folio: 79; Page: 26; GSU roll: 835108
+3 _APID 1,7619::14765679
+1 SEX M
+1 FAMC @F18@
+1 FAMS @F12@
+1 BIRT
+2 DATE abt 1845
+2 PLAC Enmore, Somerset, England
+2 SOUR @S1353420514@
+3 PAGE Class: RG11; Piece: 2374; Folio: 59; Page: 7; GSU roll: 1341571
+3 _APID 1,7572::18520504
+2 SOUR @S1353421004@
+3 PAGE The National Archives; Kew, London, England; 1871 England Census; Class: RG10; Piece: 2386; Folio: 79; Page: 26; GSU roll: 835108
+3 _APID 1,7619::14765679
+1 BAPM
+2 DATE 30 Oct 1842
+2 PLAC Enmore, Somerset, England
+2 SOUR @S1353420976@
+3 _APID 1,60857::429415
+1 RESI
+2 DATE 1871
+2 PLAC Bridgewater, St Mary, Somerset, England
+2 SOUR @S1353421004@
+3 PAGE The National Archives; Kew, London, England; 1871 England Census; Class: RG10; Piece: 2386; Folio: 79; Page: 26; GSU roll: 835108
+3 _APID 1,7619::14765679
+1 RESI
+2 DATE 1881
+2 PLAC Bridgewater, Somerset, England
+2 SOUR @S1353420514@
+3 PAGE Class: RG11; Piece: 2374; Folio: 59; Page: 7; GSU roll: 1341571
+3 _APID 1,7572::18520504
+0 @I352535063234@ INDI
+1 NAME George /Bartram/
+2 GIVN George
+2 SURN Bartram
+2 SOUR @S1353420464@
+3 _APID 1,60858::1350872071
+2 SOUR @S1353421085@
+3 PAGE Class: Rg 9; Piece: 1624; Folio: 132; Page: 21; GSU roll: 542841
+3 _APID 1,8767::19029317
+1 SEX M
+1 FAMC @F7@
+1 FAMS @F14@
+1 BIRT
+2 DATE May 20 1809
+2 PLAC Stogumber, Somerset, England
+2 SOUR @S1353421085@
+3 PAGE Class: Rg 9; Piece: 1624; Folio: 132; Page: 21; GSU roll: 542841
+3 _APID 1,8767::19029317
+1 RESI
+2 DATE 1861
+2 PLAC Bridgwater, St Mary, Bridgwater, Somerset, England
+2 SOUR @S1353421085@
+3 PAGE Class: Rg 9; Piece: 1624; Folio: 132; Page: 21; GSU roll: 542841
+3 _APID 1,8767::19029317
+1 DEAT
+2 DATE Jan 1893
+2 PLAC Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 5098638627:1030:27926862
+0 @I352535063359@ INDI
+1 NAME Mary Jane /Dyer/
+2 GIVN Mary Jane
+2 SURN Dyer
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520481
+1 SEX F
+1 FAMC @F12@
+1 BIRT
+2 DATE abt 1866
+2 PLAC Bridgwater, Somerset, England
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520481
+1 RESI
+2 DATE 1881
+2 PLAC Bridgewater, Somerset, England
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520481
+0 @I352535063360@ INDI
+1 NAME Elizabeth /Dyer/
+2 GIVN Elizabeth
+2 SURN Dyer
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520527
+2 SOUR @S1353421004@
+3 _APID 1,7619::14765681
+1 SEX F
+1 FAMC @F12@
+1 BIRT
+2 DATE abt 1868
+2 PLAC Bridgwater, Somerset, England
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520527
+2 SOUR @S1353421004@
+3 _APID 1,7619::14765681
+1 RESI
+2 DATE 1871
+2 PLAC Bridgewater, St Mary, Somerset, England
+2 SOUR @S1353421004@
+3 _APID 1,7619::14765681
+1 RESI
+2 DATE 1881
+2 PLAC Bridgewater, Somerset, England
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520527
+0 @I352535063361@ INDI
+1 NAME William John /Dyer/
+2 GIVN William John
+2 SURN Dyer
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520495
+1 SEX M
+1 FAMC @F12@
+1 BIRT
+2 DATE abt 1877
+2 PLAC Bridgwater, Somerset, England
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520495
+1 RESI
+2 DATE 1881
+2 PLAC Bridgewater, Somerset, England
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520495
+0 @I352535063362@ INDI
+1 NAME Clara /Dyer/
+2 GIVN Clara
+2 SURN Dyer
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520426
+1 SEX F
+1 FAMC @F12@
+1 BIRT
+2 DATE abt 1880
+2 PLAC Bridgwater, Somerset, England
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520426
+1 RESI
+2 DATE 1881
+2 PLAC Bridgewater, Somerset, England
+2 SOUR @S1353420514@
+3 _APID 1,7572::18520426
+0 @I352535063429@ INDI
+1 NAME Elizabeth /Guard/
+2 GIVN Elizabeth
+2 SURN Guard
+2 SOUR @S1353420464@
+3 _APID 1,60858::902909356
+2 SOUR @S1353420976@
+3 _APID 1,60857::300429415
+1 SEX F
+1 FAMS @F18@
+1 BIRT
+2 DATE 1798
+2 PLAC Wiveliscombe, Somerset, England
+1 DEAT
+2 DATE Apr 10  1877
+2 PLAC Somerset, England
+0 @I352535063505@ INDI
+1 NAME William /Dyer/
+2 GIVN William
+2 SURN Dyer
+2 SOUR @S1353420464@
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somerset Parish Records, 1538-1914; Reference Number: D\P\enm/2/1/6
+3 _APID 1,60858::2909356
+2 SOUR @S1353420976@
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Reference Number: D\P\enm/2/1/4
+3 _APID 1,60857::150429415
+1 SEX M
+1 FAMC @F39@
+1 FAMS @F18@
+1 BIRT
+2 DATE Abt. 1816
+2 PLAC Somerset
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621927:1030:42183764
+0 @I352535063960@ INDI
+1 NAME Henry /Barber/
+2 GIVN Henry
+2 SURN Barber
+2 SOUR @S1353421373@
+3 PAGE Class: HO107; Piece: 1931; Folio: 730; Page: 20; GSU roll: 221088-221089
+3 _APID 1,8860::7319856
+1 SEX M
+1 FAMC @F6@
+1 FAMS @F35@
+1 BIRT
+2 DATE 1834
+2 PLAC Brewham, Somerset, England
+2 SOUR @S1353421373@
+3 PAGE Class: HO107; Piece: 1931; Folio: 730; Page: 20; GSU roll: 221088-221089
+3 _APID 1,8860::7319856
+1 RESI
+2 DATE 1851
+2 PLAC South Brewham, Somerset, England
+2 SOUR @S1353421373@
+3 PAGE Class: HO107; Piece: 1931; Folio: 730; Page: 20; GSU roll: 221088-221089
+3 _APID 1,8860::7319856
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621783:1030:42183764
+2 _APID 320053400423:1030:73226128
+0 @I352535063961@ INDI
+1 NAME Jane /Bartlett/
+2 GIVN Jane
+2 SURN Bartlett
+1 SEX F
+1 FAMS @F35@
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621784:1030:42183764
+2 _APID 322228164423:1030:73226128
+0 @I352535063962@ INDI
+1 NAME Elizabeth /Barber/
+2 GIVN Elizabeth
+2 SURN Barber
+1 SEX F
+1 FAMC @F35@
+1 BIRT
+2 DATE Abt. 1867
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621785:1030:42183764
+0 @I352535063963@ INDI
+1 NAME Eva Wittridge /Barber/
+2 GIVN Eva Wittridge
+2 SURN Barber
+1 SEX F
+1 FAMC @F11@
+1 BIRT
+2 DATE Abt. 1889
+1 DEAT
+2 DATE Abt. 1889
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621786:1030:42183764
+0 @I352535063965@ INDI
+1 NAME John Henry /Dyer/
+2 GIVN John Henry
+2 SURN Dyer
+1 SEX M
+1 FAMC @F11@
+1 BIRT
+2 DATE Abt. 1888
+1 DEAT
+2 DATE 1962
+2 PLAC Bridgwater  Somerset
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621787:1030:42183764
+0 @I352535063966@ INDI
+1 NAME Jane /Barber/
+2 GIVN Jane
+2 SURN Barber
+1 SEX F
+1 FAMC @F11@
+1 BIRT
+2 DATE Abt. 1890
+1 DEAT
+2 DATE 1995
+2 PLAC Wales
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621788:1030:42183764
+0 @I352535063967@ INDI
+1 NAME Clifford /Barber/
+2 GIVN Clifford
+2 SURN Barber
+1 SEX M
+1 FAMC @F11@
+1 BIRT
+2 DATE Abt. 1892
+2 PLAC Bridgwater, Somerset
+1 DEAT
+2 DATE 24 Jan 1916
+2 PLAC Basra, Mesopotamia.
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621789:1030:42183764
+0 @I352535063968@ INDI
+1 NAME Francis /Barber/
+2 GIVN Francis
+2 SURN Barber
+1 SEX F
+1 FAMC @F11@
+1 BIRT
+2 DATE Abt. 1895
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621790:1030:42183764
+0 @I352535063969@ INDI
+1 NAME Leonard /Barber/
+2 GIVN Leonard
+2 SURN Barber
+1 SEX M
+1 FAMC @F11@
+1 BIRT
+2 DATE Abt. 1898
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621791:1030:42183764
+0 @I352535063970@ INDI
+1 NAME Stanley Watson W /Barber/
+2 GIVN Stanley Watson W
+2 SURN Barber
+1 SEX M
+1 FAMC @F11@
+1 BIRT
+2 DATE Abt. 1900
+1 DEAT
+2 DATE Abt. 1959
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621792:1030:42183764
+0 @I352535063971@ INDI
+1 NAME Alfred /Barber/
+2 GIVN Alfred
+2 SURN Barber
+1 SEX M
+1 FAMC @F11@
+1 BIRT
+2 DATE Abt. 1903
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621793:1030:42183764
+0 @I352535063972@ INDI
+1 NAME Maggie /Barber/
+2 GIVN Maggie
+2 SURN Barber
+1 SEX F
+1 FAMC @F11@
+1 BIRT
+2 DATE Abt. 1905
+1 DEAT
+2 DATE Abt. 2003
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621794:1030:42183764
+0 @I352535063973@ INDI
+1 NAME Herbert Henry J /Barber/
+2 GIVN Herbert Henry J
+2 SURN Barber
+1 SEX M
+1 FAMC @F11@
+1 BIRT
+2 DATE 11 Jan 1909
+2 PLAC Bridgwater, Somerset
+1 DEAT
+2 DATE 28 Jan 1997
+2 PLAC Sedgemoor, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621795:1030:42183764
+0 @I352535063974@ INDI
+1 NAME Leslie /Barber/
+2 GIVN Leslie
+2 SURN Barber
+1 SEX M
+1 FAMC @F11@
+1 BIRT
+2 DATE Abt. 1911
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621796:1030:42183764
+0 @I352535063975@ INDI
+1 NAME Gladys /Barber/
+2 GIVN Gladys
+2 SURN Barber
+1 SEX F
+1 FAMC @F11@
+1 BIRT
+2 DATE Abt. 1914
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 19742621797:1030:42183764
+0 @I352535064363@ INDI
+1 NAME John /Hallett/
+2 GIVN John
+2 SURN Hallett
+1 SEX M
+1 FAMC @F30@
+1 FAMS @F22@
+1 BIRT
+2 DATE abt 1859
+2 PLAC Kingsbury Episcopi, Somerset, England, United Kingdom
+1 DEAT
+2 DATE 11 Apr 1939
+2 PLAC Bridgwater, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 382382233665:1030:183006048
+0 @I352535064365@ INDI
+1 NAME Anna Maria /Dowden/
+2 GIVN Anna Maria
+2 SURN Dowden
+1 SEX F
+1 FAMC @F25@
+1 FAMS @F22@
+1 BIRT
+2 DATE 30 Jul 1856
+2 PLAC Weston Zoyland, Somerset, England
+1 DEAT
+2 DATE Jul 1940
+2 PLAC Bridgwater, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 382382233666:1030:183006048
+0 @I352535064366@ INDI
+1 NAME Ellen Eliza /Hallett/
+2 GIVN Ellen Eliza
+2 SURN Hallett
+1 SEX F
+1 FAMC @F22@
+1 BIRT
+2 DATE 15 Feb 1886
+2 PLAC Bridgwater, Somerset, England
+1 DEAT
+2 DATE 9 Oct 1974
+2 PLAC Dartmouth, South Hams District, Devon, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 382382232114:1030:183006048
+0 @I352535064367@ INDI
+1 NAME Annie Louisa /Hallett/
+2 GIVN Annie Louisa
+2 SURN Hallett
+1 SEX F
+1 FAMC @F22@
+1 BIRT
+2 DATE 15 Nov 1884
+2 PLAC Bridgewater, Somerset, England
+1 DEAT
+2 DATE Oct 1974
+2 PLAC Sedgemoor, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 382382233657:1030:183006048
+0 @I352535064368@ INDI
+1 NAME Mabel Sarah /Hallett/
+2 GIVN Mabel Sarah
+2 SURN Hallett
+1 SEX F
+1 FAMC @F22@
+1 BIRT
+2 DATE 5 May 1890
+2 PLAC Bridgwater, Somerset, England
+1 DEAT
+2 DATE 21 Jan 1979
+2 PLAC Instow, Bideford, Devon, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 382382233658:1030:183006048
+0 @I352535064369@ INDI
+1 NAME Lily May /Hallett/
+2 GIVN Lily May
+2 SURN Hallett
+1 SEX F
+1 FAMC @F22@
+1 BIRT
+2 DATE 1 Oct 1893
+2 PLAC Bridgwater, Somerset, England
+1 DEAT
+2 DATE Jan 1975
+2 PLAC Bridport, Dorset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 382382233659:1030:183006048
+0 @I352535064370@ INDI
+1 NAME Bertie George /Hallett/
+2 GIVN Bertie George
+2 SURN Hallett
+1 SEX M
+1 FAMC @F22@
+1 BIRT
+2 DATE 1 Jun 1895
+2 PLAC Bridgewater, Somerset, England
+1 DEAT
+2 DATE Oct 1960
+2 PLAC Bridgwater, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 382382233662:1030:183006048
+0 @I352535064371@ INDI
+1 NAME Gladys Irene /Hallett/
+2 GIVN Gladys Irene
+2 SURN Hallett
+1 SEX F
+1 FAMC @F22@
+1 BIRT
+2 DATE 2 Dec 1898
+2 PLAC Bridgewater, Somerset, England
+1 DEAT
+2 DATE Jul 1953
+2 PLAC Bridgwater, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 382382233663:1030:183006048
+0 @I352535064373@ INDI
+1 NAME Eva Maud /Hallett/
+2 GIVN Eva Maud
+2 SURN Hallett
+1 SEX F
+1 FAMC @F22@
+1 BIRT
+2 DATE Oct 1898
+2 PLAC Bridgwater, Somerset, England
+1 DEAT
+2 DATE June 1902
+2 PLAC Somerset, United Kingdom
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 382382233664:1030:183006048
+0 @I352535064375@ INDI
+1 NAME Job /Hallett/
+2 GIVN Job
+2 SURN Hallett
+1 SEX M
+1 FAMC @F22@
+1 BIRT
+2 DATE 15 Oct 1881
+2 PLAC Bridgewater, Somerset, England
+1 DEAT
+2 DATE 9 June 1941
+2 PLAC Bridgwater, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 382382402662:1030:183006048
+0 @I352535064382@ INDI
+1 NAME Bessie Beatrice /Hallett/
+2 GIVN Bessie Beatrice
+2 SURN Hallett
+1 SEX F
+1 FAMC @F22@
+1 BIRT
+2 DATE 28 Jul 1891
+2 PLAC Bridgwater, Somerset
+1 DEAT
+2 DATE Oct 1954
+2 PLAC Taunton, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 382382402779:1030:183006048
+0 @I352535064383@ INDI
+1 NAME Eva Emma /Hallett/
+2 GIVN Eva Emma
+2 SURN Hallett
+1 SEX F
+1 FAMC @F29@
+1 BIRT
+2 DATE abt 1904
+2 PLAC Highbridge, Somerset
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 382383019742:1030:183006048
+0 @I352535064384@ INDI
+1 NAME Alice Gwendoline /Hallett/
+2 GIVN Alice Gwendoline
+2 SURN Hallett
+1 SEX F
+1 FAMC @F29@
+1 BIRT
+2 DATE abt 1905
+2 PLAC Highbridge, Somerset
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 382383019744:1030:183006048
+0 @I352535064386@ INDI
+1 NAME Herbert William John /Hallett/
+2 GIVN Herbert William John
+2 SURN Hallett
+1 SEX M
+1 FAMC @F29@
+1 BIRT
+2 DATE 29 Dec 1907
+2 PLAC Highbridge, Somerset
+1 DEAT
+2 DATE Jul 2004
+2 PLAC Daventry, Northamptonshire, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 382383019745:1030:183006048
+0 @I352535064476@ INDI
+1 NAME Lucinda \ Lucy /Barnard/
+2 GIVN Lucinda \ Lucy
+2 SURN Barnard
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029318
+1 SEX F
+1 FAMC @F32@
+1 FAMS @F14@
+1 BIRT
+2 DATE 1814
+2 PLAC Bath, Somerset, England
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029318
+1 RESI
+2 DATE 1861
+2 PLAC Bridgwater, St Mary, Bridgwater, Somerset, England
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029318
+1 DEAT
+2 DATE abt 25 Nov 1872
+2 PLAC Bridgwater, Somerset
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 5098638792:1030:27926862
+0 @I352535064497@ INDI
+1 NAME Thomas /Hallett/
+2 GIVN Thomas
+2 SURN Hallett
+1 SEX M
+1 FAMC @F36@
+1 FAMS @F30@
+1 BIRT
+2 DATE 4 Mar 1820
+2 PLAC Kingsbury, Somerset, England
+1 DEAT
+2 DATE 18 May 1871
+2 PLAC Kingsbury Episcopi, Somerset, England
+1 OBJE @O13@
+2 _PRIM Y
+0 @I352535064502@ INDI
+1 NAME Caroline /Eves/
+2 GIVN Caroline
+2 SURN Eves
+1 SEX F
+1 FAMC @F24@
+1 FAMS @F30@
+1 BIRT
+2 DATE 10 Apr 1824
+2 PLAC Kingsbury Episcopi, Somerset, England, United Kingdom
+1 DEAT
+2 DATE 03 Dec 1913
+2 PLAC Kingsbury Episcopi, Somerset, England
+1 OBJE @O13@
+2 _PRIM Y
+2 _CROP
+3 _LEFT 952
+3 _TOP 1027
+3 _WDTH 1195
+3 _HGHT 1195
+3 _TYPE primary
+0 @I352535064504@ INDI
+1 NAME John /Dowden/
+2 GIVN John
+2 SURN Dowden
+1 SEX M
+1 FAMC @F21@
+1 FAMS @F25@
+1 BIRT
+2 DATE abt 1813
+2 PLAC Bawdrip, Somerset, England
+1 DEAT
+2 DATE March 1896
+2 PLAC Somerset, United Kingdom
+0 @I352535064508@ INDI
+1 NAME Eliza /Ellis/
+2 GIVN Eliza
+2 SURN Ellis
+1 SEX F
+1 FAMC @F23@
+1 FAMS @F25@
+1 BIRT
+2 DATE 25 Dec 1816
+2 PLAC Weston Zoyland, Somerset, England
+0 @I352535064516@ INDI
+1 NAME William /Gilling/
+2 GIVN William
+2 SURN Gilling
+1 SEX M
+1 FAMC @F28@
+1 FAMS @F16@
+1 BIRT
+2 DATE Abt. 1816
+2 PLAC Bridgwater, Somerset, England
+1 DEAT
+2 DATE 1896
+2 PLAC Bridgwater, Somerset, England
+0 @I352535064519@ INDI
+1 NAME Sarah /Pook/
+2 GIVN Sarah
+2 SURN Pook
+1 SEX F
+1 FAMC @F38@
+1 FAMS @F16@
+1 BIRT
+2 DATE 08 May 1814
+2 PLAC Maiden Down, Devon, England
+1 DEAT
+2 DATE 1894
+2 PLAC Bridgwater, Somerset, England.
+1 OBJE @O7@
+2 _PRIM Y
+0 @I352535064523@ INDI
+1 NAME James /Creedy/
+2 GIVN James
+2 SURN Creedy
+1 SEX M
+1 FAMC @F10@
+1 FAMS @F9@
+1 BIRT
+2 DATE 31 March 1816
+2 PLAC Bridgewater, Somerset, England, United Kingdom
+1 DEAT
+2 DATE 12 October 1913
+2 PLAC 84 Bristol Rd Bridgwater, Somerset, England, United Kingdom
+1 OBJE @O4@
+2 _PRIM Y
+0 @I352535064527@ INDI
+1 NAME Elizabeth /Andrews/
+2 GIVN Elizabeth
+2 SURN Andrews
+1 SEX F
+1 FAMC @F20@
+1 FAMS @F9@
+1 BIRT
+2 DATE 1820
+2 PLAC Castle Cary Somerset England
+1 DEAT
+2 DATE April 1879
+2 PLAC Bridgwater, Somerset
+0 @I352535064586@ INDI
+1 NAME Samuel /Barnard/
+2 GIVN Samuel
+2 SURN Barnard
+1 SEX M
+1 FAMC @F42@
+1 FAMS @F32@
+1 BIRT
+2 DATE Abt. 1789
+2 PLAC Stoke St Gregory, Somerset, England
+1 DEAT
+2 DATE Nov 1862
+2 PLAC Oath Hill, Somerset, United Kingdom
+1 OBJE @O11@
+2 _PRIM Y
+0 @I352535064592@ INDI
+1 NAME Hannah \ Anna /Hussey/
+2 GIVN Hannah \ Anna
+2 SURN Hussey
+1 SEX F
+1 FAMC @F44@
+1 FAMS @F32@
+1 BIRT
+2 DATE 1785
+2 PLAC Curry Rivel,? Bridgewater ?  Somerset, England
+1 DEAT
+2 DATE ??? Jan  1874 
+2 PLAC Langport, Somerset, England, UK
+1 OBJE @O16@
+2 _PRIM Y
+0 @I352535064594@ INDI
+1 NAME John /Hallett/
+2 GIVN John
+2 SURN Hallett
+1 SEX M
+1 FAMC @F45@
+1 FAMS @F36@
+1 BIRT
+2 DATE 10 Mar 1796
+2 PLAC Kingsbury Episcopi, Somerset, England
+1 DEAT
+2 DATE 14 Jan 1857
+2 PLAC Paterson, Dungog Shire, New South Wales, Australia
+0 @I352535064602@ INDI
+1 NAME Sarah /Male/
+2 GIVN Sarah
+2 SURN Male
+1 SEX F
+1 FAMC @F43@
+1 FAMS @F36@
+1 BIRT
+2 DATE ABT 1797
+2 PLAC Kingsbury Episcopi, SOMERSET,  ENGLAND, UNITED KINGDOM
+1 DEAT
+2 DATE April 1873
+2 PLAC Bristol, Gloucestershire
+0 @I352535064610@ INDI
+1 NAME Henry /Eves/ *
+2 GIVN Henry
+2 SURN Eves
+2 NSFX *
+1 SEX M
+1 FAMS @F24@
+1 BIRT
+2 DATE 17 Nov 1789
+2 PLAC Kingsbury Episcopi, Somerset, England, United Kingdom
+1 DEAT
+2 DATE 28 Aug 1864
+2 PLAC Kingsbury Episcopi, Somerset, England - Langport Registration District.
+0 @I352535064613@ INDI
+1 NAME Samuel /Dowden/
+2 GIVN Samuel
+2 SURN Dowden
+1 SEX M
+1 FAMC @F40@
+1 FAMS @F21@
+1 BIRT
+2 DATE abt 1770
+2 PLAC Somerset, England
+1 DEAT
+2 DATE abt 1842
+2 PLAC Bawdrip, Somerset, England
+0 @I352535064614@ INDI
+1 NAME Mary /Hull/ *
+2 GIVN Mary
+2 SURN Hull
+2 NSFX *
+1 SEX F
+1 FAMC @F27@
+1 FAMS @F24@
+1 BIRT
+2 DATE Jul 1790
+2 PLAC East Coker, Devon, England
+1 DEAT
+2 DATE Jul 1869
+2 PLAC Kingsbury Episcopi, SOMERSET, ENGLAND, UNITED KINGDOM
+0 @I352535064616@ INDI
+1 NAME Sarah /Cane/
+2 GIVN Sarah
+2 SURN Cane
+1 SEX F
+1 FAMS @F21@
+1 BIRT
+2 DATE Jul 1798
+2 PLAC Huntspill, Somerset, England
+1 DEAT
+2 DATE Feb 1874
+2 PLAC Bawdrip, Sedgemoor District, Somerset, England
+0 @I352535064619@ INDI
+1 NAME Thomas /Ellis/
+2 GIVN Thomas
+2 SURN Ellis
+1 SEX M
+1 FAMC @F15@
+1 FAMS @F23@
+1 BIRT
+2 DATE 7 Mar 1790
+2 PLAC Weston Zoyland, Somerset, England
+1 DEAT
+2 DATE 11 Jul 1868
+2 PLAC Bridgwater, Somerset, England
+0 @I352535064622@ INDI
+1 NAME Joan /Bright/
+2 GIVN Joan
+2 SURN Bright
+1 SEX F
+1 FAMC @F8@
+1 FAMS @F23@
+1 BIRT
+2 DATE 10 Apr 1791
+2 PLAC Enmore, Somerset, England
+1 DEAT
+2 DATE 27 Nov 1853
+2 PLAC Westonzoyland, Somerset, England
+1 OBJE @O1@
+2 _PRIM Y
+0 @I352535064629@ INDI
+1 NAME Hugh /Gilling/
+2 GIVN Hugh
+2 SURN Gilling
+1 SEX M
+1 FAMC @F41@
+1 FAMS @F28@
+1 BIRT
+2 DATE Mar 1784
+2 PLAC Bridgwater, Somerset, England. 
+1 DEAT
+2 DATE May 1838
+2 PLAC Bridgwater, Somerset, England.
+0 @I352535064636@ INDI
+1 NAME Elizabeth /Cridland/
+2 GIVN Elizabeth
+2 SURN Cridland
+1 SEX F
+1 FAMC @F19@
+1 FAMS @F28@
+1 BIRT
+2 DATE 1775
+2 PLAC St Decumans, Somerset, England.
+1 DEAT
+2 DATE Jun 1869
+2 PLAC Somerset, England.
+1 OBJE @O3@
+2 _PRIM Y
+0 @I352535064645@ INDI
+1 NAME Ann /Leyman/
+2 GIVN Ann
+2 SURN Leyman
+1 SEX F
+1 FAMS @F38@
+1 BIRT
+2 DATE 1788
+2 PLAC Plymtree, Devon, England
+0 @I352535064651@ INDI
+1 NAME John /Creedy/
+2 GIVN John
+2 SURN Creedy
+1 SEX M
+1 FAMC @F4@
+1 FAMS @F10@
+1 BIRT
+2 DATE abt 1772
+1 DEAT
+2 DATE abt 1846
+2 PLAC Bridgwater, Somerset
+0 @I352535064655@ INDI
+1 NAME Mary* /Tamlyn/
+2 GIVN Mary*
+2 SURN Tamlyn
+1 SEX F
+1 FAMC @F5@
+1 FAMS @F10@
+1 BIRT
+2 DATE 1784
+2 PLAC Wembdon, Somerset, England.
+1 DEAT
+2 DATE 10 Dec 1852
+2 PLAC Bridgwater, Somerset, England.
+1 OBJE @O9@
+2 _PRIM Y
+0 @I352535064661@ INDI
+1 NAME Matthew /Andrews/
+2 GIVN Matthew
+2 SURN Andrews
+1 SEX M
+1 FAMC @F1@
+1 FAMS @F20@
+1 BIRT
+2 DATE 7 Feb 1795
+2 PLAC Lamyatt
+1 DEAT
+2 DATE abt 1871
+0 @I352535064663@ INDI
+1 NAME Jane /Hamblyn/
+2 GIVN Jane
+2 SURN Hamblyn
+1 SEX F
+1 FAMC @F2@
+1 FAMS @F20@
+1 BIRT
+2 DATE 1792
+2 PLAC Castle Cary Somerset England
+1 DEAT
+2 DATE 1848
+2 PLAC  Bridgwater Somerset England
+0 @I352535064743@ INDI
+1 NAME Sarah /Inder/
+2 GIVN Sarah
+2 SURN Inder
+1 SEX F
+1 FAMS @F42@
+1 BIRT
+2 DATE 1735
+2 PLAC Martock, Somerset, England
+1 DEAT
+2 DATE 1815
+2 PLAC Somerset, England
+0 @I352535064748@ INDI
+1 NAME Henry /Hussey/
+2 GIVN Henry
+2 SURN Hussey
+1 SEX M
+1 FAMS @F44@
+1 BIRT
+2 DATE 1761
+2 PLAC Beercrocombe, Somerset, England
+1 DEAT
+2 DATE Sep 1838
+2 PLAC Curry Rivel, Somerset, England
+0 @I352535064753@ INDI
+1 NAME John /Hallett/
+2 GIVN John
+2 SURN Hallett
+1 SEX M
+1 FAMS @F45@
+1 BIRT
+2 DATE 1752
+2 PLAC Kingsbury Episcopi, Somerset, England
+1 DEAT
+2 DATE Abt. 1828
+0 @I352535064755@ INDI
+1 NAME Hannah /Priddle/
+2 GIVN Hannah
+2 SURN Priddle
+1 SEX F
+1 FAMS @F43@
+1 BIRT
+2 DATE ABT 1766
+2 PLAC Kingsbury Episcopi, Somerset, England, United Kingdom
+0 @I352535064758@ INDI
+1 NAME Matthew /HULL/
+2 GIVN Matthew
+2 SURN HULL
+1 SEX M
+1 FAMS @F27@
+1 BIRT
+2 DATE abt 1767
+2 PLAC Preston Plucknet, Somerset, England
+1 DEAT
+2 DATE 27 Dec 1829
+2 PLAC East Coker, Somerset, England
+0 @I352535064761@ INDI
+1 NAME Mary /Knight/
+2 GIVN Mary
+2 SURN Knight
+1 SEX F
+1 FAMS @F27@
+1 BIRT
+2 DATE 1767
+2 PLAC Martock, Somerset, England
+1 DEAT
+2 DATE 1845
+2 PLAC East Coker, Somerset, England
+0 @I352535064763@ INDI
+1 NAME Georgius /DOWDEN/
+2 GIVN Georgius
+2 SURN DOWDEN
+1 SEX M
+1 FAMS @F40@
+1 BIRT
+2 DATE 17 Jun 1739
+2 PLAC Cossington, Somerset, England
+1 DEAT
+2 DATE 24 Feb 1815
+2 PLAC Cossington, Somerset, England
+0 @I352535064766@ INDI
+1 NAME Thomas /Ellis/
+2 GIVN Thomas
+2 SURN Ellis
+1 SEX M
+1 FAMS @F15@
+1 BIRT
+2 DATE 1766
+2 PLAC Weston Zoyland, Somerset, England
+1 DEAT
+2 DATE 1802
+2 PLAC Weston Zoyland, Somerset, England
+0 @I352535064770@ INDI
+1 NAME Mary /Baker/
+2 GIVN Mary
+2 SURN Baker
+1 SEX F
+1 FAMS @F15@
+1 BIRT
+2 DATE 1763
+2 PLAC Weston Zoyland, Somerset, England
+1 DEAT
+2 DATE 23 May 1810
+2 PLAC Kingston, Somerset, England
+0 @I352535064777@ INDI
+1 NAME John /Bright/
+2 GIVN John
+2 SURN Bright
+1 SEX M
+1 FAMS @F8@
+1 BIRT
+2 DATE 07 Feb 1756
+2 PLAC Enmore, Somerset, England
+1 DEAT
+2 DATE 14 Jun 1831
+2 PLAC Bridgewater, Somerset, England
+0 @I352535064782@ INDI
+1 NAME Anne /GUNNINGHAM Bright/
+2 GIVN Anne
+2 SURN GUNNINGHAM Bright
+1 SEX F
+1 FAMS @F8@
+1 BIRT
+2 DATE 07 May 1756
+2 PLAC Enmore, Somerset, England
+1 DEAT
+2 DATE January 1841
+2 PLAC Enmore, Somerset, England
+0 @I352535064784@ INDI
+1 NAME Edward /Gilling/
+2 GIVN Edward
+2 SURN Gilling
+1 SEX M
+1 FAMS @F41@
+1 BIRT
+2 DATE 1750
+2 PLAC Bridgwater, Somerset, England. 
+0 @I352535064785@ INDI
+1 NAME John /Cridland/
+2 GIVN John
+2 SURN Cridland
+1 SEX M
+1 FAMS @F19@
+1 BIRT
+2 DATE 2 Feb 1728
+2 PLAC St Decumans - Watchet, Somerset, England
+1 DEAT
+2 DATE 1784
+2 PLAC St Decumans - Watchet, Somerset, England
+0 @I352535064786@ INDI
+1 NAME Christian /Heaman/
+2 GIVN Christian
+2 SURN Heaman
+1 SEX F
+1 FAMS @F19@
+1 BIRT
+2 DATE Sep 1725
+2 PLAC St Decumens, Watchet, Somerset
+1 DEAT
+2 DATE 10 Jul 1791
+2 PLAC St Decumans, Watchet, Somerset, England
+0 @I352535064796@ INDI
+1 NAME James /Creedy/
+2 GIVN James
+2 SURN Creedy
+1 SEX M
+1 FAMS @F4@
+1 BIRT
+2 DATE 1746
+2 PLAC Shepton Mallet, Somerset, England
+1 DEAT
+2 DATE 02 Dec 1786
+2 PLAC Shepton Mallet, Somerset, England.
+0 @I352535064800@ INDI
+1 NAME Sarah /Davis/
+2 GIVN Sarah
+2 SURN Davis
+1 SEX F
+1 FAMS @F4@
+1 BIRT
+2 DATE 1747
+1 DEAT
+2 DATE 02 Feb 1800
+2 PLAC England
+0 @I352535064803@ INDI
+1 NAME Richard /Tamlin/
+2 GIVN Richard
+2 SURN Tamlin
+1 SEX M
+1 FAMS @F5@
+1 BIRT
+2 DATE 1758
+2 PLAC Wembdon, Bridgwater, Somerset, England
+1 DEAT
+2 DATE Bef. 1792
+2 PLAC Bridgwater, Somerset, England
+0 @I352535064805@ INDI
+1 NAME Mary /Fielding/
+2 GIVN Mary
+2 SURN Fielding
+1 SEX F
+1 FAMS @F5@
+1 BIRT
+2 DATE 28 Feb 1756
+2 PLAC Bridgwater, Somerset, England
+0 @I352535064807@ INDI
+1 NAME William /Andrews/
+2 GIVN William
+2 SURN Andrews
+1 SEX M
+1 FAMS @F1@
+1 BIRT
+2 DATE 1764
+2 PLAC Castle Cary, Lanyatt, Somerset, England
+1 DEAT
+2 DATE October 1855
+2 PLAC Wincanton, Somerset
+0 @I352535064809@ INDI
+1 NAME Christain /Jacob/
+2 GIVN Christain
+2 SURN Jacob
+1 SEX F
+1 FAMS @F1@
+1 BIRT
+2 DATE 1759
+2 PLAC Castle Cary, Lanyatt., Somerset, England
+1 DEAT
+2 DATE 1833
+2 PLAC Stocklinch Mag., Somerset, England
+0 @I352535064811@ INDI
+1 NAME John /Hamblyn/
+2 GIVN John
+2 SURN Hamblyn
+1 SEX M
+1 FAMS @F2@
+1 BIRT
+2 DATE Bef. 07 Apr 1771
+2 PLAC Castle Cary, Somerset, England
+1 DEAT
+2 DATE 1823
+2 PLAC Castle Cary, Somerset, England
+0 @I352535064815@ INDI
+1 NAME Elizabeth /Clothier/
+2 GIVN Elizabeth
+2 SURN Clothier
+1 SEX F
+1 FAMS @F2@
+1 BIRT
+2 DATE 10 Sep 1769
+2 PLAC Castle Cary, Somerset, England
+1 DEAT
+2 DATE 1818
+2 PLAC Castle Cary, Somerset, England
+0 @I352535064937@ INDI
+1 NAME James /Dyer/
+2 GIVN James
+2 SURN Dyer
+1 SEX M
+1 FAMS @F39@
+0 @I352535065327@ INDI
+1 NAME Eliza /Bartram/
+2 GIVN Eliza
+2 SURN Bartram
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029319
+1 SEX F
+1 FAMC @F14@
+1 BIRT
+2 DATE 1843
+2 PLAC B Water, Somerset, England
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029319
+1 RESI
+2 DATE 1861
+2 PLAC Bridgwater, St Mary, Bridgwater, Somerset, England
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029319
+1 DEAT
+2 DATE May 8  1927
+2 PLAC Bridgwater, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 5096321024:1030:27926862
+0 @I352535065329@ INDI
+1 NAME Catharine /Bartram/
+2 GIVN Catharine
+2 SURN Bartram
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029321
+1 SEX F
+1 FAMC @F14@
+1 BIRT
+2 DATE 1849
+2 PLAC B Water, Somerset, England
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029321
+1 RESI
+2 DATE 1861
+2 PLAC Bridgwater, St Mary, Bridgwater, Somerset, England
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029321
+1 DEAT
+2 DATE Jan 1933
+2 PLAC Cardiff, Glamorganshire, Wales
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 5100481999:1030:27926862
+0 @I352535065332@ INDI
+1 NAME Lavinia /Bartram/
+2 GIVN Lavinia
+2 SURN Bartram
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029322
+1 SEX F
+1 FAMC @F14@
+1 BIRT
+2 DATE 1851
+2 PLAC B Water, Somerset, England
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029322
+1 RESI
+2 DATE 1861
+2 PLAC Bridgwater, St Mary, Bridgwater, Somerset, England
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029322
+1 DEAT
+2 DATE Oct 1900
+2 PLAC Aston, Warwickshire,
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 5100482973:1030:27926862
+0 @I352535065333@ INDI
+1 NAME Ellen /Bartram/
+2 GIVN Ellen
+2 SURN Bartram
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029323
+1 SEX F
+1 FAMC @F14@
+1 BIRT
+2 DATE 1853
+2 PLAC B Water, Somerset, England
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029323
+1 RESI
+2 DATE 1861
+2 PLAC Bridgwater, St Mary, Bridgwater, Somerset, England
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029323
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 5100483813:1030:27926862
+0 @I352535065334@ INDI
+1 NAME Lucy /Bartram/
+2 GIVN Lucy
+2 SURN Bartram
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029324
+1 SEX F
+1 FAMC @F14@
+1 BIRT
+2 DATE 1856
+2 PLAC B Water, Somerset, England
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029324
+1 RESI
+2 DATE 1861
+2 PLAC Bridgwater, St Mary, Bridgwater, Somerset, England
+2 SOUR @S1353421085@
+3 _APID 1,8767::19029324
+1 DEAT
+2 DATE May 21 1934
+2 PLAC Portsmouth, Hampshire, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 5100476911:1030:27926862
+0 @I352535065416@ INDI
+1 NAME George /Bartram/
+2 GIVN George
+2 SURN Bartram
+1 SEX M
+1 FAMC @F26@
+1 FAMS @F7@
+1 BIRT
+2 DATE 11 Jun 1780
+2 PLAC Stogumber, Somerset, England
+1 DEAT
+2 DATE January 1853
+2 PLAC Williton, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 12113654994:1030:27926862
+0 @I352535065435@ INDI
+1 NAME Ann /Williams/
+2 GIVN Ann
+2 SURN Williams
+1 SEX F
+1 FAMC @F13@
+1 FAMS @F7@
+1 BIRT
+2 DATE 1773
+2 PLAC Stogumber, Somerset
+1 DEAT
+2 DATE May 1832
+2 PLAC Stogumber, Somerset
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 12113655902:1030:27926862
+0 @I352535065566@ INDI
+1 NAME JANE /BARTRAM/
+2 GIVN JANE
+2 SURN BARTRAM
+1 SEX F
+1 FAMC @F7@
+1 BIRT
+2 DATE Jan 15 1812
+2 PLAC Stogumber, Somerset
+1 DEAT
+2 DATE Jun 29  1898
+2 PLAC Somerset, United Kingdom
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 12113662157:1030:27926862
+0 @I352535065567@ INDI
+1 NAME ANN /BARTRAM/
+2 GIVN ANN
+2 SURN BARTRAM
+1 SEX F
+1 FAMC @F7@
+1 BIRT
+2 DATE Nov 17 1806
+2 PLAC Stogumber, Somerset, England
+1 DEAT
+2 DATE Apr  1895
+2 PLAC Williton, Somerset
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 12113662605:1030:27926862
+0 @I352535065568@ INDI
+1 NAME WILLIAM /BARTRAM/
+2 GIVN WILLIAM
+2 SURN BARTRAM
+1 SEX M
+1 FAMC @F7@
+1 BIRT
+2 DATE Jan 24 1800
+2 PLAC Stogumber, Somerset, England
+1 DEAT
+2 DATE Dec 7  1800
+2 PLAC Stogumber, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 12113663371:1030:27926862
+0 @I352535065571@ INDI
+1 NAME ELIZABETH /BARTRAM/
+2 GIVN ELIZABETH
+2 SURN BARTRAM
+1 SEX F
+1 FAMC @F7@
+1 BIRT
+2 DATE Feb 14 1804
+2 PLAC Stogumber, Somerset, England
+1 DEAT
+2 DATE Jul 1849
+2 PLAC Williton Poor Law Union House, Stogumber, Somerset
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 12113663811:1030:27926862
+0 @I352535065575@ INDI
+1 NAME HENRY /BARTRAM/
+2 GIVN HENRY
+2 SURN BARTRAM
+1 SEX M
+1 FAMC @F14@
+1 BIRT
+2 DATE Apr 29 1838
+2 PLAC Stogumber
+1 DEAT
+2 DATE Sep 1840
+2 PLAC Somerset
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 5100478236:1030:27926862
+0 @I352535065577@ INDI
+1 NAME GEORGE /BARTRAM/
+2 GIVN GEORGE
+2 SURN BARTRAM
+1 SEX M
+1 FAMC @F14@
+1 BIRT
+2 DATE Jan 19 1840
+2 PLAC Williton, Somerset, United Kingdom
+1 DEAT
+2 DATE Sep 1840
+2 PLAC Bridgwater, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 5100478893:1030:27926862
+0 @I352535065578@ INDI
+1 NAME SARAH ANN /BARTRAM/
+2 GIVN SARAH ANN
+2 SURN BARTRAM
+1 SEX F
+1 FAMC @F14@
+1 BIRT
+2 DATE Oct 1846
+2 PLAC Bridgwater, Somerset
+1 DEAT
+2 DATE Mar  16 1876
+2 PLAC Bridgwater, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 5100481011:1030:27926862
+0 @I352535065652@ INDI
+1 NAME John /Bartram/
+2 GIVN John
+2 SURN Bartram
+1 SEX M
+1 FAMS @F26@
+1 BIRT
+2 DATE 1749
+2 PLAC Lydeard St. Lawerence, Somerset, England
+0 @I352535065656@ INDI
+1 NAME Thomasin /Cross/
+2 GIVN Thomasin
+2 SURN Cross
+1 SEX F
+1 FAMS @F26@
+1 BIRT
+2 DATE Aug 1754
+2 PLAC Lydeard St Lawrence, Somerset,
+0 @I352535065665@ INDI
+1 NAME Thomas /Williams/
+2 GIVN Thomas
+2 SURN Williams
+1 SEX M
+1 FAMS @F13@
+1 BIRT
+2 DATE 07 SEP 1732
+2 PLAC Stogumber, Somerset, England
+1 DEAT
+2 DATE Jan 1787
+2 PLAC Stogumber, Somerset
+0 @I352535065668@ INDI
+1 NAME Ann /Armstrong/
+2 GIVN Ann
+2 SURN Armstrong
+1 SEX F
+1 FAMS @F13@
+1 BIRT
+2 DATE 1741
+2 PLAC Stogumber, Somerset
+1 DEAT
+2 DATE Dec 1833
+2 PLAC Stogumber, Somerset
+1 OBJE @O2@
+2 _PRIM Y
+0 @I352535066357@ INDI
+1 NAME JAMES /BARBER/
+2 GIVN JAMES
+2 SURN BARBER
+2 SOUR @S1353421373@
+3 _APID 1,8860::7319851
+1 SEX M
+1 FAMC @F37@
+1 FAMS @F6@
+1 BIRT
+2 DATE abt 1791
+2 PLAC Brewham, Somerset, England
+2 SOUR @S1353421373@
+3 _APID 1,8860::7319851
+1 RESI
+2 DATE 1851
+2 PLAC South Brewham, Somerset, England
+2 SOUR @S1353421373@
+3 _APID 1,8860::7319851
+1 DEAT
+2 DATE 1879
+2 PLAC Brewham, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 320046656965:1030:73226128
+0 @I352535066359@ INDI
+1 NAME MARY /BRIMSON/
+2 GIVN MARY
+2 SURN BRIMSON
+2 SOUR @S1353421373@
+3 _APID 1,8860::7319852
+1 SEX F
+1 FAMC @F3@
+1 FAMS @F6@
+1 BIRT
+2 DATE 1785
+2 PLAC Maiden Bradley, Wiltshire, England
+2 SOUR @S1353421373@
+3 _APID 1,8860::7319852
+1 RESI
+2 DATE 1851
+2 PLAC South Brewham, Somerset, England
+2 SOUR @S1353421373@
+3 _APID 1,8860::7319852
+1 DEAT
+2 DATE April 1878
+2 PLAC Wincanton, Somerset
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 320051004417:1030:73226128
+0 @I352535066362@ INDI
+1 NAME ELIZA /BARBER/
+2 GIVN ELIZA
+2 SURN BARBER
+1 SEX F
+1 FAMC @F6@
+1 BIRT
+2 DATE 1815
+2 PLAC North Brewham, Somerset, England
+1 DEAT
+2 DATE 1895
+2 PLAC Wincanton, Somerset
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 46307060134:1030:73226128
+0 @I352535066365@ INDI
+1 NAME CHARLES /BARBER/ farm labourer
+2 GIVN CHARLES
+2 SURN BARBER
+2 NSFX farm labourer
+1 SEX M
+1 FAMC @F6@
+1 BIRT
+2 DATE 1817
+2 PLAC North Brewham, Somerset, England
+1 DEAT
+2 DATE abt 1882
+2 PLAC Brewham, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 320046657002:1030:73226128
+0 @I352535066367@ INDI
+1 NAME RICHARD /BARBER/
+2 GIVN RICHARD
+2 SURN BARBER
+2 SOUR @S1353421373@
+3 _APID 1,8860::7319854
+1 SEX M
+1 FAMC @F6@
+1 BIRT
+2 DATE abt 1825
+2 PLAC Brewham, Somerset, England
+2 SOUR @S1353421373@
+3 _APID 1,8860::7319854
+1 RESI
+2 DATE 1851
+2 PLAC South Brewham, Somerset, England
+2 SOUR @S1353421373@
+3 _APID 1,8860::7319854
+1 DEAT
+2 DATE April 1872
+2 PLAC Wincanton, Somerset
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 320053400089:1030:73226128
+0 @I352535066368@ INDI
+1 NAME JAMES /BARBER/
+2 GIVN JAMES
+2 SURN BARBER
+1 SEX M
+1 FAMC @F6@
+1 BIRT
+2 DATE 1819
+2 PLAC Brewham, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 320053400204:1030:73226128
+0 @I352535066370@ INDI
+1 NAME CAROLINE /BARBER/
+2 GIVN CAROLINE
+2 SURN BARBER
+2 SOUR @S1353421373@
+3 _APID 1,8860::7319853
+1 SEX F
+1 FAMC @F6@
+1 BIRT
+2 DATE 1821
+2 PLAC Brewham, Somerset, England
+2 SOUR @S1353421373@
+3 _APID 1,8860::7319853
+1 RESI
+2 DATE 1851
+2 PLAC South Brewham, Somerset, England
+2 SOUR @S1353421373@
+3 _APID 1,8860::7319853
+1 DEAT
+2 DATE 1896
+2 PLAC Brewham, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 320053400271:1030:73226128
+0 @I352535066371@ INDI
+1 NAME JOHN /BARBER/
+2 GIVN JOHN
+2 SURN BARBER
+1 SEX M
+1 FAMC @F6@
+1 BIRT
+2 DATE 1823
+2 PLAC Brewham, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 320053400338:1030:73226128
+0 @I352535066372@ INDI
+1 NAME WILLIAM /BARBER/
+2 GIVN WILLIAM
+2 SURN BARBER
+1 SEX M
+1 FAMC @F6@
+1 BIRT
+2 DATE 1828
+2 PLAC Brewham, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 320053400366:1030:73226128
+0 @I352535066374@ INDI
+1 NAME ELIZABETH /BARBER/
+2 GIVN ELIZABETH
+2 SURN BARBER
+2 SOUR @S1353421373@
+3 _APID 1,8860::7319855
+1 SEX F
+1 FAMC @F6@
+1 BIRT
+2 DATE 1830
+2 PLAC Brewham, Somerset, England
+2 SOUR @S1353421373@
+3 _APID 1,8860::7319855
+1 RESI
+2 DATE 1851
+2 PLAC South Brewham, Somerset, England
+2 SOUR @S1353421373@
+3 _APID 1,8860::7319855
+1 DEAT
+2 DATE January 1887
+2 PLAC Bedminster, Somerset
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 320053400393:1030:73226128
+0 @I352535066375@ INDI
+1 NAME MARY /BARBER/
+2 GIVN MARY
+2 SURN BARBER
+1 SEX F
+1 FAMC @F6@
+1 BIRT
+2 DATE 1824
+2 PLAC South Brewham, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 322090584910:1030:73226128
+0 @I352535066376@ INDI
+1 NAME ISABELLA /BARBER/
+2 GIVN ISABELLA
+2 SURN BARBER
+1 SEX F
+1 FAMC @F6@
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 322443070385:1030:73226128
+0 @I352535066378@ INDI
+1 NAME JANE /BARBER/
+2 GIVN JANE
+2 SURN BARBER
+1 SEX F
+1 FAMC @F35@
+1 BIRT
+2 DATE 1860
+2 PLAC Wincanton, Somerset, England
+1 SOUR @S1353420680@
+2 PAGE Ancestry Family Tree
+2 _APID 322228164604:1030:73226128
+0 @I352535066456@ INDI
+1 NAME MARY /BARBER/
+2 GIVN MARY
+2 SURN BARBER
+1 SEX F
+1 FAMS @F37@
+1 BIRT
+2 DATE 1756
+2 PLAC Bruton, Somerset, England
+1 DEAT
+2 DATE 1828
+2 PLAC Brewham, Somerset, England
+0 @I352535066470@ INDI
+1 NAME MARY /RICHARDS/
+2 GIVN MARY
+2 SURN RICHARDS
+1 SEX F
+1 FAMS @F3@
+1 BIRT
+2 DATE 1746
+2 PLAC Frome, Somerset, England
+1 DEAT
+2 DATE 1813
+2 PLAC Maiden Bradley, Wiltshire, England
+0 @I352535066475@ INDI
+1 NAME SAMPSON /BRIMSON/
+2 GIVN SAMPSON
+2 SURN BRIMSON
+1 SEX M
+1 FAMC @F31@
+1 FAMS @F3@
+1 BIRT
+2 DATE abt 1725
+2 PLAC Maiden Bradley, Wiltshire, England
+1 DEAT
+2 DATE 1803
+2 PLAC Maiden Bradley, Wiltshire, England
+0 @I352535066504@ INDI
+1 NAME MARY /CARD/
+2 GIVN MARY
+2 SURN CARD
+1 SEX F
+1 FAMS @F31@
+1 BIRT
+2 DATE 1690
+2 PLAC Yarfield, Maiden Bradley, Wiltshire, England
+1 DEAT
+2 DATE 1778
+2 PLAC Maiden Bradley, Wiltshire, England
+1 OBJE @O6@
+2 _PRIM Y
+0 @I352535066506@ INDI
+1 NAME Thomas /Brimson/
+2 GIVN Thomas
+2 SURN Brimson
+1 SEX M
+1 FAMS @F31@
+1 BIRT
+2 DATE 1702
+2 PLAC Yarnfield, Maiden Bradley, Wiltshire
+1 DEAT
+2 DATE 11 Dec 1782
+2 PLAC Maiden Bradley, Wiltshire, , England
+0 @F1@ FAM
+1 HUSB @I352535064807@
+1 WIFE @I352535064809@
+1 CHIL @I352535064661@
+0 @F2@ FAM
+1 HUSB @I352535064811@
+1 WIFE @I352535064815@
+1 CHIL @I352535064663@
+0 @F3@ FAM
+1 HUSB @I352535066475@
+1 WIFE @I352535066470@
+1 CHIL @I352535066359@
+0 @F4@ FAM
+1 HUSB @I352535064796@
+1 WIFE @I352535064800@
+1 CHIL @I352535064651@
+0 @F5@ FAM
+1 HUSB @I352535064803@
+1 WIFE @I352535064805@
+1 CHIL @I352535064655@
+0 @F6@ FAM
+1 HUSB @I352535066357@
+1 WIFE @I352535066359@
+1 CHIL @I352535066362@
+1 CHIL @I352535066365@
+1 CHIL @I352535066368@
+1 CHIL @I352535066370@
+1 CHIL @I352535066371@
+1 CHIL @I352535066375@
+1 CHIL @I352535066367@
+1 CHIL @I352535066372@
+1 CHIL @I352535066374@
+1 CHIL @I352535063960@
+1 CHIL @I352535066376@
+1 MARR
+2 DATE 1814
+2 PLAC Maiden Bradley, Wiltshire, England
+0 @F7@ FAM
+1 HUSB @I352535065416@
+1 WIFE @I352535065435@
+1 CHIL @I352535065568@
+1 CHIL @I352535065571@
+1 CHIL @I352535065567@
+1 CHIL @I352535063234@
+1 CHIL @I352535065566@
+1 MARR
+2 DATE Nov 3  1799
+2 PLAC Stogumber, Somerset, England
+0 @F8@ FAM
+1 HUSB @I352535064777@
+1 WIFE @I352535064782@
+1 CHIL @I352535064622@
+0 @F9@ FAM
+1 HUSB @I352535064523@
+1 WIFE @I352535064527@
+1 CHIL @I352535063188@
+0 @F10@ FAM
+1 HUSB @I352535064651@
+1 WIFE @I352535064655@
+1 CHIL @I352535064523@
+0 @F11@ FAM
+1 HUSB @I352535062925@
+1 WIFE @I352535062977@
+1 CHIL @I352535063965@
+1 CHIL @I352535063963@
+1 CHIL @I352535063966@
+1 CHIL @I352535063967@
+1 CHIL @I352535063968@
+1 CHIL @I352535063969@
+1 CHIL @I352535063970@
+1 CHIL @I352535063971@
+1 CHIL @I352535063972@
+1 CHIL @I352535063973@
+1 CHIL @I352535063974@
+1 CHIL @I352535062795@
+1 CHIL @I352535063975@
+1 MARR
+2 DATE 22 Oct 1888
+2 PLAC Bridgwater, Somerset
+0 @F12@ FAM
+1 HUSB @I352535063233@
+1 WIFE @I352535063202@
+1 CHIL @I352535063359@
+1 CHIL @I352535063360@
+1 CHIL @I352535062977@
+1 CHIL @I352535063361@
+1 CHIL @I352535063362@
+1 MARR
+2 DATE 21 Dec 1864
+2 PLAC Bridgwater St Mary, Somerset, England
+2 SOUR @S1353420464@
+3 _APID 1,60858::872071
+0 @F13@ FAM
+1 HUSB @I352535065665@
+1 WIFE @I352535065668@
+1 CHIL @I352535065435@
+0 @F14@ FAM
+1 HUSB @I352535063234@
+1 WIFE @I352535064476@
+1 CHIL @I352535065575@
+1 CHIL @I352535065577@
+1 CHIL @I352535065327@
+1 CHIL @I352535063202@
+1 CHIL @I352535065578@
+1 CHIL @I352535065329@
+1 CHIL @I352535065332@
+1 CHIL @I352535065333@
+1 CHIL @I352535065334@
+1 MARR
+2 DATE Jan 12 1835
+2 PLAC Curry Rivel, Somerset, England
+0 @F15@ FAM
+1 HUSB @I352535064766@
+1 WIFE @I352535064770@
+1 CHIL @I352535064619@
+0 @F16@ FAM
+1 HUSB @I352535064516@
+1 WIFE @I352535064519@
+1 CHIL @I352535063181@
+0 @F17@ FAM
+1 HUSB @I352535062609@
+1 WIFE @I352535062694@
+1 CHIL @I352535062608@
+1 MARR
+2 DATE Apr 1957
+2 PLAC Bridgwater, Somerset, United Kingdom
+2 SOUR @S1353420274@
+3 _APID 1,8753::34349643
+0 @F18@ FAM
+1 HUSB @I352535063505@
+1 WIFE @I352535063429@
+1 CHIL @I352535063233@
+1 MARR
+2 DATE 6 Oct 1841
+2 PLAC Enmore, Somerset, England
+2 SOUR @S1353420464@
+3 _APID 1,60858::902909356
+0 @F19@ FAM
+1 HUSB @I352535064785@
+1 WIFE @I352535064786@
+1 CHIL @I352535064636@
+0 @F20@ FAM
+1 HUSB @I352535064661@
+1 WIFE @I352535064663@
+1 CHIL @I352535064527@
+0 @F21@ FAM
+1 HUSB @I352535064613@
+1 WIFE @I352535064616@
+1 CHIL @I352535064504@
+0 @F22@ FAM
+1 HUSB @I352535064363@
+1 WIFE @I352535064365@
+1 CHIL @I352535063054@
+1 CHIL @I352535064375@
+1 CHIL @I352535064367@
+1 CHIL @I352535064366@
+1 CHIL @I352535064368@
+1 CHIL @I352535064382@
+1 CHIL @I352535064369@
+1 CHIL @I352535064370@
+1 CHIL @I352535064373@
+1 CHIL @I352535064371@
+1 MARR
+2 DATE 16 Aug 1877
+2 PLAC Newport, Monmouthshire, United Kingdom
+0 @F23@ FAM
+1 HUSB @I352535064619@
+1 WIFE @I352535064622@
+1 CHIL @I352535064508@
+0 @F24@ FAM
+1 HUSB @I352535064610@
+1 WIFE @I352535064614@
+1 CHIL @I352535064502@
+0 @F25@ FAM
+1 HUSB @I352535064504@
+1 WIFE @I352535064508@
+1 CHIL @I352535064365@
+0 @F26@ FAM
+1 HUSB @I352535065652@
+1 WIFE @I352535065656@
+1 CHIL @I352535065416@
+0 @F27@ FAM
+1 HUSB @I352535064758@
+1 WIFE @I352535064761@
+1 CHIL @I352535064614@
+0 @F28@ FAM
+1 HUSB @I352535064629@
+1 WIFE @I352535064636@
+1 CHIL @I352535064516@
+0 @F29@ FAM
+1 HUSB @I352535063054@
+1 WIFE @I352535063089@
+1 CHIL @I352535064383@
+1 CHIL @I352535064384@
+1 CHIL @I352535064386@
+1 CHIL @I352535062815@
+1 MARR
+2 DATE 14 Dec 1902
+2 PLAC Bridgwater St John, Somerset, England
+0 @F30@ FAM
+1 HUSB @I352535064497@
+1 WIFE @I352535064502@
+1 CHIL @I352535064363@
+0 @F31@ FAM
+1 HUSB @I352535066506@
+1 WIFE @I352535066504@
+1 CHIL @I352535066475@
+0 @F32@ FAM
+1 HUSB @I352535064586@
+1 WIFE @I352535064592@
+1 CHIL @I352535064476@
+0 @F33@ FAM
+1 HUSB @I352535062795@
+1 WIFE @I352535062815@
+1 CHIL @I352535062694@
+0 @F34@ FAM
+1 HUSB @I352535063181@
+1 WIFE @I352535063188@
+1 CHIL @I352535063089@
+0 @F35@ FAM
+1 HUSB @I352535063960@
+1 WIFE @I352535063961@
+1 CHIL @I352535066378@
+1 CHIL @I352535062925@
+1 CHIL @I352535063962@
+1 MARR
+2 DATE Abt. Jun 1857
+2 PLAC Wincanton, Somerset
+0 @F36@ FAM
+1 HUSB @I352535064594@
+1 WIFE @I352535064602@
+1 CHIL @I352535064497@
+0 @F37@ FAM
+1 WIFE @I352535066456@
+1 CHIL @I352535066357@
+0 @F38@ FAM
+1 WIFE @I352535064645@
+1 CHIL @I352535064519@
+0 @F39@ FAM
+1 HUSB @I352535064937@
+1 CHIL @I352535063505@
+0 @F40@ FAM
+1 HUSB @I352535064763@
+1 CHIL @I352535064613@
+0 @F41@ FAM
+1 HUSB @I352535064784@
+1 CHIL @I352535064629@
+0 @F42@ FAM
+1 WIFE @I352535064743@
+1 CHIL @I352535064586@
+0 @F43@ FAM
+1 WIFE @I352535064755@
+1 CHIL @I352535064602@
+0 @F44@ FAM
+1 HUSB @I352535064748@
+1 CHIL @I352535064592@
+0 @F45@ FAM
+1 HUSB @I352535064753@
+1 CHIL @I352535064594@
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 9309
+3 _WDTH 189
+3 _HGHT 266
+2 TITL 161a4291e86bee429c84ebcc99fbdd31
+1 RIN 22739b5a-8b4e-4fd1-9125-512e6b23cc91
+1 _CREA 2023-10-18 02:31:51.191
+1 _USER ssMGNVpDKLa3Q7pkBbwqvdNtX/o3okPQo7Zy0Wj907Kc9JWlginMuxi9LIqto94ZoUAtVrquiffus4WzVLUrXQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 152849905
+2 _PID 252025042600
+2 _OID 92b08b94-0c4d-4f4b-9448-950c24f32538
+2 _USER E+pIK5oJuf8Jl/jK//f/QwJef3y7T/GZueFU3t/hHuafzKQSS8t8LaDtqRqn2dU4Uc+cECJQGgBqjohvr90GgQ==
+3 _ENCR 1
+2 _DATE 2018-10-25 16:18:40.000
+1 _ORIG u
+1 _MSER
+2 _LKID 92b08b94-0c4d-4f4b-9448-950c24f32538
+1 _ATL N
+0 @O2@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE other
+3 _STYPE jpeg
+3 _SIZE 13701
+3 _WDTH 188
+3 _HGHT 159
+2 TITL Direct line tree
+1 RIN 24d47ded-1ae4-448c-844f-93c8651a9199
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 02:42:48.287
+1 _USER Xj5E+nwZTs/Wzarsts/DfXRTISLFn6IDSqc8Wzhk3O+EnGvOufEJg2g0czOezBjDtjbF1Kvs0M9G5WcW1cf2rQ==
+2 _ENCR 1
+1 _CLON
+2 _OID b9cc450b-4f6b-4635-9a1a-bc8ddcbfe204
+2 _USER t8kol1Ket/UhhOVhEyTqXa8F035M8+qZqDie8ZVN2svge4Fw7XtszoZRKrUQREEZQPXYoH6nCuzgf2feI26vjQ==
+3 _ENCR 1
+2 _DATE 2015-11-23 15:43:56.000
+1 _ORIG u
+1 _MSER
+2 _LKID b9cc450b-4f6b-4635-9a1a-bc8ddcbfe204
+1 _ATL N
+0 @O3@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE png
+3 _SIZE 151059
+3 _WDTH 1351
+3 _HGHT 545
+2 TITL Hugh Gilling = Elizabeth Cridland - 1807
+1 RIN 2abb957f-cb94-4f33-94dd-01cd48571f77
+1 DATE 7/07/2022 3:52:47 PM
+1 _CREA 2023-10-18 02:31:58.210
+1 _USER akg5J7vUgsuzc1fCMwry/Oe5jcL8LIzugGW39hng576I2j7pvplUCgELHhlF5Sy2OEcP1khEQjmweocZhRGVhQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 161435842
+2 _PID 102104098683
+2 _OID 56801b5d-6d55-4304-a599-47d1e8238ece
+2 _USER QqGzLrElLyBwms6Sm1W0NkV138N8bICCAOgNOrCJVn8BRl4PWOQlF9lPkDIAmso//coYT/KZQ2WeIh2HvEUu/g==
+3 _ENCR 1
+2 _DATE 2022-07-07 10:47:02.516
+1 _ORIG u
+1 _MSER
+2 _LKID 56801b5d-6d55-4304-a599-47d1e8238ece
+1 _ATL N
+0 @O4@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 43143
+3 _WDTH 321
+3 _HGHT 500
+2 TITL jcreedy10
+1 RIN 2cc75735-07d0-4b2a-adcf-1ac51c8b008c
+1 DATE 04/09/2012 10:24:09 PM
+1 _CREA 2023-10-18 02:30:36.985
+1 _USER L12zy/j/E4852B4U9h8YOBO/4c5fV6O52R0PdqDU+lUsX5KfbfkqdHn1y6gpfw12l8ddJReQ2myoj0tSXxhKAw==
+2 _ENCR 1
+1 _CLON
+2 _TID 48336300
+2 _PID 12880646485
+2 _OID 9a3ab1cf-1c1c-432b-8e6f-f8f1ed810581
+2 _USER oGNC0o1pu76Jyr/7Rty+FYyyrGH+N4wMODwKERctXaA/tL8bBMk49r0N9k3Z7qb5JrweGtGn3YntK/NBLHrdMw==
+3 _ENCR 1
+2 _DATE 2012-11-06 20:43:19.000
+1 _ORIG u
+1 _MSER
+2 _LKID 9a3ab1cf-1c1c-432b-8e6f-f8f1ed810581
+1 _ATL N
+0 @O5@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 73126
+3 _WDTH 269
+3 _HGHT 565
+1 RIN 2d30e8e2-ea2c-4861-aa53-f28a5086ffed
+1 _CREA 2023-10-18 02:24:37.460
+1 _USER hOrhAdooWd6gFHcV4ROjLpx0bfbMUDcYUUWDe/y/TXl4sm4efJn9sdIV3afWdh14yFjcgPIGjFRByiMa5gAq0Q==
+2 _ENCR 1
+1 _CLON
+2 _TID 42183764
+2 _PID 19742621781
+2 _OID 5bc07362-5c34-4603-8b38-98580a139cc2
+2 _USER WdMv7f8hyptt0juOpjXaTALZlc4eHBUa6+keE3AVAweNXtsjh989TMJGY0qsmtbHYaDSDZjgc8HewLj0MDj6kQ==
+3 _ENCR 1
+2 _DATE 2012-05-28 18:17:16.000
+1 _ORIG u
+1 _MSER
+2 _LKID 5bc07362-5c34-4603-8b38-98580a139cc2
+1 _ATL N
+0 @O6@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 1429360
+3 _WDTH 3656
+3 _HGHT 5720
+2 TITL 1737 4th GGU John brison baptism
+1 RIN 2d8ddf52-feb2-4b90-a778-2820e52d0690
+1 _CREA 2023-10-18 02:52:50.413
+1 _USER W8S65TGgd72hZUIvohDzsTmU4npUvXlFfnwm5/tWx6xpLSMFBGtheD5ScV9qJ6t0ciIknxJFVADBIwdD8Y8rvQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 80346098
+2 _PID 46439808774
+2 _OID d47c8aee-8e9b-4d26-9206-97522fc60226
+2 _USER hbKfx8s131konxNOeqcOZgRjGUugGtsVNZNCIjd5hIFUDEFpiM7ITsvaXWNiAstlGFhRVKIfsYHe4dt31fjRCg==
+3 _ENCR 1
+2 _DATE 2021-01-19 20:10:56.000
+1 _ORIG u
+1 _MSER
+2 _LKID d47c8aee-8e9b-4d26-9206-97522fc60226
+1 _ATL N
+0 @O7@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE png
+3 _SIZE 134046
+3 _WDTH 1172
+3 _HGHT 366
+2 TITL William Gilling = Sarah Poole - 1840
+1 RIN 2f6fa376-3aaf-4fb0-bb65-eaf34519f3d7
+1 DATE 3/10/2020 8:56:31 AM
+1 _CREA 2023-10-18 02:30:33.029
+1 _USER styBc/mfBmeuA2K7xYeTddW7DEv7CccrOALCTjTjRIsGL2KS5bBeMrTfn151ML/Fp10K7NE0zh6PlevWk/ai8g==
+2 _ENCR 1
+1 _CLON
+2 _TID 161435842
+2 _PID 102104098555
+2 _OID 89383c62-1175-4a18-bd9b-e24c1310ce33
+2 _USER JhJMiVBCXn+JaU7/mn6JeKBnYLST4wJ3OrUlEBby22vmpcK57SY1u8ctxfi6KAgDyVZlUC/taEilfcUkZfrOrw==
+3 _ENCR 1
+2 _DATE 2020-10-03 02:48:59.000
+1 _ORIG u
+1 _MSER
+2 _LKID 89383c62-1175-4a18-bd9b-e24c1310ce33
+1 _ATL N
+0 @O8@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 64176
+3 _WDTH 579
+3 _HGHT 771
+2 TITL Herbert John Hallett
+1 RIN 390d4a3a-4947-4715-acb7-b6ecf17f80a5
+1 DATE 1917
+1 _DSCR South Midland Royal Engineers
+1 _CREA 2023-10-18 02:12:29.114
+1 _USER bcdoVlWgQ9mOK/DmIgvRHpVfu5OcDUd1knWBH3BpvX7/MzBqaDUKv/dl4ClnHdme23WAEAQgryFtIeUMw6V3AQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 42183764
+2 _PID 19742621803
+2 _OID 940fac46-7c85-4595-9680-a2eaf45bc97d
+2 _USER IUlGiHfwqa2i7YBG+oaLwXDzK9KCZLZb68QS7FuFAwxKfgGUwZst05W91EfK5N8h4o3jOvkbrE1wVeKM0a1iyQ==
+3 _ENCR 1
+2 _DATE 2012-05-28 18:17:15.000
+1 _ORIG u
+1 _MSER
+2 _LKID 940fac46-7c85-4595-9680-a2eaf45bc97d
+1 _ATL N
+0 @O9@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE png
+3 _SIZE 133593
+3 _WDTH 1029
+3 _HGHT 473
+2 TITL John Creedy = Mary Tamlyn - 1804
+1 RIN 4eb7720e-0537-4964-b434-5c6885c62bfc
+1 DATE 16/06/2021 9:37:42 AM
+1 _CREA 2023-10-18 02:32:10.202
+1 _USER 7eLBLzbCcv3+Eg+HJu0TOYx8pDz0wH+j2B6WXsud3/FKLeZoRirOSDjfI8JgtMlgWmFtvqZ40FhiFNtkzNJbuA==
+2 _ENCR 1
+1 _CLON
+2 _TID 161435842
+2 _PID 102104096285
+2 _OID c5ae5fc4-b266-481d-8537-dcf4501a3a14
+2 _USER +AhKDtJPpwDnbWZFCmNOeyfvKkZ2EEqAkGQXjeVDaIzfUwSvpxDw/wMTYx9BvNYJfqWynUOFZ6IlMcLvC9VGRA==
+3 _ENCR 1
+2 _DATE 2021-06-16 00:18:33.000
+1 _ORIG u
+1 _MSER
+2 _LKID c5ae5fc4-b266-481d-8537-dcf4501a3a14
+1 _ATL N
+0 @O10@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 62502
+3 _WDTH 226
+3 _HGHT 463
+1 RIN 7a7aee5f-1abb-4219-8bc8-d7e7da5742db
+1 _CREA 2023-10-18 02:24:41.409
+1 _USER XEZ+cy04RQR+a/66tsjzZ2U586k1Xh3i0kxvXxx+lKjQwTr49FuBi2e00k5xC5yBlnuGHPylCDlqzz++81EFhA==
+2 _ENCR 1
+1 _CLON
+2 _TID 42183764
+2 _PID 19742621781
+2 _OID 015849b2-f4a5-4764-a2e2-31e6ef31c7b9
+2 _USER vex9sPH0TVeG8rS9rBOsbLDfSJ5HG+0Es6f62X+atVsMorEQaFNzmHaYKlHcAdKZVwPo5HpiPAaiUMmkUdyCfw==
+3 _ENCR 1
+2 _DATE 2012-05-28 18:17:15.000
+1 _ORIG u
+1 _MSER
+2 _LKID 015849b2-f4a5-4764-a2e2-31e6ef31c7b9
+1 _ATL N
+0 @O11@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 216503
+3 _WDTH 2469
+3 _HGHT 1728
+2 TITL Samuel Barnard & Hannah Hussey Marriage018
+1 RIN 921aad4d-5161-4021-b741-a2e6fd2bbe26
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 02:31:19.403
+1 _USER efIOvA5aw9JMObfx/tyb4wgUjWFc/m0l/AenT6Ix6Iu3bq+r3ffRO+IwGcnlUxx0RbJCoU0Q59LYTTsQjGeQzQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 69559
+2 _PID 5124440198
+2 _OID 3ba56f58-cf26-42c2-b5c4-c201b9f83bbe
+2 _USER cDLq/1qQ/upqi3/qCqc6wtsUyO8XU5YhMkJf/dGAL/Lztlv30P0SaRAAz1Yh/5wkvB2xjvCBQ0Ssn/OMCYRzEg==
+3 _ENCR 1
+2 _DATE 2011-07-05 22:26:58.640
+1 _ORIG u
+1 _MSER
+2 _LKID 3ba56f58-cf26-42c2-b5c4-c201b9f83bbe
+1 _ATL N
+0 @O12@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 12730
+3 _WDTH 282
+3 _HGHT 400
+2 TITL Page 2 - UK, Military Deserters
+1 RIN 978d8910-a276-4eb3-a5c9-3b0c104a1b51
+1 DATE 2016
+1 PLAC United Kingdom
+1 _CREA 2023-10-18 02:24:33.115
+1 _USER 0Kb4AkMvoL9CaRQCOFOOBezokNDS3XM6rqGHiYfAgO29cXl83EvJDHcXjRM6x5ahgmqeDTd5GbqHGVjF/gc+OQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 27926862
+2 _PID 12584516066
+2 _OID 9d145e0c-0cfc-4f1e-9c2f-f476a1f41646
+2 _USER LniotIrhKdw1AYseZS0FT+PUJHIrcvgCjwERWZr0LdUZ4TpO8+q9L6YbPNi03ggGcy5evERciGQafRFdMnnWbg==
+3 _ENCR 1
+2 _DATE 2021-09-10 16:06:31.000
+1 _ORIG fold3
+2 _URL https://www.fold3.com/image/421968413?xid=1022&amp;_ga=2.212408468.1055337159.1631288591-371889684.1631288591&amp;xid=2030
+1 _MSER
+2 _LKID 9d145e0c-0cfc-4f1e-9c2f-f476a1f41646
+1 _ATL N
+0 @O13@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 5681777
+3 _WDTH 3024
+3 _HGHT 4032
+2 TITL Thomas and Caroline’s grave 
+1 RIN 9bcff7f0-172b-4093-82ba-9473077d3878
+1 DATE 27 06 2019
+1 _DSCR Their grave in St Martins church, Kingsbury Episcopi 
+1 _CREA 2023-10-18 02:30:20.033
+1 _USER 6U58NgAWT4I61kpSreToZ8VGR+XozRhTQ9ImIUUUM7RVtOwn+SFjJJttJ2YVbnWwxCIOMj+gPV9YcTCUNeODhA==
+2 _ENCR 1
+1 _CLON
+2 _TID 101109443
+2 _PID 152109440594
+2 _OID 37632c5e-2e88-4f41-bc5f-1b3b56da0d51
+2 _USER RkEEkDS5khpmCTULm8FcNZJvt0EBI/DuE32VoF3LuJWDeOedBxfdwsLFPNc9OQ+V+bbb4khzTUCi0RBStxIbpg==
+3 _ENCR 1
+2 _DATE 2019-06-29 17:11:44.000
+1 _ORIG u
+1 _MSER
+2 _LKID 37632c5e-2e88-4f41-bc5f-1b3b56da0d51
+1 _ATL N
+0 @O14@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 319475
+3 _WDTH 800
+3 _HGHT 1216
+1 RIN bdb7d698-7f26-4dc6-b809-96daf4a407ec
+1 _CREA 2023-10-18 02:24:39.267
+1 _USER XgexL6yq/mTIbyQoPqpP57dWfHmddPGfNfiRITTGTgI7i1KhUyRwpF/2U+3iQTrXF6DCJH73vgeTPUyMUhGjPQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 42183764
+2 _PID 19742621781
+2 _OID 1156aced-9a50-4f31-8d50-580632d12d39
+2 _USER Hn1CquG8mPjiQfJKQkYQry0+PndUfcpE5/Ww62mNTALjVeIb22qYKPmOmMt+lGhmRzD9TvNKAoxI/GiQC902dA==
+3 _ENCR 1
+2 _DATE 2012-05-28 18:17:05.000
+1 _ORIG u
+1 _MSER
+2 _LKID 1156aced-9a50-4f31-8d50-580632d12d39
+1 _ATL N
+0 @O15@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 238095
+3 _WDTH 783
+3 _HGHT 1087
+1 RIN d22c600b-6e81-4b23-8c30-e63d5a578379
+1 _CREA 2023-10-18 02:24:44.179
+1 _USER 1OPJf8KDm0SqIgxHTJISnpFOTxi61IqbY/4pzHu72OvL9SRL+e3W5PP9fpBEQp9tKFdZj6OGR8od3pQxXutohg==
+2 _ENCR 1
+1 _CLON
+2 _TID 42183764
+2 _PID 19742621781
+2 _OID b4aa631f-609e-4b20-93dc-41c99adeb41e
+2 _USER 5kS+B65ezbAQp1Af8TEnp6PG+OG+iLaWnshz0CL9OY1uxdB6Nk4YmwfqTdxdptlNuD+GZ3ZDGR4z8+tEW32xww==
+3 _ENCR 1
+2 _DATE 2012-05-28 18:17:08.000
+1 _ORIG u
+1 _MSER
+2 _LKID b4aa631f-609e-4b20-93dc-41c99adeb41e
+1 _ATL N
+0 @O16@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 2537235
+3 _WDTH 2496
+3 _HGHT 3476
+2 TITL Hannah Barnard death cert049
+1 RIN da555c52-4cd6-42e7-82e6-b55ab88c4cc7
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-18 02:31:25.760
+1 _USER +z65wlc08fvrpWa9sn+Z4Db8Rf/C1oikmM+NleUA34qaTPP8EseCgxbeAI+8997/r6RkTJvL4AV0O4LWOdyONA==
+2 _ENCR 1
+1 _CLON
+2 _TID 69559
+2 _PID 5126501884
+2 _OID c4bd6202-836b-4580-adc6-3859a19c9201
+2 _USER h5pm5ORBDBkbiwBoIpzsdtiwA/K8de6WX0+r/wT/wuW9UujSwbKBn+A1FUWq7wv4oo91eVMCpBLjfMPQgG4/KQ==
+3 _ENCR 1
+2 _DATE 2011-08-03 02:43:57.000
+1 _ORIG u
+1 _MSER
+2 _LKID c4bd6202-836b-4580-adc6-3859a19c9201
+1 _ATL N
+0 @S1353420274@ SOUR
+1 TITL England & Wales, Civil Registration Marriage Index, 1916-2005
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,8753::0
+1 REPO @R1255621294@
+1 NOTE General Register Office. &lt;i&gt;England and Wales Civil Registration Indexes&lt;/i&gt;. London, England: General Register Office. © Crown copyright. Published by permission of the Controller of HMSO and the Office for National Statistics. You mus
+2 CONC t not copy on, transfer or reproduce records without the prior permission of ONS. Indexes created by the General Register Office, in London, England.
+0 @S1353420316@ SOUR
+1 TITL England & Wales, Civil Registration Birth Index, 1916-2007
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2008
+2 PLAC Provo, UT, USA
+1 _APID 1,8782::0
+1 REPO @R1255621294@
+1 NOTE General Register Office. &lt;i&gt;England and Wales Civil Registration Indexes&lt;/i&gt;. London, England: General Register Office. &lt;p&gt;© Crown copyright. Published by permission of the Controller of HMSO and the Office for National Statistics
+2 CONC . You must not copy on, transfer, or reproduce records without the prior permission of ONS. Indexes created by the General Register Office, in London, England.&lt;/p&gt;
+0 @S1353420407@ SOUR
+1 TITL Geneanet Community Trees Index
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2022
+2 PLAC Lehi, UT, USA
+1 _APID 1,62476::0
+1 REPO @R1255621294@
+1 NOTE &lt;i&gt;Geneanet Community Trees Index&lt;/i&gt;. Paris, France: Geneanet.
+0 @S1353420439@ SOUR
+1 TITL England & Wales, Civil Registration Birth Index, 1837-1915
+1 AUTH FreeBMD
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2006
+2 PLAC Lehi, UT, USA
+1 _APID 1,8912::0
+1 REPO @R1255621294@
+1 NOTE General Register Office. &lt;i&gt;England and Wales Civil Registration Indexes&lt;/i&gt;. London, England: General Register Office. © Crown copyright. Published by permission of the Controller of HMSO and the Office for National Statistics. You mus
+2 CONC t not copy on, transfer or reproduce records without the prior permission of ONS. Database Copyright © 1998-2003 Graham Hart, Ben Laurie, Camilla von Massenbach and David Mayall.
+0 @S1353420464@ SOUR
+1 TITL Somerset, England, Marriage Registers, Bonds and Allegations, 1754-1914
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2016
+2 PLAC Lehi, UT, USA
+1 _APID 1,60858::0
+1 REPO @R1255621294@
+1 NOTE Anglican Parish Registers. Marriage Bonds and Allegations. Somerset Archives &amp; Local Studies, South West Heritage Trust, Taunton, England.
+0 @S1353420514@ SOUR
+1 TITL 1881 England Census
+1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Saints
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2004
+2 PLAC Provo, UT, USA
+1 _APID 1,7572::0
+1 REPO @R1255621294@
+1 NOTE &lt;i&gt;Census Returns of England and Wales, 1881&lt;/i&gt;. Kew, Surrey, England: The National Archives of the UK (TNA): Public Record Office (PRO), 1881. &lt;p&gt;Images © Crown copyright. Images reproduced by courtesy of The National Archives
+2 CONC , London, England.&lt;/p&gt;     &lt;p&gt;The National Archives give no warranty as to the accuracy, completeness or fitness for the purpose of the information provided.&lt;/p&gt;     &lt;p&gt;Images may be used only for purposes of research, priva
+2 CONC te study or education.  Applications for any other use should be made to &lt;a href="http://www.nationalarchives.gov.uk/imagelibrary/" target="_blank"&gt;The National Archives Image Library&lt;/a&gt;, Kew, Richmond, Surrey TW9 4DU, Tel: 020 8392 52
+2 CONC 25   Fax: 020 8392 5266.&lt;/p&gt;
+0 @S1353420680@ SOUR
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+1 _APID 1,1030::0
+1 REPO @R1255621294@
+0 @S1353420976@ SOUR
+1 TITL Somerset, England, Church of England Baptisms, 1813-1914
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2016
+2 PLAC Provo, UT, USA
+1 _APID 1,60857::0
+1 REPO @R1255621294@
+1 NOTE Anglican Parish Registers. Somerset Archives &amp; Local Studies, South West Heritage Trust, Taunton, England.
+0 @S1353421004@ SOUR
+1 TITL 1871 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2004
+2 PLAC Lehi, UT, USA
+1 _APID 1,7619::0
+1 REPO @R1255621294@
+1 NOTE &lt;i&gt;Census Returns of England and Wales, 1871&lt;/i&gt;. Kew, Surrey, England: The National Archives of the UK (TNA): Public Record Office (PRO), 1871. Data imaged from the National Archives, London, England. The National Archives gives no war
+2 CONC ranty as to the accuracy, completeness or fitness for the purpose of the information provided. Images may be used only for purposes of research, private study or education. Applications for any other use should be made to the National Archives, Kew
+2 CONC , Richmond, Surrey TW9 4DU.
+0 @S1353421085@ SOUR
+1 TITL 1861 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2005
+2 PLAC Lehi, UT, USA
+1 _APID 1,8767::0
+1 REPO @R1255621294@
+1 NOTE &lt;i&gt;Census Returns of England and Wales, 1861&lt;/i&gt;. Kew, Surrey, England: The National Archives of the UK (TNA): Public Record Office (PRO), 1861. Data imaged from The National Archives, London, England. The National Archives gives no war
+2 CONC ranty as to the accuracy, completeness or fitness for the purpose of the information provided. Images may be used only for purposes of research, private study or education. Applications for any other use should be made to The National Archives, Kew
+2 CONC , Richmond, Surrey TW9 4DU.
+0 @S1353421373@ SOUR
+1 TITL 1851 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2005
+2 PLAC Lehi, UT, USA
+1 _APID 1,8860::0
+1 REPO @R1255621294@
+1 NOTE &lt;i&gt;Census Returns of England and Wales, 1851&lt;/i&gt;. Kew, Surrey, England: The National Archives of the UK (TNA): Public Record Office (PRO), 1851. Data imaged from the National Archives, London, England. The National Archives gives no war
+2 CONC ranty as to the accuracy, completeness or fitness for the purpose of the information provided. Images may be used only for purposes of research, private study or education. Applications for any other use should be made to the National Archives, Kew
+2 CONC , Richmond, Surrey TW9 4DU.
+0 @R1255621294@ REPO
+1 NAME Ancestry.com
+0 TRLR
